@@ -29,6 +29,33 @@ A web scrawler using Selenium is built to collect the available deals informatio
 
 ### Modeling
 
+_Classification_
+Here, gift with purchase is rare comparing to the whole dataset, this is an imbalanced classification. 
+1. Selecting A Metric
+Because the positive class (GWP is True) is the most important, selecting a metric is the most important step in the project. The area under curve can be used. This will maximize the true positive rate and minimize the false positive rate.
+
+2. Data Sampling
+Data sampling algorithms change the composition of the training dataset to improve the performance of a standard machine learning algorithm on an imbalanced classification problem. Here, data oversampling is used through SMOTE
+
+3. Spot Checking Algorithms
+Spot checking machine learning algorithms means evaluating a suite of different types of algorithms with minimal hyperparameter tuning.
+
+- **Linear Algorithms**
+	- Logistic Regression
+	- Naive Bayes
+	
+- **Nonlinear Algorithms**
+	- Decision Tree
+	- k-Nearest Neighbors
+	- Support Vector Machine
+
+- **Ensemble Algorithms**
+	- Random Forest
+	- Extra Trees
+	- XGBoost
+
+4. Hyperparamter Tunning
+Random Search is used for several optimal algorithms selected from spot checking. 
 ___
 ## Results
 ### Model Evaluation
