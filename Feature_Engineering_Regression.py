@@ -117,10 +117,7 @@ for brand in all_categories:
     
     # prepare input data
     #X_train_enc, X_test_enc = prepare_inputs(X_train, X_test.iloc)
-    
-    
-    
-    
+        
     
     #%% Feature Selection
     # 1. Correlation feature selection

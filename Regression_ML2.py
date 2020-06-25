@@ -210,8 +210,7 @@ grid_result = model.fit(X_train,y_train)
 means = grid_result.cv_results_['mean_test_score']
 stds = grid_result.cv_results_['std_test_score']
 params = grid_result.cv_results_['params']
-for mean, stdev in zip(means, stds):
-    print("%f (%f):" % (mean, stdev))
+
 lgbm_best_parameters = model.best_params_
 lgbm_best_accuracy = model.best_score_
 Y_pred = model.predict(X_test)
