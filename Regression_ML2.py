@@ -39,7 +39,7 @@ from scipy.stats import randint as sp_randint
 import pickle
 
 # Import cleaned dataset
-df = pd.read_csv("lancome_clean.csv")
+df = pd.read_csv("Data/lancome_clean.csv")
 #
 ## Add missing date to dataframe
 #idx = pd.date_range(df['Posted_date'].min(), df['Posted_date'].max())
@@ -164,7 +164,7 @@ for i in range(len(rgs)):
 
     print(rgs_names[i])
 #    rgs = item
-    cv_scores = cross_val_score(clf, X_train, y_train, cv = cv, scoring='neg_mean_squared_error')
+    cv_scores = cross_val_score(clf, X_train, y_train, cv = cv, scoring='neg_root_mean_squared_error')
     all_scores[i] = cv_scores
        
 fig, ax = plt.subplots()

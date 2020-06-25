@@ -1,0 +1,534 @@
+,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,Clarins,Free 6-pc Gift ($156 value),2011-05-26,0.0,0.0,0.0,2011,5,26,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+1,Clarins,Free shipping any order,2011-06-03,0.0,0.0,0.0,2011,6,3,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+2,Clarins,Free 7 samples with,2011-06-26,0.0,0.0,0.0,2011,6,26,Sunday,False,Normal,Normal,Fathers's day,Fathers's day,0.0,False
+3,Clarins,Free 8-Piece gift + 4 samples + free shipping with $75 purchase,2011-07-08,0.0,0.0,0.0,2011,7,8,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+4,Clarins,Free 3pc Gift,2011-07-17,0.0,0.0,0.0,2011,7,17,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+5,Clarins,Free 6pc Gift + Free Shipping,2011-08-14,0.0,0.0,0.0,2011,8,14,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,True
+6,Clarins,FREE $61 value Gifts,2011-09-23,0.0,0.0,0.0,2011,9,23,Friday,True,Normal,Normal,Normal,Columbus Day,0.0,True
+7,Clarins,FREE $94 value Gifts,2011-10-12,0.0,0.0,0.0,2011,10,12,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+8,Clarins,Clarins Deal,2011-10-27,0.0,0.0,0.0,2011,10,27,Thursday,False,Normal,Normal,Normal,Veterans Day,0.0,False
+9,Clarins,The Most Popular Beauty Deals,2011-11-03,0.0,0.0,0.0,2011,11,3,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+10,Clarins,20% off any order + 3 FREE samples,2011-11-15,0.0,0.0,0.0,2011,11,15,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,False
+11,Clarins,Clarins Coupon,2011-11-16,0.0,0.0,0.0,2011,11,16,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+12,Clarins,Thanksgiving Special,2011-11-22,0.0,0.0,0.0,2011,11,22,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+13,Clarins,Free Gift,2011-11-28,0.0,0.0,0.0,2011,11,28,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+14,Clarins,Free 6-pc Gift,2012-01-10,0.0,0.0,0.0,2012,1,10,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+15,Clarins,Free 6-pc Gift ($100 value),2012-01-24,0.0,0.0,0.0,2012,1,24,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+16,Clarins,Free 5-pc Deluxe Samples,2012-02-03,0.0,0.0,0.0,2012,2,3,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+17,Clarins,Free 6-pc Gift,2012-02-15,0.0,0.0,0.0,2012,2,15,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+18,Clarins,Free 7-pc Deluxe Samples,2012-02-21,0.0,0.0,0.0,2012,2,21,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+19,Clarins,Free 6pc Gift plus bag (a $90 value),2012-02-29,0.0,0.0,0.0,2012,2,29,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+20,Clarins,Free 7-pc Deluxe Samples,2012-03-07,0.0,0.0,0.0,2012,3,7,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+21,Clarins,Free 8-pc Deluxe Samples ($112 value),2012-03-15,0.0,0.0,0.0,2012,3,15,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+22,Clarins,Free 6-pc Deluxe Samples,2012-03-22,0.0,0.0,0.0,2012,3,22,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+23,Clarins,Free 6-pc Deluxe Gift + 3 samples,2012-04-05,0.0,0.0,0.0,2012,4,5,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+24,Clarins,Free 3-pc Deluxe Gift + 3 samples,2012-04-12,0.0,0.0,0.0,2012,4,12,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+25,Clarins,Up to 50% Off,2012-04-16,0.0,0.0,0.0,2012,4,16,Monday,False,Normal,Normal,Normal,Normal,0.5,False
+26,Clarins,Free 8pc Gift with pouch ($100 value),2012-04-27,0.0,0.0,0.0,2012,4,27,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+27,Clarins,Clarins Coupon,2012-05-16,0.0,0.0,0.0,2012,5,16,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+28,Clarins,Free 5pc Gift,2012-05-20,0.0,0.0,0.0,2012,5,20,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+29,Clarins,One Day Only,2012-05-24,0.0,0.0,0.0,2012,5,24,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+30,Clarins,Clarins GWP,2012-05-31,0.0,0.0,0.0,2012,5,31,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+31,Clarins,Free Deluxe Travel Size Men Active Face Wash + 5 Samples,2012-06-05,0.0,0.0,0.0,2012,6,5,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+32,Clarins,Free 5pc Gift,2012-06-11,0.0,0.0,0.0,2012,6,11,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+33,Clarins,Clarins Offer:,2012-06-19,0.0,0.0,0.0,2012,6,19,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+34,Clarins,Final Day (06/25) !,2012-06-25,0.0,0.0,0.0,2012,6,25,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+35,Clarins,Free Summer Travel Kit,2012-07-06,0.0,0.0,0.0,2012,7,6,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+36,Clarins,Free Summer Travel Kit,2012-07-12,0.0,0.0,0.0,2012,7,12,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+37,Clarins,Free Gift,2012-07-16,0.0,0.0,0.0,2012,7,16,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+38,Clarins,Last Day!,2012-07-21,0.0,0.0,0.0,2012,7,21,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+39,Clarins,Today only!,2012-07-24,0.0,0.0,0.0,2012,7,24,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+40,Clarins,Today only!,2012-07-30,0.0,0.0,0.0,2012,7,30,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+41,Clarins,Free His and Hers Tote,2012-08-03,0.0,0.0,0.0,2012,8,3,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+42,Clarins,Today only!,2012-08-07,0.0,0.0,0.0,2012,8,7,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+43,Clarins,Clarins GWP:,2012-08-10,0.0,0.0,0.0,2012,8,10,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+44,Clarins,Clarins GWP:,2012-08-17,0.0,0.0,0.0,2012,8,17,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+45,Clarins,Up to 60% Off,2012-08-24,0.0,0.0,0.0,2012,8,24,Friday,True,Normal,Normal,Labor Day,Labor Day,0.6,False
+46,Clarins,Clarins GWP:,2012-08-28,0.0,0.0,0.0,2012,8,28,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+47,Clarins,New Product!,2012-08-30,0.0,0.0,0.0,2012,8,30,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+48,Clarins,Clarins GWP:,2012-09-04,0.0,0.0,0.0,2012,9,4,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+49,Clarins,Free Clarins 8pc Gifts,2012-09-08,0.0,0.0,0.0,2012,9,8,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+50,Clarins,Free Clarins 8pc Gifts,2012-09-14,0.0,0.0,0.0,2012,9,14,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+51,Clarins,Five free samples,2012-09-28,0.0,0.0,0.0,2012,9,28,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+52,Clarins,Free 3pc Gift + 3 samples,2012-10-06,0.0,0.0,0.0,2012,10,6,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+53,Clarins,Free 4pc Gift + 3 samples,2012-10-13,0.0,0.0,0.0,2012,10,13,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+54,Clarins,Free deluxe gift (up to $107 value),2012-10-20,0.0,0.0,0.0,2012,10,20,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+55,Clarins,Free shipping,2012-10-25,0.0,0.0,0.0,2012,10,25,Thursday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+56,Clarins,Free mini Instant Definition Mascara,2012-10-29,0.0,0.0,0.0,2012,10,29,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+57,Clarins,$72.25$134.00,2012-10-30,0.0,0.0,0.0,2012,10,30,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+58,Clarins,['$95.20$145.00' '$91.80$141.00'],2012-10-31,0.0,0.0,0.0,2012,10,31,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+59,Clarins,Up to 25% OFF,2012-11-13,0.0,4.0,0.0,2012,11,13,Tuesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.25,False
+60,Clarins,3 Free Travel sizes,2012-11-14,0.0,0.0,0.0,2012,11,14,Wednesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,True
+61,Clarins,Free shipping,2012-11-20,0.0,0.0,0.0,2012,11,20,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+62,Clarins,Black Friday Sales,2012-11-23,0.0,0.0,0.0,2012,11,23,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+63,Clarins,9-pc Gift,2012-12-01,0.0,0.0,0.0,2012,12,1,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+64,Clarins,Every Day Grand Prize,2012-12-05,0.0,0.0,0.0,2012,12,5,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+65,Clarins,5 Samples,2012-12-10,0.0,0.0,0.0,2012,12,10,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,True
+66,Clarins,Free shipping+,2012-12-15,0.0,0.0,0.0,2012,12,15,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+67,Clarins,Today only!,2012-12-21,0.0,0.0,0.0,2012,12,21,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+68,Clarins,Free Trial Size,2012-12-28,0.0,0.0,0.0,2012,12,28,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+69,Clarins,5 Samples,2013-01-03,0.0,0.0,0.0,2013,1,3,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+70,Clarins,Free 6-piece Head-to-Toe Firming Set,2013-01-09,0.0,0.0,0.0,2013,1,9,Wednesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+71,Clarins,Free 3-piece Gift Set,2013-01-15,0.0,0.0,0.0,2013,1,15,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+72,Clarins,Free shipping on all orders,2013-01-19,0.0,0.0,0.0,2013,1,19,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+73,Clarins,Free 3 Travel Sizes,2013-01-22,0.0,0.0,0.0,2013,1,22,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+74,Clarins,"['Today Only(Feb 2),' 'double points']",2013-02-02,0.0,0.0,0.0,2013,2,2,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+75,Clarins,Free Make-Up To Go Kit,2013-02-06,0.0,0.0,0.0,2013,2,6,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+76,Clarins,Free Evening Clutch+,2013-02-20,0.0,0.0,0.0,2013,2,20,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+77,Clarins,Free Cleansing To-Go Kit,2013-02-26,0.0,0.0,0.0,2013,2,26,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+78,Clarins,Free Shipping,2013-03-05,0.0,0.0,0.0,2013,3,5,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+79,Clarins,Free 5-piece Gift ($79 value),2013-03-11,0.0,0.0,0.0,2013,3,11,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+80,Clarins,Free Cleansing To-Go Kit,2013-03-14,0.0,0.0,0.0,2013,3,14,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+81,Clarins,Up to 65% OFF,2013-03-22,0.0,0.0,0.0,2013,3,22,Friday,True,Normal,Normal,Normal,Normal,0.65,False
+82,Clarins,Free Summer Body Prep Kit,2013-03-27,0.0,0.0,0.0,2013,3,27,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+83,Clarins,Free 7pc Gift Set($103 Value),2013-04-05,0.0,0.0,0.0,2013,4,5,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+84,Clarins,Free mini Instant Smooth Perfecting Touch,2013-04-08,0.0,0.0,0.0,2013,4,8,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+85,Clarins,Free travel-sized Night Cream and Cleaner,2013-04-09,0.0,0.0,0.0,2013,4,9,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+86,Clarins,3-piece welcome gift with your $85 purchase,2013-04-11,0.0,0.0,0.0,2013,4,11,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+87,Clarins,Free Quick Fix Make-up Kit,2013-04-17,0.0,0.0,0.0,2013,4,17,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+88,Clarins,Five free samples with any,2013-04-23,0.0,1.0,0.0,2013,4,23,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+89,Clarins,"['Free Sample of Instant Smooth Perfecting Touch (0.14 fl oz)'
+ 'Free 5 Piece Deluxe Hydration Gift+mini Mascara']",2013-04-30,0.0,0.0,0.0,2013,4,30,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+90,Clarins,Free shipping for Mother's Day,2013-05-01,0.0,1.0,0.0,2013,5,1,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+91,Clarins,Five Free Samples,2013-05-14,0.0,5.0,0.0,2013,5,14,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+92,Clarins,Free 3-piece Samples,2013-05-17,0.0,0.0,0.0,2013,5,17,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+93,Clarins,Today Only! (5/21) Free Travel Size Gift,2013-05-22,0.0,2.0,0.0,2013,5,22,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+94,Clarins,Free Travel Duo,2013-05-28,0.0,0.0,0.0,2013,5,28,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+95,Clarins,Free Sun Tote,2013-05-29,0.0,0.0,0.0,2013,5,29,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+96,Clarins,Free Instant Smooth Line-Correcting Concentrate Mini,2013-06-02,0.0,0.0,0.0,2013,6,2,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+97,Clarins,Free shipping on any order,2013-06-03,0.0,1.0,0.0,2013,6,3,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+98,Clarins,Free 5 Piece Deluxe Gift Set,2013-06-07,0.0,0.0,0.0,2013,6,7,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+99,Clarins,Free Summer Essential Kit,2013-06-19,0.0,0.0,0.0,2013,6,19,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+100,Clarins,Free 8-piece Gift ($140 value)+ Free Shipping,2013-07-05,0.0,5.0,0.0,2013,7,5,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+101,Clarins,Free 5 Clarins Samples,2013-07-12,0.0,0.0,0.0,2013,7,12,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+102,Clarins,Free 4 Piece,2013-07-19,0.0,0.0,0.0,2013,7,19,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+103,Clarins,['Free Travel-size ClarinsMen Shampoo and Shwer' 'FREE'],2013-07-24,0.0,0.0,0.0,2013,7,24,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+104,Clarins,3 Samples + Free Mascara,2013-07-29,0.0,0.0,0.0,2013,7,29,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+105,Clarins,Free Travel-size Clarins One-step Gentle Exfoliating Cleanser,2013-07-30,0.0,0.0,0.0,2013,7,30,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+106,Clarins,Ending Today! Free 5 pieces gift,2013-08-07,0.0,3.0,0.0,2013,8,7,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+107,Clarins,Free shipping on any order,2013-08-12,0.0,0.0,0.0,2013,8,12,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+108,Clarins,Up to 65% OFF,2013-08-23,0.0,5.0,0.0,2013,8,23,Friday,True,Normal,Normal,Labor Day,Labor Day,0.65,False
+109,Clarins,Free shipping on any order,2013-08-24,0.0,0.0,0.0,2013,8,24,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+110,Clarins,double or triple points,2013-08-26,0.0,0.0,0.0,2013,8,26,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+111,Clarins,Free Travel-size Beauty Flash Balm,2013-09-01,0.0,0.0,0.0,2013,9,1,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+112,Clarins,Free 6-piece Gift ($94 value)+ Free Shipping,2013-09-09,0.0,2.0,0.0,2013,9,9,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+113,Clarins,Free shipping on any order,2013-09-11,0.0,2.0,0.0,2013,9,11,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+114,Clarins,Free Travel-Sized product,2013-09-13,0.0,2.0,0.0,2013,9,13,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+115,Clarins,5 Free Samples,2013-09-20,0.0,4.0,0.0,2013,9,20,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+116,Clarins,Free Beauty Express Prep 3 Piece Kit,2013-09-23,0.0,0.0,0.0,2013,9,23,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+117,Clarins,$120 Shaping Facial Lift Luxury Size,2013-09-30,0.0,0.0,0.0,2013,9,30,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+118,Clarins,Holiday Gift Sets +,2013-10-10,0.0,1.0,0.0,2013,10,10,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+119,Clarins,Free Gift Set,2013-10-21,0.0,4.0,0.0,2013,10,21,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+120,Clarins,Free Gift Set,2013-10-28,0.0,2.0,0.0,2013,10,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+121,Clarins,3 Samples + Free Shipping,2013-10-29,0.0,2.0,0.0,2013,10,29,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+122,Clarins,Dealmoon Exclusive,2013-11-01,0.0,2.0,0.0,2013,11,1,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+123,Clarins,Dealmoon Exclusive,2013-11-08,0.0,7.0,0.0,2013,11,8,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+124,Clarins,Clarins Holiday Gift Set Launched,2013-11-13,0.0,1.0,0.0,2013,11,13,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+125,Clarins,Up to 25% OFF,2013-11-14,0.0,34.0,0.0,2013,11,14,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.25,False
+126,Clarins,Free Gift Set ($130 value),2013-11-15,0.0,2.0,0.0,2013,11,15,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+127,Clarins,Free 5-piece Gifts,2013-11-18,0.0,4.0,0.0,2013,11,18,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+128,Clarins,Free Shipping,2013-11-19,0.0,0.0,0.0,2013,11,19,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+129,Clarins,Free Gift Set,2013-11-22,0.0,3.0,0.0,2013,11,22,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+130,Clarins,Free FULL-SIZE HydraQuench Moisture Replenishing Lip Balm,2013-11-25,0.0,0.0,0.0,2013,11,25,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+131,Clarins,Up to $45 OFF,2013-12-01,0.0,18.0,0.0,2013,12,1,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+132,Clarins,Free 8 Piece Gift + Deluxe Red Clutch,2013-12-09,0.0,23.0,0.0,2013,12,9,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+133,Clarins,Holiday Gift Sets +,2013-12-11,0.0,0.0,0.0,2013,12,11,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+134,Clarins,$10 for Gloss & Go Gift,2013-12-16,0.0,2.0,0.0,2013,12,16,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+135,Clarins,Alive Again! Up to $45 OFF,2013-12-30,0.0,5.0,0.0,2013,12,30,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+136,Clarins,4-piece gift,2014-01-03,0.0,2.0,0.0,2014,1,3,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+137,Clarins,Free 4pc Gift with ANY Order,2014-01-09,0.0,15.0,0.0,2014,1,9,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+138,Clarins,Free 5-piece gift,2014-01-12,0.0,2.0,0.0,2014,1,12,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+139,Clarins,$22 Daily Detox Set +,2014-01-13,0.0,3.0,0.0,2014,1,13,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+140,Clarins,['Free 5-piece gift' '5 Free Samples'],2014-01-20,0.0,3.0,0.0,2014,1,20,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+141,Clarins,DEALMOON Exclusive! Free 5pc Gift Plus Bag,2014-01-30,0.0,16.0,0.0,2014,1,30,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+142,Clarins,5 Free Samples,2014-02-03,0.0,5.0,0.0,2014,2,3,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+143,Clarins,Free 8 pc. Gift ($109 value) and Free Shipping,2014-02-14,0.0,13.0,0.0,2014,2,14,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+144,Clarins,Free Gift Set ($117 value),2014-02-16,0.0,2.0,0.0,2014,2,16,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+145,Clarins,Free Shipping,2014-02-19,0.0,2.0,0.0,2014,2,19,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+146,Clarins,Double Points,2014-02-25,0.0,2.0,0.0,2014,2,25,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+147,Clarins,Free 5-Piece Gift,2014-02-27,0.0,5.0,0.0,2014,2,27,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+148,Clarins,$131.00$164.00,2014-03-03,0.0,3.0,0.0,2014,3,3,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+149,Clarins,['$112.00$160.00' '$49.50$97.50'],2014-03-05,0.0,7.0,0.0,2014,3,5,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+150,Clarins,$120.00$160.00,2014-03-06,0.0,2.0,0.0,2014,3,6,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+151,Clarins,$60.00$80.00,2014-03-07,0.0,2.0,0.0,2014,3,7,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+152,Clarins,Up to 50% OFF Private Sale,2014-03-08,0.0,41.0,0.0,2014,3,8,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.5,False
+153,Clarins,Free 4pc Gift,2014-03-10,0.0,7.0,0.0,2014,3,10,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+154,Clarins,['Free Shipping' 'Free 3pc Gift'],2014-03-16,0.0,7.0,0.0,2014,3,16,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+155,Clarins,Free 7 Pieces Samples,2014-03-18,0.0,8.0,0.0,2014,3,18,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+156,Clarins,Free 2pc Gift,2014-03-19,0.0,0.0,0.0,2014,3,19,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+157,Clarins,Free 3-piece Gift Set,2014-03-24,0.0,0.0,0.0,2014,3,24,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+158,Clarins,Free 8-piece Gift Set($102 value),2014-04-08,0.0,25.0,0.0,2014,4,8,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+159,Clarins,Free Mini Blush + 3 Samples,2014-04-14,0.0,0.0,0.0,2014,4,14,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+160,Clarins,Free gentle eye make remover,2014-04-22,0.0,3.0,0.0,2014,4,22,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+161,Clarins,Free 7-piece Gift Set,2014-04-25,0.0,2.0,0.0,2014,4,25,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+162,Clarins,Up to $40 reward card,2014-04-30,0.0,6.0,0.0,2014,4,30,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+163,Clarins,Limited Edition Value Set,2014-05-05,0.0,4.0,0.0,2014,5,5,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+164,Clarins,Free 4-piece Gift Set,2014-05-13,0.0,4.0,0.0,2014,5,13,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+165,Clarins,5 Free Deluxe Samples,2014-05-15,0.0,2.0,0.0,2014,5,15,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+166,Clarins,['Free 4-piece Gift Set' '5 Free Samples'],2014-05-17,0.0,10.0,0.0,2014,5,17,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+167,Clarins,Free 6-piece Gift Set,2014-05-27,0.0,18.0,0.0,2014,5,27,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+168,Clarins,$68 ,2014-05-30,0.0,9.0,0.0,2014,5,30,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+169,Clarins,Free Shipping,2014-06-02,0.0,2.0,0.0,2014,6,2,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+170,Clarins,Free 4pc Gift(a $60 value),2014-06-10,0.0,1.0,0.0,2014,6,10,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+171,Clarins,Free 4pc Gift(a $60 value),2014-06-11,0.0,11.0,0.0,2014,6,11,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+172,Clarins,Free deluxe-travel size moisturizer,2014-06-12,0.0,1.0,0.0,2014,6,12,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+173,Clarins,Free lip perfector kit,2014-06-13,0.0,2.0,0.0,2014,6,13,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+174,Clarins,5 Free Samples,2014-06-19,0.0,1.0,0.0,2014,6,19,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+175,Clarins,3 Free Samples + Free Travel Size Product,2014-06-30,0.0,3.0,0.0,2014,6,30,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+176,Clarins,Free 6 Pc Gift,2014-07-08,0.0,15.0,0.0,2014,7,8,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+177,Clarins,10% OFF,2014-07-15,0.0,3.0,0.0,2014,7,15,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.1,False
+178,Clarins,Free 4-piece Gift Set,2014-07-17,0.0,8.0,0.0,2014,7,17,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+179,Clarins,Free 8pc Gift (a $116 Value),2014-07-22,0.0,11.0,0.0,2014,7,22,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+180,Clarins,Free Shipping,2014-07-25,0.0,1.0,0.0,2014,7,25,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+181,Clarins,['$69+ 11 deluxe gifts' '$59+ 11 deluxe gifts'],2014-07-29,0.0,19.0,0.0,2014,7,29,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+182,Clarins,Free 9pc Mystery Gift (a $140 Value),2014-08-01,0.0,32.0,0.0,2014,8,1,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+183,Clarins,$112.00$160.00,2014-08-06,0.0,8.0,0.0,2014,8,6,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+184,Clarins,From $10,2014-08-13,0.0,11.0,0.0,2014,8,13,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+185,Clarins,Up to 50% OFF,2014-08-14,0.0,34.0,0.0,2014,8,14,Thursday,False,Normal,Normal,Normal,Labor Day,0.5,False
+186,Clarins,Free 5pc Gift ($81 Value),2014-08-21,0.0,22.0,0.0,2014,8,21,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+187,Clarins,Free Shipping,2014-08-27,0.0,11.0,0.0,2014,8,27,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+188,Clarins,3 Free Samples,2014-09-06,0.0,55.0,0.0,2014,9,6,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+189,Clarins,Free 3-piece Gift Set,2014-09-07,0.0,1.0,0.0,2014,9,7,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+190,Clarins,$98 + Free 6pc Gift ($105 Value),2014-09-08,0.0,2.0,0.0,2014,9,8,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+191,Clarins,$59 ,2014-09-09,0.0,4.0,0.0,2014,9,9,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+192,Clarins,Free 6pc Gift ($105 Value),2014-09-17,0.0,51.0,0.0,2014,9,17,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+193,Clarins,Free Shipping+3 FREE Samples,2014-09-21,0.0,6.0,0.0,2014,9,21,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,True
+194,Clarins,Free 3-piece Gift Set,2014-09-24,0.0,3.0,0.0,2014,9,24,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+195,Clarins,Free 5pc Gift (Up to $103 Value),2014-10-08,0.0,18.0,0.0,2014,10,8,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+196,Clarins,['2 Free Deluxe Samples' 'Free 5pc Gift (Up to $103 Value)'],2014-10-15,0.0,68.0,0.0,2014,10,15,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+197,Clarins,Free Shipping+3 FREE Samples,2014-10-20,0.0,5.0,0.0,2014,10,20,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+198,Clarins,Free 5-piece Gift + Free Shipping,2014-10-23,0.0,11.0,0.0,2014,10,23,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+199,Clarins,From $30,2014-10-24,0.0,8.0,0.0,2014,10,24,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+200,Clarins,From $30,2014-10-29,0.0,52.0,0.0,2014,10,29,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+201,Clarins,Up to 25% OFF,2014-11-01,0.0,18.0,0.0,2014,11,1,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.25,False
+202,Clarins,Free 6pc Gift ($85 Value),2014-11-03,0.0,5.0,0.0,2014,11,3,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+203,Clarins,Up to 25% Off,2014-11-10,0.0,239.0,0.0,2014,11,10,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.25,False
+204,Clarins,Free 5pc Gift,2014-11-12,0.0,8.0,0.0,2014,11,12,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+205,Clarins,['Up to $100 Instant gift card' 'Free 11 pc Gift'],2014-11-13,0.0,194.0,0.0,2014,11,13,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+206,Clarins,Free 7pc Gift ($160 Value),2014-12-06,0.0,175.0,0.0,2014,12,6,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+207,Clarins,20% Off + Free 7pc Gift,2014-12-08,0.0,43.0,0.0,2014,12,8,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.2,True
+208,Clarins,From $45 + Gift Sets,2014-12-09,0.0,342.0,0.0,2014,12,9,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+209,Clarins,5 Free Samples,2014-12-15,0.0,21.0,0.0,2014,12,15,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+210,Clarins,Free Mystery Gift,2014-12-16,0.0,6.0,0.0,2014,12,16,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+211,Clarins,$40 ,2014-12-23,0.0,9.0,0.0,2014,12,23,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+212,Clarins,Choose Your Pore-Purifying Kit,2014-12-26,0.0,9.0,0.0,2014,12,26,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+213,Clarins,Free 6pc Gift ($80 Value),2015-01-10,0.0,67.0,0.0,2015,1,10,Saturday,True,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+214,Clarins,Free 4 Travel Size Samples,2015-01-11,0.0,5.0,0.0,2015,1,11,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+215,Clarins,5 Free Samples,2015-01-16,0.0,77.0,0.0,2015,1,16,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+216,Clarins,4 Free Samples ($156 Value),2015-01-26,0.0,19.0,0.0,2015,1,26,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+217,Clarins,Free 4-pc Sample ($156 Value),2015-01-29,0.0,43.0,0.0,2015,1,29,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+218,Clarins,Free 5 Samples,2015-02-02,0.0,28.0,0.0,2015,2,2,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+219,Clarins,Dealmoon Exclusive！Free 8pc Gift,2015-02-14,0.0,132.0,0.0,2015,2,14,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+220,Clarins,Free Shipping+3 FREE Samples,2015-02-17,0.0,22.0,0.0,2015,2,17,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+221,Clarins,Free 3pc Gift,2015-02-21,0.0,23.0,0.0,2015,2,21,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+222,Clarins,['$33.60$42.00' '$36.80$46.00' '$18.40$23.00' '$49.60$62.00'],2015-02-26,0.0,113.0,0.0,2015,2,26,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+223,Clarins,['$58.40$73.00' '$47.20$59.00'],2015-02-27,0.0,39.0,0.0,2015,2,27,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+224,Clarins,['$47.20$59.00' '$56.00$70.00' '$42.40$53.00'],2015-03-02,0.0,139.0,0.0,2015,3,2,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+225,Clarins,['$69.60$87.00' '$64.00$80.00'],2015-03-03,0.0,45.0,0.0,2015,3,3,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+226,Clarins,20% Off,2015-03-04,0.0,217.0,0.0,2015,3,4,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.2,False
+227,Clarins,$62.00$88.00,2015-03-09,0.0,27.0,0.0,2015,3,9,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+228,Clarins,$99.00$138.00,2015-03-10,0.0,35.0,0.0,2015,3,10,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+229,Clarins,Up to 65% OFF,2015-03-17,0.0,201.0,0.0,2015,3,17,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.65,False
+230,Clarins,Free 7pc Gift,2015-03-19,0.0,31.0,0.0,2015,3,19,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+231,Clarins,Free 8pc gift (value $127),2015-04-01,0.0,75.0,0.0,2015,4,1,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+232,Clarins,Free Tote and Summer Body Gifts,2015-04-09,0.0,19.0,0.0,2015,4,9,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+233,Clarins,5 Free Samples,2015-04-15,0.0,9.0,0.0,2015,4,15,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+234,Clarins,Up to 15% Off + 5 free samples,2015-04-20,0.0,125.0,0.0,2015,4,20,Monday,False,Normal,Normal,Normal,Normal,0.15,False
+235,Clarins,Free 6 pcs Body Gift,2015-04-22,0.0,49.0,0.0,2015,4,22,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+236,Clarins,Free shipping + 3 samples,2015-04-27,0.0,10.0,0.0,2015,4,27,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+237,Clarins,New Release!,2015-05-02,0.0,72.0,56.0,2015,5,2,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+238,Clarins,Free 5 Pieces Gift Set,2015-05-12,0.0,51.0,0.0,2015,5,12,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+239,Clarins,5 Free Samples,2015-05-18,0.0,17.0,0.0,2015,5,18,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+240,Clarins,Dealmoon Exclusive! Free 5pc Deluxe Gifts,2015-05-21,0.0,26.0,0.0,2015,5,21,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+241,Clarins,Free shipping + 3 samples,2015-05-27,0.0,12.0,0.0,2015,5,27,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+242,Clarins,10% Off + Free 2-pc Deluxe Gift + 3 samples,2015-06-03,0.0,28.0,0.0,2015,6,3,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.1,True
+243,Clarins,10% Off + Free 5-pc Deluxe Gift Set,2015-06-04,0.0,17.0,0.0,2015,6,4,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.1,True
+244,Clarins,Free Balm Set and Clutch,2015-06-05,0.0,4.0,0.0,2015,6,5,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+245,Clarins,10% Off + Free 3-pc Gift Set,2015-06-15,0.0,24.0,0.0,2015,6,15,Monday,False,Normal,Normal,Normal,Independence Day (Observed),0.1,True
+246,Clarins,5 Free Samples,2015-06-22,0.0,11.0,0.0,2015,6,22,Monday,False,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,True
+247,Clarins,Free 5 Samples,2015-06-23,0.0,16.0,0.0,2015,6,23,Tuesday,False,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,True
+248,Clarins,Dealmoon Exclusive EARLY access! FREE Tote Bag + 7-piece travel size gift + 3 free samples,2015-07-07,0.0,174.0,0.0,2015,7,7,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+249,Clarins,Free Shipping + 3 Samples,2015-07-12,0.0,13.0,0.0,2015,7,12,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+250,Clarins,Free Travel-Size Night Cream,2015-07-13,0.0,3.0,0.0,2015,7,13,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+251,Clarins,5 Free Samples,2015-07-21,0.0,11.0,0.0,2015,7,21,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+252,Clarins,5 Free Samples + Free Shipping,2015-07-31,0.0,83.0,0.0,2015,7,31,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+253,Clarins,['$95 ' '$68.00$88.00' '$98.00$140.00'],2015-08-03,0.0,114.0,0.0,2015,8,3,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+254,Clarins,['$59 + Free Luxury Gifts' '$80 + Free Luxury Gifts'],2015-08-04,0.0,55.0,3.0,2015,8,4,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+255,Clarins,Free Mystery Gifts,2015-08-05,0.0,186.0,2.0,2015,8,5,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+256,Clarins,Up to 40% OFF Private Sale + Free Mystery Gifts,2015-08-07,0.0,292.0,2.0,2015,8,7,Friday,True,Normal,Normal,Normal,Normal,0.4,True
+257,Clarins,Up to 40% Off,2015-08-11,0.0,77.0,0.0,2015,8,11,Tuesday,False,Normal,Normal,Normal,Labor Day,0.4,False
+258,Clarins,Free 10pc Gift + Free Shipping,2015-08-26,0.0,179.0,0.0,2015,8,26,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+259,Clarins,$26 ,2015-09-02,0.0,38.0,0.0,2015,9,2,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+260,Clarins,$87 + Free 5 Samples+ Free Shipping,2015-09-03,0.0,18.0,0.0,2015,9,3,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+261,Clarins,['Up to 25% Off' 'Up to 25% OFF'],2015-09-08,0.0,126.0,1.0,2015,9,8,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+262,Clarins,Up to 25% Off,2015-09-09,0.0,139.0,1.0,2015,9,9,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.25,False
+263,Clarins,Up to 25% OFF,2015-09-13,0.0,15.0,0.0,2015,9,13,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.25,False
+264,Clarins,['25% Off' 'Free 5 Piece Gift'],2015-09-14,0.0,40.0,1.0,2015,9,14,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+265,Clarins,Up to 25% OFF,2015-09-16,0.0,37.0,0.0,2015,9,16,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.25,False
+266,Clarins,Free 5 Piece Gift,2015-09-21,0.0,16.0,0.0,2015,9,21,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+267,Clarins,Up to 25% OFF,2015-09-24,0.0,502.0,0.0,2015,9,24,Thursday,False,Normal,Normal,Normal,Labor Day,0.25,False
+268,Clarins,Free shipping + 3 Samples,2015-10-02,0.0,12.0,0.0,2015,10,2,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+269,Clarins,Free 5 Samples,2015-10-09,0.0,50.0,0.0,2015,10,9,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+270,Clarins,10% off + Free 5 Piece Gift,2015-10-20,0.0,77.0,0.0,2015,10,20,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.1,True
+271,Clarins,Free 3 Pc Gift,2015-10-22,0.0,19.0,0.0,2015,10,22,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+272,Clarins,Choose Your Free Mystery Gift,2015-10-26,0.0,40.0,0.0,2015,10,26,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+273,Clarins,Free 5 Samples,2015-11-09,0.0,29.0,5.0,2015,11,9,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+274,Clarins,Dealmoon Exclusive! 11% Off + 11 Samples,2015-11-13,0.0,362.0,70.0,2015,11,13,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.11,True
+275,Clarins,Free 4 Pieces Deluxe Gift + 3 Free Samples,2015-11-14,0.0,17.0,0.0,2015,11,14,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+276,Clarins,Free Mystery Gift Card,2015-11-16,0.0,86.0,7.0,2015,11,16,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+277,Clarins,Free 4-piece Gift,2015-11-20,0.0,82.0,13.0,2015,11,20,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+278,Clarins,From $58 + 20% off Black Friday Set,2015-11-23,0.0,383.0,61.0,2015,11,23,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,False
+279,Clarins,['$18.40$23.00' '$47.20$59.00' '$56.00$70.00'],2015-11-27,0.0,170.0,17.0,2015,11,27,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+280,Clarins,['$64.00$80.00' 'From $58 + 20% Off + 9pc Free Gift'],2015-11-28,0.0,363.0,52.0,2015,11,28,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+281,Clarins,['$20.00$25.00' '$42.40$53.00'],2015-11-30,0.0,32.0,2.0,2015,11,30,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+282,Clarins,20% Off + Free 12-pc Gift with $95 Purchase,2015-12-01,0.0,934.0,186.0,2015,12,1,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,True
+283,Clarins,Free 12-pc Gift,2015-12-08,0.0,101.0,15.0,2015,12,8,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+284,Clarins,Free Shipping + 3 Samples,2015-12-10,0.0,23.0,3.0,2015,12,10,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,True
+285,Clarins,Free 5 Samples,2015-12-14,0.0,32.0,10.0,2015,12,14,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+286,Clarins,Free 4 Piece Gift,2015-12-15,0.0,21.0,2.0,2015,12,15,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+287,Clarins,Free Surprise Holliday Gift,2015-12-17,0.0,54.0,13.0,2015,12,17,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+288,Clarins,Free 6 Pc Gift + 2nd Day Shipping,2015-12-20,0.0,80.0,11.0,2015,12,20,Sunday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+289,Clarins,Free Express Shipping + 3 Samples,2015-12-21,0.0,7.0,1.0,2015,12,21,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+290,Clarins,FREE Pore Purifying Kit,2015-12-30,0.0,13.0,1.0,2015,12,30,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+291,Clarins,Free 5-Pc Gift,2015-12-31,0.0,25.0,2.0,2015,12,31,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+292,Clarins,Free 6 Pc Gift,2016-01-05,0.0,41.0,10.0,2016,1,5,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+293,Clarins,Free 5-Pc Gift,2016-01-21,0.0,112.0,30.0,2016,1,21,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+294,Clarins,Free Shipping + 3 Samples,2016-01-27,0.0,20.0,2.0,2016,1,27,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+295,Clarins,5 Samples,2016-02-05,0.0,33.0,7.0,2016,2,5,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+296,Clarins,['$48.00$60.00' '$20.00$25.00' '$56.00$70.00' '20% Off'],2016-02-08,0.0,270.0,44.0,2016,2,8,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+297,Clarins,['$31.20$39.00' '$23.20$29.00' '$47.20$59.00'],2016-02-09,0.0,113.0,10.0,2016,2,9,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+298,Clarins,$33.60$42.00,2016-02-11,0.0,87.0,14.0,2016,2,11,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+299,Clarins,20% Off,2016-02-13,0.0,137.0,52.0,2016,2,13,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.2,False
+300,Clarins,['$56.00$70.00' '$21.60$27.00' '$20.00$25.00' '20% Off'],2016-02-17,0.0,1054.0,249.0,2016,2,17,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+301,Clarins,Free 5pc Gift,2016-03-01,0.0,91.0,28.0,2016,3,1,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+302,Clarins,Free Shipping + 3 Samples,2016-03-07,0.0,32.0,12.0,2016,3,7,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+303,Clarins,Dealmoon Exclusive Early Access! Up to 40% Off,2016-03-12,0.0,125.0,19.0,2016,3,12,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.4,False
+304,Clarins,$74 ,2016-03-13,0.0,44.0,16.0,2016,3,13,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+305,Clarins,Up to 40% Off,2016-03-17,0.0,614.0,234.0,2016,3,17,Thursday,False,Normal,Normal,Normal,Normal,0.4,False
+306,Clarins,6 Deluxe Samples,2016-03-19,0.0,111.0,30.0,2016,3,19,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+307,Clarins,Free 5pc Gift,2016-03-21,0.0,16.0,5.0,2016,3,21,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+308,Clarins,Free 6 Samples,2016-03-27,0.0,37.0,4.0,2016,3,27,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+309,Clarins,Receive Triple Points,2016-03-28,0.0,8.0,2.0,2016,3,28,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+310,Clarins,Free 4-Piece Gift Sets,2016-04-01,0.0,22.0,9.0,2016,4,1,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+311,Clarins,Free shipping + 3 Samples,2016-04-05,0.0,17.0,6.0,2016,4,5,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+312,Clarins,Receive Double Points,2016-04-12,0.0,6.0,1.0,2016,4,12,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+313,Clarins,Get a 5pc Beach Body Prep Pack and more,2016-04-15,0.0,64.0,14.0,2016,4,15,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+314,Clarins,Free 5-Pc Gift Set,2016-04-18,0.0,11.0,3.0,2016,4,18,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+315,Clarins,Free 5 Samples,2016-04-19,0.0,9.0,4.0,2016,4,19,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+316,Clarins,Free 8pc gift,2016-05-08,0.0,163.0,39.0,2016,5,8,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+317,Clarins,Free 4-Piece Instant Energizer Gift Gift Sets,2016-05-11,0.0,22.0,5.0,2016,5,11,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+318,Clarins,Free Illuminating Duo,2016-05-18,0.0,20.0,2.0,2016,5,18,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+319,Clarins,20% Off,2016-05-23,0.0,41.0,15.0,2016,5,23,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+320,Clarins,['$48.00$60.00' '$20.00$25.00'],2016-05-24,0.0,146.0,29.0,2016,5,24,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+321,Clarins,$64.80$81.00,2016-05-25,0.0,66.0,15.0,2016,5,25,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+322,Clarins,20% Off,2016-05-26,0.0,253.0,90.0,2016,5,26,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.2,False
+323,Clarins,Free shipping + 3 Samples,2016-06-01,0.0,8.0,2.0,2016,6,1,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+324,Clarins,Free 4-Piece Gift Set,2016-06-06,0.0,14.0,3.0,2016,6,6,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+325,Clarins,Choose 2-piece Body Gift,2016-06-09,0.0,3.0,2.0,2016,6,9,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+326,Clarins,Free 2-piece Makeup Gift,2016-06-11,0.0,7.0,2.0,2016,6,11,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+327,Clarins,Free 4-pc Staff Favorites Kit ($70 Value),2016-06-13,0.0,13.0,2.0,2016,6,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+328,Clarins,Free 8-piece Gift ($180 value),2016-07-05,0.0,148.0,26.0,2016,7,5,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+329,Clarins,Choose your FREE travel-sized night cream,2016-07-14,0.0,20.0,4.0,2016,7,14,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+330,Clarins,Free 3-pc Gift Set,2016-07-18,0.0,20.0,2.0,2016,7,18,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+331,Clarins,Up to 50% Off,2016-07-30,0.0,168.0,39.0,2016,7,30,Saturday,True,Normal,Normal,Normal,Independence Day,0.5,False
+332,Clarins,Free 5 Samples,2016-08-05,0.0,6.0,0.0,2016,8,5,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+333,Clarins,Free 7-pc Gift,2016-08-16,48.0,83.0,15.0,2016,8,16,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+334,Clarins,Free 4 pc Gift,2016-08-30,10.0,26.0,5.0,2016,8,30,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+335,Clarins,Free 7-pc Gift Set,2016-09-11,5.0,56.0,12.0,2016,9,11,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+336,Clarins,$28 ,2016-09-21,0.0,11.0,1.0,2016,9,21,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+337,Clarins,['up to 30% off' '$29 '],2016-09-28,40.0,237.0,60.0,2016,9,28,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+338,Clarins,['$89.25 ' '$100.50 '],2016-10-05,0.0,65.0,3.0,2016,10,5,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+339,Clarins,['$33.15 ' '$66.75 ' '$111 '],2016-10-06,1.0,62.0,7.0,2016,10,6,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+340,Clarins,['Up to 25% Off' '$35 ' '$75.65 '],2016-10-07,40.0,295.0,31.0,2016,10,7,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+341,Clarins,['$80.75 ' '$21.25 ' '$37.40 '],2016-10-08,31.0,147.0,13.0,2016,10,8,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+342,Clarins,['$68.85 ' 'Up to 25% Off' '$51 '],2016-10-09,31.0,291.0,30.0,2016,10,9,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+343,Clarins,$35.70 ,2016-10-11,19.0,73.0,8.0,2016,10,11,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+344,Clarins,Up to 25% Off,2016-10-16,11.0,178.0,28.0,2016,10,16,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.25,False
+345,Clarins,['Up to 25% Off' '$21.25 ' '$33.15 ' '$59.50 '],2016-10-18,208.0,1511.0,220.0,2016,10,18,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+346,Clarins,11% Off + 11 Samples,2016-11-12,13.0,45.0,12.0,2016,11,12,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.11,True
+347,Clarins,"['Dealmoon Exclusive! 11% Off + 11 Samples' '$111.25 + 11 Samples'
+ '11% Off + 11 Samples']",2016-11-14,72.0,254.0,74.0,2016,11,14,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+348,Clarins,$72.09 ,2016-11-15,20.0,38.0,15.0,2016,11,15,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+349,Clarins,Get Up to 50% Off,2016-11-23,53.0,199.0,52.0,2016,11,23,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.5,False
+350,Clarins,['$64.80 ' '$20 ' '$31.2 + 13 pc GWP'],2016-11-26,38.0,165.0,42.0,2016,11,26,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+351,Clarins,20% Off + 10 pc GWP,2016-11-27,16.0,52.0,21.0,2016,11,27,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,True
+352,Clarins,20% Off + 13 Samples,2016-11-28,78.0,159.0,56.0,2016,11,28,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,True
+353,Clarins,"['$35.20 ' '20% Off + 13 pc GWP' '$71.20 ' '20% Off + 10 pc GWP' '$56 '
+ '$48 + 10 pc GWP']",2016-11-29,371.0,1287.0,469.0,2016,11,29,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+354,Clarins,Free 5-pc Gift Set,2016-12-13,11.0,60.0,18.0,2016,12,13,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+355,Clarins,Free 5-pc Gift Set,2017-01-11,9.0,25.0,12.0,2017,1,11,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+356,Clarins,7 Free Samples,2017-01-14,10.0,21.0,10.0,2017,1,14,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+357,Clarins,Free 4-pc Gift Set,2017-01-24,7.0,28.0,25.0,2017,1,24,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+358,Clarins,$20 Off,2017-01-28,28.0,59.0,20.0,2017,1,28,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+359,Clarins,Free Skincare Duo,2017-02-06,12.0,32.0,12.0,2017,2,6,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+360,Clarins,New Arrival！,2017-02-07,2.0,19.0,18.0,2017,2,7,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+361,Clarins,['$33.20 ' 'Up to 25% Off'],2017-02-12,10.0,90.0,18.0,2017,2,12,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+362,Clarins,['$22.10 ' '$33.15 ' '$68.85 ' '$18.27 '],2017-02-13,8.0,87.0,13.0,2017,2,13,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+363,Clarins,['$81.60 ' '$36.55 ' '$75.65 ' 'Up to 25% Off'],2017-02-14,22.0,133.0,78.0,2017,2,14,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+364,Clarins,['$33.15 ' 'Up to 25% Off'],2017-02-15,10.0,55.0,17.0,2017,2,15,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+365,Clarins,$52.70 ,2017-02-16,5.0,27.0,7.0,2017,2,16,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+366,Clarins,['$36.55 ' '$50.15 '],2017-02-17,32.0,126.0,13.0,2017,2,17,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+367,Clarins,$59.50 ,2017-02-18,21.0,79.0,20.0,2017,2,18,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+368,Clarins,Up to 25% Off,2017-02-21,6.0,56.0,24.0,2017,2,21,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+369,Clarins,['$22.10 ' '$36.55$43.00' '$68.85 '],2017-02-23,35.0,222.0,50.0,2017,2,23,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+370,Clarins,['$22.10 ' '$30.60 ' 'Up to 25% Off'],2017-02-24,42.0,246.0,57.0,2017,2,24,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+371,Clarins,['Up to 25% Off' '$37.40 ' '$28.05 '],2017-02-25,378.0,1304.0,595.0,2017,2,25,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+372,Clarins,Free 5-Piece Gift + 3 Free Samples + Free Shipping,2017-03-10,14.0,34.0,9.0,2017,3,10,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+373,Clarins,['$102 ' '10pc Gift'],2017-03-22,30.0,66.0,47.0,2017,3,22,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+374,Clarins,Up to 30% Off + 3 Free Samples,2017-04-08,36.0,187.0,57.0,2017,4,8,Saturday,True,Normal,Normal,Normal,Normal,0.3,True
+375,Clarins,Free 4-Piece Free Body Kit + 3 Free Samples + Free Shipping,2017-04-16,8.0,73.0,14.0,2017,4,16,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+376,Clarins,Dealmoon Exclusive! Free 4pc Gift,2017-05-11,29.0,147.0,53.0,2017,5,11,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+377,Clarins,Dealmoon Exclusive! Free 4pc Gift,2017-05-27,10.0,38.0,16.0,2017,5,27,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+378,Clarins,Dealmoon Exclusive! Free 4-pc Gift,2017-06-02,15.0,94.0,41.0,2017,6,2,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+379,Clarins,Free 10 Samples,2017-06-16,7.0,17.0,11.0,2017,6,16,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+380,Clarins,Customize 7-pc free gift (value up to $176),2017-06-28,16.0,57.0,19.0,2017,6,28,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+381,Clarins,15% Off,2017-07-05,18.0,44.0,20.0,2017,7,5,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.15,False
+382,Clarins,One Day Only! $45 Value Gift,2017-07-15,5.0,38.0,6.0,2017,7,15,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+383,Clarins,One Day Only! $45 Value Gift,2017-07-27,3.0,22.0,5.0,2017,7,27,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+384,Clarins,New Double Serum,2017-07-29,25.0,27.0,10.0,2017,7,29,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+385,Clarins,Free 5-piece summer gift,2017-08-09,11.0,21.0,6.0,2017,8,9,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+386,Clarins,Free 10pc GWP ($195 value),2017-08-15,49.0,106.0,30.0,2017,8,15,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+387,Clarins,15% Off + Free 5-piece summer gift,2017-08-23,51.0,123.0,29.0,2017,8,23,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.15,False
+388,Clarins,Today Only! Free 9-piece gift,2017-08-24,2.0,8.0,6.0,2017,8,24,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+389,Clarins,Compose Your Free 6-piece gift,2017-08-25,8.0,31.0,10.0,2017,8,25,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+390,Clarins,$68.80$86.00,2017-08-28,1.0,9.0,2.0,2017,8,28,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+391,Clarins,$121.50$162.00,2017-08-29,2.0,39.0,9.0,2017,8,29,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+392,Clarins,$87.00$162.00,2017-08-30,9.0,50.0,16.0,2017,8,30,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+393,Clarins,Up to 30% Off,2017-09-10,172.0,577.0,203.0,2017,9,10,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.3,False
+394,Clarins,Compose Your Free 6-piece gift,2017-09-11,1.0,25.0,3.0,2017,9,11,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+395,Clarins,6-piece Best-sellers gift,2017-09-27,25.0,61.0,22.0,2017,9,27,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+396,Clarins,Free 8-pc Gift Set,2017-09-28,1.0,19.0,3.0,2017,9,28,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+397,Clarins,['Up to 25% Off' '$22.10 '],2017-10-15,238.0,1500.0,408.0,2017,10,15,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+398,Clarins,['Up to 25% Off' '$36.55$43.00'],2017-10-16,404.0,1710.0,755.0,2017,10,16,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+399,Clarins,4-piece Halloween Treat,2017-10-31,17.0,82.0,33.0,2017,10,31,Tuesday,False,Normal,Normal,Veterans Day (Observed),Veterans Day (Observed),0.0,False
+400,Clarins,Get 11 Samples Value Up to $94,2017-11-13,27.0,50.0,21.0,2017,11,13,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+401,Clarins,Up to 25% Off,2017-11-27,60.0,636.0,248.0,2017,11,27,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+402,Clarins,['6-Piece FREE Gift' 'Up to 25% Off'],2017-11-28,260.0,1106.0,540.0,2017,11,28,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+403,Clarins,Free 5-pc Gift,2017-12-20,6.0,68.0,18.0,2017,12,20,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+404,Clarins,Free Makeup Trio,2017-12-29,3.0,24.0,6.0,2017,12,29,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+405,Clarins,5-Piece FREE Gift,2018-01-05,13.0,71.0,29.0,2018,1,5,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+406,Clarins,Daily Detox FREE Gift,2018-01-09,1.0,32.0,8.0,2018,1,9,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+407,Clarins,FREE 5-Piece Anti-Aging Gift,2018-01-22,31.0,111.0,30.0,2018,1,22,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+408,Clarins,Bouquet of Beauty,2018-02-03,25.0,84.0,26.0,2018,2,3,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+409,Clarins,['$22.10 ' '$36.55 '],2018-02-13,12.0,119.0,16.0,2018,2,13,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+410,Clarins,Up to 25% Off,2018-02-14,1.0,26.0,11.0,2018,2,14,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+411,Clarins,Up to 25% Off,2018-02-17,1.0,72.0,23.0,2018,2,17,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+412,Clarins,['Up To 25% Off' 'Up to 25% Off'],2018-02-20,51.0,304.0,81.0,2018,2,20,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+413,Clarins,Up to 25% Off,2018-02-21,16.0,175.0,27.0,2018,2,21,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+414,Clarins,Up To 25% Off,2018-02-22,19.0,101.0,19.0,2018,2,22,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+415,Clarins,Up to 25% Off,2018-02-25,663.0,2100.0,955.0,2018,2,25,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+416,Clarins,['$22.10 ' '$28.05 ' 'Up to 25% Off'],2018-02-26,145.0,920.0,282.0,2018,2,26,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+417,Clarins,Power Beauty Gift,2018-03-05,5.0,35.0,15.0,2018,3,5,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+418,Clarins,Free Gift,2018-03-18,12.0,55.0,19.0,2018,3,18,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+419,Clarins,7-Piece Gift ($117 Value),2018-04-03,99.0,377.0,120.0,2018,4,3,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+420,Clarins,Dealmoon Exclusive!Free Super Restorative Day Travel Size + 10 Samples,2018-04-04,27.0,128.0,38.0,2018,4,4,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+421,Clarins,Free $141 Gift,2018-04-13,25.0,52.0,16.0,2018,4,13,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+422,Clarins,Free $110 Value Gift,2018-04-19,25.0,81.0,22.0,2018,4,19,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+423,Clarins,Skin-Loving Beauty 5-piece gift,2018-04-30,25.0,91.0,28.0,2018,4,30,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+424,Clarins,DEALMOON MOTHER’S DAY EXCLUSIVE,2018-05-11,59.0,174.0,59.0,2018,5,11,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+425,Clarins,$44.00$55.00,2018-05-18,8.0,31.0,18.0,2018,5,18,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+426,Clarins,$20.30$29.00,2018-05-19,11.0,62.0,14.0,2018,5,19,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+427,Clarins,15% Off,2018-05-20,3.0,39.0,8.0,2018,5,20,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.15,False
+428,Clarins,['$15.05$21.50' '$41.65$49.00' 'Up to 25% Off' '15% Off' 'Up To 30% Off'],2018-05-22,24.0,222.0,57.0,2018,5,22,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+429,Clarins,['20% Off' 'Up to 30% Off' '$93.75$125.00'],2018-05-28,106.0,527.0,163.0,2018,5,28,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,False
+430,Clarins,['UP To 30% Off + 3 Free Samples' '15% Off'],2018-05-29,132.0,914.0,298.0,2018,5,29,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+431,Clarins,FREE 7-Piece Gift,2018-06-06,8.0,40.0,9.0,2018,6,6,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+432,Clarins,FREE 7-Piece Gift,2018-06-12,7.0,26.0,7.0,2018,6,12,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+433,Clarins,Dealmoon Exclusive! Free 6pc,2018-07-01,65.0,251.0,84.0,2018,7,1,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+434,Clarins,French Beauty Rendez-vous,2018-07-05,7.0,22.0,6.0,2018,7,5,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+435,Clarins,Free Mini Water Lip Stain + 6 sampels,2018-07-06,80.0,108.0,61.0,2018,7,6,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+436,Clarins,Free 8-piece Gift,2018-07-14,5.0,39.0,8.0,2018,7,14,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+437,Clarins,Summer Beauty Cool,2018-07-17,1.0,28.0,7.0,2018,7,17,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+438,Clarins,Free 4-Piece Gift,2018-07-20,2.0,13.0,2.0,2018,7,20,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+439,Clarins,['Free Gift' 'Free Mini Lipstick'],2018-07-29,13.0,81.0,23.0,2018,7,29,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+440,Clarins,Free Gift,2018-07-30,0.0,27.0,9.0,2018,7,30,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+441,Clarins,Dealmoon Exclusive! FREE 4-Piece Skincare Routine Gift,2018-08-06,3.0,58.0,25.0,2018,8,6,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+442,Clarins,6-pc gift ($58 value),2018-08-22,3.0,38.0,10.0,2018,8,22,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+443,Clarins,Up to 30% Off,2018-09-03,49.0,307.0,89.0,2018,9,3,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.3,False
+444,Clarins,6-pc gift ($83 value),2018-09-05,1.0,15.0,7.0,2018,9,5,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+445,Clarins,4-pc gift ($66 value),2018-09-14,1.0,6.0,0.0,2018,9,14,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+446,Clarins,Free Gift ($165 value),2018-09-25,7.0,43.0,14.0,2018,9,25,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+447,Clarins,Up to 25% off,2018-10-07,3.0,19.0,7.0,2018,10,7,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.25,False
+448,Clarins,$32.25 ,2018-10-08,14.0,112.0,13.0,2018,10,8,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+449,Clarins,['$19.50 ' '$22.10 '],2018-10-10,19.0,167.0,29.0,2018,10,10,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+450,Clarins,Up to 25% Off,2018-10-13,14.0,200.0,32.0,2018,10,13,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.25,False
+451,Clarins,['$24.75 ' 'Up to 25% Off'],2018-10-14,82.0,943.0,243.0,2018,10,14,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+452,Clarins,['Up to 25% Off' 'Get up to 25% off'],2018-10-15,496.0,2592.0,1054.0,2018,10,15,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+453,Clarins,New Arrival! $100 ($249 value),2018-10-28,19.0,139.0,47.0,2018,10,28,Sunday,False,Normal,Normal,Normal,Veterans Day,0.0,False
+454,Clarins,Free 11-piece Gift,2018-11-11,13.0,61.0,26.0,2018,11,11,Sunday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,True
+455,Clarins,['Free 11-piece Gift' 'Dealmoon Exclusive Free 11-piece Gift'],2018-11-12,45.0,295.0,128.0,2018,11,12,Monday,False,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+456,Clarins,Free Gift ($87 value),2018-11-21,12.0,41.0,14.0,2018,11,21,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+457,Clarins,Up to 25% Off,2018-11-23,9.0,40.0,25.0,2018,11,23,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+458,Clarins,Up to 25% Off,2018-11-26,17.0,181.0,37.0,2018,11,26,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+459,Clarins,['Up to 25% Off' 'Cyber Monday!' '$22.10 '],2018-11-27,234.0,1197.0,522.0,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+460,Clarins,6-pc gift ($63 value) with any $100 order,2018-12-07,2.0,26.0,10.0,2018,12,7,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+461,Clarins,Dealmoon Double 12 Exclusive!,2018-12-13,60.0,192.0,80.0,2018,12,13,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+462,Clarins,FREE 7-Piece Gift,2018-12-16,12.0,18.0,4.0,2018,12,16,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+463,Clarins,Free 7-Piece Gift,2018-12-20,6.0,15.0,4.0,2018,12,20,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+464,Clarins,FREE 6-Piece Gift,2019-01-07,3.0,20.0,9.0,2019,1,7,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+465,Clarins,FREE 5-Piece Gift,2019-01-10,1.0,23.0,8.0,2019,1,10,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+466,Clarins,Dealmoon Chinese New Year Exclusive!,2019-01-22,4.0,17.0,5.0,2019,1,22,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+467,Clarins,Chinese New Year Dealmoon Exclusive!,2019-01-29,65.0,139.0,61.0,2019,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+468,Clarins,Chinese New Year Dealmoon Exclusive!,2019-02-05,14.0,36.0,5.0,2019,2,5,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+469,Clarins,Up to 25% Off,2019-02-22,4.0,28.0,10.0,2019,2,22,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+470,Clarins,Up to 25% off,2019-02-23,20.0,115.0,20.0,2019,2,23,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+471,Clarins,['Up to 25% off' 'Up to 25% Off'],2019-02-24,40.0,173.0,40.0,2019,2,24,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+472,Clarins,['Up to 25% Off' 'Up to 25% off'],2019-02-25,520.0,2215.0,1275.0,2019,2,25,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+473,Clarins,Powerful Radiance Gift,2019-02-27,11.0,26.0,10.0,2019,2,27,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+474,Clarins,Dealmoon Exclusive:,2019-03-07,0.0,8.0,4.0,2019,3,7,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+475,Clarins,Dealmoon Exclusive:,2019-03-09,6.0,19.0,15.0,2019,3,9,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+476,Clarins,6-piece gift,2019-03-13,2.0,10.0,6.0,2019,3,13,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+477,Clarins,7-piece gift,2019-03-17,8.0,8.0,9.0,2019,3,17,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+478,Clarins,8-piece gift,2019-04-02,25.0,37.0,17.0,2019,4,2,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+479,Clarins,10-pc free gift,2019-04-08,97.0,29.0,14.0,2019,4,8,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+480,Clarins,$44+GWP,2019-04-13,22.0,12.0,19.0,2019,4,13,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+481,Clarins,6-pc free gift ($88 Value),2019-04-15,37.0,21.0,12.0,2019,4,15,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+482,Clarins,Custom 5-pc Mother's Day Gift,2019-04-23,1.0,1.0,0.0,2019,4,23,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+483,Clarins,['Up to 6-pc free gift' 'Dealmoon Exclusive!'],2019-05-14,24.0,91.0,60.0,2019,5,14,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+484,Clarins,Memorial Day Sale!,2019-05-28,55.0,201.0,116.0,2019,5,28,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+485,Clarins,Free 7Pc Gift,2019-06-10,5.0,14.0,10.0,2019,6,10,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+486,Clarins,15% off,2019-06-20,5.0,19.0,6.0,2019,6,20,Thursday,False,Normal,Normal,Normal,Independence Day,0.15,False
+487,Clarins,"['Receive A Travel-Size Enhancing Eye Lift Serum (7mL+$30 Value)'
+ '15% Off' '15% off' '15% Off sitewide']",2019-06-21,265.0,448.0,274.0,2019,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+488,Clarins,Up to 8-pc free gift ($199 Value),2019-07-04,30.0,60.0,34.0,2019,7,4,Thursday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
+489,Clarins,Free 9pc Gift ($137 Value),2019-07-25,12.0,15.0,17.0,2019,7,25,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+490,Clarins,Get Free Lipstick + 6 Pieces Gift,2019-07-29,2.0,5.0,6.0,2019,7,29,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+491,Clarins,Free 5-piece Valentine’s Beauty Routine,2019-08-07,33.0,37.0,30.0,2019,8,7,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+492,Clarins,Free 10-Pc Gift,2019-08-13,7.0,12.0,8.0,2019,8,13,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+493,Clarins,Free Gifts,2019-08-27,1.0,16.0,14.0,2019,8,27,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+494,Clarins,Up to 30% Off + Free GIfts,2019-09-03,19.0,116.0,67.0,2019,9,3,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.3,False
+495,Clarins,Free Gifts,2019-09-05,0.0,5.0,14.0,2019,9,5,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+496,Clarins,Free Shipping,2019-09-18,5.0,7.0,10.0,2019,9,18,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+497,Clarins,Free Gifts,2019-09-20,0.0,18.0,8.0,2019,9,20,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+498,Clarins,['Up to 25% off' 'Up to 25% Off'],2019-10-18,632.0,1584.0,1017.0,2019,10,18,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+499,Clarins,Free 6-Piece Halloween Gift,2019-10-30,11.0,43.0,14.0,2019,10,30,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+500,Clarins,Free 6-Piece Gift,2019-11-01,11.0,19.0,92.0,2019,11,1,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+501,Clarins,As low as $60,2019-11-02,8.0,22.0,104.0,2019,11,2,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+502,Clarins,['$240 Value Free Gift' 'Up to 25% off' 'Up to $240 Value Free 14-PC Gift'],2019-11-12,45.0,94.0,278.0,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+503,Clarins,Free 10 Samples,2019-11-20,17.0,42.0,90.0,2019,11,20,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+504,Clarins,$9+Free 10 Samples,2019-11-22,33.0,68.0,123.0,2019,11,22,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+505,Clarins,['Up to 25% off' 'Up to 25% Off'],2019-12-02,28.0,291.0,385.0,2019,12,2,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+506,Clarins,['Up to 25% Off' 'Up to 25% off'],2019-12-03,653.0,1298.0,1013.0,2019,12,3,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+507,Clarins,$105 Value Free 9-PC Gift,2019-12-04,0.0,15.0,16.0,2019,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+508,Clarins,$146 Value Free 12-PC Gift + Free Shipping,2019-12-13,17.0,28.0,28.0,2019,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+509,Clarins,$105 Value Free Gifts + Free Shipping,2019-12-14,1.0,8.0,13.0,2019,12,14,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+510,Clarins,$88 Value Free Gifts + Free Shipping,2019-12-22,1.0,15.0,10.0,2019,12,22,Sunday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+511,Clarins,$79 Value Free Gifts,2019-12-27,1.0,6.0,9.0,2019,12,27,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+512,Clarins,$126 + 24H Early Access,2020-01-23,34.0,86.0,54.0,2020,1,23,Thursday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+513,Clarins,Choose 5-piece Gift + New Year Gifts,2020-01-26,30.0,93.0,44.0,2020,1,26,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+514,Clarins,Up to 9-piece Free Gift,2020-02-07,25.0,35.0,23.0,2020,2,7,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+515,Clarins,['Up to 25% off' 'Up to 25% Off+3-Pc Gifts'],2020-02-20,13.0,35.0,13.0,2020,2,20,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+516,Clarins,['Up to 25% Off' 'Up to 25% off'],2020-02-24,64.0,221.0,133.0,2020,2,24,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+517,Clarins,['Up to 25% off' 'Up to 25% Off + 3-Pc Gifts' 'Up to 25% Off'],2020-02-25,857.0,1265.0,967.0,2020,2,25,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+518,Clarins,Up to 11-Pc Gift,2020-03-06,0.0,6.0,2.0,2020,3,6,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+519,Clarins,Up to 11-Pc Gift,2020-03-07,0.0,4.0,6.0,2020,3,7,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+520,Clarins,Up to 6-Pc Gifts,2020-03-09,12.0,31.0,18.0,2020,3,9,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+521,Clarins,Up to 6-Pc Gifts,2020-03-21,59.0,45.0,49.0,2020,3,21,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+522,Clarins,Up to 10-Pc Gifts,2020-04-06,94.0,63.0,86.0,2020,4,6,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+523,Clarins,$35 Each+Free 6-Pc Gift,2020-04-20,0.0,7.0,6.0,2020,4,20,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+524,Clarins,Free Gifts,2020-04-22,40.0,41.0,25.0,2020,4,22,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+525,Clarins,Up to 6-Pc Gifts,2020-05-10,131.0,110.0,48.0,2020,5,10,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+526,Clarins,Up to $118 Gifts,2020-05-21,77.0,50.0,20.0,2020,5,21,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+527,Clarins,Up to 30% Off + Free Gifts,2020-05-26,307.0,308.0,279.0,2020,5,26,Tuesday,False,Normal,Normal,Normal,Normal,0.3,True
+528,Clarins,['Up to 25% Off' 'Free Gifts'],2020-06-18,60.0,114.0,63.0,2020,6,18,Thursday,False,Normal,Normal,Normal,Normal,0.0,False

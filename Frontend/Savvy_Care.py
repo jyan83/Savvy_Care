@@ -54,6 +54,7 @@ def discount(brand=None):
     file.close()
     
     [X_train, X_test, y_train, y_test, Y_pred, model] = object_file
+    y = model.predict(X_test)
     Y_pred = Y_pred[:28]
     
     PIK = 'datasets/Classification.dat'

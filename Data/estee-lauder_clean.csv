@@ -1,0 +1,747 @@
+,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,Estee Lauder,$85.00$130.00,2012-12-08,0.0,0.0,0.0,2012,12,8,Saturday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+1,Estee Lauder,"Price From $57,",2013-01-10,0.0,0.0,0.0,2013,1,10,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+2,Estee Lauder,Free samples and Free Shipping,2013-03-11,0.0,0.0,0.0,2013,3,11,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+3,Estee Lauder,Free 4 Samples,2013-03-14,0.0,0.0,0.0,2013,3,14,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+4,Estee Lauder,Free Deluxe Sameple Trio,2013-03-21,0.0,0.0,0.0,2013,3,21,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+5,Estee Lauder,Available now,2013-03-30,0.0,0.0,0.0,2013,3,30,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+6,Estee Lauder,"Free deluxe travel sizes of New Advanced Night Repair Eye Serum and Face Serum, plus Even Skintone Illuminator",2013-04-01,0.0,0.0,0.0,2013,4,1,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+7,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-04-02,0.0,0.0,0.0,2013,4,2,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+8,Estee Lauder,$65 ,2013-04-05,0.0,0.0,0.0,2013,4,5,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+9,Estee Lauder,Free 3-pc Deluxe Travel Sizes Serums,2013-04-07,0.0,0.0,0.0,2013,4,7,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+10,Estee Lauder,Free Travel-sized Sumptuous,2013-04-08,0.0,0.0,0.0,2013,4,8,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+11,Estee Lauder,['$29.50 ' 'Free 3-pc Deluxe Travel Sizes Serums'],2013-04-15,0.0,0.0,0.0,2013,4,15,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+12,Estee Lauder,5 Free samples,2013-04-18,0.0,0.0,0.0,2013,4,18,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+13,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-04-23,0.0,0.0,0.0,2013,4,23,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+14,Estee Lauder,Free 3-pc Deluxe Travel Sizes Serums,2013-04-24,0.0,1.0,0.0,2013,4,24,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+15,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-04-29,0.0,0.0,0.0,2013,4,29,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+16,Estee Lauder,4 Free samples,2013-05-01,0.0,0.0,0.0,2013,5,1,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+17,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-05-07,0.0,0.0,0.0,2013,5,7,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+18,Estee Lauder,Free 3-pc Bright Eye Kit,2013-05-11,0.0,1.0,0.0,2013,5,11,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+19,Estee Lauder,"3 piece Younger, Fresher Trio",2013-05-19,0.0,1.0,0.0,2013,5,19,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+20,Estee Lauder,5 Free Samples,2013-05-23,0.0,1.0,0.0,2013,5,23,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+21,Estee Lauder,Free Trio with purchase over $50,2013-05-27,0.0,0.0,0.0,2013,5,27,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,False
+22,Estee Lauder,Free Trio with purchase over $50,2013-05-28,0.0,0.0,0.0,2013,5,28,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+23,Estee Lauder,Free Trio with purchase over $50,2013-05-31,0.0,0.0,0.0,2013,5,31,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+24,Estee Lauder,Free Deluxe Travel Sizes of Advanced Night Repair Face Serum & Advanced Night Repair Eye Gel Crème,2013-06-01,0.0,1.0,0.0,2013,6,1,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+25,Estee Lauder,Free Anti-Wrinkle Sample Trio,2013-06-04,0.0,0.0,0.0,2013,6,4,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+26,Estee Lauder,Free deluxe travel size,2013-06-08,0.0,2.0,0.0,2013,6,8,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+27,Estee Lauder,Free deluxe travel sizes of New Advanced Time Zone Creme + New Multi-Action Cleanser & Toner,2013-06-09,0.0,0.0,0.0,2013,6,9,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+28,Estee Lauder,Free Lift & Repair Trio,2013-06-11,0.0,1.0,0.0,2013,6,11,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+29,Estee Lauder,5 Free Samples,2013-06-13,0.0,2.0,0.0,2013,6,13,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+30,Estee Lauder,Free 7-pieces Estee Lauder Gift Set,2013-06-27,0.0,2.0,0.0,2013,6,27,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+31,Estee Lauder,2 Deluxe Time Zone Samples,2013-06-28,0.0,1.0,0.0,2013,6,28,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+32,Estee Lauder,Free Trio with purchase over $50,2013-07-04,0.0,0.0,0.0,2013,7,4,Thursday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
+33,Estee Lauder,4 Free Samples,2013-07-09,0.0,0.0,0.0,2013,7,9,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+34,Estee Lauder,Free Sample Trio,2013-07-11,0.0,0.0,0.0,2013,7,11,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+35,Estee Lauder,Free Sample Trio,2013-07-15,0.0,0.0,0.0,2013,7,15,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+36,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-07-21,0.0,0.0,0.0,2013,7,21,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,True
+37,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-07-22,0.0,0.0,0.0,2013,7,22,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+38,Estee Lauder,Free deluxe travel size,2013-07-24,0.0,1.0,0.0,2013,7,24,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+39,Estee Lauder,$58 ,2013-07-29,0.0,2.0,0.0,2013,7,29,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+40,Estee Lauder,Free deluxe Travel Trio,2013-07-31,0.0,0.0,0.0,2013,7,31,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+41,Estee Lauder,"['Free 3-pc Deluxe Travel Sizes Samples'
+ 'Free Trio with purchase over $50']",2013-08-02,0.0,2.0,0.0,2013,8,2,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+42,Estee Lauder,Free 3-Piece Deluxe Advanced set,2013-08-06,0.0,1.0,0.0,2013,8,6,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+43,Estee Lauder,Free Re-Nutriv Intensive Age Renewal Creme and Eye Cream,2013-08-08,0.0,1.0,0.0,2013,8,8,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+44,Estee Lauder,Free Sample Trio,2013-08-09,0.0,1.0,0.0,2013,8,9,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+45,Estee Lauder,4 Free Samples,2013-08-14,0.0,1.0,0.0,2013,8,14,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+46,Estee Lauder,Free 2 pieces Advance Night Repair,2013-08-15,0.0,1.0,0.0,2013,8,15,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+47,Estee Lauder,Free 2 piece Sample Duo,2013-08-21,0.0,0.0,0.0,2013,8,21,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+48,Estee Lauder,['Free 2-pc Deluxe Travel Sizes Serums' 'Free Pomegranate Power Duo'],2013-08-26,0.0,1.0,0.0,2013,8,26,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+49,Estee Lauder,Free,2013-08-27,0.0,3.0,0.0,2013,8,27,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+50,Estee Lauder,Free Trio with purchase over $50,2013-09-02,0.0,3.0,0.0,2013,9,2,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,False
+51,Estee Lauder,Free deluxe Travel Trio,2013-09-05,0.0,2.0,0.0,2013,9,5,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+52,Estee Lauder,Free deluxe Travel Duo,2013-09-10,0.0,1.0,0.0,2013,9,10,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+53,Estee Lauder,Free deluxe Travel Trio,2013-09-13,0.0,0.0,0.0,2013,9,13,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+54,Estee Lauder,4 Free Samples,2013-09-16,0.0,1.0,0.0,2013,9,16,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+55,Estee Lauder,"['Dealmoon Exclusive:'
+ 'Dealmoon exlusive! Free 4 Estee Lauder Samples+ Modern Muse (4ml)']",2013-09-19,0.0,1.0,0.0,2013,9,19,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+56,Estee Lauder,"Free 7 pieces gift, Worth up to $135",2013-10-01,0.0,23.0,0.0,2013,10,1,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+57,Estee Lauder,Estee Lauder Limited Edition Sets,2013-10-06,0.0,14.0,0.0,2013,10,6,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+58,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-10-07,0.0,1.0,0.0,2013,10,7,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+59,Estee Lauder,Free Sample Trio,2013-10-11,0.0,1.0,0.0,2013,10,11,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+60,Estee Lauder,Free 2- piece,2013-10-16,0.0,3.0,0.0,2013,10,16,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+61,Estee Lauder,Free Deluxe Samples,2013-10-21,0.0,0.0,0.0,2013,10,21,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+62,Estee Lauder,Free 2-pc Deluxe Travel Sizes Serums,2013-10-22,0.0,2.0,0.0,2013,10,22,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+63,Estee Lauder,$37.50 Limited Edition Color Portfolio,2013-10-23,0.0,3.0,0.0,2013,10,23,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+64,Estee Lauder,Free Deluxe Samples,2013-10-24,0.0,0.0,0.0,2013,10,24,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+65,Estee Lauder,['Free 4-pc Deluxe Travel Sizes' 'Free Deluxe Travel Sizes ANR Eyes'],2013-10-29,0.0,8.0,0.0,2013,10,29,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+66,Estee Lauder,Free Deluxe Travel Sizes,2013-11-01,0.0,2.0,0.0,2013,11,1,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+67,Estee Lauder,$58.50 ,2013-11-04,0.0,4.0,0.0,2013,11,4,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+68,Estee Lauder,Free deluxe Travel Trio,2013-11-05,0.0,3.0,0.0,2013,11,5,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+69,Estee Lauder,Free 2-piece Anti-Aging Gifts,2013-11-10,0.0,5.0,0.0,2013,11,10,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+70,Estee Lauder,['Free 4-pc Deluxe Travel Sizes' '5 Samples with $50 Purchase'],2013-11-11,0.0,12.0,0.0,2013,11,11,Monday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+71,Estee Lauder,Second Wave! 4 Samples with $50 Purchase,2013-11-12,0.0,8.0,0.0,2013,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+72,Estee Lauder,Free Two Deluxe Travel Sizes,2013-11-16,0.0,3.0,0.0,2013,11,16,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+73,Estee Lauder,Free Sample Trio,2013-11-21,0.0,0.0,0.0,2013,11,21,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+74,Estee Lauder,Free 4-piece gift set + Sample Trio,2013-11-27,0.0,31.0,0.0,2013,11,27,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+75,Estee Lauder,5 Deluxe Samples,2013-11-29,0.0,14.0,0.0,2013,11,29,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+76,Estee Lauder,Dealmoon Exclusive! Free 6 Piece Gift,2013-11-30,0.0,27.0,0.0,2013,11,30,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+77,Estee Lauder,Free 5 Best Sellers Deluxe Samples,2013-12-02,0.0,10.0,0.0,2013,12,2,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+78,Estee Lauder,Free,2013-12-03,0.0,7.0,0.0,2013,12,3,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+79,Estee Lauder,"['Free ANR II + ANR Eye Serum + ATZ Eye 3ml Creme'
+ 'Free 4-piece travel size gifts']",2013-12-04,0.0,8.0,0.0,2013,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+80,Estee Lauder,Free 5 Holiday Essentials,2013-12-09,0.0,6.0,0.0,2013,12,9,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+81,Estee Lauder,"['$32.5 Limited Edition Pure Gold Make Up Set'
+ 'Free Full-Size Sumptuous Mascara and 3 Eye Essentials']",2013-12-10,0.0,6.0,0.0,2013,12,10,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+82,Estee Lauder,Free full-size mascara,2013-12-13,0.0,1.0,0.0,2013,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+83,Estee Lauder,Free 5 Holiday Essentials,2013-12-14,0.0,12.0,0.0,2013,12,14,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+84,Estee Lauder,Free 3 Travel Sizes Sample,2013-12-16,0.0,5.0,0.0,2013,12,16,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+85,Estee Lauder,['Free Sample Trio' 'Full-Size Makeup Remover'],2013-12-17,0.0,6.0,0.0,2013,12,17,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+86,Estee Lauder,Free 6 Deluxe Travel Size Sample,2013-12-22,0.0,15.0,0.0,2013,12,22,Sunday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+87,Estee Lauder,Free Deluxe Travel Size Of Advanced Night Repair & Perfectly Clean Crème Cleanser,2013-12-23,0.0,4.0,0.0,2013,12,23,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+88,Estee Lauder,Free Two Deluxe Travel Sizes,2013-12-24,0.0,4.0,0.0,2013,12,24,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+89,Estee Lauder,$116 ,2013-12-25,0.0,3.0,0.0,2013,12,25,Wednesday,False,Christmas Day,Christmas Day,Christmas Day,Christmas Day,0.0,False
+90,Estee Lauder,Free Deluxe Travel Sizes ANR Eyes,2013-12-26,0.0,1.0,0.0,2013,12,26,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+91,Estee Lauder,Free 2-piece Anti-Aging Gifts,2013-12-30,0.0,2.0,0.0,2013,12,30,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+92,Estee Lauder,Free 2-piece Beautiful Eyes Gifts,2014-01-06,0.0,3.0,0.0,2014,1,6,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+93,Estee Lauder,Free 3 Deluxe Samples,2014-01-09,0.0,2.0,0.0,2014,1,9,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+94,Estee Lauder,Free 2-piece Anti-Aging Gifts,2014-01-10,0.0,3.0,0.0,2014,1,10,Friday,True,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+95,Estee Lauder,$90 ,2014-01-11,0.0,12.0,0.0,2014,1,11,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+96,Estee Lauder,Free 4 Samples,2014-01-17,0.0,13.0,0.0,2014,1,17,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+97,Estee Lauder,['$65 ' '$60 '],2014-01-18,0.0,32.0,0.0,2014,1,18,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+98,Estee Lauder,['Free 5-piece Gift' 'Free 3 deluxe samples'],2014-01-20,0.0,10.0,0.0,2014,1,20,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+99,Estee Lauder,['Free Deluxe Travel Sizes' 'Free 2 Deluxe Travel Sizes'],2014-01-24,0.0,6.0,0.0,2014,1,24,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+100,Estee Lauder,Free 4-pc Deluxe Travel Sizes,2014-01-29,0.0,6.0,0.0,2014,1,29,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+101,Estee Lauder,Free 2 pieces Deluxe Travel Sizes,2014-01-30,0.0,3.0,0.0,2014,1,30,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+102,Estee Lauder,Free 3 Deluxe Samples,2014-01-31,0.0,4.0,0.0,2014,1,31,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+103,Estee Lauder,Free Full-Size Black Sumptuous Mascara & Full-Size Gentle Eye Makeup Remover,2014-02-01,0.0,7.0,0.0,2014,2,1,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+104,Estee Lauder,$65 ,2014-02-04,0.0,6.0,0.0,2014,2,4,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+105,Estee Lauder,Free 7-piece Gift,2014-02-13,0.0,87.0,0.0,2014,2,13,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+106,Estee Lauder,Free Deluxe Travel Sizes 3 Best Sellers Sumptuous Eyes,2014-02-14,0.0,2.0,0.0,2014,2,14,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+107,Estee Lauder,HOT HOT! Free 7-piece Gift,2014-02-15,0.0,20.0,0.0,2014,2,15,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+108,Estee Lauder,Free Sumptuous Eyes Set,2014-02-18,0.0,1.0,0.0,2014,2,18,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+109,Estee Lauder,Free 4 Samples,2014-02-20,0.0,5.0,0.0,2014,2,20,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+110,Estee Lauder,$10 Off Next Purchase,2014-02-21,0.0,5.0,0.0,2014,2,21,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+111,Estee Lauder,Revitalizing Supreme Global Anti-Aging Crème,2014-02-23,0.0,3.0,0.0,2014,2,23,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+112,Estee Lauder,Free Beautiful Eyes set,2014-02-25,0.0,3.0,0.0,2014,2,25,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+113,Estee Lauder,Free 3 Samples,2014-02-27,0.0,3.0,0.0,2014,2,27,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+114,Estee Lauder,Free Ideal Skin deluxe Travel Trio,2014-03-02,0.0,4.0,0.0,2014,3,2,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+115,Estee Lauder,Free 2-Piece Deluxe Advanced set,2014-03-04,0.0,8.0,0.0,2014,3,4,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+116,Estee Lauder,Free Deluxe Travel Sizes Serum Gift,2014-03-06,0.0,6.0,0.0,2014,3,6,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+117,Estee Lauder,Free 2-Piece Deluxe Night Lift Set,2014-03-08,0.0,9.0,0.0,2014,3,8,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+118,Estee Lauder,Free Deluxe Eye On Repair Gift,2014-03-10,0.0,2.0,0.0,2014,3,10,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+119,Estee Lauder,FREE 4 High Performance Formulas Samples,2014-03-13,0.0,10.0,0.0,2014,3,13,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+120,Estee Lauder,"Try Advanced Night Repair for $15, get $10 off Next Purchase",2014-03-17,0.0,5.0,0.0,2014,3,17,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+121,Estee Lauder,Free 3 Deluxe Travel Sizes Sample,2014-03-18,0.0,7.0,0.0,2014,3,18,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+122,Estee Lauder,Free 3 Deluxe Travel Sizes Sample,2014-03-20,0.0,0.0,0.0,2014,3,20,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+123,Estee Lauder,Free 2-Piece Deluxe Power Pair Set,2014-03-24,0.0,5.0,0.0,2014,3,24,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+124,Estee Lauder,Free 2-Piece Deluxe Power Nutritious Set,2014-03-25,0.0,10.0,0.0,2014,3,25,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+125,Estee Lauder,Free 3 Spring Favorites,2014-03-26,0.0,1.0,0.0,2014,3,26,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+126,Estee Lauder,Free Trio with purchase over $50,2014-03-30,0.0,5.0,0.0,2014,3,30,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+127,Estee Lauder,Free Radiant Start Skin deluxe Travel Trio,2014-04-02,0.0,2.0,0.0,2014,4,2,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+128,Estee Lauder,Free 4 Deluxe Travel Sizes of Top-rated Customer Favorites,2014-04-07,0.0,7.0,0.0,2014,4,7,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+129,Estee Lauder,Free Two Deluxe Travel Sizes,2014-04-09,0.0,0.0,0.0,2014,4,9,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+130,Estee Lauder,Free Two Deluxe Travel Sizes,2014-04-10,0.0,3.0,0.0,2014,4,10,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+131,Estee Lauder,"['$35 Spring Into Pink Limited Edition 8-pcs Set'
+ 'Free Two Deluxe Travel Sizes']",2014-04-14,0.0,8.0,0.0,2014,4,14,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+132,Estee Lauder,Free 4 Spring Best-Sellers,2014-04-18,0.0,15.0,0.0,2014,4,18,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+133,Estee Lauder,Free 3 Deluxe travel sizes Samples,2014-04-20,0.0,1.0,0.0,2014,4,20,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+134,Estee Lauder,Free 2 Deluxe travel sizes Samples,2014-04-22,0.0,2.0,0.0,2014,4,22,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+135,Estee Lauder,More For Eyes!,2014-04-23,0.0,1.0,0.0,2014,4,23,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+136,Estee Lauder,Free 2 Deluxe Travel Sizes Sample,2014-04-25,0.0,1.0,0.0,2014,4,25,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+137,Estee Lauder,FREE 4 Samples + $10 GC,2014-05-01,0.0,7.0,0.0,2014,5,1,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+138,Estee Lauder,1 FREE Deluxe Samples,2014-05-03,0.0,8.0,0.0,2014,5,3,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+139,Estee Lauder,['Up to $20 OFF' 'FREE 3 Samples + $10 GC'],2014-05-05,0.0,30.0,0.0,2014,5,5,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+140,Estee Lauder,FREE 2 Samples + $10 GC,2014-05-08,0.0,14.0,0.0,2014,5,8,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+141,Estee Lauder,FREE 3 Samples + $10 GC,2014-05-12,0.0,14.0,0.0,2014,5,12,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+142,Estee Lauder,Free 4 Spring Best-Sellers,2014-05-14,0.0,14.0,0.0,2014,5,14,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+143,Estee Lauder,15% OFF,2014-05-15,0.0,20.0,0.0,2014,5,15,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.15,False
+144,Estee Lauder,['Free Deluxe Sample Duo' 'Free 3 deluxe samples'],2014-05-16,0.0,7.0,0.0,2014,5,16,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+145,Estee Lauder,5 Free Deluxe Samples,2014-05-22,0.0,24.0,0.0,2014,5,22,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+146,Estee Lauder,Free 4-pc Deluxe Travel Sizes,2014-05-27,0.0,13.0,0.0,2014,5,27,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+147,Estee Lauder,2 Deluxe Travel samples,2014-05-28,0.0,1.0,0.0,2014,5,28,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+148,Estee Lauder,Free Two Deluxe Travel Sizes,2014-05-31,0.0,2.0,0.0,2014,5,31,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+149,Estee Lauder,Free 3 Deluxe Samples,2014-06-03,0.0,2.0,0.0,2014,6,3,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+150,Estee Lauder,3 Free deluxe samples,2014-06-06,0.0,2.0,0.0,2014,6,6,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+151,Estee Lauder,3 Free deluxe samples,2014-06-10,0.0,0.0,0.0,2014,6,10,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+152,Estee Lauder,5 Free Deluxe Samples,2014-06-13,0.0,6.0,0.0,2014,6,13,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+153,Estee Lauder,DealMoon Exclusive! Free 7-piece gift set + bonus perfectionist sample,2014-06-18,0.0,5.0,0.0,2014,6,18,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+154,Estee Lauder,$95 ,2014-06-25,0.0,2.0,0.0,2014,6,25,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+155,Estee Lauder,Free 7-piece gift set + 2 Extra Samples,2014-06-27,0.0,21.0,0.0,2014,6,27,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+156,Estee Lauder,Free 7-piece gift set,2014-07-03,0.0,43.0,0.0,2014,7,3,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+157,Estee Lauder,3 Free deluxe sample,2014-07-07,0.0,4.0,0.0,2014,7,7,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+158,Estee Lauder,5 Free Deluxe Samples,2014-07-10,0.0,19.0,0.0,2014,7,10,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+159,Estee Lauder,4 Free Deluxe Samples,2014-07-13,0.0,6.0,0.0,2014,7,13,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+160,Estee Lauder,4 Free Deluxe Samples,2014-07-15,0.0,5.0,0.0,2014,7,15,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+161,Estee Lauder,['Free Full-Size Double Wear Mascara' 'Free Two Deluxe Travel Sizes'],2014-07-22,0.0,3.0,0.0,2014,7,22,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+162,Estee Lauder,4 Free Deluxe Samples,2014-07-25,0.0,3.0,0.0,2014,7,25,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+163,Estee Lauder,3 Free Deluxe Samples,2014-07-28,0.0,2.0,0.0,2014,7,28,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+164,Estee Lauder,['2 Deluxe Travel samples' 'Free A Perfect Pair'],2014-07-30,0.0,1.0,0.0,2014,7,30,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+165,Estee Lauder,Try 2 Free All Clear Product,2014-08-04,0.0,2.0,0.0,2014,8,4,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+166,Estee Lauder,3 Free Deluxe Samples,2014-08-05,0.0,2.0,0.0,2014,8,5,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+167,Estee Lauder,Free 2 Deluxe travel sizes Samples,2014-08-07,0.0,4.0,0.0,2014,8,7,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,True
+168,Estee Lauder,Try 4 Free,2014-08-09,0.0,11.0,0.0,2014,8,9,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+169,Estee Lauder,Dealmoon Exclusive! Choose 4 Deluxe Samples + Free Revitalizing Supreme Creme,2014-08-15,0.0,11.0,0.0,2014,8,15,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+170,Estee Lauder,FREE Deluxe Samples,2014-08-17,0.0,3.0,0.0,2014,8,17,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,True
+171,Estee Lauder,3 Free deluxe samples,2014-08-20,0.0,1.0,0.0,2014,8,20,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+172,Estee Lauder,['Free 2 Deluxe Travel Sizes Sample' 'DealMoon Exclusive! FREE 3-Pc. Gift'],2014-08-22,0.0,9.0,0.0,2014,8,22,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+173,Estee Lauder,Free Deluxe Duo,2014-08-24,0.0,4.0,0.0,2014,8,24,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+174,Estee Lauder,3 Free deluxe samples,2014-08-26,0.0,1.0,0.0,2014,8,26,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+175,Estee Lauder,$65 ,2014-08-27,0.0,12.0,0.0,2014,8,27,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+176,Estee Lauder,['Free Full-Size Double Wear Mascara' 'Try 3 Free'],2014-08-29,0.0,7.0,0.0,2014,8,29,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+177,Estee Lauder,Dealmoon Exclusive! 4 Free Deluxe Samples,2014-08-30,0.0,24.0,0.0,2014,8,30,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+178,Estee Lauder,3 Free Samples,2014-09-01,0.0,4.0,0.0,2014,9,1,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,True
+179,Estee Lauder,3 Free Samples,2014-09-02,0.0,0.0,0.0,2014,9,2,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+180,Estee Lauder,Free Full-Size Gentle Eye Makeup Remover,2014-09-03,0.0,1.0,0.0,2014,9,3,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+181,Estee Lauder,Dealmoon Exclusive!,2014-09-08,0.0,12.0,0.0,2014,9,8,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+182,Estee Lauder,Free Deluxe Samples,2014-09-09,0.0,0.0,0.0,2014,9,9,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+183,Estee Lauder,3 Free Re-Nutriv Gifts,2014-09-12,0.0,10.0,0.0,2014,9,12,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+184,Estee Lauder,3 Free Deluxe Samples,2014-09-16,0.0,6.0,0.0,2014,9,16,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+185,Estee Lauder,5 Free Deluxe Samples,2014-09-20,0.0,14.0,0.0,2014,9,20,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,True
+186,Estee Lauder,$80 + 3 Deluxe Samples,2014-10-06,0.0,23.0,3.0,2014,10,6,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+187,Estee Lauder,Free 7-piece gift set + 2 Extra Sample,2014-10-09,0.0,57.0,0.0,2014,10,9,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+188,Estee Lauder,Free Cosmetic Bag with Gifts,2014-10-12,0.0,154.0,0.0,2014,10,12,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+189,Estee Lauder,Free 3 Deluxe Travel Size Sample,2014-10-13,0.0,6.0,0.0,2014,10,13,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,True
+190,Estee Lauder,"['DealMoon Exclusive! Free 3pc Revitalize & Renew Gifts'
+ 'Get Double Wear Makeup Kit For $10']",2014-10-15,0.0,31.0,0.0,2014,10,15,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+191,Estee Lauder,Free Deluxe Sample Duo of Perfect & Smooth,2014-10-16,0.0,4.0,0.0,2014,10,16,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+192,Estee Lauder,Free Deluxe Serum Sample Duo,2014-10-19,0.0,4.0,0.0,2014,10,19,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+193,Estee Lauder,Free Deluxe Travel Sizes of New Nutritious Rosy Prism Sample Duo,2014-10-21,0.0,5.0,0.0,2014,10,21,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+194,Estee Lauder,['DEALMOON EXCLUSIVE: 3 Free Deluxe Sample' 'Free 3 Deluxe Samples'],2014-10-24,0.0,15.0,0.0,2014,10,24,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+195,Estee Lauder,Free Full-Size Eye Gel Creme,2014-10-27,0.0,92.0,0.0,2014,10,27,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+196,Estee Lauder,4 Free Favorites Samples,2014-10-30,0.0,22.0,0.0,2014,10,30,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+197,Estee Lauder,Free Deluxe Travel Sizes of Advanced Time Zone Eye Cream and Night Creme,2014-11-01,0.0,22.0,0.0,2014,11,1,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+198,Estee Lauder,3 Deluxe Samples,2014-11-04,0.0,9.0,0.0,2014,11,4,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+199,Estee Lauder,Free Deluxe Serum and Creme Samples,2014-11-06,0.0,10.0,0.0,2014,11,6,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+200,Estee Lauder,['3 Free Deluxe Samples' 'Free Full Size Mascara'],2014-11-07,0.0,14.0,0.0,2014,11,7,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+201,Estee Lauder,New Customers Only,2014-11-08,0.0,132.0,0.0,2014,11,8,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+202,Estee Lauder,Free 2-Piece Deluxe Power Nutritious Set,2014-11-10,0.0,24.0,0.0,2014,11,10,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+203,Estee Lauder,Free 4 Fall Favorites,2014-11-11,0.0,12.0,0.0,2014,11,11,Tuesday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+204,Estee Lauder,Free 4 Fall Favorites,2014-11-12,0.0,31.0,0.0,2014,11,12,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+205,Estee Lauder,Free 3 Deluxe Samples,2014-11-13,0.0,14.0,0.0,2014,11,13,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+206,Estee Lauder,Free 3 Deluxe Samples,2014-11-17,0.0,32.0,0.0,2014,11,17,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+207,Estee Lauder,Free 3 Deluxe Serum Samples,2014-11-19,0.0,6.0,0.0,2014,11,19,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+208,Estee Lauder,Great Gift Set for $37.5(Over $165 Value),2014-11-20,0.0,99.0,0.0,2014,11,20,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+209,Estee Lauder,['Free Deluxe Sample Duo' 'Free 4 Pc Gift'],2014-11-21,0.0,75.0,0.0,2014,11,21,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+210,Estee Lauder,4 Free Favorites Samples,2014-11-25,0.0,152.0,0.0,2014,11,25,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+211,Estee Lauder,Free 5pc Samples,2014-11-27,0.0,120.0,0.0,2014,11,27,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+212,Estee Lauder,$19.50$32.50,2014-11-28,0.0,38.0,0.0,2014,11,28,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+213,Estee Lauder,Dealmoon Exclusive! Free 7pc Samples,2014-11-29,0.0,127.0,0.0,2014,11,29,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+214,Estee Lauder,"['Free Full-Size Perfectly Clean Multi-Action Foam Cleanser/Purifying Mask'
+ 'Dealmoon Exclusive! Free 7pc Samples']",2014-12-01,0.0,140.0,0.0,2014,12,1,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+215,Estee Lauder,Promotion Upgrade! FREE Full-Size Cleanser+3 Extra Samples,2014-12-02,0.0,53.0,0.0,2014,12,2,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+216,Estee Lauder,Dealmoon Exclusive! Free Holiday Gift Bag filled with 4 Deluxe Samples,2014-12-05,0.0,84.0,0.0,2014,12,5,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+217,Estee Lauder,Choose Beautiful or Pleasures Gift,2014-12-06,0.0,22.0,0.0,2014,12,6,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+218,Estee Lauder,3 Free Deluxe Samples,2014-12-07,0.0,12.0,0.0,2014,12,7,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+219,Estee Lauder,Limited Edition Glamour Set for $32.5(Worth over $150),2014-12-11,0.0,54.0,0.0,2014,12,11,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+220,Estee Lauder,['Dealmoon Exclusive! Free 6pc Samples' 'Free 7-piece Deluxe Samples'],2014-12-13,0.0,104.0,0.0,2014,12,13,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+221,Estee Lauder,From $29.5,2014-12-15,0.0,59.0,0.0,2014,12,15,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+222,Estee Lauder,From $35,2014-12-17,0.0,84.0,0.0,2014,12,17,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+223,Estee Lauder,$172.00$215.00,2014-12-18,0.0,10.0,0.0,2014,12,18,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+224,Estee Lauder,"['Free 3 high-shine lip glosses' '20% Off' '$90.40$113.00'
+ '$124.00$155.00']",2014-12-19,0.0,166.0,0.0,2014,12,19,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+225,Estee Lauder,Free 6-piece Deluxe Samples,2014-12-22,0.0,50.0,0.0,2014,12,22,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+226,Estee Lauder,Free 2 Deluxe Travel Size Sample,2014-12-24,0.0,12.0,0.0,2014,12,24,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+227,Estee Lauder,Free 2 Deluxe Sample,2014-12-27,0.0,16.0,0.0,2014,12,27,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+228,Estee Lauder,Free 3 Deluxe Travel Size Samples,2015-01-02,0.0,15.0,0.0,2015,1,2,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+229,Estee Lauder,['Free 2 Deluxe Samples' 'Free 2 Deluxe Sample'],2015-01-06,0.0,20.0,0.0,2015,1,6,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+230,Estee Lauder,$60 Limited time value set+3 PC. Gift,2015-01-08,0.0,52.0,0.0,2015,1,8,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+231,Estee Lauder,Free 3pc Deluxe Samples,2015-01-09,0.0,16.0,0.0,2015,1,9,Friday,True,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+232,Estee Lauder,Free 5pc Samples,2015-01-16,0.0,61.0,0.0,2015,1,16,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+233,Estee Lauder,Free Deluxe Travel Size Revitalizing Supreme Global Anti-Aging Crème,2015-01-18,0.0,13.0,0.0,2015,1,18,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+234,Estee Lauder,"['Free 7-Piece Gift, worth up to $150 + Dealmoon EXCLUSIVE Perfectly Clean Cleanser'
+ 'Free 7-Piece Gift, worth up to $150']",2015-02-05,0.0,64.0,0.0,2015,2,5,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+235,Estee Lauder,"['Free Travel Size Micro Essence Skin'
+ 'Free 6-Piece Gift, worth up to $150, with Any $45 Purchase']",2015-02-09,1.0,538.0,0.0,2015,2,9,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+236,Estee Lauder,Free Deluxe Travel Sizes of Perfectionist and Resilience Lift Night Creme,2015-02-12,0.0,8.0,0.0,2015,2,12,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+237,Estee Lauder,Free 3 Deluxe Travel Size Sample,2015-02-16,0.0,34.0,0.0,2015,2,16,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+238,Estee Lauder,Free 2-Piece Deluxe Power Nutritious Set,2015-02-17,0.0,8.0,0.0,2015,2,17,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+239,Estee Lauder,Free 4pc Samples,2015-02-18,0.0,6.0,0.0,2015,2,18,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+240,Estee Lauder,['Free 3-Piece Deluxe Gifts' 'Free 6 Samples'],2015-02-20,0.0,66.0,0.0,2015,2,20,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+241,Estee Lauder,2 Free ANR Deluxe Travel Size Samples,2015-02-25,0.0,20.0,0.0,2015,2,25,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+242,Estee Lauder,Free 3-Piece Deluxe Gifts,2015-02-26,0.0,13.0,0.0,2015,2,26,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+243,Estee Lauder,Free 2-Piece Deluxe Gifts,2015-02-28,0.0,13.0,0.0,2015,2,28,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+244,Estee Lauder,Free 3 Deluxe Samples,2015-03-03,0.0,11.0,0.0,2015,3,3,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+245,Estee Lauder,Free 3 Deluxe Samples,2015-03-04,0.0,14.0,0.0,2015,3,4,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+246,Estee Lauder,New Release,2015-03-05,0.0,15.0,0.0,2015,3,5,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+247,Estee Lauder,Free 3 Pieces Deluxe Samples,2015-03-08,0.0,27.0,0.0,2015,3,8,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+248,Estee Lauder,Try 4 Free,2015-03-10,0.0,18.0,0.0,2015,3,10,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+249,Estee Lauder,Try 4 Free,2015-03-13,0.0,14.0,0.0,2015,3,13,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+250,Estee Lauder,Free 2 Deluxe Samples,2015-03-17,0.0,8.0,0.0,2015,3,17,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+251,Estee Lauder,Dealmoon Exclusive! Free 3 Deluxe Supreme Stars Samples,2015-03-23,0.0,30.0,0.0,2015,3,23,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+252,Estee Lauder,Free 7-Piece Gift ($150 Value),2015-03-24,0.0,53.0,0.0,2015,3,24,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+253,Estee Lauder,3 Free Top-Rated Favorites for Spring,2015-03-25,0.0,13.0,0.0,2015,3,25,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+254,Estee Lauder,Free Deluxe Samples of 3 Favorites,2015-03-30,0.0,6.0,0.0,2015,3,30,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+255,Estee Lauder,2 Free Deluxe Advanced Night Repair Serum Samples,2015-03-31,0.0,16.0,0.0,2015,3,31,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+256,Estee Lauder,Free Deluxe Nutritious Sample Duo,2015-04-02,0.0,28.0,0.0,2015,4,2,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+257,Estee Lauder,2 Free Deluxe Radiant Skin Samples,2015-04-08,0.0,17.0,0.0,2015,4,8,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+258,Estee Lauder,Free Full-size Double Wear Mascara,2015-04-09,0.0,20.0,0.0,2015,4,9,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+259,Estee Lauder,['Free 3 Deluxe Samples' '$35 ($175 Value)'],2015-04-10,0.0,31.0,0.0,2015,4,10,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+260,Estee Lauder,Try 4 Free,2015-04-14,0.0,20.0,0.0,2015,4,14,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+261,Estee Lauder,Free 6 Free Deluxe Sample,2015-04-16,0.0,45.0,0.0,2015,4,16,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+262,Estee Lauder,Dealmoon Exclusive! Free 4 Faves,2015-04-20,0.0,35.0,0.0,2015,4,20,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+263,Estee Lauder,['Try 2 Free' 'Dealmoon Exclusive! Free 3 Faves'],2015-04-23,0.0,18.0,0.0,2015,4,23,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+264,Estee Lauder,Try 3 Free,2015-04-26,0.0,11.0,0.0,2015,4,26,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+265,Estee Lauder,Try 4 Free,2015-04-29,0.0,15.0,0.0,2015,4,29,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+266,Estee Lauder,Try 4 Free,2015-05-03,0.0,24.0,0.0,2015,5,3,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+267,Estee Lauder,Free 2 ANR Deluxe Samples,2015-05-04,0.0,23.0,0.0,2015,5,4,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+268,Estee Lauder,Free 3 Deluxe Samples,2015-05-07,0.0,12.0,0.0,2015,5,7,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+269,Estee Lauder,Up to $20 Off,2015-05-08,0.0,86.0,0.0,2015,5,8,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+270,Estee Lauder,0,2015-05-12,0.0,98.0,0.0,2015,5,12,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+271,Estee Lauder,Free 6pc Samples,2015-05-13,0.0,40.0,0.0,2015,5,13,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+272,Estee Lauder,Try 3 Free,2015-05-14,0.0,8.0,0.0,2015,5,14,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+273,Estee Lauder,Free 3 Deluxe Samples,2015-05-15,0.0,16.0,0.0,2015,5,15,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+274,Estee Lauder,Try 4 Favorites Free,2015-05-17,0.0,17.0,0.0,2015,5,17,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+275,Estee Lauder,Free 5 Piece Samples,2015-05-21,0.0,54.0,0.0,2015,5,21,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+276,Estee Lauder,Dealmoon Exclusive! 4 Pieces Gift,2015-05-26,0.0,54.0,0.0,2015,5,26,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+277,Estee Lauder,Free 3 Faves,2015-05-27,0.0,11.0,0.0,2015,5,27,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+278,Estee Lauder,['15% Off First Order + 2 Free Deluxe Samples' 'Try 2 Free'],2015-05-28,0.0,75.0,0.0,2015,5,28,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+279,Estee Lauder,Free 2 Deluxe Travel Size Samples,2015-06-01,0.0,9.0,0.0,2015,6,1,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+280,Estee Lauder,['Free 3 Deluxe Travel Size Samples' 'New Release'],2015-06-03,3.0,14.0,4.0,2015,6,3,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+281,Estee Lauder,['Free 2 Deluxe Travel Size Samples' 'Free 5-pc Sample'],2015-06-05,0.0,11.0,0.0,2015,6,5,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+282,Estee Lauder,15% Off First Order + 2 Free Deluxe Samples,2015-06-07,0.0,133.0,0.0,2015,6,7,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.15,True
+283,Estee Lauder,2 Free Deluxe Samples,2015-06-08,0.0,1.0,0.0,2015,6,8,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+284,Estee Lauder,Free 5 Piece Samples,2015-06-13,0.0,28.0,0.0,2015,6,13,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+285,Estee Lauder,Free 7-piece Gift Set,2015-06-14,0.0,9.0,0.0,2015,6,14,Sunday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,True
+286,Estee Lauder,Free 7-piece Gift Set,2015-06-18,0.0,28.0,0.0,2015,6,18,Thursday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,True
+287,Estee Lauder,Free 7-piece Gift Set,2015-06-20,0.0,36.0,0.0,2015,6,20,Saturday,True,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,True
+288,Estee Lauder,10 Beauty Secrets,2015-06-21,0.0,157.0,0.0,2015,6,21,Sunday,False,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,False
+289,Estee Lauder,Free 7-piece Gift Set,2015-06-30,0.0,111.0,0.0,2015,6,30,Tuesday,False,Normal,Independence Day (Observed),Independence Day (Observed),Independence Day (Observed),0.0,True
+290,Estee Lauder,Free 7-piece Gift Set,2015-07-02,0.0,428.0,0.0,2015,7,2,Thursday,False,Normal,Independence Day (Observed),Independence Day (Observed),Independence Day (Observed),0.0,True
+291,Estee Lauder,['Free 4 Pieces Deluxe Samples' 'Free 3 Pieces Deluxe Samples'],2015-07-08,0.0,19.0,0.0,2015,7,8,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+292,Estee Lauder,['4 Free Deluxe Samples' 'Get the Limited Edition Collection for $37.5'],2015-07-09,0.0,82.0,19.0,2015,7,9,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+293,Estee Lauder,Free 2-Piece Deluxe Gifts,2015-07-10,0.0,9.0,0.0,2015,7,10,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+294,Estee Lauder,Free 2-Piece Deluxe Gifts,2015-07-13,0.0,12.0,0.0,2015,7,13,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+295,Estee Lauder,['Free 2-day shipping' 'Free 7-piece Gift Set + Free 2-day shipping'],2015-07-15,0.0,40.0,0.0,2015,7,15,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+296,Estee Lauder,"['2 Free Deluxe Samples' 'Free 7-piece Gift Set + Free 2-day Shipping'
+ 'Free 7-piece Gift Set + Free 2-day shipping']",2015-07-16,0.0,155.0,0.0,2015,7,16,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+297,Estee Lauder,Free 4-piece Samples,2015-07-21,0.0,4.0,0.0,2015,7,21,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+298,Estee Lauder,Flash Sale! Ending Tonight! Free 4-piece Samples + Free Take It Away Makeup Remover,2015-07-23,0.0,25.0,0.0,2015,7,23,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+299,Estee Lauder,Free Advanced Night Repair 5 day supply,2015-07-27,0.0,4.0,0.0,2015,7,27,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+300,Estee Lauder,Free 2-Piece Deluxe Gifts,2015-07-30,0.0,6.0,0.0,2015,7,30,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+301,Estee Lauder,Free 3-Piece Deluxe Gifts,2015-07-31,0.0,13.0,0.0,2015,7,31,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+302,Estee Lauder,$55 + Free 3-Piece Deluxe Gifts,2015-08-01,0.0,15.0,0.0,2015,8,1,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,True
+303,Estee Lauder,All about,2015-08-04,0.0,17.0,0.0,2015,8,4,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+304,Estee Lauder,"['Dealmoon Exclusive! 15% Off First Order + 2 Deluxe Samples'
+ '2 Free Deluxe Samples']",2015-08-07,0.0,135.0,0.0,2015,8,7,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+305,Estee Lauder,['Free 5 Best Sellers Deluxe Sample' '2 Free Deluxe Samples'],2015-08-11,0.0,41.0,0.0,2015,8,11,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+306,Estee Lauder,Dealmoon Exclusive! 5 Free Deluxe Samples,2015-08-14,0.0,53.0,0.0,2015,8,14,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+307,Estee Lauder,2 Free Deluxe Samples,2015-08-19,0.0,2.0,0.0,2015,8,19,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+308,Estee Lauder,5 Free Deluxe Samples,2015-08-20,0.0,12.0,0.0,2015,8,20,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,True
+309,Estee Lauder,Dealmoon Exclusive! 5 Free Deluxe Samples,2015-08-21,0.0,125.0,0.0,2015,8,21,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+310,Estee Lauder,2 Free Deluxe Samples,2015-08-23,0.0,19.0,0.0,2015,8,23,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,True
+311,Estee Lauder,New Release!,2015-08-24,1.0,50.0,106.0,2015,8,24,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+312,Estee Lauder,Free 3 Faves,2015-08-25,0.0,17.0,0.0,2015,8,25,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+313,Estee Lauder,Free 2 Deluxe Samples,2015-08-27,0.0,11.0,0.0,2015,8,27,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+314,Estee Lauder,['Free 3 Deluxe Samples' '4 Free Deluxe Samples'],2015-08-28,0.0,36.0,0.0,2015,8,28,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+315,Estee Lauder,Free 2 Deluxe Samples,2015-09-02,0.0,14.0,0.0,2015,9,2,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+316,Estee Lauder,Free 3 Deluxe Samples,2015-09-07,0.0,29.0,0.0,2015,9,7,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,True
+317,Estee Lauder,Free 3 Deluxe Samples,2015-09-09,0.0,9.0,0.0,2015,9,9,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+318,Estee Lauder,Free 2 Deluxe Samples,2015-09-11,0.0,3.0,0.0,2015,9,11,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+319,Estee Lauder,4 Free Deluxe Samples,2015-09-15,0.0,24.0,0.0,2015,9,15,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+320,Estee Lauder,2 Free Deluxe Samples,2015-09-18,0.0,11.0,0.0,2015,9,18,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+321,Estee Lauder,Free Gift (Worth Over $150),2015-09-20,0.0,45.0,0.0,2015,9,20,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+322,Estee Lauder,Free Gift (Worth Over $150),2015-09-21,0.0,29.0,1.0,2015,9,21,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+323,Estee Lauder,Free 3 Deluxe Gift + Free 8pcs Gifts (Worth Over $150),2015-09-28,0.0,71.0,0.0,2015,9,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+324,Estee Lauder,Free Gift (Worth Over $150),2015-09-30,0.0,75.0,0.0,2015,9,30,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+325,Estee Lauder,['Free Gift (Worth Over $150)' 'Free 8-pcs Gift (worth over $150)'],2015-10-07,0.0,208.0,0.0,2015,10,7,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+326,Estee Lauder,['Free 11-pcs Gift (worth over $150)' '$33.50 ' 'Free 11-pcs Gift'],2015-10-08,0.0,235.0,1.0,2015,10,8,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+327,Estee Lauder,Free 11-pcs Gift (worth over $150),2015-10-09,0.0,12.0,0.0,2015,10,9,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+328,Estee Lauder,['From $60 + Free 11-pcs Gift' 'Free 11-pcs Gift (worth over $150)'],2015-10-10,0.0,265.0,2.0,2015,10,10,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+329,Estee Lauder,['Free Gift (Worth Over $150)' 'Free 10-pcs Gift (Worth Over $150)'],2015-10-12,0.0,849.0,0.0,2015,10,12,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+330,Estee Lauder,Free 2-Piece Deluxe Gifts,2015-10-13,0.0,20.0,0.0,2015,10,13,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+331,Estee Lauder,2 deluxe travel sizes,2015-10-14,0.0,6.0,0.0,2015,10,14,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+332,Estee Lauder,['$49.50 ' 'Free 2-Piece Deluxe Gifts'],2015-10-15,0.0,61.0,0.0,2015,10,15,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+333,Estee Lauder,Free 3 Pc Gift,2015-10-16,0.0,18.0,0.0,2015,10,16,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+334,Estee Lauder,Free 2 Pc Gift,2015-10-20,0.0,4.0,0.0,2015,10,20,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+335,Estee Lauder,Free Full-Size Eye Gel Creme,2015-10-25,0.0,838.0,5.0,2015,10,25,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+336,Estee Lauder,$59.5 Color Edit Limited Edition( $350 Value),2015-10-27,0.0,96.0,10.0,2015,10,27,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+337,Estee Lauder,['Free 4 Pc Gift' 'Free 3 Pc Gift'],2015-10-28,0.0,32.0,0.0,2015,10,28,Wednesday,False,Normal,Normal,Normal,Veterans Day,0.0,False
+338,Estee Lauder,Free 3 Pc Gift,2015-10-30,0.0,22.0,1.0,2015,10,30,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+339,Estee Lauder,Free #1 Advanced Night Repair Eye + Revitalizing Supreme Mask,2015-10-31,0.0,27.0,4.0,2015,10,31,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+340,Estee Lauder,Dealmoon Exclusive: Free 4-Piece Sample,2015-11-02,0.0,32.0,2.0,2015,11,2,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+341,Estee Lauder,Free 3 Pc Gift,2015-11-03,0.0,36.0,2.0,2015,11,3,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+342,Estee Lauder,From $21,2015-11-05,0.0,71.0,9.0,2015,11,5,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+343,Estee Lauder,Free 2 Pc Gift,2015-11-08,0.0,27.0,3.0,2015,11,8,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+344,Estee Lauder,Free 2 Pc Gift,2015-11-09,0.0,30.0,4.0,2015,11,9,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+345,Estee Lauder,Free Full Size Nutritious Cleanser + 2 Extra Samples,2015-11-12,0.0,678.0,171.0,2015,11,12,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+346,Estee Lauder,Free 3 Pc Gift,2015-11-15,0.0,125.0,17.0,2015,11,15,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+347,Estee Lauder,Free 3 Pc Gift,2015-11-16,0.0,21.0,11.0,2015,11,16,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+348,Estee Lauder,Free 3 Pc Gift,2015-11-18,0.0,38.0,6.0,2015,11,18,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+349,Estee Lauder,Get the Limited Edition Collection for $59.5,2015-11-20,0.0,131.0,31.0,2015,11,20,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+350,Estee Lauder,Free 3 Pc Gift,2015-11-21,0.0,72.0,6.0,2015,11,21,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+351,Estee Lauder,Get the Limited Edition Travel-Ready Skincare Collection for $39.5,2015-11-23,0.0,303.0,61.0,2015,11,23,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+352,Estee Lauder,['Free 4 Pc Gift' 'Dealmoon Exclusive: Free 5 Samples'],2015-11-24,0.0,231.0,41.0,2015,11,24,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+353,Estee Lauder,['Free 6pcs Samples' 'Free 5-pc Samples'],2015-11-25,0.0,357.0,77.0,2015,11,25,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+354,Estee Lauder,Free 6pcs Samples,2015-11-26,0.0,141.0,32.0,2015,11,26,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+355,Estee Lauder,['$19.50$32.50' 'Free 6pcs Samples'],2015-11-28,0.0,483.0,136.0,2015,11,28,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+356,Estee Lauder,Free 6-pc Deluxe Tavel Sample,2015-11-30,0.0,143.0,41.0,2015,11,30,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+357,Estee Lauder,3 faves + a surprise 7 piece gift,2015-12-01,0.0,86.0,16.0,2015,12,1,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+358,Estee Lauder,Free Fragrance Gift,2015-12-02,0.0,11.0,2.0,2015,12,2,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+359,Estee Lauder,Free 3 Pc Gift,2015-12-03,0.0,60.0,10.0,2015,12,3,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+360,Estee Lauder,Free 3 Pc Gift,2015-12-06,0.0,41.0,14.0,2015,12,6,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+361,Estee Lauder,$37.50 ,2015-12-07,0.0,40.0,7.0,2015,12,7,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+362,Estee Lauder,7 Free Samples,2015-12-10,0.0,55.0,21.0,2015,12,10,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,True
+363,Estee Lauder,Free 6 Pcs Gifts,2015-12-11,0.0,139.0,47.0,2015,12,11,Friday,True,Normal,Normal,Normal,Christmas Day,0.0,True
+364,Estee Lauder,Dealmoon Exclusive! 20% Off,2015-12-17,0.0,106.0,31.0,2015,12,17,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.2,False
+365,Estee Lauder,20% Off + Free 4 Deluxe Gifts,2015-12-18,0.0,47.0,30.0,2015,12,18,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.2,True
+366,Estee Lauder,['20% Off + Free 4 Deluxe Gifts' '20% Off + Free 7 pcs Gift'],2015-12-19,0.0,644.0,474.0,2015,12,19,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+367,Estee Lauder,Dealmoon Exclusive! Free 7 Pcs Gifts,2015-12-21,0.0,174.0,80.0,2015,12,21,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+368,Estee Lauder,['Free 5 Pcs Gifts' 'Dealmoon Exclusive! $52 + Free 6 Pcs Gift'],2015-12-22,0.0,102.0,29.0,2015,12,22,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+369,Estee Lauder,Free New Dimension Serum & Advanced Night Repair Eye,2015-12-27,0.0,41.0,14.0,2015,12,27,Sunday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+370,Estee Lauder,Free 2 Deluxe Samples,2015-12-29,0.0,26.0,7.0,2015,12,29,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+371,Estee Lauder,['$150 ' 'New Release'],2015-12-30,0.0,61.0,30.0,2015,12,30,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+372,Estee Lauder,Free 3 Deluxe Samples,2016-01-03,0.0,116.0,72.0,2016,1,3,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+373,Estee Lauder,Free 2 Deluxe Samples,2016-01-08,0.0,34.0,21.0,2016,1,8,Friday,True,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+374,Estee Lauder,Free 2 Deluxe Samples,2016-01-11,0.0,16.0,3.0,2016,1,11,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+375,Estee Lauder,Free 5 Samples,2016-01-13,0.0,59.0,30.0,2016,1,13,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+376,Estee Lauder,['$115 ' '$150 ' '$28 ' '$58 ' '$62 '],2016-01-14,0.0,91.0,33.0,2016,1,14,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+377,Estee Lauder,"['Free 5-day supply of New Dimension Expert Shape + Fill Serum (worth $21)'
+ 'Dealmoon Exclusive! Free 7 Deluxe Samples']",2016-01-15,0.0,175.0,153.0,2016,1,15,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+378,Estee Lauder,$21 ,2016-01-20,0.0,179.0,92.0,2016,1,20,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+379,Estee Lauder,Free 2 Deluxe Samples,2016-01-21,0.0,14.0,2.0,2016,1,21,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+380,Estee Lauder,Free 2 Deluxe Samples,2016-01-24,0.0,55.0,16.0,2016,1,24,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+381,Estee Lauder,Tonight Only! Free Full-Size Cleanser + Free 7-Pc Gift,2016-02-10,0.0,92.0,44.0,2016,2,10,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+382,Estee Lauder,Free 8 Deluxe Samples ($125 Value),2016-02-11,0.0,895.0,481.0,2016,2,11,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+383,Estee Lauder,Free 7-Pc Gift + Free Free Full Size Sumptuous Mascara + Full Size Little Black Primer,2016-02-12,0.0,62.0,26.0,2016,2,12,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+384,Estee Lauder,Free Full Size Gentle Eye Makeup Remover + 7-Pc Gift,2016-02-13,0.0,44.0,31.0,2016,2,13,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+385,Estee Lauder,Free 4 Deluxe Samples,2016-02-18,0.0,35.0,15.0,2016,2,18,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+386,Estee Lauder,4 free deluxe travel sizes gift,2016-02-20,0.0,57.0,17.0,2016,2,20,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+387,Estee Lauder,Free 2 Nutritious Best Sellers,2016-02-23,0.0,54.0,31.0,2016,2,23,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+388,Estee Lauder,Free 3 Deluxe Samples,2016-02-25,0.0,60.0,34.0,2016,2,25,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+389,Estee Lauder,Free 2 Deluxe Samples,2016-02-27,0.0,42.0,24.0,2016,2,27,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+390,Estee Lauder,['Free 2 Deluxe Samples' 'DealMoon Exclusive: 4pc Beauty Sleep Gift'],2016-03-01,0.0,133.0,71.0,2016,3,1,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+391,Estee Lauder,Free 3 Deluxe Samples,2016-03-03,0.0,19.0,9.0,2016,3,3,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+392,Estee Lauder,['Dealmoon Exclusive! Free 6-pcs Gift' 'Free 2 Deluxe Samples'],2016-03-07,0.0,98.0,37.0,2016,3,7,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+393,Estee Lauder,Dealmoon Exclusive! Free 6-pcs Gift,2016-03-10,0.0,255.0,119.0,2016,3,10,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+394,Estee Lauder,Free 3 Deluxe Samples,2016-03-14,0.0,40.0,8.0,2016,3,14,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+395,Estee Lauder,Free 3 Deluxe Samples,2016-03-15,0.0,24.0,9.0,2016,3,15,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+396,Estee Lauder,15% Off One Online Order,2016-03-17,0.0,128.0,20.0,2016,3,17,Thursday,False,Normal,Normal,Normal,Normal,0.15,False
+397,Estee Lauder,Free 2 Deluxe Samples,2016-03-19,0.0,17.0,7.0,2016,3,19,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+398,Estee Lauder,Free Surprise Gift!,2016-03-26,0.0,183.0,68.0,2016,3,26,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+399,Estee Lauder,3 Free Deluxe Samples,2016-03-29,0.0,25.0,11.0,2016,3,29,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+400,Estee Lauder,['Today Only !! Free 7 Deluxe Samples ($125 Value)' '$62 '],2016-04-08,0.0,236.0,188.0,2016,4,8,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+401,Estee Lauder,Dealmoon Exclusive! 5 Free Deluxe Samples,2016-04-13,0.0,74.0,49.0,2016,4,13,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+402,Estee Lauder,2 Free Deluxe Samples,2016-04-21,0.0,9.0,2.0,2016,4,21,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+403,Estee Lauder,3 Free Deluxe Samples,2016-04-25,0.0,38.0,25.0,2016,4,25,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+404,Estee Lauder,Free 3 Favorites,2016-05-01,0.0,55.0,15.0,2016,5,1,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+405,Estee Lauder,"$10 off $50, $20 off $100",2016-05-03,0.0,498.0,213.0,2016,5,3,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+406,Estee Lauder,New Release,2016-05-06,0.0,47.0,16.0,2016,5,6,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+407,Estee Lauder,Up to 8 Free Deluxe Gifts,2016-05-29,0.0,249.0,79.0,2016,5,29,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+408,Estee Lauder,Free Deluxe Sample,2016-06-08,0.0,16.0,6.0,2016,6,8,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+409,Estee Lauder,['Free 9-piece Gift Set + Free 2-day shipping' 'Free 9-pcs Gift'],2016-06-13,1.0,81.0,14.0,2016,6,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+410,Estee Lauder,['Dealmoon Exclusive! Free 9-pcs Gift' 'Free 9-pcs Gift' '$30 '],2016-06-15,0.0,308.0,108.0,2016,6,15,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+411,Estee Lauder,DealMoon Exclusive! 9-Piece Gift,2016-06-16,0.0,277.0,222.0,2016,6,16,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+412,Estee Lauder,7-Piece Gift,2016-07-01,0.0,92.0,50.0,2016,7,1,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+413,Estee Lauder,Free Advanced Night Repair PowerFoil Mask (worth $22),2016-07-09,0.0,18.0,4.0,2016,7,9,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+414,Estee Lauder,Free Deluxe Sample,2016-07-10,0.0,41.0,18.0,2016,7,10,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+415,Estee Lauder,Free 7-pcs Gift,2016-07-12,0.0,12.0,12.0,2016,7,12,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+416,Estee Lauder,"['Today Only! Free 7-Piece Gift' 'Free Deluxe Sample with Every $25'
+ '$45 ']",2016-07-13,1.0,236.0,128.0,2016,7,13,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+417,Estee Lauder,Free Deluxe Sample with Every $25 Spend,2016-07-20,0.0,17.0,8.0,2016,7,20,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+418,Estee Lauder,Free Advanced Night Repair Sample,2016-07-23,0.0,14.0,6.0,2016,7,23,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,True
+419,Estee Lauder,"['Dealmoon Exclusive! GWP with Every $25 Spend'
+ 'Free Deluxe Sample with Every $25 Spend']",2016-07-28,0.0,28.0,15.0,2016,7,28,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+420,Estee Lauder,Choose a Free Deluxe Trial-Size Sample,2016-07-29,0.0,6.0,5.0,2016,7,29,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+421,Estee Lauder,Dealmoon Exclusive! Free Deluxe Sample with Every $25 You Spend,2016-08-01,1.0,27.0,9.0,2016,8,1,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+422,Estee Lauder,Free 4 Deluxe Samples,2016-08-09,2.0,12.0,1.0,2016,8,9,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+423,Estee Lauder,"['Free Full-Size New Dimension Firm + Fill Eye System (worth $79)'
+ '$67.20 ']",2016-08-19,194.0,269.0,183.0,2016,8,19,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+424,Estee Lauder,['15% Off' '$45.90 ' '$27.20 '],2016-08-20,23.0,128.0,16.0,2016,8,20,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+425,Estee Lauder,$49.30 ,2016-08-21,25.0,103.0,17.0,2016,8,21,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+426,Estee Lauder,$52.70 ,2016-08-22,13.0,99.0,35.0,2016,8,22,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+427,Estee Lauder,15% Off One Online Order,2016-08-25,74.0,354.0,134.0,2016,8,25,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.15,False
+428,Estee Lauder,15% Off,2016-08-26,40.0,160.0,55.0,2016,8,26,Friday,True,Normal,Normal,Labor Day,Labor Day,0.15,False
+429,Estee Lauder,Mobile Exclusive! Free Deluxe Sample,2016-08-29,7.0,16.0,10.0,2016,8,29,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+430,Estee Lauder,Dealmoon Exclusive! Up to 5 free deluxe samples!,2016-09-13,138.0,55.0,16.0,2016,9,13,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+431,Estee Lauder,Dealmoon Exclusive! Up to 5 free deluxe samples!,2016-09-14,2.0,22.0,4.0,2016,9,14,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+432,Estee Lauder,['$32 ' '$39.50 ' '$68 ' '$52 ' '$79+Free Gifts'],2016-09-21,11.0,111.0,28.0,2016,9,21,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+433,Estee Lauder,"['$58 ' 'Free Gifts' '$72 ' '$45 ' 'Dealmoon Exclusive! Free 8-Piece Gift'
+ '$10 ' 'Free 8-Piece Gift With' '$58+Free Samples' '$65 ' '$64 ' '$62 '
+ 'Free 9-Piece Gift With' '$110 + Gifts' '$54 ' 'Free 8-piece gift']",2016-09-22,507.0,944.0,472.0,2016,9,22,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+434,Estee Lauder,$58 ,2016-09-27,13.0,28.0,10.0,2016,9,27,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+435,Estee Lauder,['$54 ' '$110 + Gifts'],2016-09-28,14.0,62.0,10.0,2016,9,28,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+436,Estee Lauder,$45 + GWP,2016-09-29,6.0,14.0,3.0,2016,9,29,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+437,Estee Lauder,Free 7-piece gift,2016-09-30,2.0,25.0,1.0,2016,9,30,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+438,Estee Lauder,$10 ,2016-10-01,30.0,100.0,16.0,2016,10,1,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+439,Estee Lauder,Free 9-Piece Gift,2016-10-05,19.0,73.0,5.0,2016,10,5,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+440,Estee Lauder,"['Dealmoon Exclusive! Free 9-Piece Gift' '$39.50 ' 'GWP' '$79+Free Gifts'
+ '$32 ' '$68+Free 9-piece gift']",2016-10-06,56.0,163.0,15.0,2016,10,6,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+441,Estee Lauder,"['Dealmoon Exclusive! Free 9-Piece Gift' '$45 ' '$35 ' 'Free 9-Piece Gift'
+ 'Free 9-piece gift']",2016-10-08,108.0,437.0,77.0,2016,10,8,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+442,Estee Lauder,"['Free 7-Piece Gift' '$45 +GWP' '$29 +GWP with $45 purchase' '$35 '
+ '$32 +GWP with $45 purchase' '$58+GWP' '$39.50 '
+ 'Dealmoon Exclusive! Free 9-Piece Gift' '$62 ' '$58 ' '$110 + Gifts'
+ '$54 ']",2016-10-09,496.0,1516.0,329.0,2016,10,9,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+443,Estee Lauder,['Free 7-Piece Gift With' 'Free 7-Piece Gift'],2016-10-10,159.0,339.0,97.0,2016,10,10,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+444,Estee Lauder,Free Deluxe Sample,2016-10-12,9.0,17.0,5.0,2016,10,12,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+445,Estee Lauder,Get the Limited Edition 46 Hot Shades for $39.5,2016-10-18,26.0,135.0,29.0,2016,10,18,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+446,Estee Lauder,['Receive a Full-Size Eye Gel Creme (worth $58)' 'ROUND UP'],2016-10-24,1869.0,2080.0,1192.0,2016,10,24,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+447,Estee Lauder,"['$97(Up to $435 Value)'
+ 'Only $62 (Value Over $385) 29pcs Beauty Essentials']",2016-10-27,640.0,675.0,375.0,2016,10,27,Thursday,False,Normal,Normal,Normal,Veterans Day,0.0,False
+448,Estee Lauder,50% off double wear Makeup to go,2016-10-31,32.0,154.0,21.0,2016,10,31,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.5,False
+449,Estee Lauder,Up to 17-pc gifts,2016-11-09,10.0,34.0,11.0,2016,11,9,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+450,Estee Lauder,Up to 13-pc gifts,2016-11-10,5.0,37.0,8.0,2016,11,10,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+451,Estee Lauder,Up to 13-pc gifts,2016-11-12,110.0,424.0,140.0,2016,11,12,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+452,Estee Lauder,['Up to 13-pc gifts' 'Up to 17-pc gifts'],2016-11-13,384.0,921.0,423.0,2016,11,13,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+453,Estee Lauder,$39.5( worth over $160 ) + up to 6 samples,2016-11-18,233.0,313.0,106.0,2016,11,18,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+454,Estee Lauder,Free full size new dimension serum (worth $129),2016-11-22,305.0,400.0,435.0,2016,11,22,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+455,Estee Lauder,TONIGHT ONLY! Get 3 Nutritious favorites and a best-selling mascara,2016-11-23,119.0,201.0,145.0,2016,11,23,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+456,Estee Lauder,Get 2 deluxe samples,2016-11-24,160.0,281.0,209.0,2016,11,24,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+457,Estee Lauder,"['Get up to 9 deluxe samples' 'Today Only! 25% off one online order'
+ 'Today Only! 25% off set sale one online order']",2016-11-26,1670.0,2261.0,1934.0,2016,11,26,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+458,Estee Lauder,Today Only! Get full size Nutritious 2-in-1 foam cleanser and up to 9 deluxe samples,2016-11-27,214.0,262.0,147.0,2016,11,27,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+459,Estee Lauder,Cyber Surprise! Receive a Free 7-Piece Gift worth over $90,2016-11-29,1092.0,656.0,539.0,2016,11,29,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+460,Estee Lauder,50% off double wear Makeup to go,2016-12-01,32.0,155.0,45.0,2016,12,1,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.5,False
+461,Estee Lauder,"['50% off double wear Makeup to go'
+ '3 must-haves for radiant skin and more']",2016-12-06,24.0,88.0,30.0,2016,12,6,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+462,Estee Lauder,"['up to 12 deluxe samples'
+ 'Limited Edition Makeup Collection for $25 (Worth Over $100)']",2016-12-08,281.0,369.0,198.0,2016,12,8,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+463,Estee Lauder,20% off $100 + Up to 6 Deluxe Samples,2016-12-11,22.0,77.0,33.0,2016,12,11,Sunday,False,Normal,Normal,Normal,Christmas Day,0.2,True
+464,Estee Lauder,['20% off $100 with value sets' '20% off + Up to 8 deluxe samples'],2016-12-12,35.0,146.0,64.0,2016,12,12,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+465,Estee Lauder,20% off $100,2016-12-14,87.0,66.0,39.0,2016,12,14,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.2,False
+466,Estee Lauder,['20% off $100 + Up to 6 Deluxe Samples' '20% off $100'],2016-12-15,104.0,153.0,88.0,2016,12,15,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+467,Estee Lauder,20% off $100,2016-12-17,855.0,1149.0,908.0,2016,12,17,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.2,False
+468,Estee Lauder,Free 7-Pc Gift,2016-12-20,77.0,65.0,24.0,2016,12,20,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+469,Estee Lauder,"['50% off double wear Makeup to go'
+ 'get a Free full-size second one + up to 6 samples']",2016-12-30,40.0,148.0,42.0,2016,12,30,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+470,Estee Lauder,50% off double wear Makeup to go,2017-01-10,38.0,154.0,37.0,2017,1,10,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.5,False
+471,Estee Lauder,Free Nutritious Cleanser and Creme + up to 6 deluxe samples,2017-01-12,54.0,256.0,64.0,2017,1,12,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+472,Estee Lauder,Save $20 + up to 6 deluxe samples,2017-01-17,73.0,209.0,117.0,2017,1,17,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+473,Estee Lauder,Free 14 Deluxe Samples,2017-01-24,39.0,81.0,62.0,2017,1,24,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+474,Estee Lauder,Free 14 Deluxe Samples,2017-01-26,6.0,39.0,13.0,2017,1,26,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+475,Estee Lauder,['Free 14 Deluxe Samples' 'Up to 12 Deluxe Samples'],2017-01-27,17.0,52.0,63.0,2017,1,27,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+476,Estee Lauder,Free 7-pc Gift (up to $184 Value),2017-01-29,52.0,145.0,78.0,2017,1,29,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+477,Estee Lauder,Free 7-pc Gift (up to $184 Value),2017-01-30,29.0,164.0,66.0,2017,1,30,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+478,Estee Lauder,Free 7-pc Gift (up to $184 Value),2017-01-31,49.0,149.0,35.0,2017,1,31,Tuesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+479,Estee Lauder,Free 7-pc Gift (up to $184 Value),2017-02-01,61.0,240.0,63.0,2017,2,1,Wednesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+480,Estee Lauder,Free 7-pc Gift (up to $184 Value),2017-02-08,46.0,91.0,52.0,2017,2,8,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+481,Estee Lauder,Free 7-pc Gift (up to $184 Value),2017-02-10,933.0,965.0,687.0,2017,2,10,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+482,Estee Lauder,Up to 6 deluxe sample and free cleanser & mascara,2017-02-17,15.0,66.0,24.0,2017,2,17,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+483,Estee Lauder,DEALMOON EXCLUSIVE! Up to 6 samples,2017-02-23,33.0,110.0,41.0,2017,2,23,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+484,Estee Lauder,DEALMOON EXCLUSIVE! Up to 6 samples,2017-02-24,32.0,129.0,54.0,2017,2,24,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+485,Estee Lauder,DEALMOON EXCLUSIVE!,2017-02-28,11.0,42.0,20.0,2017,2,28,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+486,Estee Lauder,Get double loyalty points,2017-03-02,17.0,62.0,13.0,2017,3,2,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+487,Estee Lauder,3 luxury traveler samples + Up to 6 samples,2017-03-03,46.0,115.0,60.0,2017,3,3,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+488,Estee Lauder,Get an Extra 20% off with Top 10 Products and Spend $300 on Estee Lauder Products at Selected Local Stores,2017-03-04,118.0,265.0,286.0,2017,3,4,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.2,False
+489,Estee Lauder,Dealmoon Exclusive！ Choose 4 best sellers,2017-03-09,66.0,140.0,60.0,2017,3,9,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+490,Estee Lauder,Up to 6 samples,2017-03-12,24.0,95.0,32.0,2017,3,12,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+491,Estee Lauder,DEALMOON EXCLUSIVE! Up to 6 samples,2017-03-14,11.0,35.0,7.0,2017,3,14,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+492,Estee Lauder,DEALMOON EXCLUSIVE! Up to 6 samples,2017-03-15,41.0,81.0,62.0,2017,3,15,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+493,Estee Lauder,['Free 7-pc Gift' 'Dealmoon Exclusive! Free 7-pc Gift'],2017-04-13,730.0,645.0,448.0,2017,4,13,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+494,Estee Lauder,['40% off' 'Up to 6 deluxe samples'],2017-04-17,53.0,115.0,56.0,2017,4,17,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+495,Estee Lauder,Choose your pure Color Envy Makeup Collection for $42.5,2017-04-25,112.0,112.0,34.0,2017,4,25,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+496,Estee Lauder,Buy any full-size Modern Muse Chic or Le Rouge Gloss Eau de Parfum Spray & get a second one FREE,2017-04-27,40.0,67.0,27.0,2017,4,27,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+497,Estee Lauder,up to 6 deluxe samples,2017-05-08,25.0,47.0,26.0,2017,5,8,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+498,Estee Lauder,Dealmoon Exclusive! 40% Off,2017-05-10,53.0,188.0,54.0,2017,5,10,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.4,False
+499,Estee Lauder,['Receive a full-size Micro Essence Aquaceutical Mist' '50% off'],2017-05-19,57.0,237.0,93.0,2017,5,19,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+500,Estee Lauder,Receive a full-size Micro Essence Aquaceutical Mist,2017-05-25,12.0,51.0,14.0,2017,5,25,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+501,Estee Lauder,DEALMOON EXCLUSIVE FOR E-LISTERS！20% off,2017-06-01,10.0,39.0,22.0,2017,6,1,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.2,False
+502,Estee Lauder,DEALMOON EXCLUSIVE FOR E-LISTERS！20% off,2017-06-02,61.0,201.0,89.0,2017,6,2,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.2,False
+503,Estee Lauder,DEALMOON EXCLUSIVE FOR E-LISTERS！20% off,2017-06-03,4.0,21.0,14.0,2017,6,3,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.2,False
+504,Estee Lauder,DEALMOON EXCLUSIVE FOR E-LISTERS！20% off,2017-06-05,39.0,214.0,80.0,2017,6,5,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+505,Estee Lauder,"['DEALMOON EXCLUSIVE FOR E-LISTERS！20% off'
+ '20% off $75 + Up to 8 Deluxe Samples']",2017-06-06,503.0,1164.0,890.0,2017,6,6,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+506,Estee Lauder,['Up to 9-pc GWP' 'DEALMOON EXCLUSIVE！Free 7-Piece Gift'],2017-06-14,9.0,42.0,17.0,2017,6,14,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+507,Estee Lauder,Up to 9-pc GWP,2017-06-15,0.0,21.0,19.0,2017,6,15,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+508,Estee Lauder,DEALMOON EXCLUSIVE！Free 7-Piece Gift with $45 Pure Color Envy Lip Potion Collection purchase,2017-06-16,52.0,102.0,43.0,2017,6,16,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+509,Estee Lauder,Up to 9-pc GWP,2017-06-20,19.0,98.0,30.0,2017,6,20,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+510,Estee Lauder,Up to 9-pc GWP,2017-06-21,49.0,188.0,36.0,2017,6,21,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+511,Estee Lauder,Up to 9-pc GWP,2017-06-22,85.0,334.0,180.0,2017,6,22,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+512,Estee Lauder,['DEALMOON EXCLUSIVE！Up to 11-pc GWP' 'Free 7-pc GWP with $45 purchase'],2017-06-28,37.0,178.0,86.0,2017,6,28,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+513,Estee Lauder,['Free 7-pc GWP' 'Free 7-pc GWP with $45 Value set purchase'],2017-07-03,357.0,702.0,501.0,2017,7,3,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+514,Estee Lauder,Up to 9-pc GWP,2017-07-04,14.0,114.0,71.0,2017,7,4,Tuesday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,True
+515,Estee Lauder,Today Only! Free 7-pc GWP,2017-07-11,12.0,26.0,13.0,2017,7,11,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+516,Estee Lauder,['Today Only! Free 7-pc GWP' 'Today Only! 50% Off + Free 7-pc GWP'],2017-07-12,73.0,192.0,113.0,2017,7,12,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+517,Estee Lauder,50% Off,2017-07-13,70.0,197.0,93.0,2017,7,13,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.5,False
+518,Estee Lauder,"TONIGHT ONLY! receive deluxe samples of NEW Advanced Night Repair Eye Concentrate Matrix, Revitalizing Supreme+ Creme and Advanced Night Foam Cleanser with $50 purchase",2017-07-18,6.0,30.0,25.0,2017,7,18,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+519,Estee Lauder,TONIGHT ONLY! receive a free Full-Size of our best-selling Double Wear Long-Wear Makeup Remover Wipes with $50 purchase,2017-07-19,4.0,16.0,6.0,2017,7,19,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+520,Estee Lauder,DEALMOON EXCLUSIVE! Receive a free full-size gift with $50 purchase,2017-07-23,20.0,128.0,43.0,2017,7,23,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+521,Estee Lauder,Up to 10 free samples,2017-07-27,6.0,25.0,10.0,2017,7,27,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+522,Estee Lauder,Dealmoon Exclusive! Free Full-Size Pure Color Envy Liquid Lip Potion ($32 Value),2017-07-31,5.0,60.0,24.0,2017,7,31,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+523,Estee Lauder,['receive a free 7-pc gift' 'Today Only! Free 7-pc GWP'],2017-08-27,44.0,78.0,37.0,2017,8,27,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+524,Estee Lauder,receive a free 7-pc gift,2017-08-28,85.0,333.0,131.0,2017,8,28,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+525,Estee Lauder,receive a free 7-pc gift,2017-08-29,12.0,54.0,23.0,2017,8,29,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+526,Estee Lauder,receive a free 7-pc gift,2017-08-31,715.0,759.0,599.0,2017,8,31,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+527,Estee Lauder,Up to 6 deluxe samples,2017-09-18,17.0,75.0,42.0,2017,9,18,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+528,Estee Lauder,Receive a free 7-pc gift,2017-09-26,3.0,34.0,6.0,2017,9,26,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+529,Estee Lauder,Receive a Free 7-pc Gift,2017-09-27,6.0,26.0,3.0,2017,9,27,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+530,Estee Lauder,receive a free 7-pc gift,2017-09-30,9.0,85.0,24.0,2017,9,30,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+531,Estee Lauder,['receive a free 7-pc gift' 'Free 7-pc GWP' 'Free 7-pc Gift'],2017-10-01,118.0,192.0,76.0,2017,10,1,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+532,Estee Lauder,['Receive a free 7-pc gift' 'Receive a Free 7-pc Gift'],2017-10-04,43.0,121.0,58.0,2017,10,4,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+533,Estee Lauder,receive a free 7-pc gift,2017-10-05,20.0,111.0,32.0,2017,10,5,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+534,Estee Lauder,['receive a free 7-pc gift' 'Receive a free 7-pc gift'],2017-10-06,43.0,327.0,137.0,2017,10,6,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+535,Estee Lauder,receive a free 7-pc gift,2017-10-07,42.0,281.0,108.0,2017,10,7,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+536,Estee Lauder,receive a free 7-pc gift,2017-10-08,67.0,125.0,79.0,2017,10,8,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+537,Estee Lauder,receive a free 7-pc gift,2017-10-09,633.0,793.0,546.0,2017,10,9,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+538,Estee Lauder,['15% Off' 'Receive a Full-Size Eye Gel Creme (worth $60)'],2017-10-23,1269.0,1179.0,1317.0,2017,10,23,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+539,Estee Lauder,15% Off,2017-10-24,141.0,296.0,145.0,2017,10,24,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.15,False
+540,Estee Lauder,50% Off,2017-10-25,4.0,70.0,29.0,2017,10,25,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.5,False
+541,Estee Lauder,free full size nutritious cleanser,2017-11-09,8.0,25.0,6.0,2017,11,9,Thursday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+542,Estee Lauder,free full size nutritious cleanser,2017-11-12,52.0,165.0,58.0,2017,11,12,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+543,Estee Lauder,free full size nutritious cleanser,2017-11-13,542.0,1380.0,706.0,2017,11,13,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+544,Estee Lauder,15% off + 6 deluxe samples,2017-11-15,344.0,1489.0,801.0,2017,11,15,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.15,False
+545,Estee Lauder,26 Beauty Essentials for the Price of One,2017-11-20,2989.0,1596.0,2203.0,2017,11,20,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+546,Estee Lauder,"receive Re-Nutriv Ultimate Lift Regenerating Youth Creme, Eye Creme and Serum in deluxe travel sizes",2017-11-22,16.0,108.0,69.0,2017,11,22,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+547,Estee Lauder,4 Best Seller,2017-11-23,20.0,51.0,57.0,2017,11,23,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+548,Estee Lauder,25% off,2017-11-25,331.0,385.0,359.0,2017,11,25,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+549,Estee Lauder,['Cyber Monday Suprise' '25% off'],2017-11-28,2339.0,3401.0,3217.0,2017,11,28,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+550,Estee Lauder,try 10 free,2017-11-30,4.0,22.0,6.0,2017,11,30,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+551,Estee Lauder,"['15% off+ Free Full-Size Makeup Remover Wipes'
+ 'Free Full-Size Makeup Remover Wipes' '15% off']",2017-12-01,86.0,306.0,124.0,2017,12,1,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+552,Estee Lauder,15% off+ Free Full-Size night cleanser,2017-12-03,40.0,66.0,34.0,2017,12,3,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.15,True
+553,Estee Lauder,15% off+ Free Full-Size pure color envy matte lipstick,2017-12-04,23.0,61.0,15.0,2017,12,4,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.15,True
+554,Estee Lauder,"['15% off+ Free Full-Size multi-action foam cleanser purifying mask'
+ 'try 3 best sellers for radiant skin']",2017-12-05,234.0,356.0,236.0,2017,12,5,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+555,Estee Lauder,deluxe samples of New Advanced Night Repair Eye Concentrated Matrix and New Revitalizing Supreme Light + Moisturizer,2017-12-07,12.0,49.0,14.0,2017,12,7,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+556,Estee Lauder,"['20% off $100+ANR value set purchase' '20% off $100+Nutritious purchase'
+ '15% off + 6 deluxe samples']",2017-12-14,19.0,36.0,19.0,2017,12,14,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+557,Estee Lauder,20% off $100+,2017-12-15,30.0,106.0,26.0,2017,12,15,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.2,False
+558,Estee Lauder,['20% off $100+' '20% off $100+Nutritious purchase'],2017-12-16,633.0,1449.0,844.0,2017,12,16,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+559,Estee Lauder,20% off $100+ANR purchase,2017-12-17,21.0,143.0,74.0,2017,12,17,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.2,False
+560,Estee Lauder,15% off,2017-12-27,53.0,172.0,48.0,2017,12,27,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.15,False
+561,Estee Lauder,up to 8 deluxe samples,2018-01-11,6.0,93.0,24.0,2018,1,11,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+562,Estee Lauder,up to 6 deluxe samples,2018-01-13,1775.0,1476.0,1064.0,2018,1,13,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+563,Estee Lauder,Up to 6 deluxe samples,2018-01-15,30.0,118.0,32.0,2018,1,15,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+564,Estee Lauder,up to 8 deluxe samples,2018-01-16,141.0,686.0,304.0,2018,1,16,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+565,Estee Lauder,Double Points,2018-01-18,28.0,80.0,18.0,2018,1,18,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+566,Estee Lauder,Get A Free 7-pc gift,2018-01-22,5.0,60.0,14.0,2018,1,22,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+567,Estee Lauder,['New In' 'Get A Free 7-pc gift'],2018-01-25,41.0,365.0,84.0,2018,1,25,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+568,Estee Lauder,Free 7-Piece Gift,2018-01-26,57.0,196.0,60.0,2018,1,26,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+569,Estee Lauder,Nutritious Micro-Algae,2018-02-02,36.0,145.0,21.0,2018,2,2,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+570,Estee Lauder,Get A Free 7-pc Gift,2018-02-05,311.0,590.0,236.0,2018,2,5,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+571,Estee Lauder,['Get A Free 7-pc gift' 'Free 7-Piece Gift'],2018-02-06,902.0,1968.0,966.0,2018,2,6,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+572,Estee Lauder,Free 7-Piece Gift,2018-02-07,144.0,461.0,177.0,2018,2,7,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+573,Estee Lauder,Up to Get 8-pc Gift,2018-03-17,24.0,42.0,24.0,2018,3,17,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+574,Estee Lauder,Dealmoon Exclusive! Spend $50 & receive 4 deluxe samples,2018-03-22,30.0,96.0,30.0,2018,3,22,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+575,Estee Lauder,New Arrival!,2018-04-07,55.0,274.0,103.0,2018,4,7,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+576,Estee Lauder,Free 6 Pieces Gifts,2018-04-17,87.0,256.0,126.0,2018,4,17,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+577,Estee Lauder,up to 6 deluxe samples,2018-05-16,9.0,41.0,12.0,2018,5,16,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+578,Estee Lauder,['DEALMOON EXCLUSIVE!' 'Dealmoon Exclusive!Receive a free 7-pc gift'],2018-05-28,22.0,43.0,11.0,2018,5,28,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,False
+579,Estee Lauder,"['DEALMOON EXCLUSIVE!' 'Dealmoon Exclusive!Free 7-pc gift'
+ 'Dealmoon Exclusive!Receive a free 7-pc gift'
+ 'E-List Exclusive! Get 20% off with nutritious purchase']",2018-05-29,304.0,560.0,293.0,2018,5,29,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+580,Estee Lauder,E-List Exclusive! Get 20% off with Nutritious Micro-Algae purchase,2018-06-06,8.0,19.0,7.0,2018,6,6,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+581,Estee Lauder,"['E-List Exclusive! Get 20% off with ANR purchase'
+ 'E-List Exclusive! Get 20% off with Perfectionist Pro Rapid Firm + Lift Treatment with Acetyl Hexapeptide-8 Purchase']",2018-06-07,32.0,137.0,84.0,2018,6,7,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+582,Estee Lauder,"['E-List Exclusive! Get 20% off one order'
+ 'E-List Exclusive! Get 20% off with Revitalizing Supreme+ Global Anti-Aging Cell Power Creme Purchase']",2018-06-08,651.0,1281.0,782.0,2018,6,8,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+583,Estee Lauder,"['E-List Exclusive! Get 20% off with Advanced Night Repair Concentrated Recovery PowerFoil Mask Purchase'
+ 'E-List Exclusive! Get 20% off with Advanced Night Repair Eye Synchronized Complex II Purchase'
+ 'E-List Exclusive! Get 20% off with nutritious purchase'
+ 'E-List Exclusive! Get 20% off with micro essence skin activating treatment lotion']",2018-06-09,31.0,224.0,101.0,2018,6,9,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+584,Estee Lauder,DEALMOON EXCLUSIVE! Spend $50,2018-06-11,46.0,111.0,37.0,2018,6,11,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+585,Estee Lauder,DEALMOON EXCLUSIVE! Spend $50,2018-06-12,40.0,59.0,21.0,2018,6,12,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+586,Estee Lauder,Online EXCLUSIVE! Free 7-Piece Gift ($120+ Value),2018-06-27,39.0,156.0,36.0,2018,6,27,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+587,Estee Lauder,Online EXCLUSIVE! Free 7-Piece Gift ($120+ Value),2018-06-30,10.0,57.0,27.0,2018,6,30,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+588,Estee Lauder,Online EXCLUSIVE! Free 7-Piece Gift ($120+ Value),2018-07-01,105.0,401.0,169.0,2018,7,1,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+589,Estee Lauder,Online EXCLUSIVE! Free 7-Piece Gift ($120+ Value),2018-07-02,97.0,423.0,188.0,2018,7,2,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+590,Estee Lauder,Online EXCLUSIVE! Free 7-Piece Gift ($120+ Value),2018-07-03,716.0,1171.0,505.0,2018,7,3,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+591,Estee Lauder,30% off,2018-07-08,40.0,177.0,81.0,2018,7,8,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.3,False
+592,Estee Lauder,"['Surprise Free 7-pc Gifts (Worth over $140)' 'Spend $50'
+ 'Free 7-Piece Gift ($140+ Value)']",2018-07-18,86.0,334.0,150.0,2018,7,18,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+593,Estee Lauder,Free Full Size Lipstick,2018-07-29,18.0,78.0,21.0,2018,7,29,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,True
+594,Estee Lauder,TONIGHT ONLY,2018-08-08,13.0,46.0,27.0,2018,8,8,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+595,Estee Lauder,TONIGHT ONLY,2018-08-10,38.0,41.0,21.0,2018,8,10,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+596,Estee Lauder,TONIGHT ONLY,2018-08-16,2.0,19.0,5.0,2018,8,16,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+597,Estee Lauder,Up to 12-piece free gift,2018-08-28,27.0,219.0,62.0,2018,8,28,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+598,Estee Lauder,['Up to 12-piece Free Gift' 'Up to 12-piece free gift'],2018-08-29,470.0,1333.0,690.0,2018,8,29,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+599,Estee Lauder,Free Deluxe Sample,2018-09-19,34.0,144.0,57.0,2018,9,19,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+600,Estee Lauder,Dealmoon Exclusive! Up to 11-piece free gift,2018-09-26,16.0,33.0,15.0,2018,9,26,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+601,Estee Lauder,Dealmoon Exclusive! Up to 11-piece free gift,2018-09-27,13.0,37.0,14.0,2018,9,27,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+602,Estee Lauder,Dealmoon Exclusive!,2018-09-28,39.0,165.0,79.0,2018,9,28,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+603,Estee Lauder,"['Dealmoon Exclusive!' 'Dealmoon Exclusive! Up to 11-piece Free Gift'
+ 'Receive a full-size Nutritious Vitality8 Eye Jelly'
+ 'While supplies last!']",2018-09-29,548.0,1017.0,589.0,2018,9,29,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+604,Estee Lauder,Receive 7-pc deluxe gift,2018-10-09,72.0,95.0,45.0,2018,10,9,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+605,Estee Lauder,Receive 7-pc deluxe gift,2018-10-10,25.0,82.0,53.0,2018,10,10,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+606,Estee Lauder,Free Full-Size Bronze Goddess Cooling Body Gelée +Free Shipping,2018-10-18,3.0,10.0,1.0,2018,10,18,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+607,Estee Lauder,"Receive A Free, Full-size Advanced Night Repair Eye Concentrate Matrix",2018-10-22,1418.0,1686.0,1869.0,2018,10,22,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+608,Estee Lauder,31 Beauty Essentials for the Price of One,2018-11-02,18.0,128.0,89.0,2018,11,2,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+609,Estee Lauder,31 Beauty Essentials for the Price of One,2018-11-03,30.0,139.0,93.0,2018,11,3,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+610,Estee Lauder,31 Beauty Essentials for the Price of One,2018-11-04,10.0,84.0,57.0,2018,11,4,Sunday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+611,Estee Lauder,Free full-size gifts,2018-11-10,25.0,120.0,87.0,2018,11,10,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+612,Estee Lauder,Up to 49% Off+Free Samples,2018-11-15,46.0,117.0,58.0,2018,11,15,Thursday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.49,True
+613,Estee Lauder,New Arrivals!,2018-11-20,3279.0,2951.0,3311.0,2018,11,20,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+614,Estee Lauder,Dealmoon Exclusive!,2018-11-24,194.0,711.0,403.0,2018,11,24,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+615,Estee Lauder,"['enjoy a free full-size Pure Color Envy Matte Sculpting Lipstick (worth $32)'
+ 'Enjoy a free full-size']",2018-11-25,104.0,136.0,57.0,2018,11,25,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+616,Estee Lauder,Free Surprise Gift With $75 purchase,2018-11-27,1178.0,509.0,250.0,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+617,Estee Lauder,$45 ($310 Value),2018-11-30,302.0,153.0,76.0,2018,11,30,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+618,Estee Lauder,Free 2-day Shipping,2018-12-04,51.0,61.0,37.0,2018,12,4,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+619,Estee Lauder,Try 3 Free Best Sellers,2018-12-06,662.0,398.0,161.0,2018,12,6,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+620,Estee Lauder,"['Free Re-Nutriv Holiday Sampler (5 packettes)'
+ 'Free Powerfoil Masks (Pack of 4)']",2018-12-07,211.0,221.0,95.0,2018,12,7,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+621,Estee Lauder,Receive 20% Off,2018-12-14,3.0,15.0,12.0,2018,12,14,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.2,False
+622,Estee Lauder,Receive 20% Off,2018-12-15,2095.0,994.0,472.0,2018,12,15,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.2,False
+623,Estee Lauder,Receive Full-size Micro Essence,2018-12-18,31.0,29.0,16.0,2018,12,18,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+624,Estee Lauder,Receive Up to 9 free samples,2018-12-19,42.0,8.0,8.0,2018,12,19,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+625,Estee Lauder,New Arrivals!,2018-12-31,2825.0,1192.0,528.0,2018,12,31,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+626,Estee Lauder,Receive Gift,2019-01-03,400.0,392.0,170.0,2019,1,3,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+627,Estee Lauder,Receive best-selling 3 -piece,2019-01-08,34.0,9.0,12.0,2019,1,8,Tuesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+628,Estee Lauder,Free full-size,2019-01-13,24.0,61.0,22.0,2019,1,13,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+629,Estee Lauder,Free full-size,2019-01-15,5.0,11.0,12.0,2019,1,15,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+630,Estee Lauder,Up to 9 samples,2019-01-17,21.0,22.0,9.0,2019,1,17,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+631,Estee Lauder,$20 off,2019-01-22,1286.0,1034.0,667.0,2019,1,22,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+632,Estee Lauder,Valentine's Day Faves,2019-01-24,77.0,80.0,26.0,2019,1,24,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+633,Estee Lauder,Choose Free 7-Piece Gift,2019-02-10,22.0,132.0,43.0,2019,2,10,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+634,Estee Lauder,New Double Wear Powder Foundation,2019-02-11,4.0,60.0,15.0,2019,2,11,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+635,Estee Lauder,['ANR Concentrated Recovery Mask' 'Choose Free 7-Piece Gift'],2019-02-12,78.0,251.0,112.0,2019,2,12,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+636,Estee Lauder,"['Choose Free 7-Piece Gift' 'Perfectionist Pro Serum'
+ 'Choose 7-pc Free gift']",2019-02-13,163.0,487.0,257.0,2019,2,13,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+637,Estee Lauder,"['Choose Free 7-Piece Gift' 'Choose Free 3-pc Gift'
+ 'New Arrivals! Perfectionist Pro']",2019-02-14,2982.0,3213.0,1991.0,2019,2,14,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+638,Estee Lauder,['Dealmoon Exclusive!' 'New Arrival!'],2019-03-02,54.0,121.0,64.0,2019,3,2,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+639,Estee Lauder,['New Arrival!' 'Dealmoon Exclusive!'],2019-03-20,226.0,184.0,114.0,2019,3,20,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+640,Estee Lauder,Up to 6-pc free samples,2019-04-11,80.0,167.0,129.0,2019,4,11,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+641,Estee Lauder,['Up to 6-pc free samples' 'Choose Free 6-Piece Gift'],2019-04-15,2694.0,1810.0,1330.0,2019,4,15,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+642,Estee Lauder,New Arrivals!,2019-05-14,9.0,15.0,5.0,2019,5,14,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+643,Estee Lauder,Pump It Up!,2019-05-17,4.0,54.0,31.0,2019,5,17,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+644,Estee Lauder,['Get 20% off' '20% off'],2019-05-23,255.0,537.0,427.0,2019,5,23,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+645,Estee Lauder,50% off on Ampoules,2019-06-09,247.0,675.0,516.0,2019,6,9,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.5,False
+646,Estee Lauder,Free 7-Piece Gift,2019-06-20,9.0,5.0,3.0,2019,6,20,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+647,Estee Lauder,['Free 7-Piece Gift with $45' 'Free 7-Piece Gift with any $45'],2019-06-21,59.0,95.0,85.0,2019,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+648,Estee Lauder,['2 Gifts on $75' 'Choose Free 7-Piece Gift'],2019-06-22,527.0,644.0,431.0,2019,6,22,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+649,Estee Lauder,Free 7-Piece Gift with any $45,2019-06-29,10.0,24.0,13.0,2019,6,29,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+650,Estee Lauder,Free Full-Size Purifying Cleansing Jelly,2019-07-04,17.0,7.0,9.0,2019,7,4,Thursday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,True
+651,Estee Lauder,40% Off,2019-07-05,23.0,89.0,56.0,2019,7,5,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.4,False
+652,Estee Lauder,Free 2 Full-Size Liquid Lip,2019-07-08,54.0,73.0,84.0,2019,7,8,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+653,Estee Lauder,Free Gift (Worth over $150),2019-07-17,41.0,43.0,18.0,2019,7,17,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+654,Estee Lauder,Buy 1 Pure Color Envy Lipstick Get 1 Free,2019-07-30,92.0,143.0,123.0,2019,7,30,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+655,Estee Lauder,['7-piece Free Gift' '7pc Free Gift'],2019-08-06,120.0,211.0,196.0,2019,8,6,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+656,Estee Lauder,Get up to 6 samples,2019-08-14,286.0,259.0,214.0,2019,8,14,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+657,Estee Lauder,['Enjoy up to 11-pc free gift' 'Free 7-Piece Gift with any $45'],2019-08-27,13.0,69.0,54.0,2019,8,27,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+658,Estee Lauder,Enjoy up to 10-pc free gift,2019-08-28,340.0,529.0,435.0,2019,8,28,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+659,Estee Lauder,['Up to 7-pc free gift' 'Enjoy up to 7-pc free gift'],2019-09-30,68.0,196.0,133.0,2019,9,30,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+660,Estee Lauder,Up to 7-Piece Gift,2019-10-01,103.0,145.0,118.0,2019,10,1,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+661,Estee Lauder,Enjoy up to 7-pc free gift,2019-10-07,492.0,654.0,628.0,2019,10,7,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+662,Estee Lauder,Free Full-size Advanced Night Repair Eye Concentrate Matrix,2019-10-22,940.0,566.0,695.0,2019,10,22,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+663,Estee Lauder,6-piece Free Gift + Full-size Moisturizer,2019-11-16,92.0,64.0,104.0,2019,11,16,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+664,Estee Lauder,6-piece Free Gift,2019-11-20,97.0,151.0,225.0,2019,11,20,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+665,Estee Lauder,3 Chances to will an Offer,2019-11-24,926.0,770.0,769.0,2019,11,24,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+666,Estee Lauder,$195 ,2019-11-27,5.0,34.0,66.0,2019,11,27,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+667,Estee Lauder,$70 for $45 Purchase ($455 Value),2019-11-29,6160.0,3919.0,5820.0,2019,11,29,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+668,Estee Lauder,25% Off + 7-piece Free Gift,2019-11-30,42.0,64.0,70.0,2019,11,30,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,True
+669,Estee Lauder,['25% Off+6-pc Free Gifts' '25% Off + Free Gift' '25% Off'],2019-12-01,3281.0,2601.0,2532.0,2019,12,1,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+670,Estee Lauder,['Up to 40% Off' 'Up to 9-piece Free Gift'],2019-12-03,623.0,419.0,284.0,2019,12,3,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+671,Estee Lauder,Up to 40% Off + Free Gifts,2019-12-12,19.0,57.0,52.0,2019,12,12,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.4,True
+672,Estee Lauder,20% Off on $100 + Free Gifts,2019-12-14,1533.0,729.0,699.0,2019,12,14,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.2,True
+673,Estee Lauder,3 Chances to will an Offer + Free 2nd Day Shipping,2019-12-20,233.0,180.0,169.0,2019,12,20,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+674,Estee Lauder,Up to 10-piece Free Gift,2019-12-26,146.0,137.0,96.0,2019,12,26,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+675,Estee Lauder,['Up to 10-piece Free Gift' 'Up to 5-piece Free Gift'],2020-01-01,333.0,310.0,289.0,2020,1,1,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+676,Estee Lauder,As low as $44,2020-01-09,24.0,72.0,42.0,2020,1,9,Thursday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+677,Estee Lauder,Get 3 Free Travelers,2020-01-13,59.0,71.0,65.0,2020,1,13,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,True
+678,Estee Lauder,Get Exclusive Limited Rat Coin Purse,2020-01-23,16.0,57.0,47.0,2020,1,23,Thursday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+679,Estee Lauder,$20 Off + Up to 3-pc Gift,2020-01-25,1228.0,584.0,704.0,2020,1,25,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+680,Estee Lauder,['Get up to $220 Value Gift' 'Get up to 10-piece Free Gift'],2020-02-13,37.0,85.0,84.0,2020,2,13,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+681,Estee Lauder,Choose Up to 10-piece Gift,2020-02-14,2.0,18.0,17.0,2020,2,14,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+682,Estee Lauder,"['Get up to 11-piece Free Gift' 'Up to 11-piece Free Gift'
+ 'Up to 11-pc Free Gift' 'Enjoy Up to 10-pc Free Gift']",2020-02-15,1321.0,1383.0,1037.0,2020,2,15,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+683,Estee Lauder,Get up to 6-piece Free Gift,2020-02-19,113.0,75.0,129.0,2020,2,19,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+684,Estee Lauder,Get up to 6-piece Free Gift,2020-03-04,65.0,208.0,120.0,2020,3,4,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+685,Estee Lauder,Free Gifts + Free Shipping,2020-03-06,2.0,11.0,5.0,2020,3,6,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+686,Estee Lauder,5-piece Free Gift,2020-03-08,140.0,178.0,163.0,2020,3,8,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+687,Estee Lauder,Up to 6-pc Free Gifts,2020-03-24,381.0,271.0,185.0,2020,3,24,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+688,Estee Lauder,Free Full Size ANR Serum + Up to 6-pc Gifts,2020-03-28,1662.0,619.0,886.0,2020,3,28,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+689,Estee Lauder,Up to $151 Value Gifts,2020-04-13,537.0,280.0,269.0,2020,4,13,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+690,Estee Lauder,Free Full Size Gift,2020-04-20,199.0,174.0,166.0,2020,4,20,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+691,Estee Lauder,Up to 7-pc Free Gifts,2020-04-24,431.0,278.0,181.0,2020,4,24,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+692,Estee Lauder,BOGO + Up to 6-pc Gifts,2020-05-11,7047.0,1378.0,1081.0,2020,5,11,Monday,False,Normal,Normal,Normal,Normal,0.5,True
+693,Estee Lauder,20% Off + Free Gifts,2020-05-21,451.0,200.0,201.0,2020,5,21,Thursday,False,Normal,Normal,Normal,Normal,0.2,True
+694,Estee Lauder,Free ANR Trio+Up to 6-pc Gifts,2020-05-26,97.0,91.0,57.0,2020,5,26,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+695,Estee Lauder,Free Gifts,2020-05-29,99.0,88.0,131.0,2020,5,29,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+696,Estee Lauder,BOGO 50% Off,2020-06-08,19.0,25.0,18.0,2020,6,8,Monday,False,Normal,Normal,Normal,Normal,0.5,False
+697,Estee Lauder,Free Pure Envy in Shade 420,2020-06-15,26.0,29.0,31.0,2020,6,15,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+698,Estee Lauder,Free Gifts,2020-06-19,227.0,269.0,268.0,2020,6,19,Friday,True,Normal,Normal,Normal,Normal,0.0,True

@@ -1,0 +1,504 @@
+,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,La Mer,Free 3 Deluxe samples,2014-02-26,0.0,20.0,0.0,2014,2,26,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+1,La Mer,Free Crème de La Mer Deluxe Sample,2014-03-07,0.0,9.0,0.0,2014,3,7,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+2,La Mer,Free 2 Deluxe samples,2014-03-12,0.0,13.0,0.0,2014,3,12,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+3,La Mer,Free 2 Deluxe samples,2014-03-13,0.0,2.0,0.0,2014,3,13,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+4,La Mer,Free 2 Deluxe samples,2014-03-16,0.0,3.0,0.0,2014,3,16,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+5,La Mer,$80 ,2014-03-24,0.0,11.0,0.0,2014,3,24,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+6,La Mer,Free 3 Deluxe samples,2014-04-02,0.0,9.0,0.0,2014,4,2,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+7,La Mer,Free 4-pcs Gift Set,2014-04-16,0.0,11.0,0.0,2014,4,16,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+8,La Mer,$100 Credit,2014-05-02,0.0,4.0,0.0,2014,5,2,Friday,True,Normal,Normal,Normal,Mother's day,0.0,False
+9,La Mer,Free 3 Deluxe samples,2014-05-13,0.0,3.0,0.0,2014,5,13,Tuesday,False,Normal,Mother's day,Mother's day,Mother's day,0.0,False
+10,La Mer,Free Sample Duo + Free shipping,2014-05-28,0.0,1.0,0.0,2014,5,28,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+11,La Mer,"FREE deluxe sample of The Reparative Body Lotion, free shipping plus two samples of your choice",2014-06-02,0.0,2.0,0.0,2014,6,2,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+12,La Mer,FREE The Small Miracles Collection,2014-06-04,0.0,5.0,0.0,2014,6,4,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+13,La Mer,Free 3 Deluxe samples,2014-06-20,0.0,5.0,0.0,2014,6,20,Friday,True,Normal,Fathers's day,Fathers's day,Fathers's day,0.0,False
+14,La Mer,Free 3 Deluxe samples,2014-07-31,0.0,8.0,0.0,2014,7,31,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+15,La Mer,Free 2 Deluxe samples,2014-08-11,0.0,7.0,0.0,2014,8,11,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+16,La Mer,FREE La Mer Miracles Collection,2014-08-15,0.0,1.0,0.0,2014,8,15,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+17,La Mer,Free 2 Deluxe samples,2014-08-16,0.0,2.0,0.0,2014,8,16,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+18,La Mer,$265 ,2014-09-02,0.0,10.0,0.0,2014,9,2,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+19,La Mer,Free 2 Deluxe samples,2014-10-08,0.0,19.0,0.0,2014,10,8,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+20,La Mer,['Free Crème de la Mer Sample' 'Free Lifting Contour Serum（15ml）'],2014-10-29,0.0,32.0,0.0,2014,10,29,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+21,La Mer,Free 2 Deluxe samples,2014-11-01,0.0,15.0,0.0,2014,11,1,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+22,La Mer,Free the Regenerating Serum Deluxe Sample,2014-11-03,0.0,28.0,0.0,2014,11,3,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+23,La Mer,Free 2 Deluxe samples,2014-11-08,0.0,41.0,0.0,2014,11,8,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+24,La Mer,Free 6 Deluxe samples,2014-11-13,0.0,13.0,0.0,2014,11,13,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+25,La Mer,Free 2 Deluxe samples,2014-11-14,0.0,6.0,0.0,2014,11,14,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+26,La Mer,Free 2 Deluxe samples,2014-11-16,0.0,12.0,0.0,2014,11,16,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+27,La Mer,Free Full Treatment of The Brightening Facial Mask ($42 value) and Sample of The Cleansing Foam 30ml,2014-11-17,0.0,42.0,0.0,2014,11,17,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+28,La Mer,Free 2 Deluxe samples,2014-11-22,0.0,23.0,0.0,2014,11,22,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+29,La Mer,Free 2 Deluxe samples,2014-11-25,0.0,14.0,0.0,2014,11,25,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+30,La Mer,Free 5-pc Gift Set,2014-11-27,0.0,59.0,0.0,2014,11,27,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+31,La Mer,Choose 3 Deluxe Samples + 2 Samples,2014-11-29,0.0,32.0,0.0,2014,11,29,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+32,La Mer,['Free 2 Deluxe samples' 'Up to $100 Off Your Next Purchase'],2014-12-05,0.0,65.0,0.0,2014,12,5,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+33,La Mer,Free 2 Deluxe samples,2014-12-17,0.0,47.0,0.0,2014,12,17,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+34,La Mer,Free The Lifting Firming Mask Deluxe Sample,2014-12-30,0.0,12.0,0.0,2014,12,30,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+35,La Mer,3 Free Extra Samples,2015-01-18,0.0,12.0,0.0,2015,1,18,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+36,La Mer,5 Free Samples,2015-01-28,0.0,13.0,0.0,2015,1,28,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+37,La Mer,Free Standard Shipping,2015-02-08,0.0,45.0,0.0,2015,2,8,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+38,La Mer,Free 2 Samples + Limited Edition Full Size The Hand Treatment,2015-02-10,0.0,24.0,0.0,2015,2,10,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+39,La Mer,Free 2 Samples + Limited Edition Full Size The Hand Treatment,2015-02-21,0.0,15.0,0.0,2015,2,21,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+40,La Mer,Free 8 Deluxe Samples + Free Shipping,2015-03-17,0.0,88.0,0.0,2015,3,17,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+41,La Mer,FREE La Mer Miracles Collection,2015-03-24,0.0,7.0,0.0,2015,3,24,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+42,La Mer,Free Shipping,2015-04-04,0.0,18.0,0.0,2015,4,4,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+43,La Mer,Free Soft Creme Deluxe samples,2015-04-06,0.0,103.0,0.0,2015,4,6,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+44,La Mer,Free Moisturizing Gel Cream or The Hand Treatment Sample,2015-04-11,0.0,15.0,0.0,2015,4,11,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+45,La Mer,Last Day! Select 3 Samples,2015-04-17,0.0,14.0,0.0,2015,4,17,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+46,La Mer,Free Deluxe Sample of The Reparative Body Lotion,2015-04-20,0.0,7.0,0.0,2015,4,20,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+47,La Mer,Free Deluxe Sample of La Mer New Illuminating Eye Gel,2015-04-21,0.0,31.0,0.0,2015,4,21,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+48,La Mer,Free Small Miracles Collection+Two samples,2015-04-24,0.0,43.0,0.0,2015,4,24,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+49,La Mer,Free Treatment Lotion Deluxe Sample,2015-04-25,0.0,12.0,0.0,2015,4,25,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+50,La Mer,Free The Regenerating Serum Sample,2015-04-26,0.0,4.0,0.0,2015,4,26,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+51,La Mer,Free The Moisturizing Soft Cream Sample,2015-04-27,0.0,9.0,0.0,2015,4,27,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+52,La Mer,Free 2 pcs Deluxe Sample,2015-05-04,0.0,77.0,0.0,2015,5,4,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+53,La Mer,New Release!,2015-05-07,2.0,60.0,5.0,2015,5,7,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+54,La Mer,Free 3 Travel Size Samples + 2 Samples,2015-05-16,0.0,49.0,0.0,2015,5,16,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+55,La Mer,Free 3-piece Gift,2015-05-17,0.0,6.0,0.0,2015,5,17,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+56,La Mer,Get a Travel Size Program,2015-05-19,0.0,3.0,0.0,2015,5,19,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+57,La Mer,['Free Duo Deluxe Samples' 'Dealmoon Exclusive! Free Duo Samples'],2015-05-22,0.0,22.0,0.0,2015,5,22,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+58,La Mer,Free top-selling The Concentrate and The Reparative Body Lotion,2015-05-23,0.0,5.0,0.0,2015,5,23,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+59,La Mer,Free Duo Deluxe Samples,2015-05-24,0.0,8.0,0.0,2015,5,24,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+60,La Mer,Free Deluxe Sample of Cleansing Lotion,2015-05-27,0.0,6.0,0.0,2015,5,27,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+61,La Mer,Free The Regenerating Serum Sample,2015-05-29,0.0,6.0,0.0,2015,5,29,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+62,La Mer,Free Deluxe Sample of The Hand Treatment Sample,2015-05-31,0.0,11.0,0.0,2015,5,31,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+63,La Mer,Free Treatment Lotion Large Travel Sample + 2 Deluxe Samples,2015-06-02,0.0,30.0,0.0,2015,6,2,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+64,La Mer,Free The Small Miracles Collection,2015-06-06,0.0,18.0,0.0,2015,6,6,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+65,La Mer,Free 28-Day Sample of the Eye Concentrate,2015-06-18,0.0,13.0,0.0,2015,6,18,Thursday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,True
+66,La Mer,2 Travel Size Comlimentary Sample + Free Shipping,2015-06-28,0.0,12.0,0.0,2015,6,28,Sunday,False,Normal,Independence Day (Observed),Independence Day (Observed),Independence Day (Observed),0.0,True
+67,La Mer,Free Deluxe Sample of the Treatment Lotion,2015-07-07,0.0,20.0,0.0,2015,7,7,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+68,La Mer,Free 5 Deluxe Sample,2015-08-01,0.0,84.0,2.0,2015,8,1,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,True
+69,La Mer,Complimentary Shipping + Free Reparative Body Lotion Deluxe Sample,2015-08-02,0.0,5.0,0.0,2015,8,2,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,True
+70,La Mer,Free Regenerating Serum (.17 0z) + Free Standard Shipping,2015-08-03,0.0,7.0,0.0,2015,8,3,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+71,La Mer,Free Treatment Lotion Deluxe Sample,2015-08-06,0.0,6.0,0.0,2015,8,6,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+72,La Mer,Free Regenerating Serum (.17 0z) + Two Free Deluxe Samples + Free Standard Shipping,2015-08-07,0.0,13.0,0.0,2015,8,7,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+73,La Mer,Free 2 Sample,2015-08-10,0.0,10.0,0.0,2015,8,10,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+74,La Mer,Complimentary Standard Shipping and A Duo Sample,2015-08-11,0.0,33.0,0.0,2015,8,11,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+75,La Mer,Free 2 Sample,2015-08-12,0.0,19.0,0.0,2015,8,12,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+76,La Mer,Complimentary Standard Shipping and A Duo Sample,2015-08-13,0.0,17.0,0.0,2015,8,13,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,True
+77,La Mer,Free Duo Sample,2015-08-14,0.0,9.0,0.0,2015,8,14,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+78,La Mer,Complimentary Standard Shipping and an Exclusive Sample offer of The Hand Treatment (1 fl. oz),2015-08-15,0.0,17.0,0.0,2015,8,15,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,True
+79,La Mer,Free Moisturizing Lotion (.17 fl oz) + Free Shipping,2015-08-16,0.0,10.0,0.0,2015,8,16,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+80,La Mer,['Free Moisturizing Soft Cream (.24 oz) + Free Shipping' 'Free 1 Sample'],2015-08-17,0.0,32.0,0.0,2015,8,17,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+81,La Mer,Free Concentrate Sample (.17 fl. oz) + Free Shipping,2015-08-26,0.0,19.0,0.0,2015,8,26,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+82,La Mer,Free 1 Sample,2015-08-27,0.0,11.0,0.0,2015,8,27,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+83,La Mer,Free 1 Sample,2015-09-02,0.0,15.0,0.0,2015,9,2,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+84,La Mer,Free Face and Body Gradual Tan 1oz + 2 Free Samples,2015-09-05,0.0,12.0,0.0,2015,9,5,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+85,La Mer,Concentrate Sample + Complimentary Standard Shipping,2015-09-06,0.0,21.0,0.0,2015,9,6,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+86,La Mer,Free The Lifting Contour Serum Sample,2015-09-09,0.0,11.0,0.0,2015,9,9,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+87,La Mer,2 Free Moisturizer Sample,2015-09-10,0.0,9.0,0.0,2015,9,10,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+88,La Mer,Free The Regenerating Serum Deluxe Sample,2015-09-14,0.0,14.0,0.0,2015,9,14,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+89,La Mer,['Free The Treatment Lotion Deluxe Sample' 'Free Concentrate Sample'],2015-09-15,0.0,12.0,0.0,2015,9,15,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+90,La Mer,The Hand Treatment Sample + Free Shipping,2015-09-17,0.0,4.0,0.0,2015,9,17,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+91,La Mer,Free The Regenerating Serum Deluxe Sample,2015-09-26,0.0,13.0,0.0,2015,9,26,Saturday,True,Normal,Normal,Normal,Columbus Day,0.0,True
+92,La Mer,Free The Treatment Lotion Deluxe Sample,2015-09-28,0.0,14.0,0.0,2015,9,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+93,La Mer,The Small Miracles Collection + Free Shipping,2015-10-02,0.0,38.0,0.0,2015,10,2,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+94,La Mer,Free Crème de la Mer Deluxe Sample,2015-10-12,0.0,22.0,0.0,2015,10,12,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,True
+95,La Mer,Free duo sample of The Lifting Contour Serum and The Treatment Lotion,2015-10-18,0.0,13.0,0.0,2015,10,18,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+96,La Mer,Duo Sample + Complimentary Standard Shipping,2015-10-19,0.0,28.0,0.0,2015,10,19,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+97,La Mer,The Brightening Facial Deluxe Sample,2015-10-23,0.0,18.0,0.0,2015,10,23,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+98,La Mer,Free Sample,2015-10-28,0.0,20.0,0.0,2015,10,28,Wednesday,False,Normal,Normal,Normal,Veterans Day,0.0,True
+99,La Mer,Free Shipping + Free Samples!,2015-10-30,0.0,27.0,5.0,2015,10,30,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+100,La Mer,['$440.00$540.00' '$405.00$505.00'],2015-11-10,0.0,59.0,9.0,2015,11,10,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+101,La Mer,$400.00$500.00,2015-11-11,0.0,14.0,1.0,2015,11,11,Wednesday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+102,La Mer,Dealmoon Singles Day Exclusive! $100 OFF,2015-11-12,0.0,518.0,291.0,2015,11,12,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+103,La Mer,Duluxe samples of New Renewal Oil + Creme de La Mer,2015-11-17,0.0,111.0,15.0,2015,11,17,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+104,La Mer,"['Deluxe Duo Sample + 2 Samples'
+ 'Duluxe samples of the Renewal Oil and Creme de la Mer']",2015-11-18,0.0,109.0,14.0,2015,11,18,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+105,La Mer,Deluxe Duo Sample + 2 Samples,2015-11-19,0.0,44.0,5.0,2015,11,19,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+106,La Mer,Free Deluxe Gift Set,2015-11-20,0.0,92.0,20.0,2015,11,20,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+107,La Mer,Free 4pcs Travel Set,2015-11-23,0.0,87.0,13.0,2015,11,23,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+108,La Mer,Free 4 travel-size treatments,2015-11-27,0.0,112.0,22.0,2015,11,27,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+109,La Mer,"['$100 off with Creme de La Mer & The Eye Concentrate Purchase'
+ '$100 off with The Rejuvenating Collection & The Hydrating Facial Purchase'
+ '$100 off with 2 Crème de la Mer Purchase']",2015-11-29,0.0,53.0,16.0,2015,11,29,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+110,La Mer,4-piece Travel Set,2015-11-30,0.0,24.0,3.0,2015,11,30,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+111,La Mer,$100 Off with Any $500 Purchase + Genaissance de la Mer Sample;,2015-12-01,0.0,517.0,268.0,2015,12,1,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+112,La Mer,['2 Free Deluxe Samples + 2 Free Samples' '2 Free Deluxe Samples'],2015-12-09,0.0,54.0,16.0,2015,12,9,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+113,La Mer,Free The Hand Treatment Sample,2015-12-10,0.0,5.0,6.0,2015,12,10,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,True
+114,La Mer,Receive Complimentary Overnight Shipping + exclusive sample of The Hand Treatment,2015-12-15,0.0,22.0,1.0,2015,12,15,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+115,La Mer,2 Free Deluxe Samples,2015-12-16,0.0,14.0,8.0,2015,12,16,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+116,La Mer,2 Free Deluxe Samples,2015-12-21,0.0,19.0,9.0,2015,12,21,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+117,La Mer,Creme Sample 15ml + Complimentary Overnight Shipping,2015-12-23,0.0,46.0,8.0,2015,12,23,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+118,La Mer,2 Free Deluxe Samples,2015-12-25,0.0,50.0,10.0,2015,12,25,Friday,True,Christmas Day,Christmas Day,Christmas Day,Christmas Day,0.0,True
+119,La Mer,2 Free Deluxe Samples,2015-12-31,0.0,34.0,6.0,2015,12,31,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+120,La Mer,Free Moisturizing Lotion Deluxe Sample,2016-01-05,0.0,78.0,24.0,2016,1,5,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+121,La Mer,"['Free Illuminating Eye Gel Deluxe Sample'
+ 'Free TheTreatment Lotion Deluxe Sample']",2016-01-07,0.0,46.0,10.0,2016,1,7,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+122,La Mer,Free Body Crème(1 oz.),2016-01-10,0.0,25.0,10.0,2016,1,10,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+123,La Mer,Free 2 Deluxe Samples,2016-01-12,0.0,25.0,6.0,2016,1,12,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+124,La Mer,Free Exclusive Sample Offer of Crème de la Mer,2016-01-15,0.0,34.0,7.0,2016,1,15,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+125,La Mer,"['Exclusive Sample + Complimentary Standard Shipping'
+ 'Free The Small Miracles Collection Set and More']",2016-01-16,0.0,72.0,18.0,2016,1,16,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+126,La Mer,The Illuminating Eye Gel Deluxe Sample + Free Shipping,2016-01-17,0.0,14.0,5.0,2016,1,17,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+127,La Mer,Free Moisturizing Lotion Deluxe Sample,2016-01-19,0.0,7.0,0.0,2016,1,19,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+128,La Mer,Free Cleansing Foam Deluxe Sample,2016-01-20,0.0,18.0,5.0,2016,1,20,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+129,La Mer,The Illuminating Eye Gel Deluxe Sample + Free Shipping,2016-01-25,0.0,21.0,7.0,2016,1,25,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+130,La Mer,['Choose 3 travel-size treatments' 'Free 3 Deluxe Samples'],2016-01-28,0.0,73.0,29.0,2016,1,28,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+131,La Mer,Free Eye Balm Intense Deluxe Sample,2016-02-02,0.0,20.0,4.0,2016,2,2,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+132,La Mer,Free Deluxe Gifts,2016-02-05,0.0,28.0,13.0,2016,2,5,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+133,La Mer,['Free The Moisturizing Soft Cream' 'Free Sample Duo'],2016-02-09,0.0,55.0,13.0,2016,2,9,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+134,La Mer,Free The Moisturizing Soft Cream,2016-02-11,0.0,28.0,10.0,2016,2,11,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+135,La Mer,Free 3 Deluxe Gifts,2016-02-16,0.0,25.0,8.0,2016,2,16,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+136,La Mer,The Concentrate Luxury Sample,2016-02-17,0.0,61.0,12.0,2016,2,17,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+137,La Mer,Free Duo Samples,2016-02-22,0.0,22.0,4.0,2016,2,22,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+138,La Mer,Free 3 Deluxe Samples,2016-02-23,0.0,9.0,5.0,2016,2,23,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+139,La Mer,"['Free The Moisturizing Soft Cream Sample'
+ 'Crème Sample 7ml + Free Shipping']",2016-02-24,0.0,99.0,16.0,2016,2,24,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+140,La Mer,The Eye Balm Intense 0.1oz + Free Shipping,2016-02-28,0.0,63.0,19.0,2016,2,28,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+141,La Mer,"['Dealmoon Exclusive！$100 off with 2 Crème de la Mer Purchase'
+ 'Dealmoon Exclusive！$100 off with The Concentrate & The Powder Purchase']",2016-03-07,0.0,59.0,21.0,2016,3,7,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+142,La Mer,Free 6 Samples,2016-03-08,0.0,51.0,15.0,2016,3,8,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+143,La Mer,"['Dealmoon Exclusive！$100 off with Creme de La Mer & The Eye Concentrate Purchase'
+ 'Dealmoon Exclusive! $100 Off with Any $500 Purchase']",2016-03-09,0.0,467.0,378.0,2016,3,9,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+144,La Mer,Ending Tonight! Free 6 Deluxe Samples,2016-03-11,0.0,218.0,87.0,2016,3,11,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+145,La Mer,Today Only!Free 2 Samples + Free Shipping,2016-03-14,0.0,52.0,8.0,2016,3,14,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+146,La Mer,Two Deluxe Samples,2016-03-15,0.0,46.0,9.0,2016,3,15,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+147,La Mer,['Two Deluxe Samples' 'New Release'],2016-03-16,11.0,149.0,127.0,2016,3,16,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+148,La Mer,Free 4-Piece Travel-Size Samples,2016-03-24,0.0,18.0,8.0,2016,3,24,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+149,La Mer,Free Deluxe Sample of Moisturizing Lotion,2016-04-01,0.0,49.0,16.0,2016,4,1,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+150,La Mer,Free Deluxe Duo Samples,2016-04-04,0.0,17.0,8.0,2016,4,4,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+151,La Mer,Three Deluxe Samples,2016-04-10,0.0,25.0,13.0,2016,4,10,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+152,La Mer,"Free 3-piece, mini-regimen",2016-04-12,0.0,44.0,6.0,2016,4,12,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+153,La Mer,Offer extended! Free 4-piece Collection,2016-04-23,0.0,54.0,22.0,2016,4,23,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+154,La Mer,1-day Early Exclusive! Pick Three Deluxe Samples,2016-05-13,0.0,49.0,16.0,2016,5,13,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+155,La Mer,Receive Complimentary Standard Shipping and a duo sample offer of The NEW Perfecting Treatment and The Body Crème,2016-05-18,0.0,15.0,10.0,2016,5,18,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+156,La Mer,Receive 3 pc gift,2016-05-24,0.0,58.0,21.0,2016,5,24,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+157,La Mer,2 Free Deluxe Samples,2016-05-27,0.0,11.0,4.0,2016,5,27,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+158,La Mer,Last Day! $75 OFF,2016-06-09,0.0,119.0,47.0,2016,6,9,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+159,La Mer,"['Last Day! Dealmoon Exclusive! $75 OFF with any $350 Order'
+ 'Last Day！$75 OFF']",2016-06-10,1.0,425.0,373.0,2016,6,10,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+160,La Mer,Free 6 Deluxe Gifts,2016-06-13,0.0,18.0,4.0,2016,6,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+161,La Mer,Free Perfecting Treatment & Reparative SkinTint SPF30 Shade,2016-06-20,0.0,8.0,2.0,2016,6,20,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+162,La Mer,Free Moisturizing Gel Cream (0.24oz),2016-06-21,0.0,69.0,22.0,2016,6,21,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+163,La Mer,Free Cleansing Foam + 2 Deluxe Sample,2016-07-09,0.0,54.0,19.0,2016,7,9,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+164,La Mer,Free Reparative Body Lotion Sample + 2 Samples,2016-07-11,0.0,18.0,5.0,2016,7,11,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+165,La Mer,['Free Crème de La Mer' 'Free Cleansing Foam Sample (1oz)'],2016-07-13,0.0,72.0,14.0,2016,7,13,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+166,La Mer,Free Reparative SkinTint SPF30 Sample,2016-07-14,0.0,7.0,3.0,2016,7,14,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+167,La Mer,Free Shipping & Deluxe Sample,2016-07-15,0.0,16.0,8.0,2016,7,15,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+168,La Mer,['5 Free Samples' '2 Free Deluxe Samples'],2016-07-19,0.0,60.0,46.0,2016,7,19,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+169,La Mer,5 Free Deluxe Samples,2016-07-20,0.0,33.0,7.0,2016,7,20,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+170,La Mer,5 Free Deluxe Samples,2016-07-21,0.0,16.0,11.0,2016,7,21,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+171,La Mer,3 Free Deluxe Samples,2016-07-26,0.0,11.0,2.0,2016,7,26,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+172,La Mer,Free Oil Absorbing Lotion Sample,2016-07-27,0.0,7.0,1.0,2016,7,27,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+173,La Mer,Free Deluxe Regenerating Serum Sample,2016-07-28,0.0,7.0,1.0,2016,7,28,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+174,La Mer,$395 ,2016-08-08,0.0,73.0,37.0,2016,8,8,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+175,La Mer,"['Free 4 Deluxe Samples' 'Dealmoon Exclusive! Free 2 samples'
+ 'Receive a duo sample offer of The NEW Cleansing Micellar Water and The Cleansing Gel']",2016-08-09,21.0,50.0,11.0,2016,8,9,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+176,La Mer,"['a duo sample offer of The Perfecting Treatment and The Illuminating Eye Gel'
+ 'Free 4 Deluxe Samples' 'Free 2 Deluxe Samples'
+ 'Free duo sample offer of The Renewal Oil and The Moisturizing Soft Cream']",2016-08-10,89.0,97.0,25.0,2016,8,10,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+177,La Mer,Free Moisturizing Gel Cream + The Concentrate,2016-08-11,27.0,37.0,8.0,2016,8,11,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+178,La Mer,The Small Miracles Collection,2016-08-12,14.0,19.0,2.0,2016,8,12,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+179,La Mer,free exclusive sample offer of The Eye Concentrate,2016-08-16,1.0,16.0,0.0,2016,8,16,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+180,La Mer,Free exclusive sample offer of The Eye Concentrate,2016-08-17,6.0,56.0,40.0,2016,8,17,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+181,La Mer,Free exclusive sample offer of The Regenerating Serum,2016-08-19,10.0,25.0,7.0,2016,8,19,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+182,La Mer,Free exclusive sample offer of The Regenerating Serum,2016-08-20,5.0,35.0,11.0,2016,8,20,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+183,La Mer,free exclusive sample offer of The Regenerating Serum,2016-08-22,19.0,56.0,21.0,2016,8,22,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+184,La Mer,Free Exclusive Sample Offer of The Moisturizing Gel Cream (.24oz),2016-08-23,5.0,7.0,6.0,2016,8,23,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+185,La Mer,Free Exclusive Sample,2016-08-29,4.0,39.0,13.0,2016,8,29,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+186,La Mer,Free Exclusive Sample,2016-08-30,17.0,52.0,12.0,2016,8,30,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+187,La Mer,Free Concentrate and Moisturizing Soft Cream Samples,2016-08-31,5.0,8.0,5.0,2016,8,31,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+188,La Mer,Free The Hand Treatment 1oz,2016-09-07,2.0,23.0,4.0,2016,9,7,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+189,La Mer,2 deluxe Sample($98.4 Value),2016-09-21,40.0,74.0,15.0,2016,9,21,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+190,La Mer,3 deluxe Sample($163.7 Value),2016-09-23,28.0,53.0,6.0,2016,9,23,Friday,True,Normal,Normal,Normal,Columbus Day,0.0,True
+191,La Mer,free 2 week supply of the moisturzing soft cream sample,2016-09-29,2.0,11.0,4.0,2016,9,29,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+192,La Mer,an exclusive sample offer of The Lifting Firming Mask,2016-09-30,23.0,28.0,5.0,2016,9,30,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+193,La Mer,a duo sample offer of The Renewal Oil and The Moisturizing Soft Cream,2016-10-06,10.0,33.0,4.0,2016,10,6,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+194,La Mer,Free 3 Deluxe Samples + Free Shipping,2016-10-08,25.0,21.0,7.0,2016,10,8,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+195,La Mer,['Free Small Miracles Collections (4-piece)' '$410+ Free 5-pc Gift Set'],2016-10-13,8.0,40.0,13.0,2016,10,13,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+196,La Mer,Free Small Miracles Collections (4-piece),2016-10-14,41.0,72.0,20.0,2016,10,14,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+197,La Mer,Free Small Miracles Collections (4-piece),2016-10-15,9.0,79.0,15.0,2016,10,15,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+198,La Mer,$75 + The Perfecting Treatment sample,2016-10-19,0.0,19.0,4.0,2016,10,19,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+199,La Mer,Free 5pc set ($182.8 Vlaue),2016-10-20,0.0,4.0,3.0,2016,10,20,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+200,La Mer,Brighten and beautify with a perfect deluxe sample pairing of The Perfecting Treatment and The Illuminating Eye Gel,2016-10-22,8.0,19.0,8.0,2016,10,22,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+201,La Mer,Free Deluxe Duo Samples + 2 Free Samples,2016-10-26,0.0,4.0,2.0,2016,10,26,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+202,La Mer,Free 5-pc Gifts,2016-10-30,42.0,148.0,29.0,2016,10,30,Sunday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+203,La Mer,Free 4-pc Gifts,2016-11-02,3.0,38.0,9.0,2016,11,2,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+204,La Mer,$330+$100 Off $500+Deluxe Sample,2016-11-11,6.0,18.0,7.0,2016,11,11,Friday,True,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,True
+205,La Mer,"['$360+ $100 Off $500 +Deluxe Sample' 'Up to $100 Off + Deluxe Sample'
+ 'Dealmoon Exclusive! $100 Off with Any $500 Purchase'
+ '$170+$100 Off $500+Deluxe Sample' '$200 $100 Off with $500'
+ 'Up to $100 Off + a Deluxe Sample']",2016-11-12,344.0,865.0,845.0,2016,11,12,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+206,La Mer,"['get a duo sample offer of The Body Crème and The Hand Treatment'
+ 'Select one of mini-regimens ( up to $157.4 Value)']",2016-11-15,24.0,45.0,22.0,2016,11,15,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+207,La Mer,get a duo sample offer of Moisturizing Soft Lotion and The Eye Concentrate,2016-11-16,25.0,52.0,23.0,2016,11,16,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+208,La Mer,['Free 4-piece small miracles collection and more' 'Free 4-pc Gift Set'],2016-11-22,48.0,132.0,83.0,2016,11,22,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+209,La Mer,Customizing your own 4-piece regimen,2016-11-24,87.0,314.0,234.0,2016,11,24,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+210,La Mer,"['Dealmoon Exclusive! $150 Off with Any $500 Purchase'
+ 'Dealmoon Exclusive！$150 Off with Any $500 Purchase']",2016-11-30,734.0,1043.0,1200.0,2016,11,30,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+211,La Mer,Get two of latest treatments,2016-12-06,4.0,35.0,20.0,2016,12,6,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+212,La Mer,Select one of the mini-regimens（up to $157.3 Value),2016-12-14,8.0,22.0,12.0,2016,12,14,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+213,La Mer,28-day Sample of The Eye Concentrate,2016-12-30,19.0,23.0,9.0,2016,12,30,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+214,La Mer,"['sample offer of The Lifting Firming Mask'
+ 'sample offer of The Eye Balm Intense plus 2 samples of your choice']",2017-01-04,10.0,43.0,23.0,2017,1,4,Wednesday,False,Normal,New Year's Day (Observed),New Year's Day (Observed),New Year's Day (Observed),0.0,False
+215,La Mer,sample offer of a 30-day supply of The Moisturizing Soft Cream plus The Lifting Eye Serum( $133 value),2017-01-12,5.0,25.0,8.0,2017,1,12,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+216,La Mer,Free 4-piece small miracles collection,2017-01-19,9.0,19.0,20.0,2017,1,19,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+217,La Mer,sample offer of The Lifting Firming Mask,2017-01-23,8.0,24.0,9.0,2017,1,23,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+218,La Mer,Free 3-piece Gift + sample of the mask,2017-01-27,56.0,143.0,70.0,2017,1,27,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+219,La Mer,Free duo deluxe sample,2017-02-03,11.0,22.0,5.0,2017,2,3,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+220,La Mer,a deluxe sample of The Perfecting Treatment ($85 value),2017-02-08,26.0,76.0,29.0,2017,2,8,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+221,La Mer,Get a free exclusive trio (up to $151.1 value）,2017-02-13,163.0,255.0,164.0,2017,2,13,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+222,La Mer,Receive a complete 4 -piece mini-regimen ($177.7 value),2017-02-15,16.0,31.0,9.0,2017,2,15,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+223,La Mer,Receive a luxury size sample of The Treatment Lotion,2017-02-16,11.0,36.0,12.0,2017,2,16,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+224,La Mer,deluxe samples of Genaissance de la Mer，the serum essence & creme de la mer,2017-02-24,5.0,72.0,29.0,2017,2,24,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+225,La Mer,"['a duo sample offer of The Cleansing Micellar Water and The Perfecting Treatment'
+ 'a deluxe sample of The NEW Revitalizing Hydrating Serum']",2017-03-01,10.0,59.0,17.0,2017,3,1,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+226,La Mer,"['Receive a complete 4 -piece small miracles collection'
+ 'Dealmoon Exclusive! $100 off when you spend $500'
+ 'Dealmoon Exclusive! $150' 'Dealmoon Exclusive! $240']",2017-03-03,12.0,86.0,56.0,2017,3,3,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+227,La Mer,Dealmoon Exclusive! $100 off when you spend $500,2017-03-04,222.0,224.0,324.0,2017,3,4,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+228,La Mer,['$240 + Free 6 deluxe samples' '$200 + Free 6 deluxe samples'],2017-03-09,23.0,44.0,26.0,2017,3,9,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+229,La Mer,$180 + Free 6 deluxe samples,2017-03-10,9.0,12.0,2.0,2017,3,10,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+230,La Mer,['curate your own 4-piece mini-regimen' '$310 + Free 6-pc Gift'],2017-03-11,300.0,298.0,226.0,2017,3,11,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+231,La Mer,"['Today Only! Duo samples of The Renewal Oil & The Moisturizing Soft Cream'
+ '$60 ']",2017-03-14,164.0,206.0,137.0,2017,3,14,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+232,La Mer,Today Only! Get a deluxe sample duo,2017-03-15,30.0,43.0,10.0,2017,3,15,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+233,La Mer,Today Only! Get a deluxe sample duo,2017-03-16,19.0,16.0,4.0,2017,3,16,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+234,La Mer,Get the 4-piece small miracles collection,2017-03-20,8.0,33.0,11.0,2017,3,20,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+235,La Mer,Choose one indulgent mask sample with any $150 purchase,2017-03-21,5.0,18.0,8.0,2017,3,21,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+236,La Mer,Enjoy a Lift with deluxe samples of The Lifting Firming Mask & The Lifting Contour Serum,2017-03-29,16.0,34.0,17.0,2017,3,29,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+237,La Mer,"Enjoy travel size samples of Crème de la Mer, The Revitalizing Hydrating Serum, The Cleansing Micellar Water & The Soft Fluid Long Wear Foundation SPF 20",2017-04-05,19.0,37.0,14.0,2017,4,5,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+238,La Mer,Select three transformative deluxe samples,2017-04-12,20.0,40.0,18.0,2017,4,12,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+239,La Mer,Enjoy the gift of lift with a 4-piece mini regimen with any $300 purchase,2017-04-18,8.0,54.0,22.0,2017,4,18,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+240,La Mer,Enjoy a duo sample offer the renewal oil and creme de la mer,2017-04-22,5.0,18.0,7.0,2017,4,22,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+241,La Mer,a duo sample offer of Genaissance de la Mer Serum Essence and Crème de la Mer,2017-04-26,5.0,37.0,15.0,2017,4,26,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+242,La Mer,a duo sample offer of Genaissance de la Mer Serum Essence and Crème de la Mer,2017-04-27,17.0,42.0,25.0,2017,4,27,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+243,La Mer,Receive a duo sample offer,2017-04-28,12.0,47.0,20.0,2017,4,28,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+244,La Mer,Enjoy a complimentary introduction to four of our latest treatments,2017-05-04,10.0,23.0,4.0,2017,5,4,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+245,La Mer,a deluxe sample of The Illuminating Eye Gel plus The Moisturizing Soft Cream,2017-05-05,9.0,37.0,12.0,2017,5,5,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+246,La Mer,"['Enjoy a trio sample offer of The Lifting Eye Serum, The Regenerating Serum and The Moisturizing Soft Cream'
+ 'Select three deluxe samples']",2017-05-12,100.0,136.0,63.0,2017,5,12,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+247,La Mer,Enjoy a sample set of our full moisture collection with $200+ purchase,2017-05-17,3.0,16.0,7.0,2017,5,17,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+248,La Mer,"Enjoy an exclusive trio sample offer of The Lifting Eye Serum, The Regenerating Serum & The Moisturizing Soft Cream",2017-05-18,5.0,37.0,18.0,2017,5,18,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+249,La Mer,Enjoy a deluxe sample of creme de la mer with any purchase,2017-05-19,22.0,33.0,20.0,2017,5,19,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+250,La Mer,Receive The Small Miracles Collection with any online purchase of $300 or more,2017-05-25,14.0,41.0,27.0,2017,5,25,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+251,La Mer,Dealmoon Exclusive! $75 off,2017-06-01,26.0,57.0,37.0,2017,6,1,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+252,La Mer,['Dealmoon Exclusive! $75 off' '$75 Off' 'Dealmoon Exclusive! $75 Off'],2017-06-02,45.0,133.0,93.0,2017,6,2,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+253,La Mer,Enjoy a deluxe sample of NEW The Moisturizing Matte Lotion,2017-06-05,4.0,23.0,4.0,2017,6,5,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+254,La Mer,Receive the complete La Mer Mask Collection in a custom cosmetic bag,2017-06-06,9.0,22.0,4.0,2017,6,6,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+255,La Mer,Receive a deluxe sample duo of The Treatment Lotion and The Eye Balm Intense,2017-06-08,5.0,14.0,6.0,2017,6,8,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+256,La Mer,Receive an exclusive duo sample offer of The Illuminating Eye Gel and The Regenerating Serum,2017-06-09,16.0,47.0,9.0,2017,6,9,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+257,La Mer,Choose a 4-pc regimen,2017-06-16,68.0,120.0,66.0,2017,6,16,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+258,La Mer,Enjoy a sample duo of The Concentrate and The Moisturizing Gel Cream,2017-06-19,12.0,26.0,5.0,2017,6,19,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+259,La Mer,Dealmoon Exclusive! 2 Deluxe Bestselling Samples,2017-06-20,1.0,5.0,4.0,2017,6,20,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+260,La Mer,Enjoy a complimentary introduction to four of our latest treatments,2017-06-22,1.0,12.0,5.0,2017,6,22,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+261,La Mer,"['Dealmoon Exclusive! $75 off + GWP' 'Dealmoon Exclusive! $75 off'
+ 'Dealmoon Exclusive! $75 Off']",2017-06-25,40.0,116.0,89.0,2017,6,25,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+262,La Mer,"['Enjoy a deluxe sample duo of The Renewal Oil and Crème de la mer'
+ 'Dealmoon Exclusive! $75 off + GWP'
+ 'Dealmoon Exclusive! $75 off first purchase of $350 or more']",2017-06-26,168.0,395.0,356.0,2017,6,26,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+263,La Mer,enjoy a deluxe sample of The Lifting Contour Serum,2017-07-05,11.0,52.0,32.0,2017,7,5,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+264,La Mer,enjoy a deluxe sampleof The Regenerating Serum and The Eye Balm Intense with a decorative travel bag,2017-07-13,10.0,36.0,12.0,2017,7,13,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+265,La Mer,Select three indulgent sample treatments,2017-07-18,219.0,249.0,163.0,2017,7,18,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+266,La Mer,Select three indulgent sample treatments,2017-07-23,15.0,56.0,18.0,2017,7,23,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+267,La Mer,Enjoy a deluxe sample of the perfecting treatment,2017-08-01,17.0,24.0,19.0,2017,8,1,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+268,La Mer,Enjoy your sample trio of choice,2017-08-04,35.0,98.0,32.0,2017,8,4,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+269,La Mer,Enjoy a sample duo of The Eye Concentrate and The Moisturizing Soft Cream,2017-08-07,13.0,18.0,9.0,2017,8,7,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+270,La Mer,Enjoy A Deluxe Sample Due Of The Moisturizing Matte Lotion and The Perfecting Treatment,2017-08-08,4.0,20.0,8.0,2017,8,8,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+271,La Mer,"['Enjoy a deluxe sample duo of The Revitalizing Hydrating Serum and Crème de la Mer'
+ 'Enjoy a deluxe sample duo of The Moisturizing Gel Cream and The Concentrate']",2017-08-10,5.0,84.0,33.0,2017,8,10,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+272,La Mer,Enjoy a deluxe sample of The Tonic,2017-08-15,8.0,10.0,3.0,2017,8,15,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+273,La Mer,Choose one indulgent mask sample,2017-08-18,14.0,33.0,7.0,2017,8,18,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+274,La Mer,Enjoy a deluxe sample of The Eye Concentrate,2017-08-23,18.0,40.0,24.0,2017,8,23,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+275,La Mer,Enjoy a deluxe sample duo of The Moisturizing Soft Cream and The Concentrate,2017-08-26,32.0,81.0,61.0,2017,8,26,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+276,La Mer,Enjoy a deluxe sample of Crème de la Mer,2017-08-31,20.0,45.0,19.0,2017,8,31,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+277,La Mer,Receive the 4-Piece Small Gift,2017-09-08,0.0,4.0,4.0,2017,9,8,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+278,La Mer,Enjoy a luxury size sample of The Regenerating Serum,2017-09-18,32.0,68.0,40.0,2017,9,18,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+279,La Mer,['Enjoy a trio of deluxe samples' 'Enjoy a complimentary mini-regimen'],2017-09-19,51.0,119.0,63.0,2017,9,19,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+280,La Mer,Enjoy a deluxe sample of Crème de la Mer,2017-09-21,15.0,60.0,21.0,2017,9,21,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+281,La Mer,Enjoy a deluxe sample duo of The Renewal Oil and Crème de la Mer,2017-10-04,11.0,38.0,13.0,2017,10,4,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+282,La Mer,Enjoya luxury sample duo of The Eye Concentrate and The Treatment Lotion,2017-10-15,14.0,46.0,24.0,2017,10,15,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+283,La Mer,Enjoy The Small Miracles Collection,2017-10-17,49.0,110.0,52.0,2017,10,17,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+284,La Mer,"Enjoy a deluxe sample trio of The Regenerating Serum, The Moisturizing Soft Lotion and The Lifting Eye Serum",2017-10-26,32.0,165.0,91.0,2017,10,26,Thursday,False,Normal,Normal,Normal,Veterans Day (Observed),0.0,False
+285,La Mer,Enjoy a deluxe sample of The Perfecting Treatment,2017-10-29,42.0,109.0,49.0,2017,10,29,Sunday,False,Normal,Normal,Veterans Day (Observed),Veterans Day (Observed),0.0,False
+286,La Mer,Enjoy a deluxe sample of The Treatment Lotion,2017-11-04,118.0,377.0,225.0,2017,11,4,Saturday,True,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+287,La Mer,['$100 off purchase of $500 or more' '$500+ Get $100 OFF'],2017-11-07,34.0,175.0,88.0,2017,11,7,Tuesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+288,La Mer,$100 off purchase of $500 or more,2017-11-08,668.0,1822.0,2175.0,2017,11,8,Wednesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+289,La Mer,Choose 4 deluxe samples,2017-11-11,17.0,70.0,30.0,2017,11,11,Saturday,True,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+290,La Mer,Enjoy a duo sample offer of The Moisturizing Gel Cream and The Regenerating Serum,2017-11-17,63.0,115.0,78.0,2017,11,17,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+291,La Mer,Enjoy The Small Miracles Collection,2017-11-21,60.0,224.0,198.0,2017,11,21,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+292,La Mer,Choose 4 deluxe samples,2017-11-26,237.0,371.0,335.0,2017,11,26,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+293,La Mer,$100 off purchase of $500 or more,2017-11-27,456.0,1020.0,1282.0,2017,11,27,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+294,La Mer,$100 off purchase of $500 or more,2017-11-28,10.0,40.0,21.0,2017,11,28,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+295,La Mer,$100 off purchase of $500 or more,2017-11-29,204.0,318.0,321.0,2017,11,29,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+296,La Mer,Free The Moisture Collection + 2 Samples,2017-11-30,41.0,39.0,20.0,2017,11,30,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+297,La Mer,Enjoy a duo sample offer of The Intensive Revitalizing Mask & The Cleansing Gel,2017-12-03,14.0,45.0,25.0,2017,12,3,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+298,La Mer,Explore our gift guide and enter your horoscope sign at checkout,2017-12-05,37.0,61.0,44.0,2017,12,5,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+299,La Mer,Choose 2 La Mer treatments from a tempting array-yours,2017-12-08,47.0,74.0,35.0,2017,12,8,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+300,La Mer,Receive 2 Samples of The Renewal Oil and The Moisturizing Soft Cream,2017-12-12,53.0,57.0,24.0,2017,12,12,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+301,La Mer,Receive 2 Samples of The Renewal Oil and The Moisturizing Soft Cream,2017-12-13,37.0,73.0,33.0,2017,12,13,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+302,La Mer,Receive 2 Deluxe Samples of The Moisturizing Soft Lotion and The Reparative Body Lotion,2017-12-14,38.0,29.0,19.0,2017,12,14,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+303,La Mer,"['Receive 2 Deluxe Samples of The Moisturizing Matte Lotion and The Eye Concentrate'
+ 'Receive 2 Deluxe Samples of The Cleansing Gel and the Cleansing Micellar Water']",2017-12-16,51.0,80.0,37.0,2017,12,16,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+304,La Mer,Enjoy your choice of 2 deluxe samples,2017-12-17,13.0,48.0,16.0,2017,12,17,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+305,La Mer,Receive a 4-Piece Travel Set,2017-12-20,52.0,107.0,91.0,2017,12,20,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+306,La Mer,Enjoy complimentary overnight shipping and a Trio of Bestsellers,2017-12-21,24.0,78.0,24.0,2017,12,21,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+307,La Mer,Enjoy a deluxe sample duo,2017-12-22,11.0,48.0,27.0,2017,12,22,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+308,La Mer,Choose a complimentary luxury-edition sample,2017-12-28,35.0,59.0,19.0,2017,12,28,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+309,La Mer,Enjoy The 4-piece Small Miracles Collection,2018-01-02,49.0,123.0,71.0,2018,1,2,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+310,La Mer,Enjoy an exclusive sample offer of The Renewal Oil,2018-01-05,32.0,73.0,19.0,2018,1,5,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+311,La Mer,Enjoy an exclusive sample Crème de la Mer and The Lifting Contour Serum,2018-01-10,35.0,83.0,36.0,2018,1,10,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+312,La Mer,"Enjoy a deluxe trio sample offer of Crème de la Mer, Renewal Oil and The Perfecting Treatment",2018-01-13,34.0,60.0,18.0,2018,1,13,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+313,La Mer,Choose a deluxe eye treatment,2018-01-16,23.0,64.0,22.0,2018,1,16,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+314,La Mer,"['Enjoy a luxury size Crème de la Mer and a deluxe sample of The Renewal Oil'
+ 'Free Bodycare Trio Sets']",2018-01-19,36.0,126.0,44.0,2018,1,19,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+315,La Mer,Enjoy 2 masks of your choice,2018-01-24,11.0,47.0,18.0,2018,1,24,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+316,La Mer,Select a deluxe sample from our collection of bestsellers,2018-02-02,7.0,27.0,20.0,2018,2,2,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+317,La Mer,Select a deluxe sample from our collection of bestsellers,2018-02-03,556.0,814.0,473.0,2018,2,3,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+318,La Mer,Select a deluxe sample from our collection of bestsellers,2018-02-04,33.0,69.0,37.0,2018,2,4,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+319,La Mer,Select three sample treatments,2018-02-09,70.0,149.0,63.0,2018,2,9,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+320,La Mer,Enjoy the 4-piece Small Miracles Collection of our most coveted treatments with any $300 purchase,2018-02-12,26.0,87.0,41.0,2018,2,12,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+321,La Mer,Choose a complimentary luxury-edition sample,2018-02-15,68.0,88.0,34.0,2018,2,15,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+322,La Mer,Free Deluxe Sample of The NEW Moisturizing Cool Gel Cream,2018-02-19,46.0,134.0,55.0,2018,2,19,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+323,La Mer,Enjoy an exclusive deluxe sample of The Perfecting Treatment,2018-02-22,173.0,265.0,120.0,2018,2,22,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+324,La Mer,Enjoy an exclusive deluxe sample of The Lifting Eye Serum,2018-02-24,100.0,249.0,118.0,2018,2,24,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+325,La Mer,Free 3 deluxe Samples,2018-03-15,22.0,69.0,31.0,2018,3,15,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+326,La Mer,Free 2 Deluxe Samples + Free Standard Shipping,2018-03-20,21.0,42.0,21.0,2018,3,20,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+327,La Mer,Free Small Miracles Collection,2018-03-23,42.0,61.0,38.0,2018,3,23,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+328,La Mer,Free The Complete La Mer Moisture Collection,2018-03-29,43.0,79.0,55.0,2018,3,29,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+329,La Mer,Select three sample treatments,2018-04-12,51.0,83.0,32.0,2018,4,12,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+330,La Mer,Receive The Small Miracles Collection,2018-04-22,69.0,203.0,78.0,2018,4,22,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+331,La Mer,Free luxury Regenerating Serum,2018-04-23,19.0,25.0,13.0,2018,4,23,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+332,La Mer,Enjoy Luxury Eye Concentrate and Deluxe Moisturizing Soft Lotion samples,2018-04-30,6.0,20.0,8.0,2018,4,30,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+333,La Mer,Enjoy a deluxe sample of The Treatment Lotion,2018-05-03,11.0,55.0,22.0,2018,5,3,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+334,La Mer,Select 3 deluxe sample treatments,2018-05-10,81.0,224.0,92.0,2018,5,10,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+335,La Mer,Enjoy a trio of mini miracles,2018-05-13,18.0,68.0,29.0,2018,5,13,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+336,La Mer,Get radiant summer skin with a deluxe duo of Reparative Body Lotion & Face And Body Gradual Tan,2018-05-14,7.0,11.0,4.0,2018,5,14,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+337,La Mer,Enjoy a deluxe sample of The Renewal Oil,2018-05-20,22.0,62.0,23.0,2018,5,20,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+338,La Mer,enjoy the complete 5-piece moisture collection,2018-05-24,18.0,44.0,23.0,2018,5,24,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+339,La Mer,Small Miracles Event: Enjoy a 4-piece mini-regimen,2018-06-02,15.0,99.0,43.0,2018,6,2,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+340,La Mer,Dealmoon Exclusive! $75 off $350,2018-06-06,34.0,106.0,51.0,2018,6,6,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+341,La Mer,Dealmoon Exclusive! $75 off $350,2018-06-07,7.0,52.0,26.0,2018,6,7,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+342,La Mer,Dealmoon Exclusive! $75 off $350,2018-06-08,921.0,1325.0,1060.0,2018,6,8,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+343,La Mer,Receive a Luxury Sample,2018-06-13,120.0,113.0,59.0,2018,6,13,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+344,La Mer,Receive a Luxury Sample,2018-06-22,26.0,60.0,32.0,2018,6,22,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+345,La Mer,New Product,2018-06-28,45.0,157.0,75.0,2018,6,28,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+346,La Mer,Deluxe sample duo,2018-07-17,10.0,50.0,14.0,2018,7,17,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+347,La Mer,New Skincare Sets,2018-07-19,37.0,69.0,28.0,2018,7,19,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+348,La Mer,New Skincare Sets,2018-07-22,37.0,131.0,62.0,2018,7,22,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+349,La Mer,Select 5 free deluxe samples,2018-07-25,31.0,117.0,66.0,2018,7,25,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+350,La Mer,Receive a daily sample,2018-07-27,4.0,14.0,7.0,2018,7,27,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+351,La Mer,Receive a free gift,2018-07-31,6.0,28.0,3.0,2018,7,31,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+352,La Mer,"Deluxe Sample of Genaissance de la Mer, The Serum Essence",2018-08-02,11.0,38.0,10.0,2018,8,2,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+353,La Mer,Enjoy 3 Deluxe Samples,2018-08-09,35.0,89.0,39.0,2018,8,9,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,True
+354,La Mer,Enjoy a deluxe sample of,2018-08-10,3.0,9.0,0.0,2018,8,10,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+355,La Mer,Free Deluxe Sample Duo,2018-08-13,19.0,24.0,7.0,2018,8,13,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+356,La Mer,Free Deluxe Sample Duo + Free Shipping,2018-08-14,2.0,18.0,7.0,2018,8,14,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+357,La Mer,Free Deluxe Sample Duo + Free Shipping,2018-08-15,13.0,9.0,4.0,2018,8,15,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+358,La Mer,Receive The Small Miracles Collection + 2 Deluxe Samples + Free Shipping,2018-08-17,21.0,38.0,23.0,2018,8,17,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+359,La Mer,Enjoy 4-piece Deluxe Sample,2018-08-24,8.0,47.0,24.0,2018,8,24,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+360,La Mer,Dealmoon Exclusive! Receive Free Deluxe Samples,2018-09-10,2.0,3.0,5.0,2018,9,10,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+361,La Mer,Dealmoon Exclusive! Receive free deluxe samples,2018-09-15,77.0,219.0,108.0,2018,9,15,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+362,La Mer,New Skincare Sets,2018-09-18,20.0,86.0,28.0,2018,9,18,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+363,La Mer,Receive free Brightening Mask,2018-10-03,6.0,71.0,26.0,2018,10,3,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+364,La Mer,Enjoy free new products,2018-10-05,3.0,19.0,9.0,2018,10,5,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+365,La Mer,Enjoy a 4-piece set,2018-10-16,50.0,78.0,40.0,2018,10,16,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+366,La Mer,['Today Only：Enjoy a 4-piece gift' 'Enjoy a 2-piece set'],2018-10-23,46.0,197.0,115.0,2018,10,23,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+367,La Mer,Enjoy an essentials trio,2018-10-30,30.0,120.0,73.0,2018,10,30,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+368,La Mer,New Arrive!,2018-11-01,44.0,178.0,111.0,2018,11,1,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+369,La Mer,"['Spend $500, Get $100 Off'
+ 'Dealmoon Singles Day Exclusive! Spend $500, Get $100 Off']",2018-11-08,628.0,749.0,642.0,2018,11,8,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+370,La Mer,Pick 4 deluxe samples,2018-11-10,5.0,29.0,16.0,2018,11,10,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+371,La Mer,Enjoy 4-piece Small Miracles Collection,2018-11-15,0.0,12.0,9.0,2018,11,15,Thursday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+372,La Mer,Receive The Small Miracles Collection(value $124.5),2018-11-21,11.0,43.0,37.0,2018,11,21,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+373,La Mer,Dealmoon Exclusive Up to $150 Off,2018-11-24,70.0,248.0,305.0,2018,11,24,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+374,La Mer,Dealmoon Exclusive Up to $150 Off,2018-11-25,975.0,2087.0,2029.0,2018,11,25,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+375,La Mer,"['Dealmoon Exclusive Receive Small Miracles Collection(value $164.4)'
+ 'Dealmoon Exclusive Spend $200+']",2018-11-27,2.0,16.0,21.0,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+376,La Mer,"['Dealmoon Exclusive Receive the Small Miracles Collection(value $164.4)'
+ 'Dealmoon Exclusive receive the Small Miracles Collection(value $164.4)'
+ 'Dealmoon Exclusive'
+ 'Dealmoon Exclusive Receive the Small Miracles Collection(value$164.4)']",2018-11-28,730.0,655.0,553.0,2018,11,28,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+377,La Mer,Receive 5-piece set( $162.65 value),2018-11-30,48.0,32.0,16.0,2018,11,30,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+378,La Mer,Select two deluxe samples,2018-12-07,38.0,22.0,12.0,2018,12,7,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+379,La Mer,Select a deluxe sample,2018-12-29,11.0,19.0,9.0,2018,12,29,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+380,La Mer,Free 3 Piece set,2019-01-05,30.0,30.0,9.0,2019,1,5,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+381,La Mer,"Free Genaissance de la Mer deluxe mini duo, value$131",2019-01-09,1.0,11.0,5.0,2019,1,9,Wednesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+382,La Mer,Free complimentary set of 5 mini moisturizers (value $93.1),2019-01-13,4.0,22.0,11.0,2019,1,13,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+383,La Mer,Free 6-piece Skincare Routine,2019-01-14,25.0,19.0,12.0,2019,1,14,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+384,La Mer,Select a deluxe mini of your choice,2019-01-17,11.0,24.0,12.0,2019,1,17,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+385,La Mer,Free Gift (value up to $335）,2019-01-24,132.0,207.0,120.0,2019,1,24,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+386,La Mer,New Arrival! $150,2019-01-25,23.0,51.0,19.0,2019,1,25,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+387,La Mer,Free luxury travel size Concentrate value $190,2019-01-29,27.0,22.0,10.0,2019,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+388,La Mer,Free a deluxe mini Concentrate,2019-02-02,3.0,22.0,10.0,2019,2,2,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+389,La Mer,New Arrivals,2019-02-06,16.0,13.0,13.0,2019,2,6,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+390,La Mer,Enjoy deluxe minis of Creme de la Mer,2019-02-07,26.0,29.0,17.0,2019,2,7,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+391,La Mer,PICK YOUR LA MER PARTNER,2019-02-11,27.0,26.0,12.0,2019,2,11,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+392,La Mer,Enjoy a 4-piece calming regimen featuring,2019-02-15,2.0,22.0,20.0,2019,2,15,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+393,La Mer,Enjoy a deluxe mini trio,2019-02-21,22.0,62.0,34.0,2019,2,21,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+394,La Mer,Enjoy up to three gifts,2019-02-25,38.0,95.0,72.0,2019,2,25,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+395,La Mer,Enjoy free 2 samples,2019-02-26,21.0,3.0,1.0,2019,2,26,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+396,La Mer,Enjoy The Eye Concentrate in a Luxurious Travel-size,2019-03-02,16.0,28.0,16.0,2019,3,2,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+397,La Mer,Dealmoon Exclusive $75 Off,2019-03-05,20.0,12.0,12.0,2019,3,5,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+398,La Mer,"['Dealmoon Exclusive!'
+ 'Dealmoon Exclusive: $75 off your first purchase of $350 + receive a 4-piece set'
+ 'Dealmoon Exclusive $75 Off']",2019-03-06,1222.0,527.0,606.0,2019,3,6,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+399,La Mer,Dealmoon Exclusive!,2019-03-07,2.0,5.0,3.0,2019,3,7,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+400,La Mer,Pick 4 deluxe minis,2019-03-10,5.0,22.0,23.0,2019,3,10,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+401,La Mer,"[""Two complimentary deluxe mini's""
+ 'Receive deluxe minis of The Cleansing Foam & The Tonic']",2019-03-12,10.0,7.0,2.0,2019,3,12,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+402,La Mer,Two complimentary deluxe mini's,2019-03-14,55.0,13.0,10.0,2019,3,14,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+403,La Mer,Two complimentary deluxe mini's,2019-03-16,5.0,10.0,3.0,2019,3,16,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+404,La Mer,Exclusive La Mer Charm Bracelet,2019-03-18,5.0,3.0,3.0,2019,3,18,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+405,La Mer,Enjoy a 4-piece Small Miracles Collection with,2019-03-25,132.0,119.0,112.0,2019,3,25,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+406,La Mer,Enjoy The Concentrate 15ml,2019-03-26,12.0,8.0,8.0,2019,3,26,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+407,La Mer,select your favorite La Mer serum,2019-03-28,105.0,65.0,53.0,2019,3,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+408,La Mer,Enjoy a complimentary deluxe duo,2019-04-05,28.0,54.0,38.0,2019,4,5,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+409,La Mer,Choose 3 deluxe minis,2019-04-13,82.0,78.0,70.0,2019,4,13,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+410,La Mer,GWP,2019-04-20,28.0,14.0,13.0,2019,4,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+411,La Mer,GWP(Value $156),2019-04-21,25.0,27.0,27.0,2019,4,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+412,La Mer,Free Gift(Value $58),2019-04-26,47.0,48.0,65.0,2019,4,26,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+413,La Mer,GWP,2019-05-04,30.0,28.0,48.0,2019,5,4,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+414,La Mer,GWP,2019-05-12,9.0,6.0,9.0,2019,5,12,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+415,La Mer,GWP,2019-05-13,23.0,17.0,39.0,2019,5,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+416,La Mer,GWP(worth over $186),2019-05-18,95.0,48.0,44.0,2019,5,18,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+417,La Mer,Receive $160 gifts,2019-05-23,5.0,16.0,18.0,2019,5,23,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+418,La Mer,GWP,2019-05-26,29.0,24.0,25.0,2019,5,26,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+419,La Mer,GWP,2019-05-27,1.0,6.0,3.0,2019,5,27,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,True
+420,La Mer,$75 off $350,2019-06-01,1.0,6.0,7.0,2019,6,1,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+421,La Mer,['$75 off $350' 'GWP'],2019-06-02,51.0,63.0,76.0,2019,6,2,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+422,La Mer,$75 off $350,2019-06-03,587.0,580.0,677.0,2019,6,3,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+423,La Mer,$75 off,2019-06-04,43.0,44.0,52.0,2019,6,4,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+424,La Mer,GWP(worth over $144),2019-06-06,11.0,8.0,19.0,2019,6,6,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+425,La Mer,GWP(worth over $130),2019-06-11,12.0,14.0,22.0,2019,6,11,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+426,La Mer,GWP,2019-06-17,42.0,54.0,53.0,2019,6,17,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+427,La Mer,['$75 off' '$75 off $350'],2019-06-19,23.0,29.0,26.0,2019,6,19,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+428,La Mer,['$75 off $350' '$75 off'],2019-06-20,11.0,8.0,4.0,2019,6,20,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+429,La Mer,['GWP(worth over $214)' '$75 off $350'],2019-06-21,327.0,238.0,240.0,2019,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+430,La Mer,on any order,2019-06-24,101.0,44.0,60.0,2019,6,24,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+431,La Mer,Gift with Purchase worth over $248,2019-06-30,42.0,46.0,50.0,2019,6,30,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+432,La Mer,15ml Travel size Concentrate,2019-07-02,40.0,57.0,39.0,2019,7,2,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+433,La Mer,0.24oz Creme de la Mer,2019-07-04,3.0,11.0,14.0,2019,7,4,Thursday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
+434,La Mer,Free 3-piece Gift with Purchase,2019-07-14,9.0,21.0,19.0,2019,7,14,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+435,La Mer,Free 3-piece Gift with Purchase,2019-07-19,6.0,19.0,18.0,2019,7,19,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+436,La Mer,Free 2-piece Gift with Purchase,2019-07-22,4.0,3.0,5.0,2019,7,22,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+437,La Mer,['FreeGift with Purchase' 'Get $185+ Value Gift'],2019-07-27,14.0,24.0,52.0,2019,7,27,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+438,La Mer,Free 3 piece Gift,2019-08-02,32.0,47.0,28.0,2019,8,2,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+439,La Mer,3ml Eye Concentrate,2019-08-04,5.0,3.0,6.0,2019,8,4,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+440,La Mer,Creme de la Mer 0.24oz,2019-08-12,2.0,3.0,7.0,2019,8,12,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+441,La Mer,$260 Value Gift,2019-08-17,21.0,25.0,26.0,2019,8,17,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,True
+442,La Mer,$150+ Value Gift,2019-08-20,0.0,5.0,4.0,2019,8,20,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+443,La Mer,$75 off + Gift (up to $243 value),2019-09-23,0.0,2.0,7.0,2019,9,23,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+444,La Mer,$75 Off $350 Purchase + Gift,2019-09-24,10.0,28.0,46.0,2019,9,24,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+445,La Mer,['$75 Off $350 Purchase' 'Enjoy $75 Off Any $350 Purchase + Gift'],2019-09-25,32.0,79.0,80.0,2019,9,25,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+446,La Mer,Enjoy $75 Off Any $350 Purchase,2019-11-04,159.0,314.0,296.0,2019,11,4,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+447,La Mer,Enjoy $75 Off Any $350 Purchase,2019-11-06,6.0,30.0,29.0,2019,11,6,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+448,La Mer,$100 Off $500 Purchase + Gifts,2019-11-07,533.0,362.0,455.0,2019,11,7,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+449,La Mer,$100 Off $500 Purchase + Gifts,2019-11-08,5.0,22.0,22.0,2019,11,8,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+450,La Mer,4 deluxe minis with any $150+ purchase.,2019-11-12,34.0,70.0,74.0,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+451,La Mer,Free Gift,2019-11-18,33.0,49.0,87.0,2019,11,18,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+452,La Mer,2 deluxe minis with any purchase,2019-11-20,64.0,81.0,120.0,2019,11,20,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+453,La Mer,2 deluxe minis with any purchase,2019-11-22,16.0,43.0,94.0,2019,11,22,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+454,La Mer,Free Gift,2019-11-27,41.0,76.0,123.0,2019,11,27,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+455,La Mer,['Up to 23% Off' 'Up to $200 Off'],2019-11-30,11.0,68.0,75.0,2019,11,30,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+456,La Mer,Up to 23% Off + GWP,2019-12-01,1233.0,1348.0,2313.0,2019,12,1,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.23,True
+457,La Mer,Up to $100 Off + GWP,2019-12-04,1314.0,549.0,592.0,2019,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+458,La Mer,2-PC Gift,2019-12-13,2.0,2.0,12.0,2019,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+459,La Mer,A deluxe mini duo,2019-12-19,95.0,78.0,65.0,2019,12,19,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+460,La Mer,A deluxe mini trio,2020-01-04,26.0,42.0,45.0,2020,1,4,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+461,La Mer,10 red envelopes with any purchase,2020-01-09,13.0,0.0,4.0,2020,1,9,Thursday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+462,La Mer,Free Duo Gift,2020-01-13,4.0,8.0,16.0,2020,1,13,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,True
+463,La Mer,$100 off $400 + $136 GWP,2020-04-10,4.0,5.0,6.0,2020,4,10,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+464,La Mer,$100 off $400 + $136 GWP,2020-04-11,2505.0,1296.0,1694.0,2020,4,11,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+465,La Mer,Free Duo Gift,2020-04-26,8.0,2.0,4.0,2020,4,26,Sunday,False,Normal,Normal,Normal,Normal,0.0,True

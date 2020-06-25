@@ -1,0 +1,159 @@
+,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,Kiehl's,Enjoy $20 off,2017-12-31,594.0,1853.0,821.0,2017,12,31,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+1,Kiehl's,['Enjoy $20 off + 3 minis' 'Enjoy $20 off'],2018-01-01,4735.0,11409.0,7177.0,2018,1,1,Monday,False,New Year's Day,New Year's Day,New Year's Day,New Year's Day,0.0,False
+2,Kiehl's,Get $20 off,2018-01-02,189.0,487.0,226.0,2018,1,2,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+3,Kiehl's,Choose 4 Deluxe Samples,2018-01-06,28.0,82.0,30.0,2018,1,6,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+4,Kiehl's,Enjoy 10 packette samples of Powerful-Strength Line-Reducing Concentrate,2018-01-13,26.0,133.0,64.0,2018,1,13,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+5,Kiehl's,Free Ground Shipping,2018-01-17,28.0,107.0,36.0,2018,1,17,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+6,Kiehl's,FREE 5-piece sample bundle,2018-01-22,7.0,44.0,18.0,2018,1,22,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+7,Kiehl's,2 Free Deluxe Samples,2018-01-31,29.0,104.0,25.0,2018,1,31,Wednesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+8,Kiehl's,Enjoy a Limited Edition Tote,2018-02-07,17.0,123.0,37.0,2018,2,7,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+9,Kiehl's,Complimentary gift boxing,2018-02-09,5.0,21.0,6.0,2018,2,9,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+10,Kiehl's,Enjoy 4 deluxe samples & limited edition canvas pouch,2018-02-10,8.0,57.0,13.0,2018,2,10,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+11,Kiehl's,"['Enjoy 4 deluxe samples &limited edition canvas pouch'
+ 'Enjoy 4 deluxe samples & limited edition canvas pouch']",2018-02-12,19.0,108.0,30.0,2018,2,12,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+12,Kiehl's,"['Enjoy 4 deluxe samples & limited edition canvas pouch'
+ 'Enjoy 4 deluxe samples &limited edition canvas pouch']",2018-02-13,46.0,274.0,74.0,2018,2,13,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+13,Kiehl's,"['Enjoy 4 deluxe samples & limited edition canvas pouch'
+ 'Enjoy 4 deluxe samples &limited edition canvas pouch']",2018-02-14,48.0,223.0,73.0,2018,2,14,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+14,Kiehl's,Dealmoon Exclusive: Enjoy 4 deluxe samples & limited edition canvas pouch,2018-02-17,55.0,258.0,126.0,2018,2,17,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+15,Kiehl's,3 free deluxe samples,2018-02-20,2.0,44.0,12.0,2018,2,20,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+16,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,2018-02-28,4.0,19.0,8.0,2018,2,28,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+17,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,2018-03-01,10.0,39.0,15.0,2018,3,1,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+18,Kiehl's,Receive 5 Deluxe Samples including a travel pouch,2018-03-02,17.0,85.0,22.0,2018,3,2,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+19,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,2018-03-05,7.0,24.0,12.0,2018,3,5,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+20,Kiehl's,Enjoy 1 Deluxe Sample for Every $25,2018-03-16,6.0,83.0,22.0,2018,3,16,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+21,Kiehl's,['$54 + Free Sample' '3 Deluxe Samples'],2018-03-22,11.0,33.0,11.0,2018,3,22,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+22,Kiehl's,Receive a Full Size Ultra Facial Toner,2018-03-26,10.0,41.0,8.0,2018,3,26,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+23,Kiehl's,CELEBRATE EARTH DAY,2018-04-22,17.0,97.0,36.0,2018,4,22,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+24,Kiehl's,Get 4 deluxe samples and a clear mini travel bag,2018-04-28,9.0,83.0,30.0,2018,4,28,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+25,Kiehl's,Receive 4 deluxe samples and complimentary gift wrapping,2018-05-06,26.0,146.0,48.0,2018,5,6,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+26,Kiehl's,Enjoy 2-Day Shipping and Complimentary gift boxing,2018-05-09,10.0,28.0,11.0,2018,5,9,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+27,Kiehl's,Enjoy 2 complimentary deluxe samples,2018-05-11,4.0,18.0,6.0,2018,5,11,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+28,Kiehl's,['20% Off' '20% off' '$43.20$54.00'],2018-05-18,4.0,46.0,21.0,2018,5,18,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+29,Kiehl's,20% Off,2018-05-19,13.0,75.0,9.0,2018,5,19,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+30,Kiehl's,20% Off,2018-05-20,10.0,49.0,14.0,2018,5,20,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+31,Kiehl's,['20% Off' 'Enjoy 20% off' '$12.80$16.00'],2018-05-21,49.0,230.0,71.0,2018,5,21,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+32,Kiehl's,['20% Off' '20% off Any Order' '$23.20$29.00' '$26.40$33.00'],2018-05-22,1097.0,3426.0,1777.0,2018,5,22,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+33,Kiehl's,Receive 2 or more deluxe samples,2018-05-31,7.0,37.0,15.0,2018,5,31,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+34,Kiehl's,$24.00 ,2018-06-09,7.0,35.0,3.0,2018,6,9,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+35,Kiehl's,"Receive a 5 piece men's gift, plus free gift boxing",2018-06-12,7.0,31.0,14.0,2018,6,12,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+36,Kiehl's,Receive 3 deluxe samples,2018-06-14,9.0,20.0,14.0,2018,6,14,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+37,Kiehl's,Up to 5 deluxe samples,2018-06-26,13.0,67.0,24.0,2018,6,26,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+38,Kiehl's,3 deluxe samples,2018-07-04,7.0,61.0,14.0,2018,7,4,Wednesday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
+39,Kiehl's,Receive 3 deluxe samples of a Calendula product of your choice,2018-07-10,16.0,104.0,18.0,2018,7,10,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+40,Kiehl's,Up to 6 deluxe samples,2018-07-11,8.0,60.0,20.0,2018,7,11,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+41,Kiehl's,Get 1 deluxe sample for,2018-07-21,7.0,58.0,25.0,2018,7,21,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+42,Kiehl's,Receive 2 deluxe samples,2018-07-23,0.0,2.0,0.0,2018,7,23,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+43,Kiehl's,Receive 10 packettes of your choosing,2018-07-30,5.0,59.0,20.0,2018,7,30,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+44,Kiehl's,Receive a Deluxe Sample of Youth Dose Eye Treatment,2018-08-06,15.0,82.0,25.0,2018,8,6,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+45,Kiehl's,15% Off,2018-08-12,4.0,52.0,29.0,2018,8,12,Sunday,False,Normal,Normal,Normal,Labor Day,0.15,False
+46,Kiehl's,['$17.85 (Original $21)' '$48.00$60.00' '15% Off + GWP' 'Enjoy 15% Off'],2018-08-13,23.0,125.0,26.0,2018,8,13,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+47,Kiehl's,"['15% Off' '$24.65 (Original $29.00)' 'Enjoy 15% Off'
+ 'Enjoy 15% off entire purchase' '$42.50 (Original $50.00)'
+ '$51 (Original $60)' '$52.7 (Original $62)' '$28.05 (Original $33)']",2018-08-14,273.0,1458.0,740.0,2018,8,14,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+48,Kiehl's,Receive a 4 piece gift,2018-08-23,12.0,49.0,21.0,2018,8,23,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+49,Kiehl's,Receive 5 Deluxe Samples + Full Size Cleanser,2018-09-13,21.0,128.0,46.0,2018,9,13,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+50,Kiehl's,New Arrival! $70,2018-10-04,3.0,65.0,26.0,2018,10,4,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+51,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,2018-10-16,2.0,7.0,2.0,2018,10,16,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+52,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,2018-10-17,10.0,192.0,51.0,2018,10,17,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+53,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,2018-10-18,50.0,250.0,108.0,2018,10,18,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+54,Kiehl's,New Arrival!,2018-10-31,18.0,55.0,25.0,2018,10,31,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+55,Kiehl's,4 Deluxe Samples+Free Ground Shipping,2018-11-22,14.0,51.0,12.0,2018,11,22,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+56,Kiehl's,4 deluxe samples and free ground shipping,2018-11-24,22.0,64.0,15.0,2018,11,24,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+57,Kiehl's,Receive a 13-piece gift,2018-11-27,14.0,27.0,14.0,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+58,Kiehl's,Get $20 off,2018-12-19,4.0,12.0,1.0,2018,12,19,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+59,Kiehl's,Get $20 off,2018-12-20,4.0,16.0,5.0,2018,12,20,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+60,Kiehl's,Get $20 off,2018-12-30,535.0,1988.0,1059.0,2018,12,30,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+61,Kiehl's,Get $20 off,2018-12-31,563.0,2480.0,1157.0,2018,12,31,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+62,Kiehl's,Get $20 off,2019-01-01,6022.0,10776.0,6894.0,2019,1,1,Tuesday,False,New Year's Day,New Year's Day,New Year's Day,New Year's Day,0.0,False
+63,Kiehl's,4 deluxe samples,2019-01-04,23.0,32.0,21.0,2019,1,4,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+64,Kiehl's,Free Gift,2019-01-16,67.0,24.0,20.0,2019,1,16,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+65,Kiehl's,Dealmoon EXCLUSIVE: 5-piece gift on $55 + a Free Travel-size Crème De Corps,2019-01-29,26.0,167.0,55.0,2019,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+66,Kiehl's,Receive two deluxe samples,2019-02-05,13.0,10.0,5.0,2019,2,5,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+67,Kiehl's,Receive a limited edition tote bag,2019-02-15,1.0,7.0,6.0,2019,2,15,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+68,Kiehl's,Deluxe Samples,2019-02-23,37.0,105.0,58.0,2019,2,23,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+69,Kiehl's,Dealmoon Exclusive! receive 15% off,2019-02-27,28.0,104.0,54.0,2019,2,27,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.15,False
+70,Kiehl's,Deluxe sample duos,2019-03-01,3.0,28.0,34.0,2019,3,1,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+71,Kiehl's,3 deluxe samples,2019-03-10,9.0,39.0,20.0,2019,3,10,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+72,Kiehl's,['Free samples' 'Dealmoon Exclusive: receive 15% off + GWP'],2019-03-11,283.0,510.0,421.0,2019,3,11,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+73,Kiehl's,2 deluxe samples,2019-03-14,17.0,27.0,18.0,2019,3,14,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+74,Kiehl's,Choose 6 Piece Gift on a $65+ order,2019-03-27,94.0,254.0,173.0,2019,3,27,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+75,Kiehl's,Free samples,2019-03-28,17.0,26.0,20.0,2019,3,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+76,Kiehl's,15% Off + Free Gift,2019-04-01,74.0,149.0,107.0,2019,4,1,Monday,False,Normal,Normal,Normal,Normal,0.15,True
+77,Kiehl's,3-pc Gift,2019-04-04,1.0,17.0,7.0,2019,4,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+78,Kiehl's,10 packette samples,2019-04-10,8.0,5.0,3.0,2019,4,10,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+79,Kiehl's,"Receive 2 deluxe samples on $50+, Receive 4 deluxe samples on $65+, Receive a 5 piece gift on $100+",2019-04-19,24.0,49.0,46.0,2019,4,19,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+80,Kiehl's,20% off + GWP,2019-04-24,3.0,6.0,12.0,2019,4,24,Wednesday,False,Normal,Normal,Normal,Normal,0.2,True
+81,Kiehl's,['$24 (Original $30)' '20% off + GWP' '20%off'],2019-04-29,21.0,89.0,66.0,2019,4,29,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+82,Kiehl's,['20% off' '20% Off' 'DEALMOON EXCLUSIVE: 20% Off'],2019-04-30,893.0,1421.0,1220.0,2019,4,30,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+83,Kiehl's,Deluxe Samples,2019-05-05,10.0,23.0,25.0,2019,5,5,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+84,Kiehl's,['Deluxe Samples' 'Choose 2 deluxe sample (Up to 8)'],2019-05-15,6.0,47.0,26.0,2019,5,15,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+85,Kiehl's,Free sample!,2019-05-16,11.0,11.0,14.0,2019,5,16,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+86,Kiehl's,Deluxe Samples,2019-05-28,3.0,13.0,3.0,2019,5,28,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+87,Kiehl's,3 Deluxe Samples,2019-05-31,22.0,57.0,43.0,2019,5,31,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+88,Kiehl's,10 packette samples,2019-06-03,13.0,11.0,14.0,2019,6,3,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+89,Kiehl's,5 deluxe samples,2019-06-04,1.0,8.0,8.0,2019,6,4,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+90,Kiehl's,20% off + GWP,2019-06-10,15.0,33.0,24.0,2019,6,10,Monday,False,Normal,Normal,Normal,Memorial Day,0.2,True
+91,Kiehl's,['20% Off' '20% Off + GWP' '20% off' '20% off + GWP'],2019-06-11,367.0,678.0,461.0,2019,6,11,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+92,Kiehl's,Deluxe Samples,2019-06-13,5.0,11.0,31.0,2019,6,13,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+93,Kiehl's,['2 Deluxe Samples+Free Shipping' '3 Deluxe Samples'],2019-06-19,28.0,27.0,26.0,2019,6,19,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+94,Kiehl's,2 Deluxe Samples+Free Shipping,2019-06-21,0.0,0.0,0.0,2019,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+95,Kiehl's,3 Deluxe Samples With $65+ Order,2019-06-27,10.0,18.0,14.0,2019,6,27,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+96,Kiehl's,Free 3 Deluxe Calendula Samples & Headband,2019-07-01,8.0,25.0,19.0,2019,7,1,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+97,Kiehl's,Free 5 Deluxe Samples with $75+,2019-07-05,15.0,41.0,26.0,2019,7,5,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+98,Kiehl's,Free 3-Piece Gift $65+,2019-07-12,8.0,22.0,13.0,2019,7,12,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+99,Kiehl's,Free 7-Piece Gift $70+,2019-07-15,1.0,13.0,7.0,2019,7,15,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+100,Kiehl's,"['20% off + 8-piece Free Gift' '20% Off + 8-piece Free with Purchase'
+ '20% Off+8-piece Free Gift' '20% off + 10-piece Free Gift']",2019-07-30,401.0,771.0,609.0,2019,7,30,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+101,Kiehl's,['Receive 10 Sample Packettes of PSLRC' '3-piece Free Gift'],2019-08-13,15.0,27.0,16.0,2019,8,13,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+102,Kiehl's,Free 2Pc Gifts,2019-08-16,3.0,23.0,13.0,2019,8,16,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+103,Kiehl's,Receive Up to 5 Piece Gifts,2019-08-19,0.0,5.0,7.0,2019,8,19,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+104,Kiehl's,Receive Up to 9 Piece Gifts,2019-08-26,4.0,2.0,6.0,2019,8,26,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+105,Kiehl's,Receive Up to 5 Piece Gifts,2019-09-04,5.0,6.0,5.0,2019,9,4,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+106,Kiehl's,Receive 5 Deluxe Samples + Full Size Cleanser,2019-10-01,27.0,82.0,43.0,2019,10,1,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+107,Kiehl's,['$90($160 Value)' '4 Deluxe Samples + Travel Bag'],2019-10-09,18.0,51.0,57.0,2019,10,9,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+108,Kiehl's,Sleep Mask + 3 nighttime deluxe samples,2019-10-11,9.0,14.0,7.0,2019,10,11,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+109,Kiehl's,Receive Up to 8 Piece Gifts,2019-10-20,18.0,46.0,100.0,2019,10,20,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+110,Kiehl's,$15 Off,2019-10-23,5.0,19.0,8.0,2019,10,23,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+111,Kiehl's,20% off,2019-10-28,22.0,46.0,93.0,2019,10,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.2,False
+112,Kiehl's,['20% Off' '20% off'],2019-10-29,306.0,944.0,721.0,2019,10,29,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+113,Kiehl's,$41.60 + 11-piece Free Gift,2019-11-09,1.0,17.0,74.0,2019,11,9,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+114,Kiehl's,20% Off + 11-piece Free Gift,2019-11-10,0.0,12.0,81.0,2019,11,10,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
+115,Kiehl's,20% Off + + 11-piece Free Gift,2019-11-11,4.0,23.0,94.0,2019,11,11,Monday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.2,True
+116,Kiehl's,20% Off + 11-piece Free Gift,2019-11-12,153.0,573.0,563.0,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
+117,Kiehl's,Up to 8-piece Free Gift,2019-11-13,2.0,9.0,7.0,2019,11,13,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+118,Kiehl's,Up to $35 Off,2019-11-21,7.0,29.0,99.0,2019,11,21,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+119,Kiehl's,Up to $35 Off,2019-12-02,2619.0,3801.0,2783.0,2019,12,2,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+120,Kiehl's,"['$20 Off $65' 'Up to $35 Off' 'Get $20 Off on $65 Purchase+ Free Gift'
+ 'Take 50% Off' '$20 Off $65 + Free Gift']",2020-01-01,5116.0,5107.0,4774.0,2020,1,1,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+121,Kiehl's,Up to 3-piece Free Gift,2020-01-08,13.0,11.0,8.0,2020,1,8,Wednesday,False,Normal,Normal,Normal,Christmas Day,0.0,True
+122,Kiehl's,15% Off,2020-01-24,63.0,132.0,82.0,2020,1,24,Friday,True,Normal,Normal,Normal,Normal,0.15,False
+123,Kiehl's,Free Shipping Any Purchase,2020-01-28,8.0,11.0,7.0,2020,1,28,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+124,Kiehl's,Enjoy 3 Deluxe Mask Samples,2020-02-01,1.0,3.0,7.0,2020,2,1,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+125,Kiehl's,Up to 2 Sample Bundles,2020-02-04,0.0,7.0,6.0,2020,2,4,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+126,Kiehl's,Up to 9 Sample Bundles,2020-02-25,46.0,111.0,81.0,2020,2,25,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+127,Kiehl's,Up to 5 free Gifts,2020-02-28,3.0,6.0,5.0,2020,2,28,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+128,Kiehl's,Free 8-piece Gift,2020-03-11,26.0,60.0,57.0,2020,3,11,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+129,Kiehl's,Up to 7 free Gifts,2020-03-16,6.0,16.0,15.0,2020,3,16,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+130,Kiehl's,Free Full Size Gifts,2020-03-23,12.0,8.0,6.0,2020,3,23,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+131,Kiehl's,"['20% Off + Free Shipping' '20% Off + Free Shipping + Free Gifts'
+ '20% Off + Free Shipping + GWP' '20% Off Sitewide + Free Shipping']",2020-04-03,56.0,201.0,153.0,2020,4,3,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+132,Kiehl's,20% Off Sitewide + Free Shipping,2020-04-04,809.0,748.0,681.0,2020,4,4,Saturday,True,Normal,Normal,Normal,Normal,0.2,False
+133,Kiehl's,40% Off,2020-04-13,278.0,209.0,210.0,2020,4,13,Monday,False,Normal,Normal,Normal,Normal,0.4,False
+134,Kiehl's,Free Gifts,2020-04-14,4.0,1.0,5.0,2020,4,14,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+135,Kiehl's,Free Gifts,2020-04-15,5.0,17.0,9.0,2020,4,15,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+136,Kiehl's,Free Gifts,2020-04-17,5.0,4.0,4.0,2020,4,17,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+137,Kiehl's,40% Off,2020-05-04,758.0,475.0,418.0,2020,5,4,Monday,False,Normal,Normal,Normal,Normal,0.4,False
+138,Kiehl's,Free Gifts,2020-05-07,140.0,29.0,70.0,2020,5,7,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+139,Kiehl's,Free Gifts,2020-05-12,59.0,11.0,6.0,2020,5,12,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+140,Kiehl's,Free Mask,2020-05-14,100.0,5.0,4.0,2020,5,14,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+141,Kiehl's,Free Gifts,2020-05-15,25.0,11.0,7.0,2020,5,15,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+142,Kiehl's,15% Off,2020-05-22,40.0,19.0,11.0,2020,5,22,Friday,True,Normal,Normal,Normal,Normal,0.15,False
+143,Kiehl's,Starting From$52,2020-05-26,0.0,9.0,3.0,2020,5,26,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+144,Kiehl's,Free Gift,2020-06-04,30.0,30.0,19.0,2020,6,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+145,Kiehl's,Free Gifts,2020-06-08,256.0,71.0,49.0,2020,6,8,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+146,Kiehl's,Free Gift,2020-06-10,7.0,20.0,9.0,2020,6,10,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+147,Kiehl's,Free Gifts,2020-06-15,4.0,4.0,6.0,2020,6,15,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+148,Kiehl's,['20% Off + Free Gift' '20% Off'],2020-06-20,209.0,281.0,130.0,2020,6,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+149,Kiehl's,['20% Off + Free Gift' '20% Off'],2020-06-21,18.0,54.0,25.0,2020,6,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,False

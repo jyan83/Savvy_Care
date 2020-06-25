@@ -27,7 +27,7 @@ def crawling(url, brand, page_max=100):
     driver.get(url)
 
 #    master = [['Brand', 'Store', 'Discount', 'Posted_date', 'End_date', 'Comments_count', 'Bookmarks_count', 'Shares_count']]
-    master = [['Brand', 'Store', 'Discount', 'End_date', 'Comments_count', 'Bookmarks_count', 'Shares_count']]
+    master = [['Brand', 'Store', 'Discount', 'Posted_date', 'Comments_count', 'Bookmarks_count', 'Shares_count']]
 
     page = 0
     while True:
@@ -156,9 +156,9 @@ def saveCSV(filename, data):
         writer = csv.writer(f)
         writer.writerows(data)
         
-#all_categories = ['lancome', 'estee%20lauder', 'lamer', 'clinique', 'shiseido',
-#                  'kiehls', 'clarins', 'armani', 'bobbi-brown-cosmetics']
-all_categories = ['giorgio-armani-beauty']
+all_categories = ['lancome', 'estee%20lauder', 'la-mer', 'clinique', 'shiseido',
+                  'kiehls', 'clarins', 'bobbi-brown-cosmetics','giorgio-armani-beauty']
+#all_categories = ['giorgio-armani-beauty']
 all_urls = []
 for i in all_categories:
     all_urls.append('https://www.dealmoon.com/en/stores/'+i+'?sort=relevance&exp=y')

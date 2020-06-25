@@ -1,0 +1,814 @@
+,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,Clinique,Free,2011-05-16,0.0,0.0,0.0,2011,5,16,Monday,False,Normal,Mother's day,Mother's day,Mother's day,0.0,False
+1,Clinique,Free shipping,2011-06-12,0.0,0.0,0.0,2011,6,12,Sunday,False,Normal,Normal,Fathers's day,Fathers's day,0.0,False
+2,Clinique,Promotion,2011-06-15,0.0,0.0,0.0,2011,6,15,Wednesday,False,Normal,Fathers's day,Fathers's day,Fathers's day,0.0,False
+3,Clinique,2 FREE minis: Clinique Happy and SPF 30 Face with Keychain,2011-08-10,0.0,0.0,0.0,2011,8,10,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+4,Clinique,Free tote bag,2011-08-27,0.0,0.0,0.0,2011,8,27,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+5,Clinique,Clinique Coupon,2011-10-11,0.0,0.0,0.0,2011,10,11,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+6,Clinique,Clinique Deal,2011-10-25,0.0,0.0,0.0,2011,10,25,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+7,Clinique,Clinique Deal,2011-11-04,0.0,0.0,0.0,2011,11,4,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+8,Clinique,FREE shipping,2011-11-12,0.0,0.0,0.0,2011,11,12,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+9,Clinique,FREE Deluxe Samples,2011-11-17,0.0,0.0,0.0,2011,11,17,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+10,Clinique,Clinique Deal,2011-11-20,0.0,0.0,0.0,2011,11,20,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+11,Clinique,Free shipping no minimum + 3 free samples,2011-11-27,0.0,0.0,0.0,2011,11,27,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+12,Clinique,Free Sample Trio,2011-12-09,0.0,0.0,0.0,2011,12,9,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,True
+13,Clinique,4 Free Skin Care/Make Up Minis,2011-12-14,0.0,0.0,0.0,2011,12,14,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+14,Clinique,Free Shipping,2011-12-20,0.0,0.0,0.0,2011,12,20,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+15,Clinique,Clinique:,2011-12-27,0.0,0.0,0.0,2011,12,27,Tuesday,False,Normal,Christmas Day (Observed),Christmas Day (Observed),Christmas Day (Observed),0.0,False
+16,Clinique,Clinique Offer:,2012-01-10,0.0,0.0,0.0,2012,1,10,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+17,Clinique,Free shipping + 3 free samples,2012-01-12,0.0,0.0,0.0,2012,1,12,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+18,Clinique,Free Gift,2012-01-25,0.0,0.0,0.0,2012,1,25,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+19,Clinique,Clinique Offer:,2012-02-21,0.0,0.0,0.0,2012,2,21,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+20,Clinique,['Free Gift' 'Clinique Offer:'],2012-02-25,0.0,0.0,0.0,2012,2,25,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+21,Clinique,Today Only!,2012-02-28,0.0,0.0,0.0,2012,2,28,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+22,Clinique,Clinique:,2012-02-29,0.0,0.0,0.0,2012,2,29,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+23,Clinique,Clinique Offer:,2012-03-07,0.0,0.0,0.0,2012,3,7,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+24,Clinique,Clinique:,2012-04-03,0.0,0.0,0.0,2012,4,3,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+25,Clinique,Free,2012-04-07,0.0,0.0,0.0,2012,4,7,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+26,Clinique,FREE,2012-04-10,0.0,0.0,0.0,2012,4,10,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+27,Clinique,Free shipping + 3 free samples,2012-04-16,0.0,0.0,0.0,2012,4,16,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+28,Clinique,Clinique coupon:,2012-04-30,0.0,0.0,0.0,2012,4,30,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+29,Clinique,4 Free Samples,2012-05-01,0.0,0.0,0.0,2012,5,1,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+30,Clinique,GWP!,2012-05-04,0.0,0.0,0.0,2012,5,4,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+31,Clinique,Free gifts,2012-05-11,0.0,0.0,0.0,2012,5,11,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+32,Clinique,It's Back!,2012-05-25,0.0,0.0,0.0,2012,5,25,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+33,Clinique,Clinique GWP,2012-05-30,0.0,0.0,0.0,2012,5,30,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+34,Clinique,FREE Grooming Kit,2012-06-01,0.0,0.0,0.0,2012,6,1,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+35,Clinique,3 Free Mini Gift,2012-06-11,0.0,0.0,0.0,2012,6,11,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+36,Clinique,Clinique GWP:,2012-06-25,0.0,0.0,0.0,2012,6,25,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+37,Clinique,Pick 4 Minis,2012-07-03,0.0,0.0,0.0,2012,7,3,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+38,Clinique,Free 4 Minis,2012-07-04,0.0,0.0,0.0,2012,7,4,Wednesday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
+39,Clinique,Free Sun Hat,2012-07-10,0.0,0.0,0.0,2012,7,10,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+40,Clinique,$36.50$103.00,2012-07-11,0.0,0.0,0.0,2012,7,11,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+41,Clinique,Free Flower-power Flip Flops,2012-07-16,0.0,0.0,0.0,2012,7,16,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+42,Clinique,Free Travel-Ready 3-Step Minis,2012-07-27,0.0,0.0,0.0,2012,7,27,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+43,Clinique,Clinique GWP:,2012-08-06,0.0,0.0,0.0,2012,8,6,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+44,Clinique,Clinique GWP:,2012-08-13,0.0,0.0,0.0,2012,8,13,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+45,Clinique,2 FREE Minis,2012-08-16,0.0,0.0,0.0,2012,8,16,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+46,Clinique,['Clinique coupon:' 'Clinique GWP'],2012-08-23,0.0,0.0,0.0,2012,8,23,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+47,Clinique,Free Deluxe Sample,2012-08-29,0.0,0.0,0.0,2012,8,29,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+48,Clinique,FREE Best-Selling Mascara Mini,2012-09-03,0.0,0.0,0.0,2012,9,3,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,False
+49,Clinique,Clinique GWP:,2012-09-07,0.0,0.0,0.0,2012,9,7,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+50,Clinique,Free Mascara Mini,2012-09-13,0.0,0.0,0.0,2012,9,13,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+51,Clinique,Free,2012-09-15,0.0,0.0,0.0,2012,9,15,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+52,Clinique,Clinique GWP: Get 3 FREE Minis,2012-09-17,0.0,0.0,0.0,2012,9,17,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+53,Clinique,Clinique GWP: 4 FREE Minis,2012-09-25,0.0,0.0,0.0,2012,9,25,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+54,Clinique,Free Shipping Week,2012-10-02,0.0,0.0,0.0,2012,10,2,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+55,Clinique,Free Shipping,2012-10-10,0.0,0.0,0.0,2012,10,10,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+56,Clinique,Free 7-PC Gift Set ($65 Value),2012-10-28,0.0,0.0,0.0,2012,10,28,Sunday,False,Normal,Normal,Normal,Veterans Day,0.0,True
+57,Clinique,Clinique GWP: Get 3 FREE Minis,2012-10-29,0.0,0.0,0.0,2012,10,29,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+58,Clinique,Free Holiday Tote,2012-11-01,0.0,0.0,0.0,2012,11,1,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+59,Clinique,Free 7-PC Gift Set ($65 Value),2012-11-04,0.0,0.0,0.0,2012,11,4,Sunday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+60,Clinique,Great Gift Sets on sale,2012-11-07,0.0,0.0,0.0,2012,11,7,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+61,Clinique,Free skin care bag,2012-11-13,0.0,0.0,0.0,2012,11,13,Tuesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+62,Clinique,Free 3 Pc,2012-11-16,0.0,0.0,0.0,2012,11,16,Friday,True,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+63,Clinique,3 Free Minis,2012-11-20,0.0,0.0,0.0,2012,11,20,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+64,Clinique,Free Chubby Stick mini in Mega Melon,2012-11-23,0.0,0.0,0.0,2012,11,23,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+65,Clinique,3 FREE Moisture Minis + Free Shipping,2012-11-26,0.0,0.0,0.0,2012,11,26,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+66,Clinique,3 free minis plus 1 more treat on orders over $25,2012-11-28,0.0,0.0,0.0,2012,11,28,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+67,Clinique,5 FREE Minis over $30+,2012-12-01,0.0,0.0,0.0,2012,12,1,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+68,Clinique,Clinique Exclusive eye kit (A $100 value),2012-12-02,0.0,0.0,0.0,2012,12,2,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+69,Clinique,['5-piece Clinique Complete Happiness' '$30 '],2012-12-07,0.0,0.0,0.0,2012,12,7,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+70,Clinique,Free Red-Lip Trio,2012-12-12,0.0,0.0,0.0,2012,12,12,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+71,Clinique,3 free minis,2012-12-13,0.0,0.0,0.0,2012,12,13,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+72,Clinique,7 try-me sizes+ Mini Accessory Bag,2012-12-17,0.0,0.0,0.0,2012,12,17,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+73,Clinique,Free 4wk supply,2012-12-18,0.0,0.0,0.0,2012,12,18,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+74,Clinique,2 Free Minis,2012-12-20,0.0,0.0,0.0,2012,12,20,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+75,Clinique,Free mini bestseller + 2 minis + Free Shipping,2012-12-27,0.0,0.0,0.0,2012,12,27,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+76,Clinique,Free Clinique Happy Fragrance Mini,2013-01-02,0.0,0.0,0.0,2013,1,2,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+77,Clinique,3 Minis + 1 Extra Mini,2013-01-04,0.0,0.0,0.0,2013,1,4,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+78,Clinique,2 Minis + 1 Extra Sample,2013-01-15,0.0,0.0,0.0,2013,1,15,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+79,Clinique,2 Minis + 1 Extra Sample,2013-01-19,0.0,0.0,0.0,2013,1,19,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+80,Clinique,Free Shipping,2013-01-24,0.0,0.0,0.0,2013,1,24,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+81,Clinique,Free Mini All About Eyes,2013-01-27,0.0,0.0,0.0,2013,1,27,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+82,Clinique,FREE 2-week supply,2013-01-28,0.0,0.0,0.0,2013,1,28,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+83,Clinique,Free Eye Favourite,2013-01-29,0.0,0.0,0.0,2013,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+84,Clinique,Free shipping,2013-01-31,0.0,0.0,0.0,2013,1,31,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+85,Clinique,Free Superbalm Moisturizing Gloss mini in Raspberry,2013-02-04,0.0,1.0,0.0,2013,2,4,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+86,Clinique,Free shipping,2013-02-05,0.0,0.0,0.0,2013,2,5,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+87,Clinique,Free Makeup Minis,2013-02-06,0.0,0.0,0.0,2013,2,6,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+88,Clinique,3 Free travel minis,2013-02-07,0.0,0.0,0.0,2013,2,7,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+89,Clinique,Free Shipping,2013-02-10,0.0,0.0,0.0,2013,2,10,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+90,Clinique,Free Cosmetics Bag,2013-02-14,0.0,0.0,0.0,2013,2,14,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+91,Clinique,Free Clinique Happy Fragrance Mini,2013-02-20,0.0,0.0,0.0,2013,2,20,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+92,Clinique,FREE,2013-02-22,0.0,0.0,0.0,2013,2,22,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+93,Clinique,['Free Long Last Lipstick mini in Red Red Red' 'FREE Floral Sun Tote'],2013-02-23,0.0,0.0,0.0,2013,2,23,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+94,Clinique,Free Quickliner For Eyes Intense mini,2013-02-24,0.0,0.0,0.0,2013,2,24,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+95,Clinique,Free Shipping,2013-03-02,0.0,0.0,0.0,2013,3,2,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+96,Clinique,Free Two 2-week supply of Dark Spot,2013-03-09,0.0,0.0,0.0,2013,3,9,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+97,Clinique,['FREE Floral Sun Tote' 'Free shipping'],2013-03-12,0.0,0.0,0.0,2013,3,12,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+98,Clinique,Free 3 Minis,2013-03-15,0.0,0.0,0.0,2013,3,15,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+99,Clinique,Free Two 2-week supply of Dark Spot,2013-03-20,0.0,0.0,0.0,2013,3,20,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+100,Clinique,Free Dramatically Different Moisturizing Lotion(.05 oz.) + Free Shipping,2013-03-21,0.0,0.0,0.0,2013,3,21,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+101,Clinique,Free Clinique Colour Compact + FREE Shipping,2013-03-22,0.0,0.0,0.0,2013,3,22,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+102,Clinique,3 Free Minis + Free Shipping,2013-03-23,0.0,0.0,0.0,2013,3,23,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+103,Clinique,"Free Long Last Lipstick Mini in Red, Red, Red",2013-03-28,0.0,0.0,0.0,2013,3,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+104,Clinique,Free 3 steps skincare minis,2013-03-30,0.0,0.0,0.0,2013,3,30,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+105,Clinique,['$35 ' 'Free Limited Edition Tote'],2013-04-08,0.0,0.0,0.0,2013,4,8,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+106,Clinique,Free 3 Mini,2013-04-14,0.0,0.0,0.0,2013,4,14,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+107,Clinique,Free a Mini Sample + Free Shipping,2013-04-19,0.0,0.0,0.0,2013,4,19,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+108,Clinique,Clinique,2013-04-23,0.0,0.0,0.0,2013,4,23,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+109,Clinique,['Free Shipping' 'FREE'],2013-05-02,0.0,3.0,0.0,2013,5,2,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+110,Clinique,Free 2 makeup minis,2013-05-09,0.0,1.0,0.0,2013,5,9,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+111,Clinique,FREE,2013-05-11,0.0,0.0,0.0,2013,5,11,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+112,Clinique,Free 3 Minis+ Free Shipping,2013-05-18,0.0,0.0,0.0,2013,5,18,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+113,Clinique,Free 2 Makeup Minis,2013-05-19,0.0,0.0,0.0,2013,5,19,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+114,Clinique,Free 2 Summer Minis,2013-05-21,0.0,0.0,0.0,2013,5,21,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+115,Clinique,Free Gift Roundup,2013-05-23,0.0,1.0,0.0,2013,5,23,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+116,Clinique,Free Mini + Free Flip Flops with 2 Nail Enamel purchase + Free Shipping,2013-05-25,0.0,0.0,0.0,2013,5,25,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+117,Clinique,$34.50 ,2013-05-30,0.0,0.0,0.0,2013,5,30,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+118,Clinique,"['Two Free Minis'
+ 'Free Full Size Dramatically Different Moisturizing Lotion($14.50 Value)']",2013-06-04,0.0,5.0,0.0,2013,6,4,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+119,Clinique,Full-size M Shave Aloe Gel plus a sleek dopp kit,2013-06-08,0.0,1.0,0.0,2013,6,8,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+120,Clinique,3 Free Minis,2013-06-12,0.0,0.0,0.0,2013,6,12,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+121,Clinique,Free 3 FREE Minis+ Free Shipping,2013-06-14,0.0,0.0,0.0,2013,6,14,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+122,Clinique,['Free shipping' 'Free Surprise Gift ($65 Value)'],2013-06-21,0.0,2.0,0.0,2013,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+123,Clinique,Free 3 Minis,2013-06-27,0.0,0.0,0.0,2013,6,27,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+124,Clinique,['Free Shipping' 'Free 2 Serum Minis'],2013-06-28,0.0,0.0,0.0,2013,6,28,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+125,Clinique,Free 2-pc Hydrate Skin Treats,2013-06-30,0.0,0.0,0.0,2013,6,30,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+126,Clinique,FREE Chubby Stick Mini with any $35 purchase,2013-07-12,0.0,2.0,0.0,2013,7,12,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+127,Clinique,Free 3 Minis + Free shipping,2013-07-20,0.0,2.0,0.0,2013,7,20,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+128,Clinique,Free Custom Clinique Travel Cosmetics Bag & 2 Repairwear Laser Focus Minis,2013-07-23,0.0,0.0,0.0,2013,7,23,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+129,Clinique,2 travel-sized de-agers plus a fun cosmetics bag FREE with any $35 purchase,2013-07-25,0.0,0.0,0.0,2013,7,25,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+130,Clinique,Free Clinique Happy Mini+Free shipping,2013-07-26,0.0,0.0,0.0,2013,7,26,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+131,Clinique,Free 2 Minis of Repairwear Laser Focus Serum,2013-08-04,0.0,2.0,0.0,2013,8,4,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+132,Clinique,FREE Deluxe 3-Step Acne Trial Kit with any $35 purchase,2013-08-12,0.0,4.0,0.0,2013,8,12,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+133,Clinique,Free 2 Minis of Repairwear Laser Focus Serum,2013-08-18,0.0,0.0,0.0,2013,8,18,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+134,Clinique,3 FREE Eye Minis+ Free Shipping,2013-08-20,0.0,1.0,0.0,2013,8,20,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+135,Clinique,"FREE Dramatically Different Moisturizer+(1.7oz, 6-week supply)",2013-08-26,0.0,5.0,0.0,2013,8,26,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+136,Clinique,4 FREE Travel Minis+ Free Shipping,2013-09-04,0.0,5.0,0.0,2013,9,4,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+137,Clinique,Free Eye Cream Mini + Free Shipping,2013-09-13,0.0,0.0,0.0,2013,9,13,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+138,Clinique,Free 4 Fall Minis,2013-09-15,0.0,1.0,0.0,2013,9,15,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+139,Clinique,Free Fall makeup Trio,2013-09-16,0.0,1.0,0.0,2013,9,16,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+140,Clinique,Free 2 skincare minis,2013-09-18,0.0,1.0,0.0,2013,9,18,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+141,Clinique,Free Travel size of Clinique's #1 Moisturizer,2013-09-20,0.0,1.0,0.0,2013,9,20,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+142,Clinique,Free Shipping,2013-09-21,0.0,1.0,0.0,2013,9,21,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+143,Clinique,"[""Free 4 week supply of Clinique's #1 serum""
+ 'Free moisturizer, eye cream and dark circle corrector minis']",2013-09-22,0.0,1.0,0.0,2013,9,22,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+144,Clinique,Free 2 eye experts deluxe samples,2013-09-23,0.0,0.0,0.0,2013,9,23,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+145,Clinique,Free 3 skincare minis,2013-09-24,0.0,0.0,0.0,2013,9,24,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+146,Clinique,Free Shipping,2013-09-27,0.0,1.0,0.0,2013,9,27,Friday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+147,Clinique,Free Shipping with any order,2013-10-01,0.0,1.0,0.0,2013,10,1,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+148,Clinique,Free,2013-10-05,0.0,0.0,0.0,2013,10,5,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+149,Clinique,Free,2013-10-10,0.0,2.0,0.0,2013,10,10,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+150,Clinique,Free Shipping,2013-10-18,0.0,1.0,0.0,2013,10,18,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+151,Clinique,From $27.5,2013-10-20,0.0,5.0,0.0,2013,10,20,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+152,Clinique,Free,2013-10-22,0.0,3.0,0.0,2013,10,22,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+153,Clinique,"['$17 '
+ 'Free 7 Piece Gift Set ($65 value) + Extra Sample with $25 Purchase']",2013-10-28,0.0,4.0,0.0,2013,10,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+154,Clinique,Free 7 Piece Gift Set ($65 value) + Extra Sample with $25 Purchase,2013-10-29,0.0,9.0,0.0,2013,10,29,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+155,Clinique,Free Holiday Tote,2013-11-04,0.0,2.0,0.0,2013,11,4,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+156,Clinique,Now Free Shipping! Extra Duo + Free 7 Piece Gift Set($65 value),2013-11-07,0.0,51.0,0.0,2013,11,7,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+157,Clinique,['Free Travel Makeup Case' '$29.50 Limited Edition Eye Compact'],2013-11-09,0.0,1.0,0.0,2013,11,9,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+158,Clinique,"['Free'
+ 'Free Makeup Bag and Happy Mini Fragrance and free shipping with Any Order + 3 Samples over $35']",2013-11-13,0.0,3.0,0.0,2013,11,13,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+159,Clinique,Free Black Friday Survival Kit(3 minis) + a Free Clinique Happy Mini,2013-11-16,0.0,6.0,0.0,2013,11,16,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+160,Clinique,Free Chubby Stick Intense Mini,2013-11-19,0.0,2.0,0.0,2013,11,19,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+161,Clinique,Free Happy Mini and Calyx Mini,2013-11-22,0.0,0.0,0.0,2013,11,22,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+162,Clinique,Free Full Size of Clinique's #1 Moisturizer(1.7oz),2013-11-24,0.0,7.0,0.0,2013,11,24,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+163,Clinique,Free 3 Minis + 4th Sample,2013-11-27,0.0,5.0,0.0,2013,11,27,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+164,Clinique,['Free 3 Minis' 'Free Deluxe Moisture Trio'],2013-11-28,0.0,7.0,0.0,2013,11,28,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+165,Clinique,Free 4 Makeup Minis,2013-11-30,0.0,11.0,0.0,2013,11,30,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+166,Clinique,Free 5 Minis +,2013-12-05,0.0,7.0,0.0,2013,12,5,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+167,Clinique,Free 5 Minis,2013-12-06,0.0,14.0,0.0,2013,12,6,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+168,Clinique,Free bag+ 2 Makeup Minis,2013-12-07,0.0,0.0,0.0,2013,12,7,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+169,Clinique,Free Full-size Gift plus a pretty box,2013-12-10,0.0,7.0,0.0,2013,12,10,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+170,Clinique,['Free Moisture Trio' 'Free makeup trio' 'Free Holiday Red Lip Trio'],2013-12-11,0.0,7.0,0.0,2013,12,11,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+171,Clinique,Free Happy Mini,2013-12-13,0.0,1.0,0.0,2013,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+172,Clinique,Free a Festive Nail Enamel,2013-12-15,0.0,3.0,0.0,2013,12,15,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+173,Clinique,Free makeup trio,2013-12-19,0.0,1.0,0.0,2013,12,19,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+174,Clinique,['Free Full Size Cleanser+ one Free Mini' '20% OFF'],2013-12-23,0.0,27.0,0.0,2013,12,23,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+175,Clinique,Free Even Better Clinical Dark Spot Corrector Minis(2-week supply),2013-12-25,0.0,3.0,0.0,2013,12,25,Wednesday,False,Christmas Day,Christmas Day,Christmas Day,Christmas Day,0.0,False
+176,Clinique,['Free Happy Mini Fragrance' 'Free 3 Step Minis'],2014-01-01,0.0,7.0,0.0,2014,1,1,Wednesday,False,New Year's Day,New Year's Day,New Year's Day,New Year's Day,0.0,False
+177,Clinique,['Free Shipping+a Free Mini' 'Free 3 Step Minis'],2014-01-09,0.0,7.0,0.0,2014,1,9,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+178,Clinique,Free 2 Minis,2014-01-10,0.0,1.0,0.0,2014,1,10,Friday,True,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+179,Clinique,Free 2 Makeup Minis,2014-01-16,0.0,3.0,0.0,2014,1,16,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+180,Clinique,['5 Free Top Rated Minis' 'Free Nail enamel in Party Red'],2014-01-17,0.0,2.0,0.0,2014,1,17,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+181,Clinique,2 Free Minis + Free Shipping on Any Order,2014-01-25,0.0,4.0,0.0,2014,1,25,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+182,Clinique,FREE,2014-01-27,0.0,14.0,0.0,2014,1,27,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+183,Clinique,Free shiping,2014-01-29,0.0,0.0,0.0,2014,1,29,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+184,Clinique,2 Free Makeup Brushes + Game Day Trio,2014-02-01,0.0,3.0,0.0,2014,2,1,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+185,Clinique,3 Free Skin Care minis,2014-02-02,0.0,6.0,0.0,2014,2,2,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+186,Clinique,2 Free Makeup Brushes,2014-02-03,0.0,0.0,0.0,2014,2,3,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+187,Clinique,Free 3-Step Regimen + Surprise Pick Offer!,2014-02-05,0.0,13.0,0.0,2014,2,5,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+188,Clinique,"Pick2,3 or 4 Minis Free",2014-02-06,0.0,5.0,0.0,2014,2,6,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+189,Clinique,Free 4 Samples,2014-02-09,0.0,2.0,0.0,2014,2,9,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+190,Clinique,Free Nail Enamel with orders over $40,2014-02-14,0.0,0.0,0.0,2014,2,14,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+191,Clinique,FREE Clinique's #1 Makeup Remover + FREE Shipping,2014-02-17,0.0,1.0,0.0,2014,2,17,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+192,Clinique,Free Moisture Surge Mini,2014-03-01,0.0,4.0,0.0,2014,3,1,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+193,Clinique,Free Eye-Defining Duo,2014-03-03,0.0,2.0,0.0,2014,3,3,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+194,Clinique,Free 4-Week Supply of Clinique's #1 De-Aging Serum,2014-03-04,0.0,12.0,0.0,2014,3,4,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+195,Clinique,5 Free Top Rated Minis,2014-03-13,0.0,15.0,0.0,2014,3,13,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+196,Clinique,Free Moisture Surge Mini,2014-03-14,0.0,2.0,0.0,2014,3,14,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+197,Clinique,Free Happy Mini Fragrance,2014-03-20,0.0,2.0,0.0,2014,3,20,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+198,Clinique,['Free Shipping' 'Free 5 Top Rated Minis'],2014-03-27,0.0,13.0,0.0,2014,3,27,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+199,Clinique,Free Tote + sample trio,2014-03-31,0.0,2.0,0.0,2014,3,31,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+200,Clinique,Free Sample Trio,2014-04-01,0.0,0.0,0.0,2014,4,1,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+201,Clinique,2 Free Makeup Minis,2014-04-07,0.0,2.0,0.0,2014,4,7,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+202,Clinique,Free four minis,2014-04-12,0.0,1.0,0.0,2014,4,12,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+203,Clinique,3 Free Minis,2014-04-17,0.0,4.0,0.0,2014,4,17,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+204,Clinique,Free Trio of Clinique’s Best-Sellers,2014-04-25,0.0,5.0,0.0,2014,4,25,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+205,Clinique,['9 Piece Gifts' 'Clinique'],2014-04-30,0.0,26.0,0.0,2014,4,30,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+206,Clinique,['$36 ' '9 Piece Gifts'],2014-05-01,0.0,0.0,0.0,2014,5,1,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+207,Clinique,"['Free Shipping and Top Rated Samples'
+ 'From $26 + 9 Piece GWP with $35 Purchase' '9 Piece Gifts']",2014-05-02,0.0,51.0,0.0,2014,5,2,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+208,Clinique,From $26 + 7 Piece GWP with $40 Purchase,2014-05-11,0.0,11.0,0.0,2014,5,11,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+209,Clinique,"['From $26 + 11- Piece GWP with $40 Purchase' '11 Piece Gifts'
+ '7 Piece Gifts' 'Free 7 Piece Mystery Gift ($70 value) + Free 4 minis']",2014-05-12,0.0,43.0,1.0,2014,5,12,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+210,Clinique,$34.50 ,2014-05-13,0.0,5.0,0.0,2014,5,13,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+211,Clinique,Free 7 Piece Mystery Gift ($70 value) + Free 4 minis,2014-05-16,0.0,45.0,0.0,2014,5,16,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+212,Clinique,$34.50 ,2014-05-23,0.0,0.0,0.0,2014,5,23,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+213,Clinique,Free summer tote + 3 minis,2014-06-02,0.0,0.0,0.0,2014,6,2,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+214,Clinique,Free 5 Piece Gift,2014-06-11,0.0,16.0,0.0,2014,6,11,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+215,Clinique,Price Down! Free 2-Week Supply of their NEW Smart Custom Repair Serum,2014-06-15,0.0,16.0,0.0,2014,6,15,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+216,Clinique,Free 9 Piece Gift,2014-06-24,0.0,15.0,0.0,2014,6,24,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+217,Clinique,Free 4 Minis + Free Shipping,2014-06-25,0.0,1.0,0.0,2014,6,25,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+218,Clinique,Free Moisturizer Mini,2014-06-29,0.0,1.0,0.0,2014,6,29,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+219,Clinique,Free Liquid Facial Soap Mini,2014-07-01,0.0,3.0,0.0,2014,7,1,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+220,Clinique,Free 4 Minis + Free Shipping,2014-07-06,0.0,8.0,0.0,2014,7,6,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+221,Clinique,Free 4 Minis + Free Nail Enamel + Free Shipping,2014-07-07,0.0,1.0,0.0,2014,7,7,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+222,Clinique,Free Liquid Facial Soap Mini,2014-07-09,0.0,0.0,0.0,2014,7,9,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+223,Clinique,"['A Free mini of Clinique’s #1 fragrance Clinique Happy + Free shipping'
+ 'Free Moisturizer Mini']",2014-07-11,0.0,1.0,0.0,2014,7,11,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+224,Clinique,Free Clinique Happy Mini Fragrance + Free Shipping,2014-07-12,0.0,0.0,0.0,2014,7,12,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+225,Clinique,Free Nail Enamel + Free shipping,2014-07-13,0.0,1.0,0.0,2014,7,13,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+226,Clinique,Free Lip and Nail duo + Free shipping,2014-07-17,0.0,4.0,0.0,2014,7,17,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+227,Clinique,Pick 3 Top Rated Minis + Free Shipping,2014-07-22,0.0,3.0,0.0,2014,7,22,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+228,Clinique,3 FREE Summer Favorites,2014-07-25,0.0,10.0,0.0,2014,7,25,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+229,Clinique,Free 7-Piece Set,2014-07-26,0.0,7.0,0.0,2014,7,26,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+230,Clinique,Free Chubby Stick Lip Duo,2014-07-28,0.0,2.0,0.0,2014,7,28,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+231,Clinique,Free Liquid Facial Soap Mini,2014-07-31,0.0,1.0,0.0,2014,7,31,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+232,Clinique,Free Eye Trio,2014-08-01,0.0,5.0,0.0,2014,8,1,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+233,Clinique,Free 5 Piece Gift,2014-08-04,0.0,10.0,0.0,2014,8,4,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+234,Clinique,Free 5 Minis + Free Shipping,2014-08-08,0.0,14.0,0.0,2014,8,8,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+235,Clinique,['Free Eye Makeup Duo' 'Free 4-piece gift set'],2014-08-16,0.0,2.0,0.0,2014,8,16,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+236,Clinique,"['$49.50+ FREE Full Size Dramatically Different Moisturizing Lotion'
+ 'Free Travel Ready Liquid Facial Soap or Moisturizer']",2014-08-19,0.0,10.0,0.0,2014,8,19,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+237,Clinique,"['Free Mini Almost Lipstick in Black Honey'
+ '3 Free Summer Themed Minis + Cosmetics Bag']",2014-08-20,0.0,6.0,0.0,2014,8,20,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+238,Clinique,['Free Clinical Clearing Gel mini' 'Free Shipping'],2014-08-23,0.0,8.0,0.0,2014,8,23,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+239,Clinique,3 Free Minis + Free Shipping,2014-08-28,0.0,15.0,0.0,2014,8,28,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+240,Clinique,Free Liquid Facial Soap Mini in Oily 1 oz.,2014-08-30,0.0,0.0,0.0,2014,8,30,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+241,Clinique,DealMoon Exclusive! FREE Full Size Dramatically Different Moisturizing Lotion,2014-09-02,0.0,45.0,0.0,2014,9,2,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+242,Clinique,Free Liquid Facial Soap Mini 1 oz.,2014-09-03,0.0,2.0,0.0,2014,9,3,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+243,Clinique,3 Free Mascaras,2014-09-05,0.0,1.0,0.0,2014,9,5,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+244,Clinique,Free skin care duo,2014-09-07,0.0,10.0,0.0,2014,9,7,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+245,Clinique,['Free 3 Travel Ready Samples' '$2 + 3 Free Minis'],2014-09-11,0.0,10.0,1.0,2014,9,11,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+246,Clinique,['Free Shipping' '3 Free Moisture Minis + Free Shipping'],2014-09-13,0.0,12.0,0.0,2014,9,13,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+247,Clinique,['Free Long Last Lipstick mini' 'Free Full-Size Liquid Facial Soap'],2014-09-18,0.0,6.0,0.0,2014,9,18,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+248,Clinique,Four Free Long Last Lipstick Minis,2014-09-19,0.0,2.0,0.0,2014,9,19,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+249,Clinique,Pick 3 Top Rated Samples,2014-09-20,0.0,9.0,0.0,2014,9,20,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,True
+250,Clinique,Free Full Size Moisture Surge CC Cream Compact SPF 25,2014-09-25,0.0,24.0,0.0,2014,9,25,Thursday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+251,Clinique,Free Full Sized Mascara,2014-09-27,0.0,7.0,0.0,2014,9,27,Saturday,True,Normal,Normal,Normal,Columbus Day,0.0,True
+252,Clinique,3 Free Travel Ready Samples,2014-10-01,0.0,10.0,0.0,2014,10,1,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+253,Clinique,Free Travel Sized Eye Liner and Makeup Remover,2014-10-04,0.0,5.0,0.0,2014,10,4,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+254,Clinique,Free 3-piece Gift Set,2014-10-09,0.0,12.0,0.0,2014,10,9,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+255,Clinique,Free Shipping,2014-10-12,0.0,16.0,0.0,2014,10,12,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+256,Clinique,['Free Beauty Trio Kit + Free Shipping' '2 Free Minis'],2014-10-18,0.0,25.0,0.0,2014,10,18,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+257,Clinique,"['EARLY ACCESS! $49.5+7 Piece Gift ($75 value)'
+ 'EARLY ACCESS! $27+7 Piece Gift ($75 value)']",2014-10-25,0.0,62.0,0.0,2014,10,25,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+258,Clinique,8 Piece Gift ($75 value),2014-10-31,0.0,16.0,0.0,2014,10,31,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+259,Clinique,$28.5+8 Piece Gift ($75 value),2014-11-03,0.0,71.0,0.0,2014,11,3,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+260,Clinique,['Free 3 Pieces Deluxe Gift' 'Gifts Upgrade! Free Clinique 8 Piece Gift'],2014-11-09,0.0,280.0,0.0,2014,11,9,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+261,Clinique,Promotion Upgrade! Free Trio of Clinique favorites,2014-11-15,0.0,66.0,0.0,2014,11,15,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+262,Clinique,Free Full Size Dramatically Different Moisturizing Lotion,2014-11-16,0.0,17.0,0.0,2014,11,16,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+263,Clinique,['Free 8-pc Gift' 'Free Full Size Lotion or 8-pc Gift'],2014-11-20,0.0,53.0,0.0,2014,11,20,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+264,Clinique,Free 8-pc Gift,2014-11-21,0.0,36.0,0.0,2014,11,21,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+265,Clinique,['Free Clinique 4 Samples' 'Free Clinique 12 Piece Gift'],2014-11-23,0.0,244.0,0.0,2014,11,23,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+266,Clinique,Free Clinique 4 Piece Gift + Full Size DDM Lotion,2014-11-26,0.0,78.0,0.0,2014,11,26,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+267,Clinique,Free Full Size Dramatically Different Moisturizing Lotion,2014-11-27,0.0,215.0,0.0,2014,11,27,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+268,Clinique,20% Off + Free Shipping,2014-12-01,0.0,320.0,0.0,2014,12,1,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,False
+269,Clinique,20% Off,2014-12-02,0.0,76.0,0.0,2014,12,2,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,False
+270,Clinique,Free 8 Deluxe Size Samples,2014-12-08,0.0,103.0,0.0,2014,12,8,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+271,Clinique,Free 5-Piece Kit of Bestsellers+Cosmetics Bag,2014-12-12,0.0,108.0,0.0,2014,12,12,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+272,Clinique,"['Free Travel Size Happy Fragrance + Happy Body Cream'
+ '$30 Off+5 pc Bestsellers Gift+Cosmetics Bag']",2014-12-13,0.0,43.0,0.0,2014,12,13,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+273,Clinique,Free Clinique 3 Piece Gift,2014-12-14,0.0,15.0,0.0,2014,12,14,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+274,Clinique,"['Free Lip Trio'
+ 'Dealmoon Exclusive: 15% Off + Free Shipping Your First Purchase']",2014-12-17,0.0,29.0,0.0,2014,12,17,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+275,Clinique,"['Free Clinique 3 Piece Gift' '20% Off Any Order'
+ 'Dealmoon Exclusive: 15% Off + Free Shipping' '$12.33$14.50']",2014-12-18,0.0,973.0,495.0,2014,12,18,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+276,Clinique,Free 5 Minis,2014-12-22,0.0,43.0,0.0,2014,12,22,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+277,Clinique,Free Dramatic Eye Kit,2014-12-23,0.0,8.0,0.0,2014,12,23,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+278,Clinique,FREE 3-Pc Delux Sample,2014-12-27,0.0,28.0,0.0,2014,12,27,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+279,Clinique,2 Free Clinique Happy Fragrance Mini,2015-01-02,0.0,5.0,0.0,2015,1,2,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+280,Clinique,Free 2-week Supply of Repairwear Laser Forcus,2015-01-06,0.0,18.0,0.0,2015,1,6,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+281,Clinique,Free 1-week Supply of Repairwear Laser Forcus,2015-01-08,0.0,8.0,0.0,2015,1,8,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+282,Clinique,Free 5 Minis,2015-01-12,0.0,76.0,0.0,2015,1,12,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+283,Clinique,Free Makeup Purse,2015-01-14,0.0,9.0,1.0,2015,1,14,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+284,Clinique,3 Free Skincare or Lip Color Essentials + Free Shipping,2015-01-16,0.0,41.0,0.0,2015,1,16,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+285,Clinique,"[""Free Valentine's Tote""
+ 'Free 10-day Supply of Clinique Smart Custom-Repair Serum']",2015-01-22,0.0,97.0,0.0,2015,1,22,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+286,Clinique,Free 3-Step Travel Kit,2015-01-29,0.0,65.0,0.0,2015,1,29,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+287,Clinique,['Free Shipping' 'Free Travel Size Sample'],2015-01-31,0.0,22.0,0.0,2015,1,31,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+288,Clinique,Free Clinique Happy Body Cream mini + Free Shipping,2015-02-01,0.0,21.0,0.0,2015,2,1,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+289,Clinique,Free Superprimer Mini,2015-02-02,0.0,10.0,0.0,2015,2,2,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+290,Clinique,Free Long Last Lipstick mini,2015-02-06,0.0,10.0,0.0,2015,2,6,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+291,Clinique,5 Free Deluxe Minis,2015-02-13,0.0,70.0,0.0,2015,2,13,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+292,Clinique,"['Free Full-size Foaming Sonic Facial Soap'
+ 'FREE Lipstick Mini and Full-size Nail Polish']",2015-02-14,0.0,20.0,0.0,2015,2,14,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+293,Clinique,['Free Skin Care Kit' 'Clinique GWP Offer'],2015-02-21,0.0,124.0,0.0,2015,2,21,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+294,Clinique,3 Free Eye Essentials,2015-02-22,0.0,16.0,0.0,2015,2,22,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+295,Clinique,Free Clinique Smart Serum Sample(20-day Supply),2015-03-02,0.0,25.0,0.0,2015,3,2,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+296,Clinique,Free 5 Piece Gift,2015-03-03,0.0,104.0,0.0,2015,3,3,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+297,Clinique,Free shipping,2015-03-08,0.0,26.0,0.0,2015,3,8,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+298,Clinique,Pick 4 Free Minis,2015-03-14,0.0,17.0,0.0,2015,3,14,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+299,Clinique,Free 2 Makeup Minis,2015-03-17,0.0,5.0,0.0,2015,3,17,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+300,Clinique,"['Dealmoon Exclusive: Free 5-Piece Gift'
+ 'Free Pore Refining Solutions Serum Sample']",2015-03-23,0.0,52.0,0.0,2015,3,23,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+301,Clinique,Free Shipping,2015-03-28,0.0,4.0,0.0,2015,3,28,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+302,Clinique,Free Tote + sample trio,2015-04-04,0.0,11.0,0.0,2015,4,4,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+303,Clinique,2 Free Skincare Minis,2015-04-08,0.0,16.0,0.0,2015,4,8,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+304,Clinique,Get a Free Fragrance Trio,2015-04-09,0.0,8.0,0.0,2015,4,9,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+305,Clinique,['Free Fragrance Trio' 'From $16' 'Free 4 Minis'],2015-04-15,0.0,77.0,0.0,2015,4,15,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+306,Clinique,Free Travel Bag,2015-04-16,0.0,3.0,0.0,2015,4,16,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+307,Clinique,Free Shipping,2015-04-18,0.0,10.0,0.0,2015,4,18,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+308,Clinique,Free Fragrance Trio,2015-04-22,0.0,8.0,0.0,2015,4,22,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+309,Clinique,8 Piece Gifts,2015-04-26,0.0,70.0,0.0,2015,4,26,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+310,Clinique,['Free 7 Piece Gift' '8 Piece Gifts'],2015-05-05,0.0,112.0,0.0,2015,5,5,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+311,Clinique,8 Piece Gifts,2015-05-06,0.0,59.0,0.0,2015,5,6,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+312,Clinique,['Free 9 Piece Gift' 'Free 8-pc Gift'],2015-05-07,0.0,58.0,2.0,2015,5,7,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+313,Clinique,['Upgraded! FREE 9-Piece Deluxe Gifts' 'Free 9 Piece Gift' '8 Piece Gifts'],2015-05-08,0.0,491.0,0.0,2015,5,8,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+314,Clinique,['$34.50 ($100 Value)' 'Free Instant Pretty Trio'],2015-05-11,0.0,12.0,0.0,2015,5,11,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+315,Clinique,Free Happy Perfume Spray mini,2015-05-20,0.0,2.0,0.0,2015,5,20,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+316,Clinique,2 Free Minis + Mystery Bag,2015-05-23,0.0,7.0,0.0,2015,5,23,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+317,Clinique,Free Men's Dopp Bag PLUS 4 Samples,2015-05-26,0.0,6.0,0.0,2015,5,26,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+318,Clinique,Free 4 Minis,2015-06-01,0.0,36.0,0.0,2015,6,1,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+319,Clinique,Free 3 Minis,2015-06-05,0.0,9.0,0.0,2015,6,5,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+320,Clinique,Free Mini Fragrance Trio,2015-06-06,0.0,8.0,0.0,2015,6,6,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+321,Clinique,Free 5 Minis + Free Shipping,2015-06-12,0.0,54.0,0.0,2015,6,12,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+322,Clinique,Free Mini Acne Solutions Clinical Clearing Gel,2015-06-14,0.0,12.0,0.0,2015,6,14,Sunday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,False
+323,Clinique,Free Trio,2015-06-15,0.0,7.0,0.0,2015,6,15,Monday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,False
+324,Clinique,Get 4 free skin sparkling essentials,2015-06-17,0.0,3.0,0.0,2015,6,17,Wednesday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,False
+325,Clinique,Free Mini Brightening Duo,2015-06-18,0.0,9.0,0.0,2015,6,18,Thursday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,False
+326,Clinique,3 free Chubby Stick minis + free shipping,2015-06-21,0.0,61.0,0.0,2015,6,21,Sunday,False,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,False
+327,Clinique,Pick 5 Free minis + Free shipping,2015-06-23,0.0,19.0,0.0,2015,6,23,Tuesday,False,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,False
+328,Clinique,Free 3-Step Set,2015-06-26,0.0,10.0,0.0,2015,6,26,Friday,True,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,False
+329,Clinique,Free Clinique Smart Serum Mini,2015-06-30,0.0,2.0,0.0,2015,6,30,Tuesday,False,Normal,Independence Day (Observed),Independence Day (Observed),Independence Day (Observed),0.0,False
+330,Clinique,4 Free Minis + Free Shipping,2015-07-02,0.0,10.0,0.0,2015,7,2,Thursday,False,Normal,Independence Day (Observed),Independence Day (Observed),Independence Day (Observed),0.0,False
+331,Clinique,Free 3-Step kit,2015-07-06,0.0,5.0,0.0,2015,7,6,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+332,Clinique,Free Deluxe Sample + Free Shipping,2015-07-07,0.0,13.0,0.0,2015,7,7,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+333,Clinique,Free 3-step Kit,2015-07-08,0.0,4.0,0.0,2015,7,8,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+334,Clinique,Free Happy Body Cream + Happy Fragrance Mini + Free shipping,2015-07-11,0.0,14.0,0.0,2015,7,11,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+335,Clinique,Free Standard Shipping,2015-07-12,0.0,4.0,0.0,2015,7,12,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+336,Clinique,Free Color Duo,2015-07-14,0.0,10.0,0.0,2015,7,14,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+337,Clinique,Free 3 minis + Free Shipping,2015-07-17,0.0,23.0,0.0,2015,7,17,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+338,Clinique,Free Men's Travel Kit,2015-07-21,0.0,9.0,0.0,2015,7,21,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+339,Clinique,Free Summer skin savers kit + Free shipping,2015-07-23,0.0,34.0,0.0,2015,7,23,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+340,Clinique,Free Even Better Moisturizer Mini,2015-07-24,0.0,14.0,0.0,2015,7,24,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+341,Clinique,Free Deluxe Sample,2015-07-30,0.0,23.0,0.0,2015,7,30,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+342,Clinique,Free Pore Refining Solutions Correcting Serum,2015-08-01,0.0,9.0,0.0,2015,8,1,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+343,Clinique,['$38.5 + Free 4 Deluxe Samples' '$59.5 + Free 4 Deluxe Samples'],2015-08-03,0.0,17.0,0.0,2015,8,3,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+344,Clinique,$89.5 + Free 4 Deluxe Samples,2015-08-04,0.0,16.0,0.0,2015,8,4,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+345,Clinique,Free 4 minis + Free Shipping,2015-08-06,0.0,52.0,0.0,2015,8,6,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+346,Clinique,Free Chubby Eye or Chubby Lip Sample,2015-08-09,0.0,12.0,0.0,2015,8,9,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,True
+347,Clinique,Free Moisture Trio Sample,2015-08-15,0.0,12.0,0.0,2015,8,15,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,True
+348,Clinique,15% Off,2015-08-17,0.0,172.0,0.0,2015,8,17,Monday,False,Normal,Normal,Normal,Labor Day,0.15,False
+349,Clinique,Pick 5 Minis + Free Shipping,2015-08-18,0.0,42.0,0.0,2015,8,18,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+350,Clinique,Free Travel Trio,2015-08-19,0.0,12.0,0.0,2015,8,19,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+351,Clinique,Free Mini 7 Day Scrub,2015-08-22,0.0,11.0,0.0,2015,8,22,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+352,Clinique,Free Shipping,2015-08-25,0.0,17.0,0.0,2015,8,25,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+353,Clinique,['$26 + 5 Free Luxury Minis + Free Shipping' '$59.5 + 5 Samples'],2015-08-26,0.0,71.0,0.0,2015,8,26,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+354,Clinique,Pick 5 Free Minis,2015-08-27,0.0,42.0,0.0,2015,8,27,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+355,Clinique,Free 4 Pieces Gift + Fee Shipping,2015-08-31,0.0,21.0,0.0,2015,8,31,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+356,Clinique,Free 3-Step Kit,2015-09-04,0.0,5.0,0.0,2015,9,4,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+357,Clinique,Free #1 moisturizer FREE + a FREE eye cream deluxe samples,2015-09-08,0.0,51.0,0.0,2015,9,8,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+358,Clinique,Free Deluxe Sample,2015-09-09,0.0,8.0,0.0,2015,9,9,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+359,Clinique,['$10 + Free 5 Minis' 'Pick 5 Free Samples + Free Shipping'],2015-09-11,0.0,136.0,0.0,2015,9,11,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+360,Clinique,Free 2 Sculptwear Minis,2015-09-14,0.0,9.0,0.0,2015,9,14,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+361,Clinique,"['Free Chubby Stick Eye + Chubby Stick Lip Duo'
+ '$26 + Free 2 Sculptwear Minis']",2015-09-15,0.0,33.0,0.0,2015,9,15,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+362,Clinique,3 Free Minis + Mystery Bag,2015-09-19,0.0,16.0,0.0,2015,9,19,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+363,Clinique,Pick 6 Free Samples,2015-09-23,0.0,18.0,0.0,2015,9,23,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+364,Clinique,Free Trio,2015-09-25,0.0,13.0,0.0,2015,9,25,Friday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+365,Clinique,Fall Refresh Kit,2015-09-26,0.0,24.0,0.0,2015,9,26,Saturday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+366,Clinique,Free 2 Turnaround Minis,2015-09-30,0.0,20.0,0.0,2015,9,30,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+367,Clinique,From $27.5 + Free Shipping,2015-10-02,0.0,27.0,0.0,2015,10,2,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+368,Clinique,Pick 4 Minis + Free Shipping,2015-10-04,0.0,24.0,0.0,2015,10,4,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+369,Clinique,3 Free Treats,2015-10-06,0.0,7.0,0.0,2015,10,6,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+370,Clinique,['Free Fresh Face Trio' '$49.50($71 Value)' 'Free Shipping'],2015-10-07,0.0,90.0,2.0,2015,10,7,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+371,Clinique,Free Shipping,2015-10-10,0.0,19.0,0.0,2015,10,10,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+372,Clinique,Free Fall Moisture Kit,2015-10-12,0.0,22.0,0.0,2015,10,12,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+373,Clinique,Free Chubby Lip Balm and Makeup Remover,2015-10-17,0.0,24.0,0.0,2015,10,17,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+374,Clinique,2 Free Travel Size Treats,2015-10-18,0.0,9.0,0.0,2015,10,18,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+375,Clinique,Free 4-Piece Beauty Kit,2015-11-08,0.0,49.0,7.0,2015,11,8,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+376,Clinique,$46.40$58.00,2015-11-09,0.0,48.0,8.0,2015,11,9,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+377,Clinique,['$11.60$14.50' '$13.60$17.00' '$31.20$39.00' '$15.20$19.00' '$20.80 '],2015-11-11,0.0,283.0,48.0,2015,11,11,Wednesday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+378,Clinique,['Free Holiday Tote' '20% Off + Free Shipping'],2015-11-13,0.0,847.0,236.0,2015,11,13,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+379,Clinique,Free 3-Piece Beauty Kit,2015-11-16,0.0,34.0,3.0,2015,11,16,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+380,Clinique,Receive a free lip trio,2015-11-19,0.0,99.0,9.0,2015,11,19,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+381,Clinique,Get the Limited Edition The Gift of Great Skin For Only $49.5,2015-11-20,0.0,264.0,47.0,2015,11,20,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+382,Clinique,Pick 4 Samples,2015-11-24,0.0,93.0,17.0,2015,11,24,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+383,Clinique,$62.40 ,2015-11-26,0.0,242.0,75.0,2015,11,26,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+384,Clinique,"['$25.60 ' '$30.40$38.00' '$17.60 ' '$31.20 ' '$39.60 '
+ '20% Off + Free 3 Deluxe Samples']",2015-11-30,0.0,689.0,157.0,2015,11,30,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+385,Clinique,['20% Off' '$20.80 '],2015-12-02,0.0,287.0,57.0,2015,12,2,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+386,Clinique,['20% Off' 'Extended! 20% Off Any Order'],2015-12-03,0.0,590.0,124.0,2015,12,3,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+387,Clinique,Pick 5 samples,2015-12-05,0.0,193.0,35.0,2015,12,5,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+388,Clinique,"Pick Free Bag, Eye Palette and sample trio",2015-12-09,0.0,40.0,5.0,2015,12,9,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+389,Clinique,Get 12 Bestsellers for $49.50 (A $109 value),2015-12-10,0.0,121.0,26.0,2015,12,10,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+390,Clinique,Free Happy Body Cream and Happy Fragrance,2015-12-11,0.0,22.0,2.0,2015,12,11,Friday,True,Normal,Normal,Normal,Christmas Day,0.0,False
+391,Clinique,['Choose a Free Skincare Trio' '$30.40$38.00' '$31.20 ' '20% Off'],2015-12-12,0.0,69.0,12.0,2015,12,12,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+392,Clinique,['Free 4 Best Selling Fragrances' '$25.60 ' '$20.80 '],2015-12-13,0.0,136.0,47.0,2015,12,13,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+393,Clinique,['Dealmoon Exclusive! 20% Off Any Order' 'Free 3-Step Kit'],2015-12-14,0.0,281.0,109.0,2015,12,14,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+394,Clinique,['Free Chubby Eye + Lip Duo' '$42.5 + Free 3 Samples'],2015-12-15,0.0,50.0,7.0,2015,12,15,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+395,Clinique,Free Cosmetics Case and Moisture Trio,2015-12-16,0.0,12.0,2.0,2015,12,16,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+396,Clinique,Pick 5 samples,2015-12-17,0.0,57.0,14.0,2015,12,17,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+397,Clinique,Free Overnight Shipping Upgrade,2015-12-23,0.0,6.0,0.0,2015,12,23,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+398,Clinique,Free Full-Size Long Last Lipstick ($17 value),2015-12-25,0.0,252.0,67.0,2015,12,25,Friday,True,Christmas Day,Christmas Day,Christmas Day,Christmas Day,0.0,True
+399,Clinique,Free Two Free Happy Perfume Spray Minis,2016-01-02,0.0,38.0,5.0,2016,1,2,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+400,Clinique,Free Smart Travel Duo,2016-01-03,0.0,12.0,2.0,2016,1,3,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+401,Clinique,New Release,2016-01-05,0.0,27.0,106.0,2016,1,5,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+402,Clinique,Free 7 Samples with $40 purchase,2016-01-07,0.0,16.0,2.0,2016,1,7,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+403,Clinique,Free 7 Samples with $40 purchase,2016-01-08,0.0,23.0,5.0,2016,1,8,Friday,True,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+404,Clinique,Free 7 Samples,2016-01-11,0.0,96.0,38.0,2016,1,11,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+405,Clinique,Free Lipstick Duo,2016-01-12,0.0,10.0,1.0,2016,1,12,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+406,Clinique,Free 3-Step travel kit,2016-01-15,0.0,30.0,8.0,2016,1,15,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+407,Clinique,Free Acne Clinical Clearing Gel + Free Shipping,2016-01-18,0.0,29.0,2.0,2016,1,18,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+408,Clinique,Free Chubby Eye and Lip Mini Duo,2016-01-19,0.0,35.0,5.0,2016,1,19,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+409,Clinique,New Release,2016-01-22,1.0,51.0,88.0,2016,1,22,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+410,Clinique,3 FREE Minis,2016-01-24,0.0,27.0,6.0,2016,1,24,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+411,Clinique,Free 4-Piece Kit,2016-01-29,0.0,26.0,8.0,2016,1,29,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+412,Clinique,Free 2 treats + Free Shipping,2016-01-31,0.0,24.0,7.0,2016,1,31,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+413,Clinique,Free 5 Piece Travel Kit,2016-02-02,0.0,36.0,7.0,2016,2,2,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+414,Clinique,Free Clinique Pop™ Lip Colour Sample,2016-02-03,0.0,12.0,5.0,2016,2,3,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+415,Clinique,Pick 5 Free minis + Free Shipping,2016-02-04,0.0,74.0,16.0,2016,2,4,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+416,Clinique,Pick 5 Free minis + Free 2-day shipping,2016-02-07,0.0,13.0,6.0,2016,2,7,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+417,Clinique,Free Fan Faves Kit,2016-02-10,0.0,21.0,9.0,2016,2,10,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+418,Clinique,4 Free Shades of Clinique Lip Pop,2016-02-14,0.0,18.0,6.0,2016,2,14,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+419,Clinique,Free Clinique For Men Travel Duo,2016-02-15,0.0,17.0,4.0,2016,2,15,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+420,Clinique,['Free Eye Kit' 'New Release!'],2016-02-16,2.0,96.0,97.0,2016,2,16,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+421,Clinique,Free 4pcs Skincare or Makeup kit,2016-02-18,0.0,21.0,13.0,2016,2,18,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+422,Clinique,['15% Off' 'Free Even Better Clinical Serum and Eye serum dup'],2016-02-20,0.0,325.0,66.0,2016,2,20,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+423,Clinique,['Free 5-Piece Gift and Cosmetics Bag' 'Dealmoon exclusive!'],2016-02-25,0.0,378.0,151.0,2016,2,25,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+424,Clinique,Free Pep Start Eye Cream mini,2016-02-27,0.0,19.0,10.0,2016,2,27,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+425,Clinique,Free 20 Day Supply of Smart Serum,2016-02-28,0.0,49.0,13.0,2016,2,28,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+426,Clinique,$69.5 ($131 Value),2016-03-04,0.0,23.0,9.0,2016,3,4,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+427,Clinique,Free 4 Piece Kit,2016-03-05,0.0,29.0,10.0,2016,3,5,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+428,Clinique,Free 3 Piece Kit,2016-03-09,0.0,31.0,5.0,2016,3,9,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+429,Clinique,5 minis,2016-03-18,0.0,145.0,24.0,2016,3,18,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+430,Clinique,Free Tote,2016-03-28,0.0,11.0,0.0,2016,3,28,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+431,Clinique,Dealmoon Exclusive! Free 4 minis,2016-04-10,0.0,45.0,12.0,2016,4,10,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+432,Clinique,Dealmoon Exclusive! Free 8 Samples,2016-04-12,0.0,27.0,10.0,2016,4,12,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+433,Clinique,DEALMOON EXCLUSIVE! 25% off,2016-04-14,0.0,59.0,15.0,2016,4,14,Thursday,False,Normal,Normal,Normal,Normal,0.25,False
+434,Clinique,['$29 ' '$32 ' '$38 ' '$49.50 ' '$39 ' '$78 '],2016-04-23,0.0,144.0,66.0,2016,4,23,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+435,Clinique,Dealmoon Exclusive! Free 7-pc gift,2016-05-03,0.0,97.0,34.0,2016,5,3,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+436,Clinique,"['Free 7 pcs Gift with any $27 purchase'
+ 'Dealmoon Exclusive! Free 7 pcs Gift']",2016-05-05,0.0,775.0,368.0,2016,5,5,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+437,Clinique,"['4 Free Samples'
+ 'Receive the Limited Edition Summer In Clinique Set($100 Value ) for $34.50']",2016-05-10,0.0,64.0,20.0,2016,5,10,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+438,Clinique,Free 4-piece Travel Minis Kit,2016-05-22,0.0,18.0,8.0,2016,5,22,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+439,Clinique,Choose 3-Step Travel Kit + 4 Fragrance Minis,2016-06-07,0.0,23.0,7.0,2016,6,7,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+440,Clinique,Choose a Free Kit,2016-06-09,0.0,14.0,5.0,2016,6,9,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+441,Clinique,3 Free makeup mini faves,2016-06-10,0.0,4.0,0.0,2016,6,10,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+442,Clinique,4 Free Clinique Faves,2016-06-16,0.0,7.0,2.0,2016,6,16,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+443,Clinique,Free Full Size Sculptwear Serum ($54.50 value),2016-06-17,0.0,116.0,36.0,2016,6,17,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+444,Clinique,Pick 5 free minis with any $40 purchase,2016-06-19,0.0,31.0,4.0,2016,6,19,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+445,Clinique,3 Free Makeup Minis,2016-06-21,0.0,7.0,0.0,2016,6,21,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+446,Clinique,Free VIP Lip Palette,2016-06-23,0.0,9.0,1.0,2016,6,23,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+447,Clinique,Pick 4 minis + 3-pc Instant Wow Kit,2016-07-03,0.0,40.0,9.0,2016,7,3,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+448,Clinique,2 Deluxe Samples,2016-07-06,0.0,7.0,5.0,2016,7,6,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+449,Clinique,"['Receive a free 20-day supply of Clinique Smart Serum'
+ 'Dealmoon Exclusive! 50% Off']",2016-07-13,0.0,106.0,41.0,2016,7,13,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+450,Clinique,Free 4-piece Color Kit + Foundation,2016-07-17,0.0,93.0,22.0,2016,7,17,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+451,Clinique,6 Deluxe Samples + Free Shipping,2016-07-20,0.0,26.0,8.0,2016,7,20,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,True
+452,Clinique,Free 3-piece Summer Minis Kit,2016-07-23,0.0,8.0,1.0,2016,7,23,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+453,Clinique,Dealmoon Exclusive！,2016-07-28,0.0,29.0,7.0,2016,7,28,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+454,Clinique,['$19 ' '$39 '],2016-08-03,0.0,23.0,4.0,2016,8,3,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+455,Clinique,['$18.50 ' '$89.50 '],2016-08-04,0.0,41.0,6.0,2016,8,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+456,Clinique,Dealmoon Exclusive！8-Piece Top Sellers Mini Samples,2016-08-13,6.0,150.0,44.0,2016,8,13,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,True
+457,Clinique,Free 4 Piece Smart Kit,2016-08-22,5.0,15.0,3.0,2016,8,22,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+458,Clinique,Dealmoon Exclusive! Free 5 Pc Gift,2016-08-26,2.0,29.0,13.0,2016,8,26,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+459,Clinique,Dealmoon Exclusive: Free Full-size Quickliner for Eyes in Smoky Brown,2016-08-31,1.0,13.0,6.0,2016,8,31,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+460,Clinique,Free 3 Piece Weekender Kit,2016-09-01,2.0,30.0,14.0,2016,9,1,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+461,Clinique,50% Off,2016-09-08,20.0,113.0,43.0,2016,9,8,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.5,False
+462,Clinique,5 Free Minis + 3 Pc Dealmoon Exclusive Gift,2016-09-16,18.0,32.0,11.0,2016,9,16,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,True
+463,Clinique,Dealmoon Exclusive! Free Full Size Mascara,2016-09-18,2.0,12.0,8.0,2016,9,18,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+464,Clinique,['$15.73 ' '$19.55 ' '$16.15 '],2016-09-21,5.0,59.0,8.0,2016,9,21,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+465,Clinique,['15% Off + Free Shipping' '$14.88 '],2016-09-22,7.0,116.0,23.0,2016,9,22,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+466,Clinique,2 free Turnaround minis,2016-09-28,0.0,14.0,4.0,2016,9,28,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+467,Clinique,$19.55 ,2016-09-29,6.0,75.0,6.0,2016,9,29,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+468,Clinique,Free 8 Minis + Free Shipping,2016-10-02,21.0,96.0,27.0,2016,10,2,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+469,Clinique,15% Off,2016-10-05,14.0,57.0,6.0,2016,10,5,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.15,False
+470,Clinique,['Free Favorites Kit' 'Free 3-Piece Fall Favourites Kit'],2016-10-09,5.0,33.0,4.0,2016,10,9,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+471,Clinique,Free 4 Pc Gift,2016-10-14,0.0,12.0,0.0,2016,10,14,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+472,Clinique,15% Off + Free Shipping,2016-10-15,10.0,120.0,7.0,2016,10,15,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.15,False
+473,Clinique,5 Aromatics Fragrance Minis,2016-10-18,0.0,20.0,2.0,2016,10,18,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+474,Clinique,['15% Off + Free Shipping' '15% Off' '15% Off + GWP'],2016-10-22,105.0,835.0,161.0,2016,10,22,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+475,Clinique,Dealmoon Exclusive! Free 7 pcs Gift,2016-11-07,134.0,289.0,75.0,2016,11,7,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+476,Clinique,['Last Day! 20% Off + Free Gift!' '$39.60$49.50'],2016-11-11,86.0,401.0,99.0,2016,11,11,Friday,True,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+477,Clinique,Last Day! 20% Off + Free Gift!,2016-11-12,519.0,1553.0,745.0,2016,11,12,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
+478,Clinique,$50 + Free Gift,2016-11-21,21.0,57.0,29.0,2016,11,21,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+479,Clinique,Pick 6 Free Treats+ Free shipping,2016-11-22,31.0,125.0,50.0,2016,11,22,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+480,Clinique,$49.5(Value $183) Includes 4 Full Sizes,2016-11-23,74.0,284.0,126.0,2016,11,23,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+481,Clinique,25% Off + GWP,2016-11-24,3.0,25.0,7.0,2016,11,24,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.25,True
+482,Clinique,['25% Off +GWP' '25% Off + GWP'],2016-11-25,17.0,108.0,43.0,2016,11,25,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+483,Clinique,['25% Off + GWP' '25% Off +GWP'],2016-11-30,78.0,398.0,110.0,2016,11,30,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+484,Clinique,['25% Off + GWP' '25% Off +GWP' '25% Off + Free Full Size Favorite'],2016-12-01,868.0,2959.0,1586.0,2016,12,1,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+485,Clinique,Dealmoon Exclusive! Free,2016-12-06,97.0,136.0,22.0,2016,12,6,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+486,Clinique,Free mini chubby duo,2016-12-08,2.0,10.0,1.0,2016,12,8,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+487,Clinique,Free full-size cleanser,2016-12-09,14.0,54.0,30.0,2016,12,9,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+488,Clinique,The Ultimate Indulgence Box $49.50 ($196.00 value),2016-12-20,54.0,182.0,92.0,2016,12,20,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+489,Clinique,Choose 4 skin care and makeup minis,2017-01-04,8.0,22.0,5.0,2017,1,4,Wednesday,False,Normal,New Year's Day (Observed),New Year's Day (Observed),New Year's Day (Observed),0.0,False
+490,Clinique,Choose 4 skin care and makeup minis,2017-01-09,2.0,65.0,25.0,2017,1,9,Monday,False,Normal,Normal,New Year's Day (Observed),New Year's Day (Observed),0.0,False
+491,Clinique,"['15% Off +Free Full Size Take The Day Off'
+ 'Dealmoon Exclusive! 15% Off any order'
+ 'Get free 3-step travel kit with $35 purchase']",2017-01-11,13.0,63.0,8.0,2017,1,11,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+492,Clinique,Dealmoon Exclusive! 15% Off any order,2017-01-12,1.0,24.0,1.0,2017,1,12,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.15,False
+493,Clinique,"['15% Off + Free Full Size Take The Day Off'
+ '15% Off +Free Full Size Take The Day Off']",2017-01-15,55.0,159.0,57.0,2017,1,15,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+494,Clinique,"['Dealmoon Exclusive! 15% Off any order'
+ '15% Off + Free Full Size Take The Day Off']",2017-01-16,20.0,96.0,18.0,2017,1,16,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+495,Clinique,Dealmoon Exclusive! 15% Off any order,2017-01-17,4.0,32.0,6.0,2017,1,17,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.15,False
+496,Clinique,Dealmoon Exclusive! 15% Off any order,2017-01-18,80.0,280.0,155.0,2017,1,18,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.15,False
+497,Clinique,['Valentine‘s Day Kits for two' '$49.50 with any $29.50 purchase'],2017-02-03,114.0,168.0,81.0,2017,2,3,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+498,Clinique,New Arrival + 4 pc GWP,2017-02-07,13.0,30.0,7.0,2017,2,7,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+499,Clinique,['20% off + GWP' 'Dealmoon Exclusive! 4 pc GWP'],2017-02-08,40.0,166.0,75.0,2017,2,8,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+500,Clinique,Dealmoon Exclusive! Free 6pcs Gift with Any $40 Purchase,2017-02-24,22.0,118.0,39.0,2017,2,24,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+501,Clinique,Dealmoon Exclusive! 25% off,2017-02-26,2.0,38.0,3.0,2017,2,26,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.25,False
+502,Clinique,['Dealmoon Exclusive! 25% Off + 6 pcs GWP' 'Dealmoon Exclusive! 25% off'],2017-02-27,15.0,59.0,21.0,2017,2,27,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+503,Clinique,"['Dealmoon Exclusive! 25% off'
+ 'Dealmoon Exclusive! 25% off with Any Orders']",2017-02-28,23.0,50.0,9.0,2017,2,28,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+504,Clinique,Dealmoon Exclusive! 25% off,2017-03-01,22.0,105.0,25.0,2017,3,1,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.25,False
+505,Clinique,"['Dealmoon Exclusive! 25% off'
+ 'Dealmoon Exclusive! 25% off with Any Orders']",2017-03-02,365.0,1054.0,586.0,2017,3,2,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+506,Clinique,Dealmoon Exclusive! FREE Ultimate Indulgence Box,2017-03-08,90.0,185.0,86.0,2017,3,8,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+507,Clinique,Dealmoon Exclusive! $59.5+FREE Ultimate Indulgence Box,2017-03-10,33.0,49.0,16.0,2017,3,10,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+508,Clinique,$59.50 ,2017-03-14,4.0,64.0,16.0,2017,3,14,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+509,Clinique,Get 1 kit free with any $35 purchase,2017-03-15,6.0,16.0,15.0,2017,3,15,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+510,Clinique,['Dealmoon Exclusive! 25% off' 'Dealmoon Exclusive! 25% off +GWP'],2017-03-21,65.0,252.0,65.0,2017,3,21,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+511,Clinique,"['Dealmoon Exclusive! 25% off' 'Dealmoon Exclusive! 25% off + GWP'
+ '25% Off + GWP' 'Dealmoon Exclusive! 25% off +GWP']",2017-03-22,300.0,809.0,437.0,2017,3,22,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+512,Clinique,"['4 free minis with any $35 purchase'
+ 'Dealmoon Exclusive! Free Ultimate Indulgence Box']",2017-04-13,22.0,105.0,56.0,2017,4,13,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+513,Clinique,"['$13.00$26.00' '$24.75$49.50'
+ 'Dealmoon Exclusive!Free Ultimate Indulgence Box']",2017-04-17,105.0,303.0,152.0,2017,4,17,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+514,Clinique,['$8.50$17.00' '$11.50$23.00'],2017-04-18,67.0,181.0,57.0,2017,4,18,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+515,Clinique,$44.75$89.50,2017-04-20,39.0,69.0,21.0,2017,4,20,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+516,Clinique,Free 7-pc gift and more with any $28 purchase,2017-04-23,13.0,39.0,14.0,2017,4,23,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+517,Clinique,['$17.50$35.00' 'Free 7-pc gift + Free full-size gift'],2017-05-05,105.0,433.0,157.0,2017,5,5,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+518,Clinique,Free 7-pc gift + Free full-size gift,2017-05-08,23.0,60.0,20.0,2017,5,8,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+519,Clinique,Free 7-pc gift and more with any $28 purchase,2017-05-09,426.0,660.0,465.0,2017,5,9,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+520,Clinique,Dealmoon Exclusive! full-size liquid facial soap,2017-05-13,12.0,39.0,17.0,2017,5,13,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+521,Clinique,Dealmoon Exclusive! Free full-size Even Better Clinical Dark Spot Corrector (50ml),2017-05-14,71.0,83.0,36.0,2017,5,14,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+522,Clinique,50% off,2017-05-19,46.0,170.0,105.0,2017,5,19,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.5,False
+523,Clinique,Free 4-pc gift and more,2017-05-23,14.0,45.0,18.0,2017,5,23,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+524,Clinique,['Dealmoon Exclusive! 7pc GWP' '$39.5 with any purchase'],2017-05-26,33.0,119.0,46.0,2017,5,26,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+525,Clinique,Dealmoon Exclusive! 6pc GWP,2017-06-01,11.0,89.0,20.0,2017,6,1,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+526,Clinique,['25% Off' 'Smart Rewards Members only! 25% Off'],2017-06-05,164.0,449.0,237.0,2017,6,5,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+527,Clinique,['25% Off + Free Gift!' '25% Off'],2017-06-06,9.0,71.0,36.0,2017,6,6,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+528,Clinique,7PC GWP,2017-06-09,3.0,22.0,10.0,2017,6,9,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+529,Clinique,Up to 50% off select products,2017-06-10,33.0,91.0,45.0,2017,6,10,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.5,False
+530,Clinique,"['Up To Free 10-pc Sample' 'Free 7-piece gift with any $28 purchase'
+ 'Up to Free 10-pc Sample' 'Up to 50% off select products']",2017-06-13,99.0,231.0,91.0,2017,6,13,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+531,Clinique,"['Free 7-piece gift with any $28 DDML+ purchase'
+ 'Free 7-piece gift with any $28 Cheek Pop purchase'
+ 'Free 7-piece gift with any $28 Moisture Surge™ Extended Thirst Relief purchase'
+ 'Free 7-piece gift with any $28 take the Day Off Cleansing purchase']",2017-06-14,57.0,139.0,66.0,2017,6,14,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+532,Clinique,['5-PC GWP' 'Dealmoon Exclusive! 40% Off'],2017-06-15,72.0,225.0,92.0,2017,6,15,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+533,Clinique,FLASH SALE! 50% off,2017-06-17,1.0,9.0,3.0,2017,6,17,Saturday,True,Normal,Normal,Normal,Independence Day,0.5,False
+534,Clinique,Free Full-Size Pop Oil,2017-06-19,0.0,4.0,1.0,2017,6,19,Monday,False,Normal,Normal,Normal,Independence Day,0.0,True
+535,Clinique,Free 10-Piece Travel Kit （$100 value）,2017-06-21,24.0,88.0,47.0,2017,6,21,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+536,Clinique,"['Dealmoon Exclusive! 25% off ANY Cheek Pop purchase'
+ 'Free post workout pretty kit']",2017-06-25,16.0,55.0,29.0,2017,6,25,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+537,Clinique,['Dealmoon Exclusive! 25% off' '25% Off'],2017-06-27,34.0,245.0,89.0,2017,6,27,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+538,Clinique,Dealmoon Exclusive! 25% off,2017-06-28,32.0,164.0,81.0,2017,6,28,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.25,False
+539,Clinique,Dealmoon Exclusive! 25% off,2017-06-29,346.0,1238.0,621.0,2017,6,29,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.25,False
+540,Clinique,Pick 4 free minis with any $40 purchase,2017-07-14,0.0,10.0,7.0,2017,7,14,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+541,Clinique,try best-selling makeup removers,2017-07-18,6.0,37.0,10.0,2017,7,18,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+542,Clinique,Free custom-fit,2017-07-23,1.0,48.0,25.0,2017,7,23,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+543,Clinique,$44.75$89.50,2017-07-27,3.0,147.0,36.0,2017,7,27,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+544,Clinique,up to 50% off,2017-07-29,35.0,146.0,54.0,2017,7,29,Saturday,True,Normal,Normal,Normal,Independence Day,0.5,False
+545,Clinique,"Dealmoon Exclusive! 5 minis, mini lip duo",2017-08-01,6.0,24.0,17.0,2017,8,1,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+546,Clinique,"Dealmoon Exclusive! 5 minis, mini lip duo",2017-08-03,5.0,16.0,5.0,2017,8,3,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+547,Clinique,"['Dealmoon Exclusive! 5 minis' 'Dealmoon Exclusive! 5 minis, mini lip duo']",2017-08-04,77.0,307.0,121.0,2017,8,4,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+548,Clinique,"['Dealmoon Exclusive! 5 minis' 'Dealmoon Exclusive! 5 minis, mini lip duo'
+ 'Get 5 Samples + Mini Lip Duo and full size Even Better Clinical Dark Spot Corrector & Optimizer']",2017-08-05,74.0,245.0,97.0,2017,8,5,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+549,Clinique,"Dealmoon Exclusive! 5 minis, mini lip duo",2017-08-06,12.0,69.0,20.0,2017,8,6,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+550,Clinique,Get finishing touches kit,2017-08-14,18.0,74.0,36.0,2017,8,14,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+551,Clinique,Get a free starter kit,2017-08-20,14.0,86.0,24.0,2017,8,20,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+552,Clinique,50% off,2017-08-22,29.0,62.0,16.0,2017,8,22,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.5,False
+553,Clinique,Choose a free 3-step kit,2017-08-25,0.0,17.0,4.0,2017,8,25,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+554,Clinique,50% off,2017-08-27,48.0,293.0,89.0,2017,8,27,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.5,False
+555,Clinique,Get a free kits,2017-09-03,28.0,179.0,56.0,2017,9,3,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+556,Clinique,Pick 4 free skin care minis,2017-09-14,21.0,74.0,25.0,2017,9,14,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+557,Clinique,Pick 5 free skin care minis with any $40 purchase,2017-09-19,16.0,138.0,38.0,2017,9,19,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+558,Clinique,"['Get one free with any $35 purchase'
+ 'Pick 5 free skin care minis with any $40 purchase' '20% OFF']",2017-09-20,44.0,201.0,71.0,2017,9,20,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+559,Clinique,Pick 5 free skin care minis with any $40 purchase,2017-10-01,51.0,114.0,46.0,2017,10,1,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+560,Clinique,Pick 5 free skin care minis with any $40 purchase,2017-10-02,118.0,565.0,300.0,2017,10,2,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+561,Clinique,Pick 5 free skin care minis with any $40 purchase,2017-10-11,23.0,95.0,30.0,2017,10,11,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+562,Clinique,Free Bright & Glowing kit,2017-10-13,2.0,55.0,20.0,2017,10,13,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+563,Clinique,Free Bright & Glowing kit,2017-10-20,36.0,359.0,136.0,2017,10,20,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+564,Clinique,Free Bright & Glowing kit,2017-10-21,35.0,149.0,57.0,2017,10,21,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+565,Clinique,Free 7-piece gift with any $28 purchase,2017-10-28,22.0,67.0,31.0,2017,10,28,Saturday,True,Normal,Normal,Veterans Day (Observed),Veterans Day (Observed),0.0,False
+566,Clinique,Free 7-piece gift with any $28 purchase,2017-11-02,32.0,185.0,89.0,2017,11,2,Thursday,False,Normal,Normal,Veterans Day (Observed),Veterans Day (Observed),0.0,False
+567,Clinique,Free 7-piece gift with any $28 purchase,2017-11-06,432.0,2114.0,872.0,2017,11,6,Monday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+568,Clinique,Dealmoon exclusive 20% OFF,2017-11-10,13.0,40.0,17.0,2017,11,10,Friday,True,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.2,False
+569,Clinique,20% off,2017-11-12,0.0,11.0,6.0,2017,11,12,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,False
+570,Clinique,['$49.5($197 value）' '20% off'],2017-11-13,590.0,1324.0,630.0,2017,11,13,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+571,Clinique,$49.5($197 value）,2017-11-15,1.0,56.0,33.0,2017,11,15,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+572,Clinique,Up to Free 6-pc Sample,2017-11-21,29.0,134.0,131.0,2017,11,21,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+573,Clinique,25% off Moisture Surge™ Extended Thirst Relief,2017-11-26,9.0,86.0,25.0,2017,11,26,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+574,Clinique,"['25% off ANY Moisture Surge™ Hydrating Supercharged Concentrate'
+ '25% Off With Even Better Clinical™ Dark Spot Corrector & Optimizer']",2017-11-27,31.0,156.0,39.0,2017,11,27,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+575,Clinique,25% OFF,2017-11-28,1.0,58.0,12.0,2017,11,28,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+576,Clinique,25% off Fresh Pressed System Orders,2017-11-29,11.0,56.0,20.0,2017,11,29,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+577,Clinique,"['25% off any purchase' '25% off with Take the Day Off Cleansing purchase'
+ '25% off with Dramatically Different Moisturizing Lotion+ purchase'
+ '25% off With Take the Day Off cleansing balm purchase'
+ '25% off with Any Cheek Pop Orders' '25% off any gift set purchase'
+ '25% off Moisture Surge™ Extended Thirst Relief purchase']",2017-11-30,1254.0,3418.0,1914.0,2017,11,30,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+578,Clinique,pick 5 minis + a gift box,2017-12-06,65.0,191.0,60.0,2017,12,6,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+579,Clinique,"[""12 of clinique's most celebrated in one luxe set""
+ 'Free Lips + Lashes Duo']",2017-12-07,10.0,63.0,14.0,2017,12,7,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+580,Clinique,Enjoy a Free 7-pc gift step up,2017-12-12,15.0,48.0,18.0,2017,12,12,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+581,Clinique,25% off any gift set purchase,2017-12-13,12.0,37.0,17.0,2017,12,13,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.25,False
+582,Clinique,25% Off,2017-12-14,5.0,43.0,8.0,2017,12,14,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.25,False
+583,Clinique,"['25% off with Take the Day Off Cleansing purchase'
+ '25% off with Dramatically Different Moisturizing Lotion+ purchase'
+ '25% off with Any Cheek Pop Orders' '25% off Fresh Pressed System Orders'
+ '25% off any purchase'
+ '25% off Moisture Surge™ Extended Thirst Relief purchase']",2017-12-15,295.0,959.0,376.0,2017,12,15,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+584,Clinique,['Dealmoon Exclusive 25% OFF' 'get one 7-pc gift with $28'],2017-12-18,10.0,64.0,20.0,2017,12,18,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+585,Clinique,5 Free Moisture Surge Extended Thirst Relief Minis with $35,2017-12-21,11.0,60.0,19.0,2017,12,21,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+586,Clinique,25% off + GWP,2018-01-03,24.0,134.0,38.0,2018,1,3,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.25,True
+587,Clinique,Choose a custom-fit kit,2018-01-09,2.0,48.0,16.0,2018,1,9,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+588,Clinique,pick 5 free minis with any $35 order,2018-01-19,37.0,132.0,45.0,2018,1,19,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+589,Clinique,['Free 5-pc. Gift' '25% Off Selected Gift Set And Get A Free 5-pc. Gift'],2018-01-25,25.0,173.0,78.0,2018,1,25,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+590,Clinique,Free 5-pc. Gift,2018-01-26,12.0,101.0,34.0,2018,1,26,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+591,Clinique,['FREE full size Fresh Pressed Daily Booster' 'Free 5-pc Gift'],2018-01-27,194.0,777.0,286.0,2018,1,27,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+592,Clinique,['Free 5-pc. Gift' 'FREE 5-pc. Gift'],2018-01-28,35.0,174.0,55.0,2018,1,28,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+593,Clinique,FREE 6-piece Valentine’s Kit,2018-02-20,12.0,86.0,36.0,2018,2,20,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+594,Clinique,Dealmoon Exclusive! FREE full size Dramatically Different Moisturizing Lotion+ 125ml,2018-03-03,11.0,52.0,15.0,2018,3,3,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+595,Clinique,25% Off,2018-03-19,4.0,8.0,2.0,2018,3,19,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.25,False
+596,Clinique,25% Off,2018-03-21,10.0,32.0,8.0,2018,3,21,Wednesday,False,Normal,Normal,Normal,Normal,0.25,False
+597,Clinique,25% Off,2018-03-23,5.0,99.0,21.0,2018,3,23,Friday,True,Normal,Normal,Normal,Normal,0.25,False
+598,Clinique,['25% Off' 'Dealmoon Exclusive! 25% off'],2018-03-26,493.0,1941.0,795.0,2018,3,26,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+599,Clinique,Dealmoon Exclusive! 25% off,2018-03-27,165.0,767.0,180.0,2018,3,27,Tuesday,False,Normal,Normal,Normal,Normal,0.25,False
+600,Clinique,Free FULL-SIZE City Block Purifying Enzyme Powder Cleanser + Exfoliator,2018-04-18,25.0,148.0,55.0,2018,4,18,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+601,Clinique,Free 7-Piece Gift,2018-05-06,12.0,67.0,13.0,2018,5,6,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+602,Clinique,['Free 7-Piece Gift' 'Up to 14-pc gifts'],2018-05-09,508.0,2165.0,893.0,2018,5,9,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+603,Clinique,50% off select mascaras,2018-06-02,4.0,21.0,9.0,2018,6,2,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.5,False
+604,Clinique,Dealmoon Exclusive! 9 free gifts,2018-06-09,11.0,68.0,19.0,2018,6,9,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+605,Clinique,Dealmoon Exclusive! 9 free gifts,2018-06-10,26.0,206.0,60.0,2018,6,10,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+606,Clinique,Dealmoon Exclusive! 9 free gifts,2018-06-11,546.0,1161.0,559.0,2018,6,11,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+607,Clinique,20% Off + 5 FREE travel minis,2018-06-20,13.0,31.0,7.0,2018,6,20,Wednesday,False,Normal,Normal,Normal,Independence Day,0.2,False
+608,Clinique,Dealmoon Exclusive! 25% off,2018-06-23,3.0,34.0,5.0,2018,6,23,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.25,False
+609,Clinique,Dealmoon Exclusive! 25% off,2018-06-24,158.0,542.0,218.0,2018,6,24,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.25,False
+610,Clinique,Dealmoon Exclusive! 25% off,2018-06-25,0.0,42.0,8.0,2018,6,25,Monday,False,Normal,Normal,Independence Day,Independence Day,0.25,False
+611,Clinique,Dealmoon Exclusive! 25% off,2018-06-26,8.0,71.0,20.0,2018,6,26,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.25,False
+612,Clinique,['Dealmoon Exclusive! 25% off Sitewide' 'Dealmoon Exclusive! 25% off'],2018-06-27,655.0,1312.0,586.0,2018,6,27,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+613,Clinique,Free 7-piece Summer Gift,2018-07-12,1.0,29.0,2.0,2018,7,12,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+614,Clinique,Dealmoon Exclusive!,2018-07-16,3.0,50.0,9.0,2018,7,16,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+615,Clinique,Dealmoon Exclusive!,2018-07-17,92.0,278.0,113.0,2018,7,17,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+616,Clinique,50% off,2018-07-18,3.0,90.0,9.0,2018,7,18,Wednesday,False,Normal,Normal,Normal,Independence Day,0.5,False
+617,Clinique,Free Travel-Size Moisturizer,2018-07-26,2.0,21.0,2.0,2018,7,26,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+618,Clinique,Free Full-size Pop Lip Colour,2018-07-29,11.0,18.0,5.0,2018,7,29,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,True
+619,Clinique,Up to 12 FREE minis,2018-08-09,1.0,13.0,4.0,2018,8,9,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+620,Clinique,['Up to 12 FREE minis' 'Up to 12 Free Minis'],2018-08-12,47.0,284.0,101.0,2018,8,12,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+621,Clinique,Dealmoon Exclusive!Free 6-pc Gift + Full-size Eye Treatment,2018-08-14,2.0,19.0,4.0,2018,8,14,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+622,Clinique,Free Full Size or 20% Off,2018-08-29,3.0,26.0,3.0,2018,8,29,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.2,True
+623,Clinique,Free Full Size or 20% Off,2018-08-31,10.0,52.0,8.0,2018,8,31,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.2,True
+624,Clinique,Free Full Size or 20% Off,2018-09-01,24.0,269.0,77.0,2018,9,1,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.2,True
+625,Clinique,Free Full Size or 20% Off,2018-09-06,78.0,458.0,210.0,2018,9,6,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.2,True
+626,Clinique,Free Full Size of A Best Seller,2018-09-26,18.0,53.0,19.0,2018,9,26,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+627,Clinique,Dealmoon Exclusive!,2018-10-01,83.0,146.0,69.0,2018,10,1,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+628,Clinique,$21 + Free up to 12-Piece Gift (Up To $185 Value),2018-10-16,4.0,15.0,1.0,2018,10,16,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+629,Clinique,Free up to 11-Piece Gift (Up To $135 Value),2018-10-17,0.0,6.0,2.0,2018,10,17,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+630,Clinique,Free up to 12-Piece Gift (Up To $180 Value),2018-10-28,0.0,57.0,11.0,2018,10,28,Sunday,False,Normal,Normal,Normal,Veterans Day,0.0,True
+631,Clinique,Free up to 12-Piece Gift (Up To $180 Value),2018-10-30,59.0,233.0,82.0,2018,10,30,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+632,Clinique,Free up to 12-Piece Gift (Up To $180 Value),2018-10-31,557.0,2232.0,905.0,2018,10,31,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+633,Clinique,Dealmoon Exclusive 20% off,2018-11-09,3.0,3.0,1.0,2018,11,9,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,False
+634,Clinique,Dealmoon Exclusive 20% off,2018-11-10,5.0,15.0,5.0,2018,11,10,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,False
+635,Clinique,Dealmoon Exclusive 20% off,2018-11-12,454.0,978.0,411.0,2018,11,12,Monday,False,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.2,False
+636,Clinique,Dealmoon exclusive Pick your 5 favorite minis,2018-11-20,13.0,68.0,25.0,2018,11,20,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+637,Clinique,"['Create the perfect gift, free! Pick 5 festive minis + a gift box'
+ 'Dealmoon Exclusive Get 25% off' 'Dealmoon Exclusive 25% off']",2018-11-28,1829.0,4033.0,1891.0,2018,11,28,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+638,Clinique,Limited Edition Set!,2018-11-30,233.0,1069.0,666.0,2018,11,30,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+639,Clinique,$49.50 With Any $29.50 purchase,2018-12-05,0.0,14.0,4.0,2018,12,5,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+640,Clinique,Dealmoon Exclusive!,2018-12-09,36.0,81.0,18.0,2018,12,9,Sunday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+641,Clinique,Pick 6 free minis,2018-12-12,27.0,34.0,11.0,2018,12,12,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+642,Clinique,Get 25% off,2018-12-15,5.0,29.0,8.0,2018,12,15,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.25,False
+643,Clinique,['25% off' 'Get 25% off'],2018-12-18,13.0,77.0,22.0,2018,12,18,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+644,Clinique,['Get 25% off' '25% off' 'Dealmoon Exclusive Get 25% off'],2018-12-19,770.0,1075.0,456.0,2018,12,19,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+645,Clinique,Pick a free Cheek Pop on $40+,2018-12-20,5.0,1.0,4.0,2018,12,20,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+646,Clinique,$24.75$49.50,2019-01-02,29.0,52.0,13.0,2019,1,2,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+647,Clinique,Free 4 of winter skin savers,2019-01-07,2.0,8.0,3.0,2019,1,7,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+648,Clinique,Winter picks: 5 free,2019-01-19,24.0,78.0,42.0,2019,1,19,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+649,Clinique,Dealmoon CNY Exclusive 20% off,2019-01-20,9.0,40.0,15.0,2019,1,20,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.2,False
+650,Clinique,['50% Off' 'Dealmoon CNY Exclusive！Get 20% off'],2019-01-21,147.0,465.0,197.0,2019,1,21,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+651,Clinique,Free Full-size Fresh Pressed Daily Booster,2019-01-22,2.0,37.0,5.0,2019,1,22,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+652,Clinique,Choose your custom-fit cleanser,2019-01-29,23.0,46.0,18.0,2019,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+653,Clinique,Free 5 pc gift,2019-02-01,12.0,21.0,14.0,2019,2,1,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+654,Clinique,['Dealmoon Exclusive 20% off' 'Dealmoon Exclusive: 20% off'],2019-02-05,11.0,119.0,30.0,2019,2,5,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+655,Clinique,['Dealmoon Exclusive 20% off' 'Dealmoon Exclusive: 20% off any purchase'],2019-02-06,127.0,566.0,208.0,2019,2,6,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+656,Clinique,choose a free kit,2019-02-11,1.0,14.0,7.0,2019,2,11,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+657,Clinique,Choose your free trial kit,2019-02-17,2.0,25.0,17.0,2019,2,17,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+658,Clinique,2-pc Gift,2019-02-19,12.0,27.0,31.0,2019,2,19,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+659,Clinique,Pick a free set（$75 value）,2019-02-23,6.0,13.0,11.0,2019,2,23,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+660,Clinique,Pick a 5 free,2019-02-26,25.0,15.0,14.0,2019,2,26,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+661,Clinique,Dealmoon Exclusive Get 20% off,2019-03-02,1.0,10.0,3.0,2019,3,2,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.2,False
+662,Clinique,Dealmoon Exclusive 20% off,2019-03-03,7.0,43.0,25.0,2019,3,3,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.2,False
+663,Clinique,"['Dealmoon Exclusive: 20% off' 'Dealmoon Exclusive: Get 20% off'
+ 'Dealmoon Exclusive: Lights. Camera. Flash Sale!']",2019-03-04,198.0,468.0,340.0,2019,3,4,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+664,Clinique,Dealmoon Exclusive: FREE 6-piece gift & the full size DDML,2019-03-10,19.0,32.0,31.0,2019,3,10,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+665,Clinique,"['Dealmoon Exclusive: FREE 6-piece gift & the full size DDML'
+ 'Dealmoon Exclusive！']",2019-03-11,126.0,278.0,230.0,2019,3,11,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+666,Clinique,Free 4 pcs bright & glowing kit,2019-03-12,24.0,47.0,31.0,2019,3,12,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+667,Clinique,['Get 25% off' '25% off'],2019-03-22,9.0,31.0,13.0,2019,3,22,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+668,Clinique,25% off,2019-03-23,0.0,11.0,10.0,2019,3,23,Saturday,True,Normal,Normal,Normal,Normal,0.25,False
+669,Clinique,25% off,2019-03-25,44.0,83.0,47.0,2019,3,25,Monday,False,Normal,Normal,Normal,Normal,0.25,False
+670,Clinique,25% off,2019-03-26,527.0,704.0,404.0,2019,3,26,Tuesday,False,Normal,Normal,Normal,Normal,0.25,False
+671,Clinique,Free Full-Size Ffresh Vitamin C,2019-04-04,3.0,6.0,5.0,2019,4,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+672,Clinique,Pick 5 free minis,2019-04-11,9.0,24.0,14.0,2019,4,11,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+673,Clinique,It's that time of year!,2019-04-20,3.0,12.0,6.0,2019,4,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+674,Clinique,Build your free 7-piece gift with,2019-04-21,13.0,49.0,38.0,2019,4,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+675,Clinique,['Build your free 7-piece gift' 'Build your free 7-piece gift with'],2019-04-23,9.0,33.0,18.0,2019,4,23,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+676,Clinique,It's that time of year!,2019-04-24,328.0,252.0,194.0,2019,4,24,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+677,Clinique,['Dealmoon Exclusive! 20%Off+GWP' 'Dealmoon Exclusive: 20% off'],2019-05-04,8.0,55.0,41.0,2019,5,4,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+678,Clinique,['Dealmoon Exclusive! 20%off + GWP' 'Dealmoon Exclusive 20% off+GWP'],2019-05-05,90.0,253.0,133.0,2019,5,5,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+679,Clinique,GWP,2019-05-17,2.0,18.0,6.0,2019,5,17,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+680,Clinique,Dealmoon Exclusive: Get 20% Off,2019-05-18,12.0,29.0,16.0,2019,5,18,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+681,Clinique,Dealmoon Exclusive! Up to 25% off,2019-05-23,4.0,22.0,7.0,2019,5,23,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.25,False
+682,Clinique,get up to 10pc,2019-05-24,2.0,6.0,2.0,2019,5,24,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+683,Clinique,Dealmoon Exclusive! 25%off + GWP,2019-05-26,4.0,30.0,3.0,2019,5,26,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.25,True
+684,Clinique,"['Dealmoon Exclusive!' 'Dealmoon Exclusive! Up to 25% off + GWP'
+ 'Dealmoon Exclusive: Up to 25% off + GWP']",2019-05-27,235.0,399.0,248.0,2019,5,27,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,False
+685,Clinique,Up to $20 Off,2019-05-31,21.0,48.0,26.0,2019,5,31,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+686,Clinique,up to 11-pc,2019-06-13,93.0,133.0,68.0,2019,6,13,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+687,Clinique,25% off,2019-06-19,0.0,1.0,2.0,2019,6,19,Wednesday,False,Normal,Normal,Normal,Independence Day,0.25,False
+688,Clinique,25% off,2019-06-30,361.0,689.0,504.0,2019,6,30,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.25,False
+689,Clinique,Free Gift,2019-07-19,14.0,41.0,26.0,2019,7,19,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+690,Clinique,20% Off,2019-07-24,34.0,61.0,42.0,2019,7,24,Wednesday,False,Normal,Normal,Normal,Independence Day,0.2,False
+691,Clinique,Buy 2 Get 1 Free,2019-07-28,1.0,4.0,15.0,2019,7,28,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+692,Clinique,Free Gift,2019-08-03,1.0,2.0,1.0,2019,8,3,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+693,Clinique,20% Off + 13 Piece Gift,2019-08-06,0.0,9.0,5.0,2019,8,6,Tuesday,False,Normal,Normal,Normal,Labor Day,0.2,True
+694,Clinique,['20% Off + 13pc Gift' '20% Off + 13 Piece Gift' '20%Off + 13pc Gift'],2019-08-08,128.0,236.0,184.0,2019,8,8,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+695,Clinique,Free Gift,2019-08-12,1.0,8.0,5.0,2019,8,12,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+696,Clinique,20% Off +Free Gift,2019-08-18,49.0,164.0,85.0,2019,8,18,Sunday,False,Normal,Normal,Normal,Labor Day,0.2,True
+697,Clinique,Free Gift,2019-08-20,0.0,3.0,5.0,2019,8,20,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+698,Clinique,25% off,2019-08-27,1.0,6.0,1.0,2019,8,27,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.25,False
+699,Clinique,['Free Gift' '25% Off'],2019-09-03,87.0,273.0,164.0,2019,9,3,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+700,Clinique,Free Gift,2019-09-09,0.0,2.0,6.0,2019,9,9,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+701,Clinique,Up to 25% Off,2019-09-27,89.0,212.0,168.0,2019,9,27,Friday,True,Normal,Normal,Normal,Columbus Day,0.25,False
+702,Clinique,Free Gift,2019-10-02,3.0,10.0,9.0,2019,10,2,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+703,Clinique,['Choose 6 Minis' 'As low as $39'],2019-10-05,2.0,11.0,22.0,2019,10,5,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+704,Clinique,$10 Off,2019-10-12,1.0,7.0,3.0,2019,10,12,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+705,Clinique,Up to a $244 Total Value,2019-10-21,3.0,19.0,87.0,2019,10,21,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+706,Clinique,Up to a $244 Total Value,2019-10-22,0.0,11.0,14.0,2019,10,22,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+707,Clinique,Up to a $244 Total Value,2019-10-31,316.0,303.0,289.0,2019,10,31,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+708,Clinique,['Up to a $244Total Value' 'Up to a $244 Total Value' 'As low as $9.5'],2019-11-01,68.0,138.0,147.0,2019,11,1,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+709,Clinique,"['20% Off + 11 piece kit + Full size product'
+ '20% Off + 11-Piece Gift + Full Size Product'
+ '20% Off + 11 piece kit + full size product']",2019-11-12,161.0,370.0,452.0,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+710,Clinique,"Buy 1, Get 3 travel sizes free",2019-11-14,7.0,35.0,13.0,2019,11,14,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+711,Clinique,25% Off + 5 Minis,2019-12-03,75.0,122.0,125.0,2019,12,3,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+712,Clinique,['25% Off + 5 Minis' '25% Off+5 Minis'],2019-12-04,111.0,373.0,257.0,2019,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+713,Clinique,25% Off+5 Minis,2019-12-05,1891.0,1367.0,1068.0,2019,12,5,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.25,False
+714,Clinique,25% Off + 12-pc Gift,2019-12-11,7.0,9.0,12.0,2019,12,11,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.25,True
+715,Clinique,['25% Off + 13-pc Gift' '25% Off+Free 13-pc Gift'],2019-12-12,7.0,19.0,21.0,2019,12,12,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+716,Clinique,25% Off+13-pc Gift,2019-12-13,113.0,135.0,122.0,2019,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.25,True
+717,Clinique,25% Off,2019-12-18,0.0,6.0,5.0,2019,12,18,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.25,False
+718,Clinique,['Up to 50% Off' '25% Off'],2019-12-19,36.0,107.0,93.0,2019,12,19,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+719,Clinique,Free 7-Piece Gift,2020-01-04,7.0,5.0,6.0,2020,1,4,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+720,Clinique,20% Off,2020-01-13,5.0,10.0,3.0,2020,1,13,Monday,False,Normal,Normal,Normal,Christmas Day,0.2,False
+721,Clinique,20% Off + Free Gifts,2020-01-17,24.0,56.0,38.0,2020,1,17,Friday,True,Normal,Normal,Normal,Christmas Day,0.2,True
+722,Clinique,['20% Off + Free Gifts' '20% Off + Free Gift'],2020-01-18,307.0,396.0,269.0,2020,1,18,Saturday,True,Normal,Normal,Normal,Christmas Day,0.0,False
+723,Clinique,25% Off + Free Gifts,2020-01-20,47.0,125.0,96.0,2020,1,20,Monday,False,Normal,Normal,Normal,Christmas Day,0.25,True
+724,Clinique,Free Gifts,2020-01-27,2.0,6.0,13.0,2020,1,27,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+725,Clinique,Only $25,2020-01-28,42.0,25.0,48.0,2020,1,28,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+726,Clinique,20% Off + Free Gift,2020-02-09,7.0,15.0,8.0,2020,2,9,Sunday,False,Normal,Normal,Normal,Normal,0.2,True
+727,Clinique,['20% Off + 7-pc Gift' '20% Off + Free Gifts' '20% Off + Free Gift'],2020-02-10,97.0,194.0,190.0,2020,2,10,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+728,Clinique,50% Off,2020-02-17,90.0,112.0,88.0,2020,2,17,Monday,False,Normal,Normal,Normal,Normal,0.5,False
+729,Clinique,$16.80$28.00,2020-02-19,61.0,104.0,103.0,2020,2,19,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+730,Clinique,$18.20$28.00,2020-02-27,31.0,81.0,86.0,2020,2,27,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+731,Clinique,50% Off,2020-03-02,77.0,176.0,77.0,2020,3,2,Monday,False,Normal,Normal,Normal,Normal,0.5,False
+732,Clinique,Free Gifts,2020-03-06,226.0,169.0,125.0,2020,3,6,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+733,Clinique,30% Off + Free Gifts,2020-03-18,8.0,6.0,8.0,2020,3,18,Wednesday,False,Normal,Normal,Normal,Normal,0.3,True
+734,Clinique,30% Off + Free Gifts,2020-03-21,7.0,16.0,5.0,2020,3,21,Saturday,True,Normal,Normal,Normal,Normal,0.3,True
+735,Clinique,30% Off + Free Gifts,2020-03-25,26.0,20.0,13.0,2020,3,25,Wednesday,False,Normal,Normal,Normal,Normal,0.3,True
+736,Clinique,30% Off + Free Gifts,2020-03-29,27.0,92.0,55.0,2020,3,29,Sunday,False,Normal,Normal,Normal,Normal,0.3,True
+737,Clinique,30% Off+ 6 Free Gift,2020-03-30,64.0,102.0,57.0,2020,3,30,Monday,False,Normal,Normal,Normal,Normal,0.3,True
+738,Clinique,30% Off + Free Gifts,2020-04-02,1952.0,721.0,568.0,2020,4,2,Thursday,False,Normal,Normal,Normal,Normal,0.3,True
+739,Clinique,30% Off+Free Gift,2020-04-03,74.0,97.0,48.0,2020,4,3,Friday,True,Normal,Normal,Normal,Normal,0.3,True
+740,Clinique,['Free Gifts' 'Free Gifts($72 value)'],2020-04-06,21.0,17.0,30.0,2020,4,6,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+741,Clinique,BOGO,2020-04-10,66.0,86.0,63.0,2020,4,10,Friday,True,Normal,Normal,Normal,Normal,0.5,False
+742,Clinique,Free Gifts,2020-04-23,25.0,20.0,20.0,2020,4,23,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+743,Clinique,Free Gifts,2020-04-24,13.0,5.0,4.0,2020,4,24,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+744,Clinique,Free Gifts,2020-04-25,51.0,46.0,31.0,2020,4,25,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+745,Clinique,Free Gifts,2020-04-26,6.0,9.0,15.0,2020,4,26,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+746,Clinique,Free Gift,2020-05-01,19.0,12.0,5.0,2020,5,1,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+747,Clinique,30% Off + Free Gifts,2020-05-08,5.0,9.0,7.0,2020,5,8,Friday,True,Normal,Normal,Normal,Normal,0.3,True
+748,Clinique,['30% Off + Free Gift' '30% Off or Free Gifts'],2020-05-11,463.0,438.0,360.0,2020,5,11,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+749,Clinique,Free Lip Treatment,2020-05-13,2.0,5.0,4.0,2020,5,13,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+750,Clinique,Up to 50% Off,2020-05-17,98.0,136.0,59.0,2020,5,17,Sunday,False,Normal,Normal,Normal,Normal,0.5,False
+751,Clinique,Free 5-PC Gift,2020-05-19,8.0,8.0,10.0,2020,5,19,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+752,Clinique,25% Off + Free Gifts,2020-05-30,6.0,17.0,9.0,2020,5,30,Saturday,True,Normal,Normal,Normal,Normal,0.25,True
+753,Clinique,['25% Off+Free Gifts' '25% Off + Free Gifts'],2020-06-02,482.0,628.0,453.0,2020,6,2,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+754,Clinique,BOGO,2020-06-09,63.0,43.0,53.0,2020,6,9,Tuesday,False,Normal,Normal,Normal,Normal,0.5,False
+755,Clinique,30% Off + Free Gifts,2020-06-13,54.0,64.0,47.0,2020,6,13,Saturday,True,Normal,Normal,Normal,Normal,0.3,True
+756,Clinique,['30% Off + Free Gifts' '30% Off+Free Gifts'],2020-06-16,20.0,33.0,19.0,2020,6,16,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+757,Clinique,30% Off + Free Gifts,2020-06-17,2.0,22.0,28.0,2020,6,17,Wednesday,False,Normal,Normal,Normal,Normal,0.3,True
+758,Clinique,30% Off + Free Gifts,2020-06-18,1229.0,742.0,560.0,2020,6,18,Thursday,False,Normal,Normal,Normal,Normal,0.3,True
+759,Clinique,Free Gifts,2020-06-20,3.0,1.0,8.0,2020,6,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,True

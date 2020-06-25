@@ -1,0 +1,540 @@
+,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,Bobbi Brown Cosmetics,2 free deluxe samples + free shipping with any purchase,2011-06-21,0.0,0.0,0.0,2011,6,21,Tuesday,False,Normal,Fathers's day,Fathers's day,Fathers's day,0.0,False
+1,Bobbi Brown Cosmetics,Free samples,2011-09-12,0.0,0.0,0.0,2011,9,12,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+2,Bobbi Brown Cosmetics,Bobbi Brown Deal,2011-10-26,0.0,0.0,0.0,2011,10,26,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+3,Bobbi Brown Cosmetics,Bobbi Brown Deal,2011-11-03,0.0,0.0,0.0,2011,11,3,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+4,Bobbi Brown Cosmetics,Bobbi Brown Deal,2011-11-15,0.0,0.0,0.0,2011,11,15,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+5,Bobbi Brown Cosmetics,Free Samples & Free Gift,2011-12-07,0.0,0.0,0.0,2011,12,7,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+6,Bobbi Brown Cosmetics,Free Samples with Purchase,2012-01-05,0.0,0.0,0.0,2012,1,5,Thursday,False,Normal,New Year's Day (Observed),New Year's Day (Observed),New Year's Day (Observed),0.0,True
+7,Bobbi Brown Cosmetics,Bobbi Brown Offer:,2012-01-11,0.0,0.0,0.0,2012,1,11,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+8,Bobbi Brown Cosmetics,Free Deluxe Samples,2012-01-18,0.0,0.0,0.0,2012,1,18,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+9,Bobbi Brown Cosmetics,Free Deluxe Samples,2012-01-25,0.0,0.0,0.0,2012,1,25,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+10,Bobbi Brown Cosmetics,Free Deluxe Samples,2012-01-31,0.0,0.0,0.0,2012,1,31,Tuesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+11,Bobbi Brown Cosmetics,Bobbi Brown Cosmetics,2012-02-07,0.0,0.0,0.0,2012,2,7,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+12,Bobbi Brown Cosmetics,Free 3 Deluxe Samples of Bobbi's Best-Sellers with any order,2012-02-15,0.0,0.0,0.0,2012,2,15,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+13,Bobbi Brown Cosmetics,Bobbi Brown Cosmetics,2012-03-06,0.0,0.0,0.0,2012,3,6,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+14,Bobbi Brown Cosmetics,Bobbi Brown Cosmetics,2012-03-19,0.0,0.0,0.0,2012,3,19,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+15,Bobbi Brown Cosmetics,Bobbi Brown Cosmetics,2012-04-05,0.0,0.0,0.0,2012,4,5,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+16,Bobbi Brown Cosmetics,Bobbi Brown Cosmetics,2012-04-10,0.0,0.0,0.0,2012,4,10,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+17,Bobbi Brown Cosmetics,20% Off Friends & Family Event,2012-04-19,0.0,0.0,0.0,2012,4,19,Thursday,False,Normal,Normal,Normal,Normal,0.2,False
+18,Bobbi Brown Cosmetics,Free 3 Deluxe Samples of Bobbi's Best-Sellers with any order,2012-04-30,0.0,0.0,0.0,2012,4,30,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+19,Bobbi Brown Cosmetics,Bobbi Brown,2012-05-15,0.0,0.0,0.0,2012,5,15,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+20,Bobbi Brown Cosmetics,Bobbi Brown GWP: Gift with Pruchase,2012-05-22,0.0,0.0,0.0,2012,5,22,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+21,Bobbi Brown Cosmetics,Bobbi Brown GWP:,2012-06-01,0.0,0.0,0.0,2012,6,1,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+22,Bobbi Brown Cosmetics,Bobbi Brown Offer:,2012-06-06,0.0,0.0,0.0,2012,6,6,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+23,Bobbi Brown Cosmetics,Bobbi Brown GWP:,2012-06-12,0.0,0.0,0.0,2012,6,12,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+24,Bobbi Brown Cosmetics,Free Shipping,2012-06-22,0.0,0.0,0.0,2012,6,22,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+25,Bobbi Brown Cosmetics,Free shipping + Free 2 Deluxe Treats,2012-06-26,0.0,0.0,0.0,2012,6,26,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+26,Bobbi Brown Cosmetics,Bobbi Brown GWP:,2012-07-05,0.0,0.0,0.0,2012,7,5,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+27,Bobbi Brown Cosmetics,Bobbi Brown GWP:,2012-07-10,0.0,0.0,0.0,2012,7,10,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+28,Bobbi Brown Cosmetics,Free shipping + Deluxe Face Cream Sample,2012-07-20,0.0,0.0,0.0,2012,7,20,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+29,Bobbi Brown Cosmetics,Bobbi Brown GWP:,2012-07-26,0.0,0.0,0.0,2012,7,26,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,True
+30,Bobbi Brown Cosmetics,Free Mini Eye Palette & Mascara,2012-07-31,0.0,0.0,0.0,2012,7,31,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+31,Bobbi Brown Cosmetics,Bobbi Brown GWP:,2012-08-07,0.0,0.0,0.0,2012,8,7,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+32,Bobbi Brown Cosmetics,Free 3 Deluxe Samples,2012-08-14,0.0,0.0,0.0,2012,8,14,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,True
+33,Bobbi Brown Cosmetics,Free 5 Deluxe Samples,2012-08-17,0.0,0.0,0.0,2012,8,17,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+34,Bobbi Brown Cosmetics,Free 3 Deluxe Samples + Free Shipping,2012-08-20,0.0,0.0,0.0,2012,8,20,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+35,Bobbi Brown Cosmetics,Free 4 Deluxe Samples + Free Shipping,2012-08-28,0.0,0.0,0.0,2012,8,28,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+36,Bobbi Brown Cosmetics,Free Deluxe 3-Piece Samples,2012-09-04,0.0,0.0,0.0,2012,9,4,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+37,Bobbi Brown Cosmetics,Free Extra Eye Repair Cream (7ml),2012-09-05,0.0,0.0,0.0,2012,9,5,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+38,Bobbi Brown Cosmetics,Free Smokey Eye Palette and Macara,2012-09-13,0.0,0.0,0.0,2012,9,13,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+39,Bobbi Brown Cosmetics,BobbiBrown GWP:,2012-09-17,0.0,0.0,0.0,2012,9,17,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+40,Bobbi Brown Cosmetics,Free Deluxe Brightening Hydrating Lotion(15ml),2012-09-27,0.0,0.0,0.0,2012,9,27,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+41,Bobbi Brown Cosmetics,Free 3 Deluxe Samples,2012-10-01,0.0,0.0,0.0,2012,10,1,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+42,Bobbi Brown Cosmetics,2 deluxe samples +free shipping,2012-10-11,0.0,0.0,0.0,2012,10,11,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+43,Bobbi Brown Cosmetics,Free 3 Deluxe Samples,2012-10-18,0.0,0.0,0.0,2012,10,18,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+44,Bobbi Brown Cosmetics,Free 2 best-selling skincare samples,2012-10-22,0.0,0.0,0.0,2012,10,22,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+45,Bobbi Brown Cosmetics,Free Full-Size Sample,2012-10-27,0.0,0.0,0.0,2012,10,27,Saturday,True,Normal,Normal,Normal,Veterans Day,0.0,True
+46,Bobbi Brown Cosmetics,Exclusive holiday lip palette set,2012-10-29,0.0,0.0,0.0,2012,10,29,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+47,Bobbi Brown Cosmetics,Free deluxe Sample duo,2012-11-07,0.0,0.0,0.0,2012,11,7,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+48,Bobbi Brown Cosmetics,Deluxe Sample of Intensive Skin Supplement,2012-11-15,0.0,0.0,0.0,2012,11,15,Thursday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,True
+49,Bobbi Brown Cosmetics,3 Deluxe samples,2012-11-17,0.0,0.0,0.0,2012,11,17,Saturday,True,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+50,Bobbi Brown Cosmetics,"['Free Full Size Long-Wear Cream Shadow'
+ 'Free Deluxe Sample of Soothing Cleansing Oil(15ml)']",2012-11-20,0.0,0.0,0.0,2012,11,20,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+51,Bobbi Brown Cosmetics,6 Samples,2012-11-26,0.0,0.0,0.0,2012,11,26,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+52,Bobbi Brown Cosmetics,Free shipping + 5 Samples,2012-11-27,0.0,0.0,0.0,2012,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+53,Bobbi Brown Cosmetics,Free Makeup Palette,2012-12-01,0.0,0.0,0.0,2012,12,1,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+54,Bobbi Brown Cosmetics,Free 2 deluxe samples,2012-12-04,0.0,0.0,0.0,2012,12,4,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+55,Bobbi Brown Cosmetics,Bobbi Brown: Free Mini Dual Ended Eye Shadow Brush,2012-12-10,0.0,0.0,0.0,2012,12,10,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+56,Bobbi Brown Cosmetics,Free 3 Samples,2012-12-13,0.0,0.0,1.0,2012,12,13,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+57,Bobbi Brown Cosmetics,Free mini lip gloss,2012-12-18,0.0,0.0,0.0,2012,12,18,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+58,Bobbi Brown Cosmetics,Free Overnight,2012-12-20,0.0,0.0,0.0,2012,12,20,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+59,Bobbi Brown Cosmetics,Free Mini Mascara,2012-12-29,0.0,0.0,0.0,2012,12,29,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+60,Bobbi Brown Cosmetics,Free Mini Face Blender Brush,2013-01-02,0.0,0.0,0.0,2013,1,2,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+61,Bobbi Brown Cosmetics,Free Lip Palette with a travel size Lash Glamour Extreme Lengthening Mascara (3ml),2013-01-05,0.0,0.0,0.0,2013,1,5,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+62,Bobbi Brown Cosmetics,Free Skincare Duo + Free Shipping,2013-01-08,0.0,0.0,0.0,2013,1,8,Tuesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+63,Bobbi Brown Cosmetics,Free Full Size Creamy Lip Color in Retro Pink,2013-01-09,0.0,0.0,0.0,2013,1,9,Wednesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+64,Bobbi Brown Cosmetics,['Free Mystery Gift (a $47 value)' 'Free Secret Gift($47 Value)'],2013-01-14,0.0,0.0,0.0,2013,1,14,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+65,Bobbi Brown Cosmetics,Free Travel Size Intensive,2013-01-18,0.0,0.0,0.0,2013,1,18,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+66,Bobbi Brown Cosmetics,Free 2 Travel-Size Best-Sellers,2013-01-28,0.0,0.0,0.0,2013,1,28,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+67,Bobbi Brown Cosmetics,Free 3 deluxe Best-Sellers,2013-01-29,0.0,0.0,0.0,2013,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+68,Bobbi Brown Cosmetics,Free Palette set with any $75 purchase,2013-02-08,0.0,0.0,0.0,2013,2,8,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+69,Bobbi Brown Cosmetics,Free Skincare duo,2013-02-11,0.0,0.0,0.0,2013,2,11,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+70,Bobbi Brown Cosmetics,Free 2 Deluxe Samples,2013-02-18,0.0,0.0,0.0,2013,2,18,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+71,Bobbi Brown Cosmetics,Free Deluxe Sample of Soothing Cleansing Oil(15ml),2013-02-20,0.0,0.0,0.0,2013,2,20,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+72,Bobbi Brown Cosmetics,Free 3 Samples,2013-03-01,0.0,0.0,0.0,2013,3,1,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+73,Bobbi Brown Cosmetics,Free 2 Deluxe Samples,2013-03-08,0.0,0.0,0.0,2013,3,8,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+74,Bobbi Brown Cosmetics,free Weekend Eye & Cheek Palette + a deluxe-sized sample of best-selling Hydrating Eye Cream (3ml),2013-03-09,0.0,0.0,0.0,2013,3,9,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+75,Bobbi Brown Cosmetics,Free Weekend Lip Palette + Travel-Sized Mascara(3ml),2013-03-14,0.0,0.0,0.0,2013,3,14,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+76,Bobbi Brown Cosmetics,Free a full size Lip Gloss ($24 value),2013-03-18,0.0,0.0,0.0,2013,3,18,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+77,Bobbi Brown Cosmetics,Free shipping + a 3-week supply of Extra Repair Serum (10ml),2013-03-28,0.0,0.0,0.0,2013,3,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+78,Bobbi Brown Cosmetics,Free 3 Travel-size Samples,2013-04-01,0.0,0.0,0.0,2013,4,1,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+79,Bobbi Brown Cosmetics,3 Free samples,2013-04-04,0.0,0.0,0.0,2013,4,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+80,Bobbi Brown Cosmetics,Free Classic Lip Palette with a travel-size Intensifying Long-Wear Mascara,2013-04-08,0.0,0.0,0.0,2013,4,8,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+81,Bobbi Brown Cosmetics,$80.00$100.00,2013-04-18,0.0,0.0,0.0,2013,4,18,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+82,Bobbi Brown Cosmetics,20% OFF,2013-04-19,0.0,0.0,0.0,2013,4,19,Friday,True,Normal,Normal,Normal,Normal,0.2,False
+83,Bobbi Brown Cosmetics,Free Travel-Sized Intensifying Long-Wear Mascara,2013-04-22,0.0,0.0,0.0,2013,4,22,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+84,Bobbi Brown Cosmetics,Free complimentary Classic Eye & Cheek Palette,2013-05-02,0.0,0.0,0.0,2013,5,2,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+85,Bobbi Brown Cosmetics,Free 2 deluxe samples of Hydrating Eye Cream and Everything Mascara,2013-05-10,0.0,3.0,0.0,2013,5,10,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+86,Bobbi Brown Cosmetics,Free full-size Lip Gloss ($24 value) in a universally flattering shade,2013-05-13,0.0,0.0,0.0,2013,5,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+87,Bobbi Brown Cosmetics,Travel-Sized Sample of Soothing Cleansing Oil,2013-05-22,0.0,0.0,0.0,2013,5,22,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+88,Bobbi Brown Cosmetics,Free Trio of travel-ready essentials,2013-05-26,0.0,0.0,0.0,2013,5,26,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+89,Bobbi Brown Cosmetics,Free 2 Travel-size Samples,2013-05-28,0.0,0.0,0.0,2013,5,28,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+90,Bobbi Brown Cosmetics,$99 ,2013-05-30,0.0,1.0,0.0,2013,5,30,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+91,Bobbi Brown Cosmetics,Free 2 travel-size treats of Extra Repair Serum and Extra Repair Moisturizing Balm SPF 25,2013-06-06,0.0,1.0,0.0,2013,6,6,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+92,Bobbi Brown Cosmetics,Free 2 Travel-size Samples,2013-06-13,0.0,0.0,0.0,2013,6,13,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+93,Bobbi Brown Cosmetics,"Free Crystal Lip Gloss, Everything Mascara, and Hydrating Eye Cream",2013-06-21,0.0,0.0,0.0,2013,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+94,Bobbi Brown Cosmetics,Free High Shimmer Lip Gloss Mini,2013-06-24,0.0,0.0,0.0,2013,6,24,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+95,Bobbi Brown Cosmetics,Free special surprise gift($18 value),2013-06-30,0.0,0.0,0.0,2013,6,30,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+96,Bobbi Brown Cosmetics,Free Long Wear Mascara,2013-07-07,0.0,1.0,0.0,2013,7,7,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+97,Bobbi Brown Cosmetics,Free 2 Travel-Sized Best-Sellers+ Free Shipping,2013-07-12,0.0,0.0,0.0,2013,7,12,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+98,Bobbi Brown Cosmetics,Pick Your Travel Skincare Duo,2013-07-19,0.0,1.0,0.0,2013,7,19,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+99,Bobbi Brown Cosmetics,Pick 3 Deluxe Samples,2013-07-26,0.0,1.0,0.0,2013,7,26,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+100,Bobbi Brown Cosmetics,Free mini dual ended eye shadow/eyeliner brush,2013-07-29,0.0,0.0,0.0,2013,7,29,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+101,Bobbi Brown Cosmetics,Free 2 pieces,2013-08-02,0.0,0.0,0.0,2013,8,2,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+102,Bobbi Brown Cosmetics,2 deluxe-sized samples of Hydrating Face Tonic (15ml) and Hydrating Face Cream (7ml) with ANY order,2013-08-07,0.0,2.0,0.0,2013,8,7,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+103,Bobbi Brown Cosmetics,FREE Travel Trio with Free Shipping on $50 order,2013-08-12,0.0,1.0,0.0,2013,8,12,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+104,Bobbi Brown Cosmetics,Free 2 deluxe-sized samples + Free 2-Day Shipping,2013-08-22,0.0,2.0,0.0,2013,8,22,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+105,Bobbi Brown Cosmetics,Free Beauty Trios Travel-Sized Samples,2013-09-02,0.0,7.0,0.0,2013,9,2,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,True
+106,Bobbi Brown Cosmetics,Free Mascara and Lip Gloss Duo+ Free shipping,2013-09-04,0.0,0.0,0.0,2013,9,4,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+107,Bobbi Brown Cosmetics,Dealmoon Exclusive! Free Bobbi Brown Trio Sample Set + Free shipping,2013-09-09,0.0,2.0,0.0,2013,9,9,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+108,Bobbi Brown Cosmetics,Free Bobbi's latest Classic Eye & Cheek Palette + deluxe-sized samples of Extreme Party Mascara and Extra Eye Repair Cream,2013-09-13,0.0,0.0,0.0,2013,9,13,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+109,Bobbi Brown Cosmetics,Free Mini Gloss Duo + Free Shipping,2013-09-19,0.0,2.0,0.0,2013,9,19,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+110,Bobbi Brown Cosmetics,['Free Trio of Travel-ready Essentials' 'Free Eye & Cheek Palette'],2013-10-01,0.0,1.0,0.0,2013,10,1,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+111,Bobbi Brown Cosmetics,Bobbi Brown Holiday Collection,2013-10-03,0.0,6.0,0.0,2013,10,3,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+112,Bobbi Brown Cosmetics,Dealmoon Exclusive! Free travel-size Blackberry Eye Palette and Mascara,2013-10-04,0.0,1.0,0.0,2013,10,4,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+113,Bobbi Brown Cosmetics,Free 2 Deluxe Treats+ Free Shipping,2013-10-07,0.0,1.0,0.0,2013,10,7,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+114,Bobbi Brown Cosmetics,['$55 ' '$23 '],2013-10-11,0.0,6.0,0.0,2013,10,11,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+115,Bobbi Brown Cosmetics,4 FREE Samples,2013-10-16,0.0,7.0,0.0,2013,10,16,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+116,Bobbi Brown Cosmetics,Free $25 Beauty Bonus Card,2013-10-23,0.0,2.0,0.0,2013,10,23,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+117,Bobbi Brown Cosmetics,Free Travel Trio Set,2013-10-28,0.0,0.0,0.0,2013,10,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+118,Bobbi Brown Cosmetics,Free Mini Eye & Cheek Palette + Deluxe Eye Cream,2013-11-07,0.0,2.0,0.0,2013,11,7,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+119,Bobbi Brown Cosmetics,Free 2 Deluxe Treats of Lash Glamour Extreme Lengthening Mascara and Hydrating Face Cream,2013-11-11,0.0,3.0,0.0,2013,11,11,Monday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+120,Bobbi Brown Cosmetics,Free Skincare Travel Trio + Free Shipping,2013-11-12,0.0,2.0,0.0,2013,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+121,Bobbi Brown Cosmetics,Free Sea Pearls Eye Palette,2013-11-15,0.0,5.0,0.0,2013,11,15,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+122,Bobbi Brown Cosmetics,Free Lip Palette of Lip Colors and Gloss Plus a Travel-Sized Extreme Party Mascara,2013-11-17,0.0,1.0,0.0,2013,11,17,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+123,Bobbi Brown Cosmetics,Free 3 Deluxe Treats,2013-11-24,0.0,13.0,0.0,2013,11,24,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+124,Bobbi Brown Cosmetics,Free Beauty Duo+Full-Sized Lip Gloss+Free shipping,2013-11-26,0.0,10.0,0.0,2013,11,26,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+125,Bobbi Brown Cosmetics,Free Full-Size Extreme Party Mascara and a Travel-Size Makeup Remover,2013-11-28,0.0,9.0,0.0,2013,11,28,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+126,Bobbi Brown Cosmetics,Free 5 Treats,2013-12-04,0.0,24.0,0.0,2013,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+127,Bobbi Brown Cosmetics,Free Mini Eye & Lip Palette,2013-12-08,0.0,3.0,0.0,2013,12,8,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+128,Bobbi Brown Cosmetics,$110 ,2013-12-10,0.0,5.0,0.0,2013,12,10,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+129,Bobbi Brown Cosmetics,Free Full-Sized Crystal Glitter Lip Gloss,2013-12-11,0.0,0.0,0.0,2013,12,11,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+130,Bobbi Brown Cosmetics,"Spend $100, Get $25 Gift Card",2013-12-13,0.0,4.0,0.0,2013,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+131,Bobbi Brown Cosmetics,['$39.20$49.00' '$33.60$42.00' '$18.40$23.00'],2013-12-16,0.0,9.0,0.0,2013,12,16,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+132,Bobbi Brown Cosmetics,20% Off Sitewide,2013-12-19,0.0,19.0,0.0,2013,12,19,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.2,False
+133,Bobbi Brown Cosmetics,Free,2013-12-23,0.0,4.0,0.0,2013,12,23,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+134,Bobbi Brown Cosmetics,As low as $12,2014-01-04,0.0,0.0,0.0,2014,1,4,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+135,Bobbi Brown Cosmetics,Surprise Gift(valued at $18 or more),2014-01-08,0.0,2.0,0.0,2014,1,8,Wednesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,True
+136,Bobbi Brown Cosmetics,Free Travel-Size Lip Palette and Mascara+ Free Shipping,2014-01-13,0.0,2.0,0.0,2014,1,13,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+137,Bobbi Brown Cosmetics,Free Winter Duo with $30 order,2014-01-22,0.0,6.0,0.0,2014,1,22,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+138,Bobbi Brown Cosmetics,Free deluxe sample of Pink Sequin High Shimmer Lip Gloss,2014-01-28,0.0,2.0,0.0,2014,1,28,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+139,Bobbi Brown Cosmetics,Free Classic Eye Palette Set,2014-02-03,0.0,2.0,0.0,2014,2,3,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+140,Bobbi Brown Cosmetics,"['3 Free Deluxe Skincare Samples'
+ 'Free full-sized Crystal Glitter Lip Gloss']",2014-02-07,0.0,22.0,0.0,2014,2,7,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+141,Bobbi Brown Cosmetics,Free 3 Samples,2014-02-11,0.0,9.0,0.0,2014,2,11,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+142,Bobbi Brown Cosmetics,Free Travel Trio,2014-02-19,0.0,2.0,0.0,2014,2,19,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+143,Bobbi Brown Cosmetics,20% Off Your Order + Free Shipping,2014-03-01,0.0,34.0,0.0,2014,3,1,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.2,False
+144,Bobbi Brown Cosmetics,Free Hydrating Face Cream Mini and Hydrating Eye Cream Mini,2014-03-07,0.0,5.0,0.0,2014,3,7,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+145,Bobbi Brown Cosmetics,Free Travel-Sized Skincare Trio + Free Shipping,2014-03-14,0.0,6.0,0.0,2014,3,14,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+146,Bobbi Brown Cosmetics,Free Travel Lip Set,2014-03-19,0.0,4.0,0.0,2014,3,19,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+147,Bobbi Brown Cosmetics,Free Exclusive Spring Color Duo,2014-03-24,0.0,4.0,0.0,2014,3,24,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+148,Bobbi Brown Cosmetics,$25 Beauty Bonus Card + Free Shipping with $100 Purchase,2014-04-05,0.0,3.0,0.0,2014,4,5,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+149,Bobbi Brown Cosmetics,4 samples + free shipping,2014-04-11,0.0,7.0,0.0,2014,4,11,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+150,Bobbi Brown Cosmetics,Free Best-Seller Eye Duo + Free Shipping,2014-04-14,0.0,2.0,0.0,2014,4,14,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+151,Bobbi Brown Cosmetics,Get a Pop of Pretty Beauty Bag,2014-04-25,0.0,4.0,0.0,2014,4,25,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+152,Bobbi Brown Cosmetics,FREE Repair Skincare Trio + Free Shipping,2014-04-28,0.0,3.0,0.0,2014,4,28,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+153,Bobbi Brown Cosmetics,Free Classic Eye Palette Set,2014-05-02,0.0,2.0,0.0,2014,5,2,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+154,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2014-05-05,0.0,16.0,0.0,2014,5,5,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+155,Bobbi Brown Cosmetics,2 Makeup Minis,2014-05-08,0.0,3.0,0.0,2014,5,8,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+156,Bobbi Brown Cosmetics,Free full-sized Hydrating Eye Cream (a $49 value),2014-05-16,0.0,6.0,0.0,2014,5,16,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+157,Bobbi Brown Cosmetics,Free Mini SPF 50 Protective Face Base,2014-05-22,0.0,2.0,0.0,2014,5,22,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+158,Bobbi Brown Cosmetics,A special surprise gift ($18+ value),2014-05-26,0.0,0.0,0.0,2014,5,26,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,False
+159,Bobbi Brown Cosmetics,Free mini Skin Foundation Stick,2014-05-29,0.0,6.0,0.0,2014,5,29,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+160,Bobbi Brown Cosmetics,$10 off $50,2014-06-06,0.0,9.0,0.0,2014,6,6,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+161,Bobbi Brown Cosmetics,2 deluxe eye samples,2014-06-12,0.0,3.0,0.0,2014,6,12,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+162,Bobbi Brown Cosmetics,['Creamy Free Matte Lip Color in Scarlet' '3 Deluxe Samples'],2014-06-20,0.0,13.0,0.0,2014,6,20,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+163,Bobbi Brown Cosmetics,['Free Shipping + Mini Eye Cream' 'From $48'],2014-06-26,0.0,27.0,0.0,2014,6,26,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+164,Bobbi Brown Cosmetics,Free Travel-sized Makeup Duo,2014-07-03,0.0,2.0,0.0,2014,7,3,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+165,Bobbi Brown Cosmetics,$52 ,2014-07-07,0.0,5.0,0.0,2014,7,7,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+166,Bobbi Brown Cosmetics,Free Travel Size Eye Makeup Kit,2014-07-09,0.0,1.0,0.0,2014,7,9,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+167,Bobbi Brown Cosmetics,Free Summer Skincare Trio + Free Shipping,2014-07-17,0.0,3.0,0.0,2014,7,17,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+168,Bobbi Brown Cosmetics,Free Overnight Shipping and a mini Eye Cream,2014-07-21,0.0,3.0,0.0,2014,7,21,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+169,Bobbi Brown Cosmetics,['Free Travel-Sized Eye Makeup Trio' 'Ends Tonight! $25 Beauty Bonus Card'],2014-08-04,0.0,11.0,0.0,2014,8,4,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+170,Bobbi Brown Cosmetics,A special surprise gift ($18+ value),2014-08-13,0.0,3.0,0.0,2014,8,13,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+171,Bobbi Brown Cosmetics,Free Shipping + a Mini Lip Gloss,2014-08-21,0.0,5.0,0.0,2014,8,21,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+172,Bobbi Brown Cosmetics,Free 4 Pc Gift,2014-08-24,0.0,0.0,0.0,2014,8,24,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+173,Bobbi Brown Cosmetics,Free Overnight Shipping and a mini Everything Mascara,2014-08-29,0.0,8.0,0.0,2014,8,29,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+174,Bobbi Brown Cosmetics,Free 5 Samples+Free shipping,2014-09-02,0.0,16.0,0.0,2014,9,2,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+175,Bobbi Brown Cosmetics,"['From $52'
+ 'Free Smokey Eye Mascara and Instant Long-wear Makeup Remover Sample']",2014-09-07,0.0,31.0,0.0,2014,9,7,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+176,Bobbi Brown Cosmetics,Free Classic Eye and Cheek Set (worth $57),2014-09-12,0.0,13.0,0.0,2014,9,12,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+177,Bobbi Brown Cosmetics,Buy The Full Size of Select Products Get a Mini one,2014-09-15,0.0,9.0,0.0,2014,9,15,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+178,Bobbi Brown Cosmetics,Free Mini Concealer Blender Brush + Mini Eye Cream,2014-09-18,0.0,3.0,0.0,2014,9,18,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+179,Bobbi Brown Cosmetics,Free 3 Deluxe Samples,2014-09-24,0.0,6.0,0.0,2014,9,24,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+180,Bobbi Brown Cosmetics,A Free Classic Lip Palette Set($47 Value) + a Mini Mascara,2014-09-29,0.0,8.0,0.0,2014,9,29,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+181,Bobbi Brown Cosmetics,Try 3 bestsellers for free!,2014-10-07,0.0,11.0,0.0,2014,10,7,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+182,Bobbi Brown Cosmetics,Free Eye Makeup Duo + Free Shipping + Free Gift Wrapping,2014-10-12,0.0,8.0,0.0,2014,10,12,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+183,Bobbi Brown Cosmetics,$25 Beauty Bonus Card,2014-10-20,0.0,14.0,0.0,2014,10,20,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+184,Bobbi Brown Cosmetics,Extra Repair Skincare Duo + free shipping,2014-10-22,0.0,13.0,0.0,2014,10,22,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+185,Bobbi Brown Cosmetics,Free Everything Eyes Trio,2014-10-24,0.0,7.0,0.0,2014,10,24,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+186,Bobbi Brown Cosmetics,Free Rosy Lips & Cheeks Beauty Bag,2014-10-28,0.0,4.0,0.0,2014,10,28,Tuesday,False,Normal,Normal,Normal,Veterans Day,0.0,False
+187,Bobbi Brown Cosmetics,Free 5 Best Sellers Samples,2014-11-03,0.0,24.0,0.0,2014,11,3,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+188,Bobbi Brown Cosmetics,Free Full-Sized Hydrating Eye Cream + Free Shipping with $125 purchase,2014-11-08,0.0,14.0,0.0,2014,11,8,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+189,Bobbi Brown Cosmetics,Fall Best-Sellers Trio + Free Shipping,2014-11-10,0.0,25.0,0.0,2014,11,10,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+190,Bobbi Brown Cosmetics,Free Classic Eye & Cheek Set (worth $57),2014-11-13,0.0,20.0,0.0,2014,11,13,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+191,Bobbi Brown Cosmetics,From $45,2014-11-17,0.0,46.0,0.0,2014,11,17,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+192,Bobbi Brown Cosmetics,Free 2 Deluxe Samples,2014-11-18,0.0,9.0,0.0,2014,11,18,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+193,Bobbi Brown Cosmetics,Free Metallic Long-Wear Cream Shadow,2014-11-19,0.0,28.0,0.0,2014,11,19,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+194,Bobbi Brown Cosmetics,Free Full Size Lip Gloss + Choose Your Beauty Duo,2014-11-21,0.0,31.0,0.0,2014,11,21,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+195,Bobbi Brown Cosmetics,Free Holiday Set,2014-11-25,0.0,67.0,0.0,2014,11,25,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+196,Bobbi Brown Cosmetics,Free 5 Samples,2014-11-30,0.0,41.0,0.0,2014,11,30,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+197,Bobbi Brown Cosmetics,Free Crystal Eye Palette,2014-12-03,0.0,38.0,0.0,2014,12,3,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+198,Bobbi Brown Cosmetics,"['$10 Off $50, $20 Off $100, $30 Off $150' 'Free Travel Beauty Trio']",2014-12-04,0.0,51.0,0.0,2014,12,4,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+199,Bobbi Brown Cosmetics,Free Instant Definition Beauty Bag (a $45 value),2014-12-11,0.0,21.0,0.0,2014,12,11,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+200,Bobbi Brown Cosmetics,Free Metallic Long-Wear Cream Shadow,2014-12-13,0.0,25.0,0.0,2014,12,13,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+201,Bobbi Brown Cosmetics,['$34.40$43.00' '$48.00$60.00' '$19.20$24.00'],2014-12-16,0.0,62.0,0.0,2014,12,16,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+202,Bobbi Brown Cosmetics,$34.40$43.00,2014-12-17,0.0,13.0,0.0,2014,12,17,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+203,Bobbi Brown Cosmetics,Last Chance! 20% Off Sitewide,2014-12-19,0.0,141.0,0.0,2014,12,19,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.2,False
+204,Bobbi Brown Cosmetics,Mini Smokey Eye Mascara,2015-01-02,0.0,24.0,0.0,2015,1,2,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+205,Bobbi Brown Cosmetics,"Free 4-piece Mini Long-Wear Eye Set,",2015-01-07,0.0,24.0,0.0,2015,1,7,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+206,Bobbi Brown Cosmetics,Free Weekend Eye & Cheek Palette + a Mini Mascara,2015-01-15,0.0,20.0,0.0,2015,1,15,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+207,Bobbi Brown Cosmetics,Free 3 Samples,2015-01-19,0.0,20.0,0.0,2015,1,19,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+208,Bobbi Brown Cosmetics,Free Your Winter Skincare Trio,2015-01-20,0.0,21.0,0.0,2015,1,20,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+209,Bobbi Brown Cosmetics,Beauty Emergency Kit + Free Shipping,2015-01-29,0.0,19.0,0.0,2015,1,29,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+210,Bobbi Brown Cosmetics,Mini Mascara Trio + Free Shipping,2015-01-30,0.0,6.0,0.0,2015,1,30,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+211,Bobbi Brown Cosmetics,From $30,2015-01-31,0.0,19.0,0.0,2015,1,31,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+212,Bobbi Brown Cosmetics,$10 Off $50,2015-02-09,0.0,170.0,0.0,2015,2,9,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+213,Bobbi Brown Cosmetics,Free Full Size Neon Pink Lip Color,2015-02-14,0.0,38.0,0.0,2015,2,14,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+214,Bobbi Brown Cosmetics,['Free Shipping + Your Choice of Beauty Bag' 'Free Chinese New Year Trio'],2015-02-16,0.0,48.0,0.0,2015,2,16,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+215,Bobbi Brown Cosmetics,Free Travel Makeup Trio,2015-02-24,0.0,16.0,0.0,2015,2,24,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+216,Bobbi Brown Cosmetics,Free Travel Makeup Trio,2015-03-01,0.0,14.0,0.0,2015,3,1,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+217,Bobbi Brown Cosmetics,Free Weekend Eye & Cheek Palette + a Mini Mascara,2015-03-05,0.0,27.0,0.0,2015,3,5,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+218,Bobbi Brown Cosmetics,Free 4 Deluxe Samples,2015-03-11,0.0,12.0,0.0,2015,3,11,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+219,Bobbi Brown Cosmetics,Receive $25 Beauty Bonus Card,2015-03-16,0.0,12.0,0.0,2015,3,16,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+220,Bobbi Brown Cosmetics,Free Long-Wear Gel Eyeliner + Free Shipping,2015-03-23,0.0,10.0,0.0,2015,3,23,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+221,Bobbi Brown Cosmetics,['$48.00$60.00' '$20.00$25.00'],2015-03-31,0.0,47.0,0.0,2015,3,31,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+222,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2015-04-05,0.0,235.0,0.0,2015,4,5,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+223,Bobbi Brown Cosmetics,Free a Long-Wear Eye Set,2015-04-06,0.0,18.0,0.0,2015,4,6,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+224,Bobbi Brown Cosmetics,Dealmoon Exclusive! Free Full Size Metallic Long-wear Cream Shadow,2015-04-11,0.0,19.0,0.0,2015,4,11,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+225,Bobbi Brown Cosmetics,Free Skincare Trio,2015-04-19,0.0,23.0,0.0,2015,4,19,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+226,Bobbi Brown Cosmetics,Free Mini Lip Gloss Trio,2015-04-20,0.0,6.0,0.0,2015,4,20,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+227,Bobbi Brown Cosmetics,Enjoy a Bronze To Go Set + Free Shipping,2015-04-27,0.0,10.0,0.0,2015,4,27,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+228,Bobbi Brown Cosmetics,Free Overnight Shipping + 2 Minis,2015-05-07,0.0,16.0,0.0,2015,5,7,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+229,Bobbi Brown Cosmetics,Free Skincare Travel Set + Free Shipping,2015-05-12,0.0,16.0,0.0,2015,5,12,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+230,Bobbi Brown Cosmetics,Free Full Size Hydrating Eye Cream (A $50 Value),2015-05-19,0.0,54.0,0.0,2015,5,19,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+231,Bobbi Brown Cosmetics,Mystery Gift + Free Shipping,2015-05-22,0.0,18.0,0.0,2015,5,22,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+232,Bobbi Brown Cosmetics,Dealmoon Exclusive! Free BB Cream SPF 35 and CC Cream SPF 35 Duo + Mystery Gift + Free Shipping,2015-05-24,0.0,77.0,0.0,2015,5,24,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+233,Bobbi Brown Cosmetics,Free Mini Mascara Trio,2015-06-01,0.0,16.0,0.0,2015,6,1,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+234,Bobbi Brown Cosmetics,4 Deluxe Samples,2015-06-02,0.0,22.0,0.0,2015,6,2,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+235,Bobbi Brown Cosmetics,Bobbi Brown Instant Glow Beauty Bag,2015-06-08,0.0,8.0,0.0,2015,6,8,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+236,Bobbi Brown Cosmetics,Free Travel Eye Duo and Mini Eyeliner Brush,2015-06-15,0.0,4.0,0.0,2015,6,15,Monday,False,Normal,Normal,Normal,Independence Day (Observed),0.0,True
+237,Bobbi Brown Cosmetics,Free Mini SPF 50 Face Base + Free Shipping,2015-06-22,0.0,9.0,1.0,2015,6,22,Monday,False,Normal,Normal,Independence Day (Observed),Independence Day (Observed),0.0,False
+238,Bobbi Brown Cosmetics,Mini Lip Gloss Trio + Free Shipping,2015-06-30,0.0,14.0,0.0,2015,6,30,Tuesday,False,Normal,Independence Day (Observed),Independence Day (Observed),Independence Day (Observed),0.0,False
+239,Bobbi Brown Cosmetics,Get a Mini Makeup Trio,2015-07-07,0.0,11.0,0.0,2015,7,7,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+240,Bobbi Brown Cosmetics,Free Travel-Friendly Long-Wear Eye Set,2015-07-13,0.0,7.0,0.0,2015,7,13,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+241,Bobbi Brown Cosmetics,Shadow Stick + Skincare Trio,2015-07-20,0.0,13.0,0.0,2015,7,20,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+242,Bobbi Brown Cosmetics,Mini Long-Wear Eye Duo,2015-07-28,0.0,35.0,0.0,2015,7,28,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+243,Bobbi Brown Cosmetics,Free Makeup Travel Trio,2015-08-03,0.0,8.0,0.0,2015,8,3,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+244,Bobbi Brown Cosmetics,Free Long-Wear Cream Shadow Stick + Makeup Palette,2015-08-12,0.0,28.0,0.0,2015,8,12,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+245,Bobbi Brown Cosmetics,Free Shipping + mini Skin Smoothing Pore Perfector,2015-08-17,0.0,10.0,0.0,2015,8,17,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+246,Bobbi Brown Cosmetics,Free Shipping + Long-Wear Basics Set！,2015-08-24,0.0,6.0,0.0,2015,8,24,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+247,Bobbi Brown Cosmetics,From $20,2015-08-28,0.0,45.0,0.0,2015,8,28,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+248,Bobbi Brown Cosmetics,Free Second Day Shipping + 2 Samples,2015-08-31,0.0,27.0,0.0,2015,8,31,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+249,Bobbi Brown Cosmetics,"One For Home, One To Go",2015-09-03,0.0,15.0,0.0,2015,9,3,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+250,Bobbi Brown Cosmetics,Must - Have Minis Set + Free Shipping,2015-09-09,0.0,19.0,0.0,2015,9,9,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+251,Bobbi Brown Cosmetics,Free 5 Sample＋Free Shipping,2015-09-16,0.0,55.0,0.0,2015,9,16,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+252,Bobbi Brown Cosmetics,Free Weekend Eye & Cheek Palette Mini＋Smokey Mascara Mini,2015-09-24,0.0,46.0,0.0,2015,9,24,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+253,Bobbi Brown Cosmetics,"$25 Off $100, $40 Off $150",2015-09-29,0.0,18.0,0.0,2015,9,29,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+254,Bobbi Brown Cosmetics,Pick Your Eye Set,2015-10-05,0.0,9.0,0.0,2015,10,5,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+255,Bobbi Brown Cosmetics,['$48($74 Value)' 'From $32'],2015-10-06,0.0,205.0,6.0,2015,10,6,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+256,Bobbi Brown Cosmetics,Free Mini Lip Gloss Trio,2015-10-12,0.0,18.0,0.0,2015,10,12,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+257,Bobbi Brown Cosmetics,Free 8-pcs Luxury Gift,2015-10-19,0.0,41.0,0.0,2015,10,19,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+258,Bobbi Brown Cosmetics,Free 4 Sample,2015-10-21,0.0,31.0,0.0,2015,10,21,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+259,Bobbi Brown Cosmetics,Free Skincare Travel Trio＋Free Shipping,2015-10-27,0.0,22.0,0.0,2015,10,27,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+260,Bobbi Brown Cosmetics,Get a Mystery Gift with $50 order,2015-10-30,0.0,25.0,1.0,2015,10,30,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+261,Bobbi Brown Cosmetics,Long Wear Basics Set + Free Shipping,2015-11-05,0.0,37.0,1.0,2015,11,5,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+262,Bobbi Brown Cosmetics,Full Size Soothing Cleansing Oil ($44 value),2015-11-09,0.0,27.0,1.0,2015,11,9,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+263,Bobbi Brown Cosmetics,15% Off,2015-11-12,0.0,95.0,13.0,2015,11,12,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.15,False
+264,Bobbi Brown Cosmetics,20% Off + Free Full Size Shadow Stick,2015-11-13,0.0,622.0,106.0,2015,11,13,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
+265,Bobbi Brown Cosmetics,Free 3-PC Gift,2015-11-16,0.0,47.0,5.0,2015,11,16,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+266,Bobbi Brown Cosmetics,Get a Full Size Lip Gloss + 3 Minis,2015-11-21,0.0,151.0,10.0,2015,11,21,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+267,Bobbi Brown Cosmetics,['Pick Your Gift Set' 'Black Friday Warm-Up! Pick 5 Samples'],2015-11-28,0.0,417.0,30.0,2015,11,28,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+268,Bobbi Brown Cosmetics,['$28.00$35.00' '$38.40$48.00'],2015-11-30,0.0,157.0,25.0,2015,11,30,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+269,Bobbi Brown Cosmetics,20% Off + Free Shipping,2015-12-02,0.0,53.0,4.0,2015,12,2,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,False
+270,Bobbi Brown Cosmetics,Last Day! 20% Off,2015-12-03,0.0,388.0,50.0,2015,12,3,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.2,False
+271,Bobbi Brown Cosmetics,Free Deluxe Sample,2015-12-06,0.0,33.0,5.0,2015,12,6,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,True
+272,Bobbi Brown Cosmetics,Free Extra Skincare Travel Set,2015-12-11,0.0,15.0,3.0,2015,12,11,Friday,True,Normal,Normal,Normal,Christmas Day,0.0,True
+273,Bobbi Brown Cosmetics,"$10 Off $50, $20 Off $100, $30 Off $150",2015-12-16,0.0,89.0,16.0,2015,12,16,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+274,Bobbi Brown Cosmetics,Dealmoon Exclusive! 25% Off,2015-12-19,0.0,201.0,35.0,2015,12,19,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.25,False
+275,Bobbi Brown Cosmetics,Free Overnight Shipping,2015-12-22,0.0,17.0,1.0,2015,12,22,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+276,Bobbi Brown Cosmetics,Free Long-Wear Gel Eyeliner Sampler + Ultra-Fine Eye Liner Brush,2015-12-23,0.0,55.0,3.0,2015,12,23,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+277,Bobbi Brown Cosmetics,Free 5 Pc Gift,2016-01-04,0.0,25.0,3.0,2016,1,4,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+278,Bobbi Brown Cosmetics,Free Deluxe Samples,2016-01-13,0.0,46.0,8.0,2016,1,13,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+279,Bobbi Brown Cosmetics,Free 4 Samples,2016-01-15,0.0,28.0,5.0,2016,1,15,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+280,Bobbi Brown Cosmetics,20% Off,2016-01-18,0.0,413.0,113.0,2016,1,18,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.2,False
+281,Bobbi Brown Cosmetics,20% Off,2016-01-19,0.0,27.0,4.0,2016,1,19,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.2,False
+282,Bobbi Brown Cosmetics,Free Skincare Set,2016-01-20,0.0,12.0,5.0,2016,1,20,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+283,Bobbi Brown Cosmetics,Mini Concealer Blending Brush,2016-01-25,0.0,19.0,3.0,2016,1,25,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+284,Bobbi Brown Cosmetics,Free Date Night Set,2016-02-01,0.0,24.0,6.0,2016,2,1,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+285,Bobbi Brown Cosmetics,Free 2 Day Shipping + 3 Minis,2016-02-09,0.0,24.0,4.0,2016,2,9,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+286,Bobbi Brown Cosmetics,Free Full-size Soothing Cleansing Oil,2016-02-11,0.0,25.0,1.0,2016,2,11,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+287,Bobbi Brown Cosmetics,Up to $30 Off,2016-02-21,0.0,162.0,27.0,2016,2,21,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+288,Bobbi Brown Cosmetics,Free Mask Set,2016-02-23,0.0,19.0,4.0,2016,2,23,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+289,Bobbi Brown Cosmetics,Free Shipping + Free Mini Face Base,2016-03-02,0.0,51.0,9.0,2016,3,2,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+290,Bobbi Brown Cosmetics,Dealmoon Exclusive! $50,2016-03-10,0.0,65.0,20.0,2016,3,10,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+291,Bobbi Brown Cosmetics,Up to $40 Off+Free Shipping,2016-03-14,0.0,13.0,5.0,2016,3,14,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+292,Bobbi Brown Cosmetics,Pick Your MAKE UP,2016-03-21,0.0,13.0,5.0,2016,3,21,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+293,Bobbi Brown Cosmetics,$20.80$26.00,2016-04-02,0.0,53.0,10.0,2016,4,2,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+294,Bobbi Brown Cosmetics,$49.60$62.00,2016-04-08,0.0,155.0,30.0,2016,4,8,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+295,Bobbi Brown Cosmetics,20% Off + FS,2016-04-09,0.0,68.0,15.0,2016,4,9,Saturday,True,Normal,Normal,Normal,Normal,0.2,False
+296,Bobbi Brown Cosmetics,Dealmoon Exclusive!20% Off + FS,2016-04-10,0.0,656.0,219.0,2016,4,10,Sunday,False,Normal,Normal,Normal,Normal,0.2,False
+297,Bobbi Brown Cosmetics,Foundation Prep Set + Free Shipping,2016-04-11,0.0,24.0,7.0,2016,4,11,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+298,Bobbi Brown Cosmetics,Free 3 Deluxe Gifts,2016-04-25,0.0,19.0,2.0,2016,4,25,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+299,Bobbi Brown Cosmetics,Mini Glow Duo + Free Overnight Shipping,2016-05-02,0.0,14.0,2.0,2016,5,2,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+300,Bobbi Brown Cosmetics,Free Eyes Trio,2016-05-05,0.0,16.0,1.0,2016,5,5,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+301,Bobbi Brown Cosmetics,Choose Eye Set,2016-05-10,0.0,8.0,1.0,2016,5,10,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+302,Bobbi Brown Cosmetics,Three Masks Samples + Free Shipping,2016-05-13,0.0,10.0,1.0,2016,5,13,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,True
+303,Bobbi Brown Cosmetics,Pick Your Beauty Set ($70 value),2016-05-16,0.0,31.0,5.0,2016,5,16,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+304,Bobbi Brown Cosmetics,Free Full Size Shimmer Lip Gloss & Mini in Rose Sugar,2016-05-23,0.0,37.0,7.0,2016,5,23,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,True
+305,Bobbi Brown Cosmetics,Full Size Hydrating Eye Cream,2016-05-24,0.0,51.0,4.0,2016,5,24,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+306,Bobbi Brown Cosmetics,Dealmoon Exclusive! 5 Piece Makeup Set for $50 (value $85),2016-06-05,0.0,160.0,54.0,2016,6,5,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+307,Bobbi Brown Cosmetics,Dealmoon Exclusive! 5-piece Long-Wear Makeup Set for $50 (value $85),2016-06-13,0.0,16.0,7.0,2016,6,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+308,Bobbi Brown Cosmetics,A Free Long-Wear Eye Trio + Free Shipping,2016-06-25,0.0,36.0,9.0,2016,6,25,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+309,Bobbi Brown Cosmetics,Free Mini Lip Gloss Trio,2016-06-27,0.0,6.0,1.0,2016,6,27,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+310,Bobbi Brown Cosmetics,Hydrate or Repair? Pick your Skincare Set,2016-07-18,0.0,12.0,3.0,2016,7,18,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+311,Bobbi Brown Cosmetics,Free Skincare Trio + Free Shipping,2016-07-25,0.0,14.0,4.0,2016,7,25,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+312,Bobbi Brown Cosmetics,Full-Size Lip Color($28 value) + Free Shipping,2016-07-29,0.0,26.0,4.0,2016,7,29,Friday,True,Normal,Normal,Normal,Independence Day,0.0,True
+313,Bobbi Brown Cosmetics,Free Bronze Babe Set + Free Shipping,2016-08-01,0.0,14.0,3.0,2016,8,1,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+314,Bobbi Brown Cosmetics,Pick your Mini Mascara,2016-08-08,0.0,11.0,1.0,2016,8,8,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+315,Bobbi Brown Cosmetics,Get a Mini Mask Trio,2016-08-24,2.0,4.0,0.0,2016,8,24,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+316,Bobbi Brown Cosmetics,Free Travel Duo + Free Overnight Shipping,2016-08-29,0.0,8.0,1.0,2016,8,29,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+317,Bobbi Brown Cosmetics,Free Mini Shadow Stick Trio + Free Shipping,2016-09-04,10.0,38.0,7.0,2016,9,4,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+318,Bobbi Brown Cosmetics,$30 Off $80 + 5 Free Gifts,2016-09-23,3.0,47.0,6.0,2016,9,23,Friday,True,Normal,Normal,Normal,Columbus Day,0.0,True
+319,Bobbi Brown Cosmetics,Get Up to $40 Beauty Bonus,2016-10-03,8.0,17.0,1.0,2016,10,3,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+320,Bobbi Brown Cosmetics,Up to 5 samples with your $75 order + Free Shipping,2016-10-15,26.0,97.0,12.0,2016,10,15,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+321,Bobbi Brown Cosmetics,Free Shipping + Pick 4 Minis,2016-10-17,1.0,14.0,1.0,2016,10,17,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+322,Bobbi Brown Cosmetics,Free Smoke Set + 4 Samples + FS,2016-10-19,1.0,22.0,3.0,2016,10,19,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+323,Bobbi Brown Cosmetics,['$22 ' '$37 '],2016-11-09,11.0,74.0,7.0,2016,11,9,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+324,Bobbi Brown Cosmetics,$52( $65 Value),2016-11-12,5.0,72.0,11.0,2016,11,12,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+325,Bobbi Brown Cosmetics,20% Off $50 + 5pc Free Gifts,2016-11-13,19.0,145.0,30.0,2016,11,13,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
+326,Bobbi Brown Cosmetics,['20% Off + 5PC Free Gifts' '$52+5PC Free Gift'],2016-11-14,131.0,542.0,140.0,2016,11,14,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+327,Bobbi Brown Cosmetics,Free Shipping + Pick 5 Minis,2016-11-22,27.0,138.0,35.0,2016,11,22,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+328,Bobbi Brown Cosmetics,Black Friday Weekend! Free 6-Piece Holiday Gift Set,2016-11-27,16.0,101.0,48.0,2016,11,27,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+329,Bobbi Brown Cosmetics,['$20.80 ' '$52 '],2016-11-29,7.0,17.0,5.0,2016,11,29,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+330,Bobbi Brown Cosmetics,"['20% Off + Free Travel Makeup Set'
+ '20% Off + Free 5 Pc Winter Skincare Travel Set']",2016-12-01,38.0,176.0,61.0,2016,12,1,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+331,Bobbi Brown Cosmetics,"['25% Off $50 + 5pc Free Gifts'
+ ""Dealmoon Double's Day Exclusive! 25% Off with any purchase + Free 5 Piece Kit""
+ '25% Off with any purchase + Free 5 Piece Kit'
+ '25% Off + Free 5 Piece Kit']",2016-12-12,78.0,333.0,84.0,2016,12,12,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+332,Bobbi Brown Cosmetics,Free Shipping + Pick 6 Minis,2016-12-18,8.0,51.0,8.0,2016,12,18,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+333,Bobbi Brown Cosmetics,25% Off,2016-12-22,12.0,103.0,29.0,2016,12,22,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.25,False
+334,Bobbi Brown Cosmetics,$33 + Free gift set,2017-01-07,13.0,174.0,29.0,2017,1,7,Saturday,True,Normal,New Year's Day (Observed),New Year's Day (Observed),New Year's Day (Observed),0.0,False
+335,Bobbi Brown Cosmetics,['20% off + 4 Free Gifts' '20% Off + Free Remedies Skincare Kit'],2017-01-16,217.0,1162.0,255.0,2017,1,16,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+336,Bobbi Brown Cosmetics,Up to $40 off,2017-02-06,10.0,71.0,63.0,2017,2,6,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+337,Bobbi Brown Cosmetics,$46 ,2017-02-07,8.0,66.0,13.0,2017,2,7,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+338,Bobbi Brown Cosmetics,$30 ,2017-02-08,15.0,55.0,7.0,2017,2,8,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+339,Bobbi Brown Cosmetics,Up to $40 off,2017-02-10,81.0,392.0,131.0,2017,2,10,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+340,Bobbi Brown Cosmetics,Up to $40 off,2017-02-13,134.0,419.0,150.0,2017,2,13,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+341,Bobbi Brown Cosmetics,Get free remedy+ mini art stick liquid lip,2017-02-23,8.0,39.0,6.0,2017,2,23,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+342,Bobbi Brown Cosmetics,Create your own 5-piece mini Beauty Set & get it for free,2017-02-27,2.0,12.0,3.0,2017,2,27,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+343,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2017-03-06,31.0,54.0,12.0,2017,3,6,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+344,Bobbi Brown Cosmetics,This week only!,2017-03-07,11.0,44.0,13.0,2017,3,7,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+345,Bobbi Brown Cosmetics,['$52 ' '20% Off + Free Shipping' '20% off'],2017-04-04,23.0,154.0,38.0,2017,4,4,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+346,Bobbi Brown Cosmetics,20% Off with any long-wear collection order,2017-04-06,0.0,52.0,16.0,2017,4,6,Thursday,False,Normal,Normal,Normal,Normal,0.2,False
+347,Bobbi Brown Cosmetics,['20% Off' '20% Off with any order' '20% off'],2017-04-08,390.0,1148.0,533.0,2017,4,8,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+348,Bobbi Brown Cosmetics,['20% off' '$17.60 '],2017-04-09,52.0,403.0,76.0,2017,4,9,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+349,Bobbi Brown Cosmetics,Get the Mini Pink Trio free,2017-04-18,5.0,27.0,6.0,2017,4,18,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+350,Bobbi Brown Cosmetics,FREE Classic Red Lip Set,2017-05-04,14.0,53.0,18.0,2017,5,4,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+351,Bobbi Brown Cosmetics,40% off,2017-05-19,48.0,307.0,95.0,2017,5,19,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.4,False
+352,Bobbi Brown Cosmetics,Spend & Earn！,2017-05-31,10.0,22.0,2.0,2017,5,31,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+353,Bobbi Brown Cosmetics,Dealmoon Exclusive! Free Face Oil Rollerball,2017-06-12,2.0,10.0,4.0,2017,6,12,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+354,Bobbi Brown Cosmetics,Dealmoon Exclusive! Extra 10% off,2017-06-18,16.0,112.0,38.0,2017,6,18,Sunday,False,Normal,Normal,Normal,Independence Day,0.1,False
+355,Bobbi Brown Cosmetics,$10 Off,2017-06-21,6.0,11.0,6.0,2017,6,21,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+356,Bobbi Brown Cosmetics,15% Off for first order,2017-06-23,84.0,324.0,88.0,2017,6,23,Friday,True,Normal,Normal,Independence Day,Independence Day,0.15,False
+357,Bobbi Brown Cosmetics,40% off + Extra 15% Off,2017-07-12,45.0,284.0,72.0,2017,7,12,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.4,False
+358,Bobbi Brown Cosmetics,Dealmoon Exclusive! 30% Off,2017-07-30,10.0,57.0,14.0,2017,7,30,Sunday,False,Normal,Normal,Normal,Independence Day,0.3,False
+359,Bobbi Brown Cosmetics,30% off + Extra 20% Off,2017-08-05,31.0,260.0,113.0,2017,8,5,Saturday,True,Normal,Normal,Normal,Normal,0.3,False
+360,Bobbi Brown Cosmetics,Get the on-the-go make up set（a $52 value）,2017-08-08,10.0,80.0,24.0,2017,8,8,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+361,Bobbi Brown Cosmetics,Extra 20% Off,2017-08-17,8.0,26.0,5.0,2017,8,17,Thursday,False,Normal,Normal,Normal,Labor Day,0.2,False
+362,Bobbi Brown Cosmetics,Get 20% Off + K-Beauty Radiance Set,2017-08-27,133.0,556.0,185.0,2017,8,27,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.2,False
+363,Bobbi Brown Cosmetics,Get $10 off,2017-09-06,34.0,309.0,84.0,2017,9,6,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+364,Bobbi Brown Cosmetics,Get 40% Off,2017-09-12,28.0,143.0,39.0,2017,9,12,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.4,False
+365,Bobbi Brown Cosmetics,Get 15% Off + free beauty starter kit,2017-09-21,19.0,91.0,32.0,2017,9,21,Thursday,False,Normal,Normal,Normal,Labor Day,0.15,False
+366,Bobbi Brown Cosmetics,40% off + Extra 15% Off,2017-09-29,112.0,339.0,115.0,2017,9,29,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.4,False
+367,Bobbi Brown Cosmetics,Dealmoon Exclusive! up to 40% off,2017-10-14,60.0,279.0,110.0,2017,10,14,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.4,False
+368,Bobbi Brown Cosmetics,20% Off $50 + Free Face Oil Rollerball,2017-11-09,54.0,184.0,52.0,2017,11,9,Thursday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.2,False
+369,Bobbi Brown Cosmetics,"['Get 20% off with' 'Up to 40% off + Extra 20% Off'
+ 'Get 20% off everything']",2017-11-11,38.0,188.0,55.0,2017,11,11,Saturday,True,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+370,Bobbi Brown Cosmetics,Get 20% off Value set,2017-11-13,13.0,86.0,27.0,2017,11,13,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,False
+371,Bobbi Brown Cosmetics,Free Face Mask (Valued $49),2017-11-18,30.0,74.0,39.0,2017,11,18,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+372,Bobbi Brown Cosmetics,40% off + Extra 15% Off,2017-11-20,49.0,259.0,117.0,2017,11,20,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.4,False
+373,Bobbi Brown Cosmetics,"['25% Off with any purchase + Free 5 Piece Kit' '25% Off'
+ 'Up to 40% off + Extra 25% Off']",2017-11-27,68.0,444.0,154.0,2017,11,27,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+374,Bobbi Brown Cosmetics,Get 25% off,2017-11-28,488.0,1329.0,543.0,2017,11,28,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+375,Bobbi Brown Cosmetics,Get 25% off Value set,2017-11-29,16.0,109.0,39.0,2017,11,29,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+376,Bobbi Brown Cosmetics,30% off,2017-12-12,24.0,104.0,19.0,2017,12,12,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.3,False
+377,Bobbi Brown Cosmetics,['Free Full Size Eyeliner' 'up to 40% off +extra 15% off'],2017-12-13,127.0,544.0,131.0,2017,12,13,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+378,Bobbi Brown Cosmetics,Free 6 Minis + Free Lip Balm or Art Stick Liquid Lip,2017-12-14,9.0,73.0,21.0,2017,12,14,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+379,Bobbi Brown Cosmetics,Get a FREE Skincare Glow Set,2018-01-03,2.0,60.0,9.0,2018,1,3,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+380,Bobbi Brown Cosmetics,Up to $40 off,2018-01-23,12.0,129.0,25.0,2018,1,23,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+381,Bobbi Brown Cosmetics,$72.25 (valued $122),2018-01-24,17.0,18.0,4.0,2018,1,24,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+382,Bobbi Brown Cosmetics,up to 40% off +extra 15% off,2018-01-25,51.0,463.0,94.0,2018,1,25,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.4,False
+383,Bobbi Brown Cosmetics,$85 (valued $122),2018-01-30,1.0,28.0,3.0,2018,1,30,Tuesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+384,Bobbi Brown Cosmetics,Up to $40 off,2018-02-16,10.0,90.0,26.0,2018,2,16,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+385,Bobbi Brown Cosmetics,Get a Full Size Mascara,2018-02-20,0.0,23.0,9.0,2018,2,20,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+386,Bobbi Brown Cosmetics,['Get up to $40 off' 'Free Smokey Eye Essentials Set with your $75+ order'],2018-02-21,129.0,676.0,168.0,2018,2,21,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+387,Bobbi Brown Cosmetics,Free Full Size Gift,2018-02-24,1.0,55.0,22.0,2018,2,24,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+388,Bobbi Brown Cosmetics,$54.40$68.00,2018-02-27,50.0,253.0,75.0,2018,2,27,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+389,Bobbi Brown Cosmetics,extra 20% off,2018-02-28,165.0,1212.0,437.0,2018,2,28,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.2,False
+390,Bobbi Brown Cosmetics,Dealmoon Exclusive! 1 Day only！,2018-03-29,118.0,367.0,142.0,2018,3,29,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+391,Bobbi Brown Cosmetics,extra 20% off,2018-04-06,110.0,1068.0,326.0,2018,4,6,Friday,True,Normal,Normal,Normal,Normal,0.2,False
+392,Bobbi Brown Cosmetics,25% Off,2018-04-13,2.0,40.0,5.0,2018,4,13,Friday,True,Normal,Normal,Normal,Normal,0.25,False
+393,Bobbi Brown Cosmetics,['25% Off' 'Up to 30% off + Extra 25% Off'],2018-04-14,89.0,548.0,150.0,2018,4,14,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+394,Bobbi Brown Cosmetics,['Dealmoon Exclusive Early Access! 25% Off' '25% Off'],2018-04-15,750.0,2708.0,1046.0,2018,4,15,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+395,Bobbi Brown Cosmetics,"['Dealmoon Exclusive! $30 off $80' 'Dealmoon Exclusive!'
+ 'Up to 30% off + $30 off $80']",2018-05-12,91.0,402.0,141.0,2018,5,12,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+396,Bobbi Brown Cosmetics,"['Dealmoon Exclusive! Get $30 off $80' 'Dealmoon Exclusive!'
+ 'Dealmoon Exclusive! $30 off $80']",2018-05-13,21.0,164.0,54.0,2018,5,13,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+397,Bobbi Brown Cosmetics,Dealmoon Exclusive! $30 off $80,2018-05-14,14.0,47.0,18.0,2018,5,14,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+398,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2018-05-15,387.0,1259.0,582.0,2018,5,15,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+399,Bobbi Brown Cosmetics,Up to 30% Of,2018-06-14,25.0,92.0,33.0,2018,6,14,Thursday,False,Normal,Normal,Normal,Memorial Day,0.3,False
+400,Bobbi Brown Cosmetics,Dealmoon Exclusive! 25% Off Last Chance Products,2018-06-18,44.0,280.0,78.0,2018,6,18,Monday,False,Normal,Normal,Normal,Independence Day,0.25,False
+401,Bobbi Brown Cosmetics,$10 Off $50 + Free 3-Piece Makeup Prep Set,2018-07-05,5.0,54.0,2.0,2018,7,5,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+402,Bobbi Brown Cosmetics,25% Off,2018-07-09,6.0,57.0,20.0,2018,7,9,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.25,False
+403,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2018-07-16,63.0,274.0,90.0,2018,7,16,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+404,Bobbi Brown Cosmetics,25% off,2018-07-20,7.0,75.0,18.0,2018,7,20,Friday,True,Normal,Normal,Normal,Independence Day,0.25,False
+405,Bobbi Brown Cosmetics,Get Free Best of Lips Trio,2018-07-26,6.0,29.0,4.0,2018,7,26,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+406,Bobbi Brown Cosmetics,"['Dealmoon Exclusive!20% with $50+ EXTRA LIP TINT Purchase'
+ 'Take 20% off any $50+ order' 'Dealmoon Exclusive!20% off']",2018-07-31,56.0,263.0,72.0,2018,7,31,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+407,Bobbi Brown Cosmetics,Dealmoon Exclusive! Get 20% off,2018-08-18,66.0,457.0,119.0,2018,8,18,Saturday,True,Normal,Normal,Normal,Labor Day,0.2,False
+408,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2018-08-20,74.0,528.0,170.0,2018,8,20,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+409,Bobbi Brown Cosmetics,Get 25% off,2018-09-01,3.0,23.0,2.0,2018,9,1,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.25,False
+410,Bobbi Brown Cosmetics,['Get 250% off' 'Get 25% off'],2018-09-02,1.0,21.0,5.0,2018,9,2,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+411,Bobbi Brown Cosmetics,"['Get 25% off' '25% Off' 'Dealmoon Exclusive! 25% Off + 20% Off'
+ 'Dealmoon Exclusive! 20% Off']",2018-09-03,108.0,951.0,165.0,2018,9,3,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,False
+412,Bobbi Brown Cosmetics,Dealmoon Exclusive! Get 20% off+Freeshipping,2018-09-04,76.0,248.0,76.0,2018,9,4,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.2,False
+413,Bobbi Brown Cosmetics,Dealmoon Exclusive! $30 Off $80,2018-09-08,3.0,12.0,6.0,2018,9,8,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+414,Bobbi Brown Cosmetics,['Dealmoon Exclusive! $30 Off $80' 'Dealmoon Exclusive! $30 Off'],2018-09-09,17.0,129.0,33.0,2018,9,9,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+415,Bobbi Brown Cosmetics,"['Dealmoon Exclusive! $30 Off' 'Dealmoon Exclusive! $30 Off+Free gifts'
+ 'Dealmoon Exclusive! $30 Off $80'
+ 'Dealmoon Exclusive! $30 off 80+ orders']",2018-09-10,524.0,1738.0,573.0,2018,9,10,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+416,Bobbi Brown Cosmetics,$30 off $80 + full size free gifts,2018-09-19,41.0,254.0,81.0,2018,9,19,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+417,Bobbi Brown Cosmetics,Dealmoon Exclusive! 25% off,2018-09-25,175.0,906.0,288.0,2018,9,25,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.25,False
+418,Bobbi Brown Cosmetics,Dealmoon Exclusive! 20% Off,2018-10-13,1.0,30.0,6.0,2018,10,13,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.2,False
+419,Bobbi Brown Cosmetics,"['Dealmoon Exclusive! 20% off' 'Dealmoon Exclusive! 20% Off with'
+ '20% off with']",2018-10-14,32.0,300.0,56.0,2018,10,14,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+420,Bobbi Brown Cosmetics,"['20% off' 'Dealmoon Exclusive! 20% off'
+ 'Dealmoon Exclusive! 20% off any order']",2018-10-15,143.0,860.0,214.0,2018,10,15,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+421,Bobbi Brown Cosmetics,Extra 25% off,2018-10-16,0.0,57.0,17.0,2018,10,16,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.25,False
+422,Bobbi Brown Cosmetics,$124.00$155.00,2018-10-20,3.0,16.0,6.0,2018,10,20,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+423,Bobbi Brown Cosmetics,Get Free Mini Lip Trio With Any $50+ Order,2018-10-22,6.0,21.0,4.0,2018,10,22,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+424,Bobbi Brown Cosmetics,['20% Off' 'Early Access!' 'Get 20% off'],2018-11-11,2.0,51.0,13.0,2018,11,11,Sunday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+425,Bobbi Brown Cosmetics,['20% Off' 'Get 20% off' 'Early Access!'],2018-11-12,12.0,188.0,37.0,2018,11,12,Monday,False,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+426,Bobbi Brown Cosmetics,['Dealmoon Exclusive Get 20% off' 'Single Access! 20% off'],2018-11-13,99.0,860.0,246.0,2018,11,13,Tuesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+427,Bobbi Brown Cosmetics,Dealmoon Exclusive 25% off,2018-11-16,72.0,304.0,79.0,2018,11,16,Friday,True,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.25,False
+428,Bobbi Brown Cosmetics,Free 5-piece Makeup Kit,2018-11-19,22.0,52.0,24.0,2018,11,19,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+429,Bobbi Brown Cosmetics,25% off,2018-11-22,9.0,153.0,47.0,2018,11,22,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+430,Bobbi Brown Cosmetics,25% Off,2018-11-26,14.0,61.0,22.0,2018,11,26,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+431,Bobbi Brown Cosmetics,Get 25% off,2018-11-27,10.0,94.0,26.0,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.25,False
+432,Bobbi Brown Cosmetics,['Take 25% Off' '25% Off' '25% off'],2018-11-28,961.0,2766.0,1079.0,2018,11,28,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+433,Bobbi Brown Cosmetics,Dealmoon Exclusive! 25% off,2018-12-09,55.0,155.0,42.0,2018,12,9,Sunday,False,Normal,Normal,Normal,Christmas Day,0.25,False
+434,Bobbi Brown Cosmetics,Receive Minis Instant Pretty Set($48) or Minis Best in Lips Set($53),2018-12-10,75.0,365.0,126.0,2018,12,10,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+435,Bobbi Brown Cosmetics,"['Up to 30% off' 'Dealmoon Exclusive! Up to 30 % off'
+ 'Dealmoon Exclusive!' '$76.80$96.00']",2018-12-17,63.0,461.0,152.0,2018,12,17,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+436,Bobbi Brown Cosmetics,Free Mini Lip Trio,2018-12-21,6.0,13.0,7.0,2018,12,21,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+437,Bobbi Brown Cosmetics,25% Off,2018-12-30,10.0,54.0,13.0,2018,12,30,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.25,False
+438,Bobbi Brown Cosmetics,Free Gifts,2019-01-02,1.0,20.0,8.0,2019,1,2,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+439,Bobbi Brown Cosmetics,25% Off,2019-01-13,4.0,43.0,12.0,2019,1,13,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.25,False
+440,Bobbi Brown Cosmetics,Dealmoon Exclusive! FREE Full Sized Ultra-Fine Eyeliner Brush + set of 2 Mini Gel Eyeliners (Lined & Defined Eyeliner Duo),2019-01-15,5.0,14.0,4.0,2019,1,15,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+441,Bobbi Brown Cosmetics,Get 25% off,2019-01-30,5.0,19.0,3.0,2019,1,30,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.25,False
+442,Bobbi Brown Cosmetics,25% Off,2019-01-31,0.0,14.0,5.0,2019,1,31,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.25,False
+443,Bobbi Brown Cosmetics,['Take 25% Off' '25% Off' '25% off' '$51.75$69.00'],2019-02-01,384.0,1339.0,466.0,2019,2,1,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+444,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2019-02-06,0.0,6.0,2.0,2019,2,6,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+445,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2019-02-08,7.0,36.0,13.0,2019,2,8,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+446,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2019-02-09,15.0,76.0,35.0,2019,2,9,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+447,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2019-02-10,215.0,363.0,224.0,2019,2,10,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+448,Bobbi Brown Cosmetics,New Arrival!,2019-02-13,0.0,13.0,1.0,2019,2,13,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+449,Bobbi Brown Cosmetics,Up 7-pc free gift,2019-02-22,0.0,14.0,8.0,2019,2,22,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+450,Bobbi Brown Cosmetics,Up 4-Piece Night Routine Skincare Set,2019-02-27,5.0,30.0,13.0,2019,2,27,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+451,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2019-03-07,15.0,36.0,17.0,2019,3,7,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+452,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2019-03-09,99.0,304.0,138.0,2019,3,9,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+453,Bobbi Brown Cosmetics,Up 5-pc free gift,2019-03-13,4.0,10.0,5.0,2019,3,13,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+454,Bobbi Brown Cosmetics,Dealmoon Exclusive! Take 25% Off,2019-03-27,124.0,304.0,154.0,2019,3,27,Wednesday,False,Normal,Normal,Normal,Normal,0.25,False
+455,Bobbi Brown Cosmetics,['New Arrival!' '$27.75$37.00'],2019-04-08,6.0,32.0,17.0,2019,4,8,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+456,Bobbi Brown Cosmetics,Dealmoon Exclusive Early Access!,2019-04-20,22.0,73.0,27.0,2019,4,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+457,Bobbi Brown Cosmetics,['Dealmoon Exclusive Early Access!' 'Dealmoon Exclusive!'],2019-04-21,2829.0,1901.0,1029.0,2019,4,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+458,Bobbi Brown Cosmetics,25% OFF,2019-04-30,4.0,10.0,6.0,2019,4,30,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.25,False
+459,Bobbi Brown Cosmetics,Dealmoon Exclusive!,2019-05-13,342.0,671.0,384.0,2019,5,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+460,Bobbi Brown Cosmetics,Get up to $40 off,2019-06-07,6.0,6.0,6.0,2019,6,7,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+461,Bobbi Brown Cosmetics,Get up to $40 off,2019-06-09,192.0,98.0,47.0,2019,6,9,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+462,Bobbi Brown Cosmetics,$46 ,2019-06-20,3.0,7.0,2.0,2019,6,20,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+463,Bobbi Brown Cosmetics,['Take 20% off' 'Buy 2 of our best-selling Skin Clarifier'],2019-06-24,23.0,52.0,40.0,2019,6,24,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+464,Bobbi Brown Cosmetics,Up to 7-pc free gift,2019-06-26,1069.0,261.0,329.0,2019,6,26,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+465,Bobbi Brown Cosmetics,$10 Off + Free 4-Piece Gift with Purchase,2019-07-06,1.0,10.0,3.0,2019,7,6,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+466,Bobbi Brown Cosmetics,$10 Off +Free 4-Piece Gift with Purchase,2019-07-08,33.0,77.0,28.0,2019,7,8,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+467,Bobbi Brown Cosmetics,25% Off,2019-07-13,64.0,127.0,112.0,2019,7,13,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.25,False
+468,Bobbi Brown Cosmetics,"['Extra 20% Off+Free Gift with Purchase'
+ '20% Off+Free Full-size Crushed Lip' '20% Off + Free Gift']",2019-08-06,144.0,421.0,307.0,2019,8,6,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+469,Bobbi Brown Cosmetics,Up to 5-pc free gift,2019-08-07,1.0,10.0,2.0,2019,8,7,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+470,Bobbi Brown Cosmetics,Free Lipstick with Purchase,2019-08-15,0.0,14.0,6.0,2019,8,15,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+471,Bobbi Brown Cosmetics,"['Pick a Full Size Lipstick'
+ 'Two-day Early Access + Free Full-size Lipstick with $65 Purchase']",2019-08-17,25.0,116.0,119.0,2019,8,17,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+472,Bobbi Brown Cosmetics,Up to 5-pc free gift,2019-08-19,1.0,8.0,4.0,2019,8,19,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+473,Bobbi Brown Cosmetics,Get $40 Value Gift,2019-09-02,1.0,12.0,13.0,2019,9,2,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,True
+474,Bobbi Brown Cosmetics,"['25% Off + Best-selling Free Gift' '25% Off+Free Gift'
+ 'Extra 25% Off+Free Gift with Purchase']",2019-09-03,58.0,348.0,194.0,2019,9,3,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+475,Bobbi Brown Cosmetics,Free Full Size Hydrating Eye Cream,2019-09-08,6.0,12.0,7.0,2019,9,8,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+476,Bobbi Brown Cosmetics,"['Take $25 off on $75 lipsticks purchase+Full Size Lip Color Gift'
+ '$25 Off on $75 + Free Full-size Crushed Lip'
+ 'Take $25 off on $75+Free Full size Crushed Lip']",2019-09-28,15.0,58.0,40.0,2019,9,28,Saturday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+477,Bobbi Brown Cosmetics,Take $25 off $75 + Full Size Crushed Lip Color,2019-09-29,249.0,518.0,385.0,2019,9,29,Sunday,False,Normal,Normal,Normal,Columbus Day,0.0,True
+478,Bobbi Brown Cosmetics,['Win Full Size Lips or $10 Off' 'Up to 5-pc free gift'],2019-10-14,170.0,35.0,18.0,2019,10,14,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+479,Bobbi Brown Cosmetics,Up to free Detox Skincare Set,2019-10-31,15.0,26.0,13.0,2019,10,31,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+480,Bobbi Brown Cosmetics,"['20% Off' ""20% Off + Free Mini Bestseller's Trio""
+ ""20% Off+Free Mini Bestseller's Trio""
+ 'Extra 20% Off+Free Gift with Purchase']",2019-11-12,134.0,659.0,652.0,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+481,Bobbi Brown Cosmetics,Free Mini Luxe Lip Color Duo,2019-11-14,8.0,13.0,31.0,2019,11,14,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+482,Bobbi Brown Cosmetics,Free Full Size Crushed Lip Color,2019-11-19,5.0,12.0,28.0,2019,11,19,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+483,Bobbi Brown Cosmetics,2 Full-size + 2 Skincare Minis,2019-11-22,21.0,55.0,35.0,2019,11,22,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+484,Bobbi Brown Cosmetics,['25% Off+Free Gift' '25% Off + Free Gifts' 'Extra 25% Off+Free Gifts'],2019-12-04,1154.0,1716.0,1169.0,2019,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+485,Bobbi Brown Cosmetics,Buy 1 get 1 in Vanilla,2019-12-13,2.0,4.0,19.0,2019,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+486,Bobbi Brown Cosmetics,['25% Off + Extra 30% Off + Free Gifts' '30% Off+Free Gift'],2019-12-16,72.0,196.0,123.0,2019,12,16,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+487,Bobbi Brown Cosmetics,Up to 47.5% Off,2019-12-17,232.0,339.0,186.0,2019,12,17,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.05,False
+488,Bobbi Brown Cosmetics,Up to 50% Off + Free Gifts,2020-01-08,110.0,407.0,189.0,2020,1,8,Wednesday,False,Normal,Normal,Normal,Christmas Day,0.5,True
+489,Bobbi Brown Cosmetics,Up to 50% Off + Free Gifts,2020-01-10,2.0,7.0,3.0,2020,1,10,Friday,True,Normal,Normal,Normal,Christmas Day,0.5,True
+490,Bobbi Brown Cosmetics,['FREE 3-PIECE SET' '20% Off' '20% Off + Free Gifts'],2020-01-17,118.0,381.0,256.0,2020,1,17,Friday,True,Normal,Normal,Normal,Christmas Day,0.0,False
+491,Bobbi Brown Cosmetics,As Low as $37,2020-01-25,0.0,3.0,2.0,2020,1,25,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+492,Bobbi Brown Cosmetics,Full-Size Lip with $65+,2020-01-26,6.0,30.0,12.0,2020,1,26,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+493,Bobbi Brown Cosmetics,['25% Off' '25% Off+Free Full-size Gift' '25% Off + Free Gifts'],2020-01-31,108.0,394.0,229.0,2020,1,31,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+494,Bobbi Brown Cosmetics,Free Full Size Gift,2020-02-02,15.0,15.0,9.0,2020,2,2,Sunday,False,Normal,Normal,Normal,Normal,0.0,True
+495,Bobbi Brown Cosmetics,30% Off+Free Trio Gift,2020-02-10,7.0,37.0,12.0,2020,2,10,Monday,False,Normal,Normal,Normal,Normal,0.3,True
+496,Bobbi Brown Cosmetics,['Up to 30% Off+Free Trio' 'Up to 30% Off + Free Gifts'],2020-02-11,560.0,651.0,425.0,2020,2,11,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+497,Bobbi Brown Cosmetics,GWP,2020-02-19,32.0,25.0,21.0,2020,2,19,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+498,Bobbi Brown Cosmetics,4-piece Mini Skin Prep Set,2020-02-25,0.0,5.0,4.0,2020,2,25,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+499,Bobbi Brown Cosmetics,['Up to $40 Off + 4 Free Gifts' 'Up to $40 Off + Free Gifts'],2020-03-09,459.0,524.0,331.0,2020,3,9,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+500,Bobbi Brown Cosmetics,Free Full Size Foundation Brush,2020-03-17,0.0,8.0,3.0,2020,3,17,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+501,Bobbi Brown Cosmetics,25% Off,2020-03-30,13.0,17.0,13.0,2020,3,30,Monday,False,Normal,Normal,Normal,Normal,0.25,False
+502,Bobbi Brown Cosmetics,25% Off + Free Full-Size,2020-04-11,59.0,135.0,97.0,2020,4,11,Saturday,True,Normal,Normal,Normal,Normal,0.25,True
+503,Bobbi Brown Cosmetics,25% Off + Free Full-Size,2020-04-12,558.0,544.0,394.0,2020,4,12,Sunday,False,Normal,Normal,Normal,Normal,0.25,True
+504,Bobbi Brown Cosmetics,Up to 60% Off + Free Full-Size,2020-04-18,118.0,261.0,187.0,2020,4,18,Saturday,True,Normal,Normal,Normal,Normal,0.6,True
+505,Bobbi Brown Cosmetics,20% Off or GWP,2020-05-09,1.0,2.0,7.0,2020,5,9,Saturday,True,Normal,Normal,Normal,Normal,0.2,True
+506,Bobbi Brown Cosmetics,20% Off + GWP,2020-05-13,0.0,1.0,7.0,2020,5,13,Wednesday,False,Normal,Normal,Normal,Normal,0.2,True
+507,Bobbi Brown Cosmetics,Buy 1 Get 1 Free,2020-05-26,142.0,59.0,50.0,2020,5,26,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+508,Bobbi Brown Cosmetics,30% Off,2020-05-31,8.0,29.0,12.0,2020,5,31,Sunday,False,Normal,Normal,Normal,Normal,0.3,False
+509,Bobbi Brown Cosmetics,['Prizes and Discount' 'Buy 2 Get 1'],2020-06-01,11.0,11.0,9.0,2020,6,1,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+510,Bobbi Brown Cosmetics,GWP,2020-06-11,250.0,354.0,150.0,2020,6,11,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+511,Bobbi Brown Cosmetics,As Low as $27,2020-06-14,44.0,62.0,40.0,2020,6,14,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+512,Bobbi Brown Cosmetics,GWP,2020-06-15,7.0,28.0,36.0,2020,6,15,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+513,Bobbi Brown Cosmetics,['Up to 25% Off+Free Gifts' 'Up to 30% Off'],2020-06-18,30.0,122.0,60.0,2020,6,18,Thursday,False,Normal,Normal,Normal,Normal,0.0,False

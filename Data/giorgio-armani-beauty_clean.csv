@@ -1,0 +1,104 @@
+,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,Giorgio Armani Beauty,$53.60$67.00,2017-11-26,8.0,48,28,2017,11,26,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+1,Giorgio Armani Beauty,['Dealmoon Exclusive! 20% off' '$30.40$38.00'],2017-11-29,349.0,2105,867,2017,11,29,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+2,Giorgio Armani Beauty,['Dealmoon Exclusive! 20% off all orders' '$160.00$200.00' '$30.40$38.00'],2017-11-30,1098.0,3245,1870,2017,11,30,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+3,Giorgio Armani Beauty,Free Limited Edition Illuminating Palette,2017-12-15,17.0,56,15,2017,12,15,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+4,Giorgio Armani Beauty,$38 ,2018-01-05,16.0,118,32,2018,1,5,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+5,Giorgio Armani Beauty,New Arrival,2018-01-17,11.0,78,14,2018,1,17,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+6,Giorgio Armani Beauty,Free SÌ ROSE SIGNATURE,2018-02-15,24.0,105,24,2018,2,15,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+7,Giorgio Armani Beauty,10% off all orders,2018-02-27,19.0,103,18,2018,2,27,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.1,False
+8,Giorgio Armani Beauty,['$32.30$38.00' '15% Off'],2018-03-26,13.0,76,36,2018,3,26,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+9,Giorgio Armani Beauty,"['$32.30$38.00' '15% Off' 'Dealmoon Exclusive! 15% off sitewide'
+ 'Dealmoon Exclusive! 15% off' '$170.00$200.00']",2018-03-27,747.0,2445,1157,2018,3,27,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+10,Giorgio Armani Beauty,$38 ,2018-04-19,22.0,140,48,2018,4,19,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+11,Giorgio Armani Beauty,From $34,2018-04-22,62.0,445,183,2018,4,22,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+12,Giorgio Armani Beauty,['$32.30$38.00' '15% Off' '15% off'],2018-05-01,73.0,545,129,2018,5,1,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+13,Giorgio Armani Beauty,['15% off' 'Enjoy 15% off' '15% Off'],2018-05-02,330.0,1464,611,2018,5,2,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+14,Giorgio Armani Beauty,Enjoy 20% off,2018-06-10,11.0,134,28,2018,6,10,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+15,Giorgio Armani Beauty,$96.00$120.00,2018-06-18,4.0,35,14,2018,6,18,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+16,Giorgio Armani Beauty,$51.20$64.00,2018-06-19,3.0,14,6,2018,6,19,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+17,Giorgio Armani Beauty,['$44.00$55.00' '$51.20$64.00'],2018-06-20,4.0,28,6,2018,6,20,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+18,Giorgio Armani Beauty,['20% Off' 'Enjoy 20% off'],2018-06-21,1.0,20,6,2018,6,21,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+19,Giorgio Armani Beauty,$30.40$38.00,2018-06-23,21.0,71,11,2018,6,23,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+20,Giorgio Armani Beauty,$30.40$38.00,2018-06-24,13.0,75,28,2018,6,24,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+21,Giorgio Armani Beauty,$30.40$38.00,2018-06-27,13.0,99,36,2018,6,27,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+22,Giorgio Armani Beauty,['Dealmoon Exclusive Early Access! 20% off' '20% Off'],2018-06-28,1156.0,2367,1095,2018,6,28,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+23,Giorgio Armani Beauty,['$30.40$38.00' '20% off'],2018-06-29,161.0,703,271,2018,6,29,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+24,Giorgio Armani Beauty,$55.00 ,2018-07-26,7.0,61,7,2018,7,26,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+25,Giorgio Armani Beauty,Enjoy 20% off,2018-08-09,11.0,115,27,2018,8,9,Thursday,False,Normal,Normal,Normal,Labor Day,0.2,False
+26,Giorgio Armani Beauty,Free Fluid Master Primer,2018-08-20,3.0,67,24,2018,8,20,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+27,Giorgio Armani Beauty,New Arrival! $38,2018-08-24,1.0,19,4,2018,8,24,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+28,Giorgio Armani Beauty,['$96 (Original $120)' '$51.20 (Original $64)'],2018-09-09,32.0,158,39,2018,9,9,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+29,Giorgio Armani Beauty,"['$30.40 (Original $38)' '$51.2 (Original $64)' '20% off'
+ 'Dealmoon Exclusive Early Access! 20% off' 'Enjoy 20% off'
+ 'New Arrival! $30.40 (Original $38)']",2018-09-10,39.0,391,120,2018,9,10,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+30,Giorgio Armani Beauty,['Dealmoon Exclusive Early Access! 20% off' '20% Off' '20% off'],2018-09-11,951.0,2063,1083,2018,9,11,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+31,Giorgio Armani Beauty,"['$32.3 (Original $38)' 'Dealmoon Exclusive Early Access! 15% off'
+ '15% off']",2018-10-15,34.0,278,89,2018,10,15,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+32,Giorgio Armani Beauty,"['Dealmoon Exclusive Early Access! 15% off' '15% Off'
+ 'Dealmoon Exclusive Early Access! Enjoy 15% off']",2018-10-16,97.0,731,261,2018,10,16,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+33,Giorgio Armani Beauty,$54.4(Original $64),2018-11-10,0.0,8,3,2018,11,10,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+34,Giorgio Armani Beauty,15% off,2018-11-11,7.0,60,11,2018,11,11,Sunday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.15,False
+35,Giorgio Armani Beauty,"['Enjoy 15% off' 'Dealmoon Exclusive Enjoy 15% off'
+ '15% off + free gifts with' '15% off']",2018-11-12,127.0,821,287,2018,11,12,Monday,False,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+36,Giorgio Armani Beauty,Dealmoon Exclusive! Enjoy 20% off sitewide,2018-11-27,15.0,132,48,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,False
+37,Giorgio Armani Beauty,"['Dealmoon Exclusive! Enjoy 20% off'
+ 'Dealmoon Exclusive! Enjoy 20% off sitewide'
+ 'Dealmoon Exclusive Enjoy 20% off sitewide']",2018-11-30,827.0,3468,1460,2018,11,30,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+38,Giorgio Armani Beauty,Receive multiple GWP,2018-12-13,8.0,40,3,2018,12,13,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+39,Giorgio Armani Beauty,$75 ,2019-01-30,25.0,17,11,2019,1,30,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+40,Giorgio Armani Beauty,$64 ,2019-02-06,30.0,122,26,2019,2,6,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+41,Giorgio Armani Beauty,Starting from $28,2019-02-13,6.0,12,10,2019,2,13,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+42,Giorgio Armani Beauty,Top 10,2019-02-19,26.0,101,39,2019,2,19,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+43,Giorgio Armani Beauty,Dealmoon Exclusive! Enjoy 10% off + GWP,2019-02-26,24.0,88,35,2019,2,26,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.1,True
+44,Giorgio Armani Beauty,Dealmoon Exclusive! 10% off + free full size lipstick,2019-03-01,127.0,365,163,2019,3,1,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.1,False
+45,Giorgio Armani Beauty,"['Dealmoon Exclusive! Enjoy 20% off' 'Dealmoon Exclusive: Enjoy 20% off'
+ 'Dealmoon Exclusive: Enjoy 20% off sitewide + GWP']",2019-03-27,31.0,122,50,2019,3,27,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+46,Giorgio Armani Beauty,"['Dealmoon Exclusive: 20% off all orders' 'Dealmoon Exclusive'
+ 'Dealmoon Exclusive: Enjoy 20% off'
+ 'Dealmoon Exclusive: Enjoy 20% off sitewide']",2019-03-28,707.0,1041,708,2019,3,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+47,Giorgio Armani Beauty,"['Dealmoon Exclusive: Enjoy 20% off'
+ 'Dealmoon Exclusive: Enjoy 20% off sitewide + GWP']",2019-06-02,87.0,426,189,2019,6,2,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+48,Giorgio Armani Beauty,Dealmoon Exclusive: 20% off all orders,2019-06-03,269.0,714,378,2019,6,3,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+49,Giorgio Armani Beauty,40% Off,2019-06-22,592.0,910,870,2019,6,22,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.4,False
+50,Giorgio Armani Beauty,Recive Free Lip Products,2019-07-30,17.0,56,40,2019,7,30,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+51,Giorgio Armani Beauty,A Versatile Wardrobe Suited to an Array of Moods,2019-08-02,0.0,10,4,2019,8,2,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+52,Giorgio Armani Beauty,20% Off + GWP,2019-08-14,1.0,5,6,2019,8,14,Wednesday,False,Normal,Normal,Normal,Labor Day,0.2,True
+53,Giorgio Armani Beauty,20% off All Orders+Free Gifts,2019-08-16,12.0,89,63,2019,8,16,Friday,True,Normal,Normal,Normal,Labor Day,0.2,True
+54,Giorgio Armani Beauty,['20% off All Orders+Free Gifts' '20% Off + GWP' 'Top 20'],2019-08-17,277.0,799,588,2019,8,17,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+55,Giorgio Armani Beauty,['$38 ' '$67 '],2019-09-07,33.0,64,33,2019,9,7,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+56,Giorgio Armani Beauty,Early Access 40% Off Sale + Exclusive 3 Piece Gift Set,2019-09-21,259.0,782,701,2019,9,21,Saturday,True,Normal,Normal,Normal,Labor Day,0.4,True
+57,Giorgio Armani Beauty,15% off All Orders+Free Gifts,2019-10-06,140.0,510,310,2019,10,6,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.15,True
+58,Giorgio Armani Beauty,Free Gifts,2019-10-27,16.0,28,14,2019,10,27,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+59,Giorgio Armani Beauty,40% Off + Full Size Gift,2019-11-11,1014.0,1213,1246,2019,11,11,Monday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.4,True
+60,Giorgio Armani Beauty,['Top 20' '20% off All Orders+Free 1 Full Size Lipsick'],2019-11-12,221.0,246,215,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+61,Giorgio Armani Beauty,3 Free Full Sized Lipsticks,2019-11-15,0.0,12,29,2019,11,15,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+62,Giorgio Armani Beauty,3 Free Full-size Lipsticks,2019-11-19,79.0,85,90,2019,11,19,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,True
+63,Giorgio Armani Beauty,20% off All Orders + 3-pc Gift,2019-12-03,78.0,408,238,2019,12,3,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,True
+64,Giorgio Armani Beauty,20% off All Orders + 3-pc Gift,2019-12-04,348.0,1053,872,2019,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.2,True
+65,Giorgio Armani Beauty,40% Off + Full Size Gifts,2019-12-12,615.0,1050,872,2019,12,12,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.4,True
+66,Giorgio Armani Beauty,Free Full-size Gift,2019-12-16,7.0,18,15,2019,12,16,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,True
+67,Giorgio Armani Beauty,Free 3 Full Size Lipstick (Include 405),2019-12-21,91.0,158,171,2019,12,21,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,True
+68,Giorgio Armani Beauty,20% Off+Free Gifts,2020-02-12,74.0,204,121,2020,2,12,Wednesday,False,Normal,Normal,Normal,Normal,0.2,True
+69,Giorgio Armani Beauty,Top 20,2020-02-28,4.0,26,11,2020,2,28,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+70,Giorgio Armani Beauty,10% Off + Free Lipsticks,2020-03-02,27.0,76,37,2020,3,2,Monday,False,Normal,Normal,Normal,Normal,0.1,False
+71,Giorgio Armani Beauty,Free 2 Lipstick (Include 206),2020-03-05,3.0,4,6,2020,3,5,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+72,Giorgio Armani Beauty,$30.40$38.00,2020-03-27,1.0,7,5,2020,3,27,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+73,Giorgio Armani Beauty,20% Off + Free Lipsticks,2020-03-29,16.0,31,16,2020,3,29,Sunday,False,Normal,Normal,Normal,Normal,0.2,False
+74,Giorgio Armani Beauty,20% Off + Free Gifts,2020-03-30,378.0,587,427,2020,3,30,Monday,False,Normal,Normal,Normal,Normal,0.2,True
+75,Giorgio Armani Beauty,40% Off + Free Gift,2020-04-15,1.0,7,8,2020,4,15,Wednesday,False,Normal,Normal,Normal,Normal,0.4,True
+76,Giorgio Armani Beauty,40% Off + Free Gift,2020-04-17,1403.0,963,1065,2020,4,17,Friday,True,Normal,Normal,Normal,Normal,0.4,True
+77,Giorgio Armani Beauty,20% Off,2020-04-22,9.0,14,8,2020,4,22,Wednesday,False,Normal,Normal,Normal,Normal,0.2,False
+78,Giorgio Armani Beauty,20% Off + Full Size Gift,2020-05-04,224.0,204,194,2020,5,4,Monday,False,Normal,Normal,Normal,Normal,0.2,True
+79,Giorgio Armani Beauty,20% Off + Free Lipsticks,2020-05-09,7.0,20,20,2020,5,9,Saturday,True,Normal,Normal,Normal,Normal,0.2,False
+80,Giorgio Armani Beauty,20% Off+ Free Gift,2020-05-10,257.0,150,93,2020,5,10,Sunday,False,Normal,Normal,Normal,Normal,0.2,True
+81,Giorgio Armani Beauty,['$33 ' 'Free Gifts'],2020-05-11,41.0,48,21,2020,5,11,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+82,Giorgio Armani Beauty,['Up to 40% Off + GWP' 'Up to 40% Off'],2020-05-16,55.0,128,82,2020,5,16,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+83,Giorgio Armani Beauty,40% Off,2020-05-17,1923.0,1028,1189,2020,5,17,Sunday,False,Normal,Normal,Normal,Normal,0.4,False
+84,Giorgio Armani Beauty,20% Off,2020-05-22,74.0,22,20,2020,5,22,Friday,True,Normal,Normal,Normal,Normal,0.2,False
+85,Giorgio Armani Beauty,Free Full Size Lip Maestro,2020-05-28,24.0,17,37,2020,5,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+86,Giorgio Armani Beauty,Free Full Size Foundation,2020-05-30,46.0,45,41,2020,5,30,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+87,Giorgio Armani Beauty,Free Lip Maestro,2020-05-31,8.0,1,12,2020,5,31,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+88,Giorgio Armani Beauty,Free Gift,2020-06-02,20.0,11,10,2020,6,2,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+89,Giorgio Armani Beauty,Free Gifts,2020-06-10,0.0,2,2,2020,6,10,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+90,Giorgio Armani Beauty,['Up to 40% Off + GWP' 'Up to 40% Off + Free Gifts'],2020-06-21,431.0,616,490,2020,6,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,False

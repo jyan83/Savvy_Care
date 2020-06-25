@@ -83,7 +83,7 @@ def week_one_year_ago_persistence(history):
 	return last_week[:, 0]
 
 # load the new file
-dataset = read_csv('lancome_clean.csv', header=0, infer_datetime_format=True, parse_dates=['Posted_date'], index_col=['Posted_date'])
+dataset = read_csv('Data/lancome_clean.csv', header=0, infer_datetime_format=True, parse_dates=['Posted_date'], index_col=['Posted_date'])
 dataset = dataset[['Discount_off','GWP']]
 # split into train and test
 train, test = split_dataset(dataset.values)
