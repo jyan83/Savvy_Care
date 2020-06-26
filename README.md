@@ -1,14 +1,12 @@
 # Savvy Care
 This is a 3 weeks Insight Data Science Project.
-..* 
-..* 
 
 ## Table of Contents
 
 - [Project Description](#Description)
 - [How Does it Work?](#How-Does-it-Work?)
 - [Results](#Results)
-- [Built With](#Built-With)
+- [Built With](#GitHib-files)
 
 ___
 ## Description
@@ -43,20 +41,50 @@ In total, 18 features used.
 
 ### Modeling
 
-_Classification_
+- **Regression**
+
+1. Time Series Cross-Validation
+
+Models will be evaluated using a scheme called walk-forward validation. Walk-forward is very similar to K-Fold except that it ignores the data after the test set.
+
+2. Baseline: Naive Methods
+
+>  First develop and evaluate and compare the performance a suite of naive persistence forecasting methods. It provides a quantitative idea of how difficult the forecast problem is and provide a baseline performance by which more sophisticated forecast methods can be evaluated.
+From EDA, the pattern of the data does not suitable for the regression or time series methods. 
+
+3. Nonlinear Models
+
+> Spot checking machine learning algorithms means evaluating a suite of different types of algorithms with minimal hyperparameter tuning.
+	
+- **Nonlinear Algorithms**
+	- Decision Tree
+	- k-Nearest Neighbors
+
+- **Ensemble Algorithms**
+	- Random Forest
+	- Extra Trees
+	- Adaboosting
+	- XGBoost
+	
+4. Hyperparamter Tunning
+
+> Random Search is used for Extra Trees Regressor selected from spot checking. 
+
+- **Classification**
+
 Here, gift with purchase is rare comparing to the whole dataset, this is an imbalanced classification. 
 
 1. Selecting A Metric
 
-...Because the positive class (GWP is True) is the most important, selecting a metric is the most important step in the project. The area under curve can be used. This will maximize the true positive rate and minimize the false positive rate.
+> Because the positive class (GWP is True) is the most important, selecting a metric is the most important step in the project. The area under curve can be used. This will maximize the true positive rate and minimize the false positive rate.
 
 2. Data Sampling
 
-...Data sampling algorithms change the composition of the training dataset to improve the performance of a standard machine learning algorithm on an imbalanced classification problem. Here, data oversampling is used through SMOTE
+> Data sampling algorithms change the composition of the training dataset to improve the performance of a standard machine learning algorithm on an imbalanced classification problem. Here, data oversampling is used through SMOTE
 
 3. Spot Checking Algorithms
 
-...Spot checking machine learning algorithms means evaluating a suite of different types of algorithms with minimal hyperparameter tuning.
+> Spot checking machine learning algorithms means evaluating a suite of different types of algorithms with minimal hyperparameter tuning.
 
 - **Linear Algorithms**
 	- Logistic Regression
@@ -74,7 +102,7 @@ Here, gift with purchase is rare comparing to the whole dataset, this is an imba
 
 4. Hyperparamter Tunning
 
-...Random Search is used for several optimal algorithms selected from spot checking. 
+> Random Search is used for several optimal algorithms selected from spot checking. 
 ___
 ## Results
 ### Model Evaluation
@@ -86,13 +114,33 @@ _Classification using area under ROC curve:_
 - XGboost with hyperparameter tuning: _**0.76**_
 - Logistic regression: _**0.48**_
 
-### Feature Importance
-_Interesting observations:_
-  1.  Memorial Day has most discounts
-
-
+### Interesting observations
+Memorial Day has most discounts.
 
 ___
-## Built With
+## GitHib files
 
-###### This is still under development
+### `./scripts/`
+
+### Web scraping
+* `Data/Dealmoon/Web_scraping.py`: uses *Streamlit* to connect to Dealmoon.com to get web content, and *Pandas* to clean and store scraped content as a dataframe
+
+### Data analysis and modeling
+* `Script/EDA.py`: these files load .csv files, concatenate dataframes, pull out data of interest, rename/reorder columns, and remove spurious listings. 
+
+* `Script/Regression.py`: these files pull .csv file with listing information, create histogram and scatter plots, fit price data to car age and mileage across all make/model combinations, and plot 2D and 3D depreciation curves and box plots.
+
+### Web app development
+
+* `Streamlit run Frontend/Savvy_Care.py`: load web page.
+
+### Requirements
+* [Requests](https://2.python-requests.org/en/master/)
+* [Html](https://pypi.org/project/html/)
+* [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Statsmodels](https://www.statsmodels.org/stable/index.html)
+* [Scikit-learn](https://scikit-learn.org/stable/)
+

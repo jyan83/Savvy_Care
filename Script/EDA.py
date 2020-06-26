@@ -14,7 +14,7 @@ all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'cl
 for brand in all_categories:
     plt.close('all') 
     ## Import data:
-    df_r = pd.read_csv("Data/Dealmoon/" + brand +".csv")
+    df_r = pd.read_csv("../Data/Dealmoon/" + brand +".csv")
     df_r.drop(["Brand"], axis=1, inplace=True)
     print(df_r.shape)
     df_r.head()
@@ -204,4 +204,4 @@ for brand in all_categories:
     plt.show()
     
     #df_n.to_csv('lancome_clean.csv')
-    df_n.to_csv("Data/" + brand + "_clean.csv")
+    df_n.to_csv("../Data/" + brand + "_clean.csv")
