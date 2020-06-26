@@ -16,6 +16,12 @@ from datetime import datetime, timedelta
 from PIL import Image
 import random
 
+global brands_dict, brands_name_dict
+brands_dict = ['', 'lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'clarins', 
+                  'bobbi-brown-cosmetics','giorgio-armani-beauty','loccitane','origins']
+    
+brands_name_dict = ['', 'lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'clarins', 
+                  'bobbi-brown-cosmetics','giorgio-armani-beauty','loccitane','origins']
 
 def main():
     """Main function. Run this to run the app"""
@@ -24,8 +30,7 @@ def main():
     st.sidebar.header("Your Skincare Refill Management Tool")
     st.sidebar.markdown("Please choose the brand:")
     
-    brands_dict = ['', 'Lancome', 'Estee Lauder', 'Lamer', 'Tom Ford', 'Clinique', 'Clinique',
-                   'Shiseido', 'Kiehls', 'Clarins', 'CDP', 'Aramani', 'Bobbi Brown', 'Chantecaille']
+    
             
     deal_name = st.sidebar.selectbox('', brands_dict, 
                                 format_func=lambda x: 'Select an option' if x == '' else x)
@@ -47,23 +52,22 @@ def main():
     
 def discount(brand=None):
     
-    PIK = 'datasets/Regression.dat'
+    PIK = 'datasets/' + brand + '_Regression.dat'
 
     file = open(PIK,'rb')
     object_file = pickle.load(file)
     file.close()
     
     [X_train, X_test, y_train, y_test, Y_pred, model] = object_file
-    y = model.predict(X_test)
     Y_pred = Y_pred[:28]
     
-    PIK = 'datasets/Classification.dat'
+    PIK = 'datasets/' + brand + '_Classification.dat'
 
     file = open(PIK,'rb')
     object_file_c = pickle.load(file)
     file.close()
     
-    [X_train_c, X_test_c, y_train_c, y_test_c, Y_pred_c, clf_c] = object_file_c
+    [X_train_c, X_test_c, y_train_c, y_test_c, Y_pred_c] = object_file_c
     Y_pred_c = Y_pred_c[:28]
    
     plt.figure()
@@ -73,8 +77,11 @@ def discount(brand=None):
     plt.ylim(0.01, 1)
     plt.grid()
     plt.xlabel("Predication in N days")                 
-    plt.ylabel("Discount in %")                   
-    plt.title("Prediction for "+ brand)
+    plt.ylabel("Discount in %")          
+
+    name_index = brands_dict.index(brand)
+             
+    plt.title("Prediction for "+ brands_name_dict[name_index])
     plt.legend()
     st.pyplot()
     

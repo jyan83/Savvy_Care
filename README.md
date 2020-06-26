@@ -114,11 +114,11 @@ _Regression using RMSE:_
 - Naive forecast: _**0.0012**_
 
 _Classification using area under ROC curve:_
-- XGboost with hyperparameter tuning: _**0.76**_
-- Logistic regression: _**0.48**_
+- XGboost with hyperparameter tuning: _**0.73**_
+- Logistic regression: _**0.65**_
 
 ### Interesting observations
-Memorial Day has most discounts.
+Refill your skincare on Memorial Day!
 
 ___
 ## GitHib files
