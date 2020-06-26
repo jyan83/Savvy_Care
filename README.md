@@ -6,9 +6,9 @@ This is a 3 weeks Insight Data Science Project.
 ## Table of Contents
 
 - [Project Description](#Description)
-- [How Does it Work?](# How Does it Work?)
+- [How Does it Work?](#How-Does-it-Work?)
 - [Results](#Results)
-- [Built With](# Built With)
+- [Built With](#Built-With)
 
 ___
 ## Description
@@ -26,32 +26,37 @@ A web scrawler using Selenium is built to collect the available deals informatio
 
 ### Feature Engineering
 - **Discount**
-The scraped data containg discount information like
 
-- **Gift With Purchase**
+The scraped data containg discount information like "XX % OFF", "Buy 1 Get 1 Free", ... All of these are going to tranfer to percetange off. To predict the dicount, this becomes a regression problem.
+
+- **Gift With Purchase (GWP)**
+
+There are also a lot of deals are not having percetange off discount, but free gift with purchase. Based on the popularity from bookmarks, comments, and shares data, we can see GWP is also very attractive. Thus, beyond regression problem to predict the % off discount, a binary classification problem of if there is a gift with purchase is proposed.
 
 - **Features**
 
 | Calendar Features        | Lag Features           | Historical Statistics  |
 | -------------------------|:----------------------:|:----------------------:|
-| Year, Month, Day, Weekend Flag, A week before which holiday         | Shifted deals in 1 day, 1 week, 1 month, and 1 year | Means, maxs, sum  |
+| Year, Month, Day - Weekend Flag - A week before which holiday         | Shifted deals in 1 day, 1 week, 1 month, and 1 year | Means, maxs, sum  |
 
+In total, 18 features used.
 
 ### Modeling
 
 _Classification_
 Here, gift with purchase is rare comparing to the whole dataset, this is an imbalanced classification. 
+
 1. Selecting A Metric
 
-Because the positive class (GWP is True) is the most important, selecting a metric is the most important step in the project. The area under curve can be used. This will maximize the true positive rate and minimize the false positive rate.
+...Because the positive class (GWP is True) is the most important, selecting a metric is the most important step in the project. The area under curve can be used. This will maximize the true positive rate and minimize the false positive rate.
 
 2. Data Sampling
 
-Data sampling algorithms change the composition of the training dataset to improve the performance of a standard machine learning algorithm on an imbalanced classification problem. Here, data oversampling is used through SMOTE
+...Data sampling algorithms change the composition of the training dataset to improve the performance of a standard machine learning algorithm on an imbalanced classification problem. Here, data oversampling is used through SMOTE
 
 3. Spot Checking Algorithms
 
-Spot checking machine learning algorithms means evaluating a suite of different types of algorithms with minimal hyperparameter tuning.
+...Spot checking machine learning algorithms means evaluating a suite of different types of algorithms with minimal hyperparameter tuning.
 
 - **Linear Algorithms**
 	- Logistic Regression
@@ -68,7 +73,8 @@ Spot checking machine learning algorithms means evaluating a suite of different 
 	- XGBoost
 
 4. Hyperparamter Tunning
-Random Search is used for several optimal algorithms selected from spot checking. 
+
+...Random Search is used for several optimal algorithms selected from spot checking. 
 ___
 ## Results
 ### Model Evaluation

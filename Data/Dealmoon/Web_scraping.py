@@ -156,7 +156,7 @@ def saveCSV(filename, data):
         writer = csv.writer(f)
         writer.writerows(data)
         
-all_categories = ['giorgio-armani-beauty','loccitane','origins']
+all_categories = ['loccitane','origins']
 #all_categories = ['giorgio-armani-beauty']
 all_urls = []
 for i in all_categories:
