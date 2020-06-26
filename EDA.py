@@ -8,8 +8,8 @@ from pandas import DataFrame
 from pandas import Grouper
 
 
-all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 
-                  'kiehls', 'clarins', 'bobbi-brown-cosmetics','giorgio-armani-beauty']
+all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'clarins', 
+                  'bobbi-brown-cosmetics','giorgio-armani-beauty','loccitane','origins']
 
 for brand in all_categories:
     plt.close('all') 
@@ -45,9 +45,9 @@ for brand in all_categories:
     df_n1 = combine(df_r)
     df_r = df_n1.copy()
     
-    ## Add missing date to dataframe
-    #idx = pd.date_range(df_r['Posted_date'].min(), df_r['Posted_date'].max())
-    #df_r = df_r.set_index('Posted_date').reindex(idx).fillna(0.0).rename_axis('Posted_date').reset_index()    
+    # Add missing date to dataframe
+    idx = pd.date_range(df_r['Posted_date'].min(), df_r['Posted_date'].max())
+    df_r = df_r.set_index('Posted_date').reindex(idx).fillna(0.0).rename_axis('Posted_date').reset_index()    
     
     def add_holidays(df_r, starting_year, current_year):
         ## Import holidays

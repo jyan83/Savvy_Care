@@ -11,8 +11,9 @@ from sklearn.metrics import mean_squared_error
 
 import pickle
 
-all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 
-                  'kiehls', 'clarins', 'bobbi-brown-cosmetics','giorgio-armani-beauty']
+all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'clarins', 
+                  'bobbi-brown-cosmetics','giorgio-armani-beauty','loccitane','origins']
+
 
 for brand in all_categories:
     plt.close('all') 
@@ -241,6 +242,5 @@ for brand in all_categories:
     data = [X_train, X_test, y_train, y_test]
     with open(PIK, "wb") as f:
         pickle.dump(data, f)
-    with open(PIK, "rb") as f:
-        print(pickle.load(f))
+
 

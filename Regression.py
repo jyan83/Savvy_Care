@@ -38,17 +38,13 @@ from scipy.stats import randint as sp_randint
 
 import pickle
 
-all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 
-                  'kiehls', 'clarins', 'bobbi-brown-cosmetics','giorgio-armani-beauty']
+all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'clarins', 
+                  'bobbi-brown-cosmetics','giorgio-armani-beauty','loccitane','origins']
 
 for brand in all_categories:
     plt.close('all') 
     # Import cleaned dataset
     df = pd.read_csv("Data/" + brand + "_clean.csv")
-    
-    # Add missing date to dataframe
-    idx = pd.date_range(df['Posted_date'].min(), df['Posted_date'].max())
-    df = df.set_index('Posted_date').reindex(idx).fillna(0.0).rename_axis('Posted_date').reset_index()    
     
     def add_features(df):
             
@@ -242,5 +238,3 @@ for brand in all_categories:
     data = [X_train, X_test, y_train, y_test, Y_pred, model]
     with open(PIK, "wb") as f:
         pickle.dump(data, f)
-    with open(PIK, "rb") as f:
-        print(pickle.load(f))

@@ -1,159 +1,913 @@
-,Store,Discount,Posted_date,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
-0,Kiehl's,Enjoy $20 off,2017-12-31,594.0,1853.0,821.0,2017,12,31,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
-1,Kiehl's,['Enjoy $20 off + 3 minis' 'Enjoy $20 off'],2018-01-01,4735.0,11409.0,7177.0,2018,1,1,Monday,False,New Year's Day,New Year's Day,New Year's Day,New Year's Day,0.0,False
-2,Kiehl's,Get $20 off,2018-01-02,189.0,487.0,226.0,2018,1,2,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
-3,Kiehl's,Choose 4 Deluxe Samples,2018-01-06,28.0,82.0,30.0,2018,1,6,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
-4,Kiehl's,Enjoy 10 packette samples of Powerful-Strength Line-Reducing Concentrate,2018-01-13,26.0,133.0,64.0,2018,1,13,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
-5,Kiehl's,Free Ground Shipping,2018-01-17,28.0,107.0,36.0,2018,1,17,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
-6,Kiehl's,FREE 5-piece sample bundle,2018-01-22,7.0,44.0,18.0,2018,1,22,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
-7,Kiehl's,2 Free Deluxe Samples,2018-01-31,29.0,104.0,25.0,2018,1,31,Wednesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
-8,Kiehl's,Enjoy a Limited Edition Tote,2018-02-07,17.0,123.0,37.0,2018,2,7,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
-9,Kiehl's,Complimentary gift boxing,2018-02-09,5.0,21.0,6.0,2018,2,9,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
-10,Kiehl's,Enjoy 4 deluxe samples & limited edition canvas pouch,2018-02-10,8.0,57.0,13.0,2018,2,10,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
-11,Kiehl's,"['Enjoy 4 deluxe samples &limited edition canvas pouch'
- 'Enjoy 4 deluxe samples & limited edition canvas pouch']",2018-02-12,19.0,108.0,30.0,2018,2,12,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
-12,Kiehl's,"['Enjoy 4 deluxe samples & limited edition canvas pouch'
- 'Enjoy 4 deluxe samples &limited edition canvas pouch']",2018-02-13,46.0,274.0,74.0,2018,2,13,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
-13,Kiehl's,"['Enjoy 4 deluxe samples & limited edition canvas pouch'
- 'Enjoy 4 deluxe samples &limited edition canvas pouch']",2018-02-14,48.0,223.0,73.0,2018,2,14,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
-14,Kiehl's,Dealmoon Exclusive: Enjoy 4 deluxe samples & limited edition canvas pouch,2018-02-17,55.0,258.0,126.0,2018,2,17,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
-15,Kiehl's,3 free deluxe samples,2018-02-20,2.0,44.0,12.0,2018,2,20,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
-16,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,2018-02-28,4.0,19.0,8.0,2018,2,28,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
-17,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,2018-03-01,10.0,39.0,15.0,2018,3,1,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
-18,Kiehl's,Receive 5 Deluxe Samples including a travel pouch,2018-03-02,17.0,85.0,22.0,2018,3,2,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
-19,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,2018-03-05,7.0,24.0,12.0,2018,3,5,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
-20,Kiehl's,Enjoy 1 Deluxe Sample for Every $25,2018-03-16,6.0,83.0,22.0,2018,3,16,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
-21,Kiehl's,['$54 + Free Sample' '3 Deluxe Samples'],2018-03-22,11.0,33.0,11.0,2018,3,22,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
-22,Kiehl's,Receive a Full Size Ultra Facial Toner,2018-03-26,10.0,41.0,8.0,2018,3,26,Monday,False,Normal,Normal,Normal,Normal,0.0,True
-23,Kiehl's,CELEBRATE EARTH DAY,2018-04-22,17.0,97.0,36.0,2018,4,22,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
-24,Kiehl's,Get 4 deluxe samples and a clear mini travel bag,2018-04-28,9.0,83.0,30.0,2018,4,28,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
-25,Kiehl's,Receive 4 deluxe samples and complimentary gift wrapping,2018-05-06,26.0,146.0,48.0,2018,5,6,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
-26,Kiehl's,Enjoy 2-Day Shipping and Complimentary gift boxing,2018-05-09,10.0,28.0,11.0,2018,5,9,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
-27,Kiehl's,Enjoy 2 complimentary deluxe samples,2018-05-11,4.0,18.0,6.0,2018,5,11,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
-28,Kiehl's,['20% Off' '20% off' '$43.20$54.00'],2018-05-18,4.0,46.0,21.0,2018,5,18,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
-29,Kiehl's,20% Off,2018-05-19,13.0,75.0,9.0,2018,5,19,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.2,False
-30,Kiehl's,20% Off,2018-05-20,10.0,49.0,14.0,2018,5,20,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
-31,Kiehl's,['20% Off' 'Enjoy 20% off' '$12.80$16.00'],2018-05-21,49.0,230.0,71.0,2018,5,21,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
-32,Kiehl's,['20% Off' '20% off Any Order' '$23.20$29.00' '$26.40$33.00'],2018-05-22,1097.0,3426.0,1777.0,2018,5,22,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
-33,Kiehl's,Receive 2 or more deluxe samples,2018-05-31,7.0,37.0,15.0,2018,5,31,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
-34,Kiehl's,$24.00 ,2018-06-09,7.0,35.0,3.0,2018,6,9,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
-35,Kiehl's,"Receive a 5 piece men's gift, plus free gift boxing",2018-06-12,7.0,31.0,14.0,2018,6,12,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
-36,Kiehl's,Receive 3 deluxe samples,2018-06-14,9.0,20.0,14.0,2018,6,14,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
-37,Kiehl's,Up to 5 deluxe samples,2018-06-26,13.0,67.0,24.0,2018,6,26,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
-38,Kiehl's,3 deluxe samples,2018-07-04,7.0,61.0,14.0,2018,7,4,Wednesday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
-39,Kiehl's,Receive 3 deluxe samples of a Calendula product of your choice,2018-07-10,16.0,104.0,18.0,2018,7,10,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
-40,Kiehl's,Up to 6 deluxe samples,2018-07-11,8.0,60.0,20.0,2018,7,11,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
-41,Kiehl's,Get 1 deluxe sample for,2018-07-21,7.0,58.0,25.0,2018,7,21,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
-42,Kiehl's,Receive 2 deluxe samples,2018-07-23,0.0,2.0,0.0,2018,7,23,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
-43,Kiehl's,Receive 10 packettes of your choosing,2018-07-30,5.0,59.0,20.0,2018,7,30,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
-44,Kiehl's,Receive a Deluxe Sample of Youth Dose Eye Treatment,2018-08-06,15.0,82.0,25.0,2018,8,6,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
-45,Kiehl's,15% Off,2018-08-12,4.0,52.0,29.0,2018,8,12,Sunday,False,Normal,Normal,Normal,Labor Day,0.15,False
-46,Kiehl's,['$17.85 (Original $21)' '$48.00$60.00' '15% Off + GWP' 'Enjoy 15% Off'],2018-08-13,23.0,125.0,26.0,2018,8,13,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
-47,Kiehl's,"['15% Off' '$24.65 (Original $29.00)' 'Enjoy 15% Off'
+,Posted_date,Store,Discount,Comments_count,Bookmarks_count,Shares_count,year,month,day,weekday,Weekend_FLG,Event_1day,Event_7days,Event_14days,Event_1month,Discount_off,GWP
+0,2017-12-31,Kiehl's,Enjoy $20 off,594.0,1853.0,821.0,2017,12,31,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+1,2018-01-01,Kiehl's,['Enjoy $20 off + 3 minis' 'Enjoy $20 off'],4735.0,11409.0,7177.0,2018,1,1,Monday,False,New Year's Day,New Year's Day,New Year's Day,New Year's Day,0.0,False
+2,2018-01-02,Kiehl's,Get $20 off,189.0,487.0,226.0,2018,1,2,Tuesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+3,2018-01-03,0.0,0.0,0.0,0.0,0.0,2018,1,3,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+4,2018-01-04,0.0,0.0,0.0,0.0,0.0,2018,1,4,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+5,2018-01-05,0.0,0.0,0.0,0.0,0.0,2018,1,5,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+6,2018-01-06,Kiehl's,Choose 4 Deluxe Samples,28.0,82.0,30.0,2018,1,6,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,True
+7,2018-01-07,0.0,0.0,0.0,0.0,0.0,2018,1,7,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+8,2018-01-08,0.0,0.0,0.0,0.0,0.0,2018,1,8,Monday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+9,2018-01-09,0.0,0.0,0.0,0.0,0.0,2018,1,9,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+10,2018-01-10,0.0,0.0,0.0,0.0,0.0,2018,1,10,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+11,2018-01-11,0.0,0.0,0.0,0.0,0.0,2018,1,11,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+12,2018-01-12,0.0,0.0,0.0,0.0,0.0,2018,1,12,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+13,2018-01-13,Kiehl's,Enjoy 10 packette samples of Powerful-Strength Line-Reducing Concentrate,26.0,133.0,64.0,2018,1,13,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+14,2018-01-14,0.0,0.0,0.0,0.0,0.0,2018,1,14,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+15,2018-01-15,0.0,0.0,0.0,0.0,0.0,2018,1,15,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+16,2018-01-16,0.0,0.0,0.0,0.0,0.0,2018,1,16,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+17,2018-01-17,Kiehl's,Free Ground Shipping,28.0,107.0,36.0,2018,1,17,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+18,2018-01-18,0.0,0.0,0.0,0.0,0.0,2018,1,18,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+19,2018-01-19,0.0,0.0,0.0,0.0,0.0,2018,1,19,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+20,2018-01-20,0.0,0.0,0.0,0.0,0.0,2018,1,20,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+21,2018-01-21,0.0,0.0,0.0,0.0,0.0,2018,1,21,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+22,2018-01-22,Kiehl's,FREE 5-piece sample bundle,7.0,44.0,18.0,2018,1,22,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+23,2018-01-23,0.0,0.0,0.0,0.0,0.0,2018,1,23,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+24,2018-01-24,0.0,0.0,0.0,0.0,0.0,2018,1,24,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+25,2018-01-25,0.0,0.0,0.0,0.0,0.0,2018,1,25,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+26,2018-01-26,0.0,0.0,0.0,0.0,0.0,2018,1,26,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+27,2018-01-27,0.0,0.0,0.0,0.0,0.0,2018,1,27,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+28,2018-01-28,0.0,0.0,0.0,0.0,0.0,2018,1,28,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+29,2018-01-29,0.0,0.0,0.0,0.0,0.0,2018,1,29,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+30,2018-01-30,0.0,0.0,0.0,0.0,0.0,2018,1,30,Tuesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+31,2018-01-31,Kiehl's,2 Free Deluxe Samples,29.0,104.0,25.0,2018,1,31,Wednesday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,True
+32,2018-02-01,0.0,0.0,0.0,0.0,0.0,2018,2,1,Thursday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+33,2018-02-02,0.0,0.0,0.0,0.0,0.0,2018,2,2,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+34,2018-02-03,0.0,0.0,0.0,0.0,0.0,2018,2,3,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+35,2018-02-04,0.0,0.0,0.0,0.0,0.0,2018,2,4,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+36,2018-02-05,0.0,0.0,0.0,0.0,0.0,2018,2,5,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+37,2018-02-06,0.0,0.0,0.0,0.0,0.0,2018,2,6,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+38,2018-02-07,Kiehl's,Enjoy a Limited Edition Tote,17.0,123.0,37.0,2018,2,7,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+39,2018-02-08,0.0,0.0,0.0,0.0,0.0,2018,2,8,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+40,2018-02-09,Kiehl's,Complimentary gift boxing,5.0,21.0,6.0,2018,2,9,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+41,2018-02-10,Kiehl's,Enjoy 4 deluxe samples & limited edition canvas pouch,8.0,57.0,13.0,2018,2,10,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+42,2018-02-11,0.0,0.0,0.0,0.0,0.0,2018,2,11,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+43,2018-02-12,Kiehl's,"['Enjoy 4 deluxe samples &limited edition canvas pouch'
+ 'Enjoy 4 deluxe samples & limited edition canvas pouch']",19.0,108.0,30.0,2018,2,12,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+44,2018-02-13,Kiehl's,"['Enjoy 4 deluxe samples & limited edition canvas pouch'
+ 'Enjoy 4 deluxe samples &limited edition canvas pouch']",46.0,274.0,74.0,2018,2,13,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+45,2018-02-14,Kiehl's,"['Enjoy 4 deluxe samples & limited edition canvas pouch'
+ 'Enjoy 4 deluxe samples &limited edition canvas pouch']",48.0,223.0,73.0,2018,2,14,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+46,2018-02-15,0.0,0.0,0.0,0.0,0.0,2018,2,15,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+47,2018-02-16,0.0,0.0,0.0,0.0,0.0,2018,2,16,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+48,2018-02-17,Kiehl's,Dealmoon Exclusive: Enjoy 4 deluxe samples & limited edition canvas pouch,55.0,258.0,126.0,2018,2,17,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+49,2018-02-18,0.0,0.0,0.0,0.0,0.0,2018,2,18,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+50,2018-02-19,0.0,0.0,0.0,0.0,0.0,2018,2,19,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+51,2018-02-20,Kiehl's,3 free deluxe samples,2.0,44.0,12.0,2018,2,20,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+52,2018-02-21,0.0,0.0,0.0,0.0,0.0,2018,2,21,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+53,2018-02-22,0.0,0.0,0.0,0.0,0.0,2018,2,22,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+54,2018-02-23,0.0,0.0,0.0,0.0,0.0,2018,2,23,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+55,2018-02-24,0.0,0.0,0.0,0.0,0.0,2018,2,24,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+56,2018-02-25,0.0,0.0,0.0,0.0,0.0,2018,2,25,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+57,2018-02-26,0.0,0.0,0.0,0.0,0.0,2018,2,26,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+58,2018-02-27,0.0,0.0,0.0,0.0,0.0,2018,2,27,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+59,2018-02-28,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,4.0,19.0,8.0,2018,2,28,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+60,2018-03-01,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,10.0,39.0,15.0,2018,3,1,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+61,2018-03-02,Kiehl's,Receive 5 Deluxe Samples including a travel pouch,17.0,85.0,22.0,2018,3,2,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,True
+62,2018-03-03,0.0,0.0,0.0,0.0,0.0,2018,3,3,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+63,2018-03-04,0.0,0.0,0.0,0.0,0.0,2018,3,4,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+64,2018-03-05,Kiehl's,Receive 5 Deluxe Sample including a travel pouch,7.0,24.0,12.0,2018,3,5,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,True
+65,2018-03-06,0.0,0.0,0.0,0.0,0.0,2018,3,6,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+66,2018-03-07,0.0,0.0,0.0,0.0,0.0,2018,3,7,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+67,2018-03-08,0.0,0.0,0.0,0.0,0.0,2018,3,8,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+68,2018-03-09,0.0,0.0,0.0,0.0,0.0,2018,3,9,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+69,2018-03-10,0.0,0.0,0.0,0.0,0.0,2018,3,10,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+70,2018-03-11,0.0,0.0,0.0,0.0,0.0,2018,3,11,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+71,2018-03-12,0.0,0.0,0.0,0.0,0.0,2018,3,12,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+72,2018-03-13,0.0,0.0,0.0,0.0,0.0,2018,3,13,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+73,2018-03-14,0.0,0.0,0.0,0.0,0.0,2018,3,14,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+74,2018-03-15,0.0,0.0,0.0,0.0,0.0,2018,3,15,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+75,2018-03-16,Kiehl's,Enjoy 1 Deluxe Sample for Every $25,6.0,83.0,22.0,2018,3,16,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,True
+76,2018-03-17,0.0,0.0,0.0,0.0,0.0,2018,3,17,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+77,2018-03-18,0.0,0.0,0.0,0.0,0.0,2018,3,18,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+78,2018-03-19,0.0,0.0,0.0,0.0,0.0,2018,3,19,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+79,2018-03-20,0.0,0.0,0.0,0.0,0.0,2018,3,20,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+80,2018-03-21,0.0,0.0,0.0,0.0,0.0,2018,3,21,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+81,2018-03-22,Kiehl's,['$54 + Free Sample' '3 Deluxe Samples'],11.0,33.0,11.0,2018,3,22,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+82,2018-03-23,0.0,0.0,0.0,0.0,0.0,2018,3,23,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+83,2018-03-24,0.0,0.0,0.0,0.0,0.0,2018,3,24,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+84,2018-03-25,0.0,0.0,0.0,0.0,0.0,2018,3,25,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+85,2018-03-26,Kiehl's,Receive a Full Size Ultra Facial Toner,10.0,41.0,8.0,2018,3,26,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+86,2018-03-27,0.0,0.0,0.0,0.0,0.0,2018,3,27,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+87,2018-03-28,0.0,0.0,0.0,0.0,0.0,2018,3,28,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+88,2018-03-29,0.0,0.0,0.0,0.0,0.0,2018,3,29,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+89,2018-03-30,0.0,0.0,0.0,0.0,0.0,2018,3,30,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+90,2018-03-31,0.0,0.0,0.0,0.0,0.0,2018,3,31,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+91,2018-04-01,0.0,0.0,0.0,0.0,0.0,2018,4,1,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+92,2018-04-02,0.0,0.0,0.0,0.0,0.0,2018,4,2,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+93,2018-04-03,0.0,0.0,0.0,0.0,0.0,2018,4,3,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+94,2018-04-04,0.0,0.0,0.0,0.0,0.0,2018,4,4,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+95,2018-04-05,0.0,0.0,0.0,0.0,0.0,2018,4,5,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+96,2018-04-06,0.0,0.0,0.0,0.0,0.0,2018,4,6,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+97,2018-04-07,0.0,0.0,0.0,0.0,0.0,2018,4,7,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+98,2018-04-08,0.0,0.0,0.0,0.0,0.0,2018,4,8,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+99,2018-04-09,0.0,0.0,0.0,0.0,0.0,2018,4,9,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+100,2018-04-10,0.0,0.0,0.0,0.0,0.0,2018,4,10,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+101,2018-04-11,0.0,0.0,0.0,0.0,0.0,2018,4,11,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+102,2018-04-12,0.0,0.0,0.0,0.0,0.0,2018,4,12,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+103,2018-04-13,0.0,0.0,0.0,0.0,0.0,2018,4,13,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+104,2018-04-14,0.0,0.0,0.0,0.0,0.0,2018,4,14,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+105,2018-04-15,0.0,0.0,0.0,0.0,0.0,2018,4,15,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+106,2018-04-16,0.0,0.0,0.0,0.0,0.0,2018,4,16,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+107,2018-04-17,0.0,0.0,0.0,0.0,0.0,2018,4,17,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+108,2018-04-18,0.0,0.0,0.0,0.0,0.0,2018,4,18,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+109,2018-04-19,0.0,0.0,0.0,0.0,0.0,2018,4,19,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+110,2018-04-20,0.0,0.0,0.0,0.0,0.0,2018,4,20,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+111,2018-04-21,0.0,0.0,0.0,0.0,0.0,2018,4,21,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+112,2018-04-22,Kiehl's,CELEBRATE EARTH DAY,17.0,97.0,36.0,2018,4,22,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+113,2018-04-23,0.0,0.0,0.0,0.0,0.0,2018,4,23,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+114,2018-04-24,0.0,0.0,0.0,0.0,0.0,2018,4,24,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+115,2018-04-25,0.0,0.0,0.0,0.0,0.0,2018,4,25,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+116,2018-04-26,0.0,0.0,0.0,0.0,0.0,2018,4,26,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+117,2018-04-27,0.0,0.0,0.0,0.0,0.0,2018,4,27,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+118,2018-04-28,Kiehl's,Get 4 deluxe samples and a clear mini travel bag,9.0,83.0,30.0,2018,4,28,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+119,2018-04-29,0.0,0.0,0.0,0.0,0.0,2018,4,29,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+120,2018-04-30,0.0,0.0,0.0,0.0,0.0,2018,4,30,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+121,2018-05-01,0.0,0.0,0.0,0.0,0.0,2018,5,1,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+122,2018-05-02,0.0,0.0,0.0,0.0,0.0,2018,5,2,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+123,2018-05-03,0.0,0.0,0.0,0.0,0.0,2018,5,3,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+124,2018-05-04,0.0,0.0,0.0,0.0,0.0,2018,5,4,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+125,2018-05-05,0.0,0.0,0.0,0.0,0.0,2018,5,5,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+126,2018-05-06,Kiehl's,Receive 4 deluxe samples and complimentary gift wrapping,26.0,146.0,48.0,2018,5,6,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+127,2018-05-07,0.0,0.0,0.0,0.0,0.0,2018,5,7,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+128,2018-05-08,0.0,0.0,0.0,0.0,0.0,2018,5,8,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+129,2018-05-09,Kiehl's,Enjoy 2-Day Shipping and Complimentary gift boxing,10.0,28.0,11.0,2018,5,9,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+130,2018-05-10,0.0,0.0,0.0,0.0,0.0,2018,5,10,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+131,2018-05-11,Kiehl's,Enjoy 2 complimentary deluxe samples,4.0,18.0,6.0,2018,5,11,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+132,2018-05-12,0.0,0.0,0.0,0.0,0.0,2018,5,12,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+133,2018-05-13,0.0,0.0,0.0,0.0,0.0,2018,5,13,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+134,2018-05-14,0.0,0.0,0.0,0.0,0.0,2018,5,14,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+135,2018-05-15,0.0,0.0,0.0,0.0,0.0,2018,5,15,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+136,2018-05-16,0.0,0.0,0.0,0.0,0.0,2018,5,16,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+137,2018-05-17,0.0,0.0,0.0,0.0,0.0,2018,5,17,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+138,2018-05-18,Kiehl's,['20% Off' '20% off' '$43.20$54.00'],4.0,46.0,21.0,2018,5,18,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+139,2018-05-19,Kiehl's,20% Off,13.0,75.0,9.0,2018,5,19,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+140,2018-05-20,Kiehl's,20% Off,10.0,49.0,14.0,2018,5,20,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.2,False
+141,2018-05-21,Kiehl's,['20% Off' 'Enjoy 20% off' '$12.80$16.00'],49.0,230.0,71.0,2018,5,21,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+142,2018-05-22,Kiehl's,['20% Off' '20% off Any Order' '$23.20$29.00' '$26.40$33.00'],1097.0,3426.0,1777.0,2018,5,22,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+143,2018-05-23,0.0,0.0,0.0,0.0,0.0,2018,5,23,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+144,2018-05-24,0.0,0.0,0.0,0.0,0.0,2018,5,24,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+145,2018-05-25,0.0,0.0,0.0,0.0,0.0,2018,5,25,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+146,2018-05-26,0.0,0.0,0.0,0.0,0.0,2018,5,26,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+147,2018-05-27,0.0,0.0,0.0,0.0,0.0,2018,5,27,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+148,2018-05-28,0.0,0.0,0.0,0.0,0.0,2018,5,28,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,False
+149,2018-05-29,0.0,0.0,0.0,0.0,0.0,2018,5,29,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+150,2018-05-30,0.0,0.0,0.0,0.0,0.0,2018,5,30,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+151,2018-05-31,Kiehl's,Receive 2 or more deluxe samples,7.0,37.0,15.0,2018,5,31,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+152,2018-06-01,0.0,0.0,0.0,0.0,0.0,2018,6,1,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+153,2018-06-02,0.0,0.0,0.0,0.0,0.0,2018,6,2,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+154,2018-06-03,0.0,0.0,0.0,0.0,0.0,2018,6,3,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+155,2018-06-04,0.0,0.0,0.0,0.0,0.0,2018,6,4,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+156,2018-06-05,0.0,0.0,0.0,0.0,0.0,2018,6,5,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+157,2018-06-06,0.0,0.0,0.0,0.0,0.0,2018,6,6,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+158,2018-06-07,0.0,0.0,0.0,0.0,0.0,2018,6,7,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+159,2018-06-08,0.0,0.0,0.0,0.0,0.0,2018,6,8,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+160,2018-06-09,Kiehl's,$24.00 ,7.0,35.0,3.0,2018,6,9,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+161,2018-06-10,0.0,0.0,0.0,0.0,0.0,2018,6,10,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+162,2018-06-11,0.0,0.0,0.0,0.0,0.0,2018,6,11,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+163,2018-06-12,Kiehl's,"Receive a 5 piece men's gift, plus free gift boxing",7.0,31.0,14.0,2018,6,12,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+164,2018-06-13,0.0,0.0,0.0,0.0,0.0,2018,6,13,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+165,2018-06-14,Kiehl's,Receive 3 deluxe samples,9.0,20.0,14.0,2018,6,14,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+166,2018-06-15,0.0,0.0,0.0,0.0,0.0,2018,6,15,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+167,2018-06-16,0.0,0.0,0.0,0.0,0.0,2018,6,16,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+168,2018-06-17,0.0,0.0,0.0,0.0,0.0,2018,6,17,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+169,2018-06-18,0.0,0.0,0.0,0.0,0.0,2018,6,18,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+170,2018-06-19,0.0,0.0,0.0,0.0,0.0,2018,6,19,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+171,2018-06-20,0.0,0.0,0.0,0.0,0.0,2018,6,20,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+172,2018-06-21,0.0,0.0,0.0,0.0,0.0,2018,6,21,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+173,2018-06-22,0.0,0.0,0.0,0.0,0.0,2018,6,22,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+174,2018-06-23,0.0,0.0,0.0,0.0,0.0,2018,6,23,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+175,2018-06-24,0.0,0.0,0.0,0.0,0.0,2018,6,24,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+176,2018-06-25,0.0,0.0,0.0,0.0,0.0,2018,6,25,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+177,2018-06-26,Kiehl's,Up to 5 deluxe samples,13.0,67.0,24.0,2018,6,26,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+178,2018-06-27,0.0,0.0,0.0,0.0,0.0,2018,6,27,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+179,2018-06-28,0.0,0.0,0.0,0.0,0.0,2018,6,28,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+180,2018-06-29,0.0,0.0,0.0,0.0,0.0,2018,6,29,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+181,2018-06-30,0.0,0.0,0.0,0.0,0.0,2018,6,30,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+182,2018-07-01,0.0,0.0,0.0,0.0,0.0,2018,7,1,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+183,2018-07-02,0.0,0.0,0.0,0.0,0.0,2018,7,2,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+184,2018-07-03,0.0,0.0,0.0,0.0,0.0,2018,7,3,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+185,2018-07-04,Kiehl's,3 deluxe samples,7.0,61.0,14.0,2018,7,4,Wednesday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
+186,2018-07-05,0.0,0.0,0.0,0.0,0.0,2018,7,5,Thursday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+187,2018-07-06,0.0,0.0,0.0,0.0,0.0,2018,7,6,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+188,2018-07-07,0.0,0.0,0.0,0.0,0.0,2018,7,7,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+189,2018-07-08,0.0,0.0,0.0,0.0,0.0,2018,7,8,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+190,2018-07-09,0.0,0.0,0.0,0.0,0.0,2018,7,9,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+191,2018-07-10,Kiehl's,Receive 3 deluxe samples of a Calendula product of your choice,16.0,104.0,18.0,2018,7,10,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+192,2018-07-11,Kiehl's,Up to 6 deluxe samples,8.0,60.0,20.0,2018,7,11,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+193,2018-07-12,0.0,0.0,0.0,0.0,0.0,2018,7,12,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+194,2018-07-13,0.0,0.0,0.0,0.0,0.0,2018,7,13,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+195,2018-07-14,0.0,0.0,0.0,0.0,0.0,2018,7,14,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+196,2018-07-15,0.0,0.0,0.0,0.0,0.0,2018,7,15,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+197,2018-07-16,0.0,0.0,0.0,0.0,0.0,2018,7,16,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+198,2018-07-17,0.0,0.0,0.0,0.0,0.0,2018,7,17,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+199,2018-07-18,0.0,0.0,0.0,0.0,0.0,2018,7,18,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+200,2018-07-19,0.0,0.0,0.0,0.0,0.0,2018,7,19,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+201,2018-07-20,0.0,0.0,0.0,0.0,0.0,2018,7,20,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+202,2018-07-21,Kiehl's,Get 1 deluxe sample for,7.0,58.0,25.0,2018,7,21,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+203,2018-07-22,0.0,0.0,0.0,0.0,0.0,2018,7,22,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+204,2018-07-23,Kiehl's,Receive 2 deluxe samples,0.0,2.0,0.0,2018,7,23,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+205,2018-07-24,0.0,0.0,0.0,0.0,0.0,2018,7,24,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+206,2018-07-25,0.0,0.0,0.0,0.0,0.0,2018,7,25,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+207,2018-07-26,0.0,0.0,0.0,0.0,0.0,2018,7,26,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+208,2018-07-27,0.0,0.0,0.0,0.0,0.0,2018,7,27,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+209,2018-07-28,0.0,0.0,0.0,0.0,0.0,2018,7,28,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+210,2018-07-29,0.0,0.0,0.0,0.0,0.0,2018,7,29,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+211,2018-07-30,Kiehl's,Receive 10 packettes of your choosing,5.0,59.0,20.0,2018,7,30,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+212,2018-07-31,0.0,0.0,0.0,0.0,0.0,2018,7,31,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+213,2018-08-01,0.0,0.0,0.0,0.0,0.0,2018,8,1,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+214,2018-08-02,0.0,0.0,0.0,0.0,0.0,2018,8,2,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+215,2018-08-03,0.0,0.0,0.0,0.0,0.0,2018,8,3,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+216,2018-08-04,0.0,0.0,0.0,0.0,0.0,2018,8,4,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+217,2018-08-05,0.0,0.0,0.0,0.0,0.0,2018,8,5,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+218,2018-08-06,Kiehl's,Receive a Deluxe Sample of Youth Dose Eye Treatment,15.0,82.0,25.0,2018,8,6,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+219,2018-08-07,0.0,0.0,0.0,0.0,0.0,2018,8,7,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+220,2018-08-08,0.0,0.0,0.0,0.0,0.0,2018,8,8,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+221,2018-08-09,0.0,0.0,0.0,0.0,0.0,2018,8,9,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+222,2018-08-10,0.0,0.0,0.0,0.0,0.0,2018,8,10,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+223,2018-08-11,0.0,0.0,0.0,0.0,0.0,2018,8,11,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+224,2018-08-12,Kiehl's,15% Off,4.0,52.0,29.0,2018,8,12,Sunday,False,Normal,Normal,Normal,Labor Day,0.15,False
+225,2018-08-13,Kiehl's,['$17.85 (Original $21)' '$48.00$60.00' '15% Off + GWP' 'Enjoy 15% Off'],23.0,125.0,26.0,2018,8,13,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+226,2018-08-14,Kiehl's,"['15% Off' '$24.65 (Original $29.00)' 'Enjoy 15% Off'
  'Enjoy 15% off entire purchase' '$42.50 (Original $50.00)'
- '$51 (Original $60)' '$52.7 (Original $62)' '$28.05 (Original $33)']",2018-08-14,273.0,1458.0,740.0,2018,8,14,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
-48,Kiehl's,Receive a 4 piece gift,2018-08-23,12.0,49.0,21.0,2018,8,23,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
-49,Kiehl's,Receive 5 Deluxe Samples + Full Size Cleanser,2018-09-13,21.0,128.0,46.0,2018,9,13,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
-50,Kiehl's,New Arrival! $70,2018-10-04,3.0,65.0,26.0,2018,10,4,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
-51,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,2018-10-16,2.0,7.0,2.0,2018,10,16,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
-52,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,2018-10-17,10.0,192.0,51.0,2018,10,17,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
-53,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,2018-10-18,50.0,250.0,108.0,2018,10,18,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
-54,Kiehl's,New Arrival!,2018-10-31,18.0,55.0,25.0,2018,10,31,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
-55,Kiehl's,4 Deluxe Samples+Free Ground Shipping,2018-11-22,14.0,51.0,12.0,2018,11,22,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
-56,Kiehl's,4 deluxe samples and free ground shipping,2018-11-24,22.0,64.0,15.0,2018,11,24,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
-57,Kiehl's,Receive a 13-piece gift,2018-11-27,14.0,27.0,14.0,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
-58,Kiehl's,Get $20 off,2018-12-19,4.0,12.0,1.0,2018,12,19,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
-59,Kiehl's,Get $20 off,2018-12-20,4.0,16.0,5.0,2018,12,20,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
-60,Kiehl's,Get $20 off,2018-12-30,535.0,1988.0,1059.0,2018,12,30,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
-61,Kiehl's,Get $20 off,2018-12-31,563.0,2480.0,1157.0,2018,12,31,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
-62,Kiehl's,Get $20 off,2019-01-01,6022.0,10776.0,6894.0,2019,1,1,Tuesday,False,New Year's Day,New Year's Day,New Year's Day,New Year's Day,0.0,False
-63,Kiehl's,4 deluxe samples,2019-01-04,23.0,32.0,21.0,2019,1,4,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
-64,Kiehl's,Free Gift,2019-01-16,67.0,24.0,20.0,2019,1,16,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
-65,Kiehl's,Dealmoon EXCLUSIVE: 5-piece gift on $55 + a Free Travel-size Crème De Corps,2019-01-29,26.0,167.0,55.0,2019,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
-66,Kiehl's,Receive two deluxe samples,2019-02-05,13.0,10.0,5.0,2019,2,5,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
-67,Kiehl's,Receive a limited edition tote bag,2019-02-15,1.0,7.0,6.0,2019,2,15,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
-68,Kiehl's,Deluxe Samples,2019-02-23,37.0,105.0,58.0,2019,2,23,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
-69,Kiehl's,Dealmoon Exclusive! receive 15% off,2019-02-27,28.0,104.0,54.0,2019,2,27,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.15,False
-70,Kiehl's,Deluxe sample duos,2019-03-01,3.0,28.0,34.0,2019,3,1,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
-71,Kiehl's,3 deluxe samples,2019-03-10,9.0,39.0,20.0,2019,3,10,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
-72,Kiehl's,['Free samples' 'Dealmoon Exclusive: receive 15% off + GWP'],2019-03-11,283.0,510.0,421.0,2019,3,11,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
-73,Kiehl's,2 deluxe samples,2019-03-14,17.0,27.0,18.0,2019,3,14,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
-74,Kiehl's,Choose 6 Piece Gift on a $65+ order,2019-03-27,94.0,254.0,173.0,2019,3,27,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
-75,Kiehl's,Free samples,2019-03-28,17.0,26.0,20.0,2019,3,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
-76,Kiehl's,15% Off + Free Gift,2019-04-01,74.0,149.0,107.0,2019,4,1,Monday,False,Normal,Normal,Normal,Normal,0.15,True
-77,Kiehl's,3-pc Gift,2019-04-04,1.0,17.0,7.0,2019,4,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
-78,Kiehl's,10 packette samples,2019-04-10,8.0,5.0,3.0,2019,4,10,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
-79,Kiehl's,"Receive 2 deluxe samples on $50+, Receive 4 deluxe samples on $65+, Receive a 5 piece gift on $100+",2019-04-19,24.0,49.0,46.0,2019,4,19,Friday,True,Normal,Normal,Normal,Normal,0.0,False
-80,Kiehl's,20% off + GWP,2019-04-24,3.0,6.0,12.0,2019,4,24,Wednesday,False,Normal,Normal,Normal,Normal,0.2,True
-81,Kiehl's,['$24 (Original $30)' '20% off + GWP' '20%off'],2019-04-29,21.0,89.0,66.0,2019,4,29,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
-82,Kiehl's,['20% off' '20% Off' 'DEALMOON EXCLUSIVE: 20% Off'],2019-04-30,893.0,1421.0,1220.0,2019,4,30,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
-83,Kiehl's,Deluxe Samples,2019-05-05,10.0,23.0,25.0,2019,5,5,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
-84,Kiehl's,['Deluxe Samples' 'Choose 2 deluxe sample (Up to 8)'],2019-05-15,6.0,47.0,26.0,2019,5,15,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
-85,Kiehl's,Free sample!,2019-05-16,11.0,11.0,14.0,2019,5,16,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
-86,Kiehl's,Deluxe Samples,2019-05-28,3.0,13.0,3.0,2019,5,28,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
-87,Kiehl's,3 Deluxe Samples,2019-05-31,22.0,57.0,43.0,2019,5,31,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
-88,Kiehl's,10 packette samples,2019-06-03,13.0,11.0,14.0,2019,6,3,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
-89,Kiehl's,5 deluxe samples,2019-06-04,1.0,8.0,8.0,2019,6,4,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
-90,Kiehl's,20% off + GWP,2019-06-10,15.0,33.0,24.0,2019,6,10,Monday,False,Normal,Normal,Normal,Memorial Day,0.2,True
-91,Kiehl's,['20% Off' '20% Off + GWP' '20% off' '20% off + GWP'],2019-06-11,367.0,678.0,461.0,2019,6,11,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
-92,Kiehl's,Deluxe Samples,2019-06-13,5.0,11.0,31.0,2019,6,13,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
-93,Kiehl's,['2 Deluxe Samples+Free Shipping' '3 Deluxe Samples'],2019-06-19,28.0,27.0,26.0,2019,6,19,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
-94,Kiehl's,2 Deluxe Samples+Free Shipping,2019-06-21,0.0,0.0,0.0,2019,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
-95,Kiehl's,3 Deluxe Samples With $65+ Order,2019-06-27,10.0,18.0,14.0,2019,6,27,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
-96,Kiehl's,Free 3 Deluxe Calendula Samples & Headband,2019-07-01,8.0,25.0,19.0,2019,7,1,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
-97,Kiehl's,Free 5 Deluxe Samples with $75+,2019-07-05,15.0,41.0,26.0,2019,7,5,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
-98,Kiehl's,Free 3-Piece Gift $65+,2019-07-12,8.0,22.0,13.0,2019,7,12,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
-99,Kiehl's,Free 7-Piece Gift $70+,2019-07-15,1.0,13.0,7.0,2019,7,15,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
-100,Kiehl's,"['20% off + 8-piece Free Gift' '20% Off + 8-piece Free with Purchase'
- '20% Off+8-piece Free Gift' '20% off + 10-piece Free Gift']",2019-07-30,401.0,771.0,609.0,2019,7,30,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
-101,Kiehl's,['Receive 10 Sample Packettes of PSLRC' '3-piece Free Gift'],2019-08-13,15.0,27.0,16.0,2019,8,13,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
-102,Kiehl's,Free 2Pc Gifts,2019-08-16,3.0,23.0,13.0,2019,8,16,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
-103,Kiehl's,Receive Up to 5 Piece Gifts,2019-08-19,0.0,5.0,7.0,2019,8,19,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
-104,Kiehl's,Receive Up to 9 Piece Gifts,2019-08-26,4.0,2.0,6.0,2019,8,26,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
-105,Kiehl's,Receive Up to 5 Piece Gifts,2019-09-04,5.0,6.0,5.0,2019,9,4,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
-106,Kiehl's,Receive 5 Deluxe Samples + Full Size Cleanser,2019-10-01,27.0,82.0,43.0,2019,10,1,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
-107,Kiehl's,['$90($160 Value)' '4 Deluxe Samples + Travel Bag'],2019-10-09,18.0,51.0,57.0,2019,10,9,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
-108,Kiehl's,Sleep Mask + 3 nighttime deluxe samples,2019-10-11,9.0,14.0,7.0,2019,10,11,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
-109,Kiehl's,Receive Up to 8 Piece Gifts,2019-10-20,18.0,46.0,100.0,2019,10,20,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
-110,Kiehl's,$15 Off,2019-10-23,5.0,19.0,8.0,2019,10,23,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
-111,Kiehl's,20% off,2019-10-28,22.0,46.0,93.0,2019,10,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.2,False
-112,Kiehl's,['20% Off' '20% off'],2019-10-29,306.0,944.0,721.0,2019,10,29,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
-113,Kiehl's,$41.60 + 11-piece Free Gift,2019-11-09,1.0,17.0,74.0,2019,11,9,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
-114,Kiehl's,20% Off + 11-piece Free Gift,2019-11-10,0.0,12.0,81.0,2019,11,10,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
-115,Kiehl's,20% Off + + 11-piece Free Gift,2019-11-11,4.0,23.0,94.0,2019,11,11,Monday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.2,True
-116,Kiehl's,20% Off + 11-piece Free Gift,2019-11-12,153.0,573.0,563.0,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
-117,Kiehl's,Up to 8-piece Free Gift,2019-11-13,2.0,9.0,7.0,2019,11,13,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
-118,Kiehl's,Up to $35 Off,2019-11-21,7.0,29.0,99.0,2019,11,21,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
-119,Kiehl's,Up to $35 Off,2019-12-02,2619.0,3801.0,2783.0,2019,12,2,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
-120,Kiehl's,"['$20 Off $65' 'Up to $35 Off' 'Get $20 Off on $65 Purchase+ Free Gift'
- 'Take 50% Off' '$20 Off $65 + Free Gift']",2020-01-01,5116.0,5107.0,4774.0,2020,1,1,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
-121,Kiehl's,Up to 3-piece Free Gift,2020-01-08,13.0,11.0,8.0,2020,1,8,Wednesday,False,Normal,Normal,Normal,Christmas Day,0.0,True
-122,Kiehl's,15% Off,2020-01-24,63.0,132.0,82.0,2020,1,24,Friday,True,Normal,Normal,Normal,Normal,0.15,False
-123,Kiehl's,Free Shipping Any Purchase,2020-01-28,8.0,11.0,7.0,2020,1,28,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
-124,Kiehl's,Enjoy 3 Deluxe Mask Samples,2020-02-01,1.0,3.0,7.0,2020,2,1,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
-125,Kiehl's,Up to 2 Sample Bundles,2020-02-04,0.0,7.0,6.0,2020,2,4,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
-126,Kiehl's,Up to 9 Sample Bundles,2020-02-25,46.0,111.0,81.0,2020,2,25,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
-127,Kiehl's,Up to 5 free Gifts,2020-02-28,3.0,6.0,5.0,2020,2,28,Friday,True,Normal,Normal,Normal,Normal,0.0,True
-128,Kiehl's,Free 8-piece Gift,2020-03-11,26.0,60.0,57.0,2020,3,11,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
-129,Kiehl's,Up to 7 free Gifts,2020-03-16,6.0,16.0,15.0,2020,3,16,Monday,False,Normal,Normal,Normal,Normal,0.0,True
-130,Kiehl's,Free Full Size Gifts,2020-03-23,12.0,8.0,6.0,2020,3,23,Monday,False,Normal,Normal,Normal,Normal,0.0,True
-131,Kiehl's,"['20% Off + Free Shipping' '20% Off + Free Shipping + Free Gifts'
- '20% Off + Free Shipping + GWP' '20% Off Sitewide + Free Shipping']",2020-04-03,56.0,201.0,153.0,2020,4,3,Friday,True,Normal,Normal,Normal,Normal,0.0,False
-132,Kiehl's,20% Off Sitewide + Free Shipping,2020-04-04,809.0,748.0,681.0,2020,4,4,Saturday,True,Normal,Normal,Normal,Normal,0.2,False
-133,Kiehl's,40% Off,2020-04-13,278.0,209.0,210.0,2020,4,13,Monday,False,Normal,Normal,Normal,Normal,0.4,False
-134,Kiehl's,Free Gifts,2020-04-14,4.0,1.0,5.0,2020,4,14,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
-135,Kiehl's,Free Gifts,2020-04-15,5.0,17.0,9.0,2020,4,15,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
-136,Kiehl's,Free Gifts,2020-04-17,5.0,4.0,4.0,2020,4,17,Friday,True,Normal,Normal,Normal,Normal,0.0,True
-137,Kiehl's,40% Off,2020-05-04,758.0,475.0,418.0,2020,5,4,Monday,False,Normal,Normal,Normal,Normal,0.4,False
-138,Kiehl's,Free Gifts,2020-05-07,140.0,29.0,70.0,2020,5,7,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
-139,Kiehl's,Free Gifts,2020-05-12,59.0,11.0,6.0,2020,5,12,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
-140,Kiehl's,Free Mask,2020-05-14,100.0,5.0,4.0,2020,5,14,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
-141,Kiehl's,Free Gifts,2020-05-15,25.0,11.0,7.0,2020,5,15,Friday,True,Normal,Normal,Normal,Normal,0.0,True
-142,Kiehl's,15% Off,2020-05-22,40.0,19.0,11.0,2020,5,22,Friday,True,Normal,Normal,Normal,Normal,0.15,False
-143,Kiehl's,Starting From$52,2020-05-26,0.0,9.0,3.0,2020,5,26,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
-144,Kiehl's,Free Gift,2020-06-04,30.0,30.0,19.0,2020,6,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
-145,Kiehl's,Free Gifts,2020-06-08,256.0,71.0,49.0,2020,6,8,Monday,False,Normal,Normal,Normal,Normal,0.0,True
-146,Kiehl's,Free Gift,2020-06-10,7.0,20.0,9.0,2020,6,10,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
-147,Kiehl's,Free Gifts,2020-06-15,4.0,4.0,6.0,2020,6,15,Monday,False,Normal,Normal,Normal,Normal,0.0,True
-148,Kiehl's,['20% Off + Free Gift' '20% Off'],2020-06-20,209.0,281.0,130.0,2020,6,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
-149,Kiehl's,['20% Off + Free Gift' '20% Off'],2020-06-21,18.0,54.0,25.0,2020,6,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+ '$51 (Original $60)' '$52.7 (Original $62)' '$28.05 (Original $33)']",273.0,1458.0,740.0,2018,8,14,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+227,2018-08-15,0.0,0.0,0.0,0.0,0.0,2018,8,15,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+228,2018-08-16,0.0,0.0,0.0,0.0,0.0,2018,8,16,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+229,2018-08-17,0.0,0.0,0.0,0.0,0.0,2018,8,17,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+230,2018-08-18,0.0,0.0,0.0,0.0,0.0,2018,8,18,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+231,2018-08-19,0.0,0.0,0.0,0.0,0.0,2018,8,19,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+232,2018-08-20,0.0,0.0,0.0,0.0,0.0,2018,8,20,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+233,2018-08-21,0.0,0.0,0.0,0.0,0.0,2018,8,21,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+234,2018-08-22,0.0,0.0,0.0,0.0,0.0,2018,8,22,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+235,2018-08-23,Kiehl's,Receive a 4 piece gift,12.0,49.0,21.0,2018,8,23,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+236,2018-08-24,0.0,0.0,0.0,0.0,0.0,2018,8,24,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+237,2018-08-25,0.0,0.0,0.0,0.0,0.0,2018,8,25,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+238,2018-08-26,0.0,0.0,0.0,0.0,0.0,2018,8,26,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+239,2018-08-27,0.0,0.0,0.0,0.0,0.0,2018,8,27,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+240,2018-08-28,0.0,0.0,0.0,0.0,0.0,2018,8,28,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+241,2018-08-29,0.0,0.0,0.0,0.0,0.0,2018,8,29,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+242,2018-08-30,0.0,0.0,0.0,0.0,0.0,2018,8,30,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+243,2018-08-31,0.0,0.0,0.0,0.0,0.0,2018,8,31,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+244,2018-09-01,0.0,0.0,0.0,0.0,0.0,2018,9,1,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+245,2018-09-02,0.0,0.0,0.0,0.0,0.0,2018,9,2,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+246,2018-09-03,0.0,0.0,0.0,0.0,0.0,2018,9,3,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,False
+247,2018-09-04,0.0,0.0,0.0,0.0,0.0,2018,9,4,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+248,2018-09-05,0.0,0.0,0.0,0.0,0.0,2018,9,5,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+249,2018-09-06,0.0,0.0,0.0,0.0,0.0,2018,9,6,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+250,2018-09-07,0.0,0.0,0.0,0.0,0.0,2018,9,7,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+251,2018-09-08,0.0,0.0,0.0,0.0,0.0,2018,9,8,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+252,2018-09-09,0.0,0.0,0.0,0.0,0.0,2018,9,9,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+253,2018-09-10,0.0,0.0,0.0,0.0,0.0,2018,9,10,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+254,2018-09-11,0.0,0.0,0.0,0.0,0.0,2018,9,11,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+255,2018-09-12,0.0,0.0,0.0,0.0,0.0,2018,9,12,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+256,2018-09-13,Kiehl's,Receive 5 Deluxe Samples + Full Size Cleanser,21.0,128.0,46.0,2018,9,13,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+257,2018-09-14,0.0,0.0,0.0,0.0,0.0,2018,9,14,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+258,2018-09-15,0.0,0.0,0.0,0.0,0.0,2018,9,15,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+259,2018-09-16,0.0,0.0,0.0,0.0,0.0,2018,9,16,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+260,2018-09-17,0.0,0.0,0.0,0.0,0.0,2018,9,17,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+261,2018-09-18,0.0,0.0,0.0,0.0,0.0,2018,9,18,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+262,2018-09-19,0.0,0.0,0.0,0.0,0.0,2018,9,19,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+263,2018-09-20,0.0,0.0,0.0,0.0,0.0,2018,9,20,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+264,2018-09-21,0.0,0.0,0.0,0.0,0.0,2018,9,21,Friday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+265,2018-09-22,0.0,0.0,0.0,0.0,0.0,2018,9,22,Saturday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+266,2018-09-23,0.0,0.0,0.0,0.0,0.0,2018,9,23,Sunday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+267,2018-09-24,0.0,0.0,0.0,0.0,0.0,2018,9,24,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+268,2018-09-25,0.0,0.0,0.0,0.0,0.0,2018,9,25,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+269,2018-09-26,0.0,0.0,0.0,0.0,0.0,2018,9,26,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+270,2018-09-27,0.0,0.0,0.0,0.0,0.0,2018,9,27,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+271,2018-09-28,0.0,0.0,0.0,0.0,0.0,2018,9,28,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+272,2018-09-29,0.0,0.0,0.0,0.0,0.0,2018,9,29,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+273,2018-09-30,0.0,0.0,0.0,0.0,0.0,2018,9,30,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+274,2018-10-01,0.0,0.0,0.0,0.0,0.0,2018,10,1,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+275,2018-10-02,0.0,0.0,0.0,0.0,0.0,2018,10,2,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+276,2018-10-03,0.0,0.0,0.0,0.0,0.0,2018,10,3,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+277,2018-10-04,Kiehl's,New Arrival! $70,3.0,65.0,26.0,2018,10,4,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+278,2018-10-05,0.0,0.0,0.0,0.0,0.0,2018,10,5,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+279,2018-10-06,0.0,0.0,0.0,0.0,0.0,2018,10,6,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+280,2018-10-07,0.0,0.0,0.0,0.0,0.0,2018,10,7,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+281,2018-10-08,0.0,0.0,0.0,0.0,0.0,2018,10,8,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+282,2018-10-09,0.0,0.0,0.0,0.0,0.0,2018,10,9,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+283,2018-10-10,0.0,0.0,0.0,0.0,0.0,2018,10,10,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+284,2018-10-11,0.0,0.0,0.0,0.0,0.0,2018,10,11,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+285,2018-10-12,0.0,0.0,0.0,0.0,0.0,2018,10,12,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+286,2018-10-13,0.0,0.0,0.0,0.0,0.0,2018,10,13,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+287,2018-10-14,0.0,0.0,0.0,0.0,0.0,2018,10,14,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+288,2018-10-15,0.0,0.0,0.0,0.0,0.0,2018,10,15,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+289,2018-10-16,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,2.0,7.0,2.0,2018,10,16,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+290,2018-10-17,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,10.0,192.0,51.0,2018,10,17,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+291,2018-10-18,Kiehl's,Dealmoon Exclusive! Receive 6 deluxe samples,50.0,250.0,108.0,2018,10,18,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+292,2018-10-19,0.0,0.0,0.0,0.0,0.0,2018,10,19,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+293,2018-10-20,0.0,0.0,0.0,0.0,0.0,2018,10,20,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+294,2018-10-21,0.0,0.0,0.0,0.0,0.0,2018,10,21,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+295,2018-10-22,0.0,0.0,0.0,0.0,0.0,2018,10,22,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+296,2018-10-23,0.0,0.0,0.0,0.0,0.0,2018,10,23,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+297,2018-10-24,0.0,0.0,0.0,0.0,0.0,2018,10,24,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+298,2018-10-25,0.0,0.0,0.0,0.0,0.0,2018,10,25,Thursday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+299,2018-10-26,0.0,0.0,0.0,0.0,0.0,2018,10,26,Friday,True,Normal,Normal,Normal,Veterans Day,0.0,False
+300,2018-10-27,0.0,0.0,0.0,0.0,0.0,2018,10,27,Saturday,True,Normal,Normal,Normal,Veterans Day,0.0,False
+301,2018-10-28,0.0,0.0,0.0,0.0,0.0,2018,10,28,Sunday,False,Normal,Normal,Normal,Veterans Day,0.0,False
+302,2018-10-29,0.0,0.0,0.0,0.0,0.0,2018,10,29,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+303,2018-10-30,0.0,0.0,0.0,0.0,0.0,2018,10,30,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+304,2018-10-31,Kiehl's,New Arrival!,18.0,55.0,25.0,2018,10,31,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+305,2018-11-01,0.0,0.0,0.0,0.0,0.0,2018,11,1,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+306,2018-11-02,0.0,0.0,0.0,0.0,0.0,2018,11,2,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+307,2018-11-03,0.0,0.0,0.0,0.0,0.0,2018,11,3,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+308,2018-11-04,0.0,0.0,0.0,0.0,0.0,2018,11,4,Sunday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+309,2018-11-05,0.0,0.0,0.0,0.0,0.0,2018,11,5,Monday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+310,2018-11-06,0.0,0.0,0.0,0.0,0.0,2018,11,6,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+311,2018-11-07,0.0,0.0,0.0,0.0,0.0,2018,11,7,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+312,2018-11-08,0.0,0.0,0.0,0.0,0.0,2018,11,8,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+313,2018-11-09,0.0,0.0,0.0,0.0,0.0,2018,11,9,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+314,2018-11-10,0.0,0.0,0.0,0.0,0.0,2018,11,10,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+315,2018-11-11,0.0,0.0,0.0,0.0,0.0,2018,11,11,Sunday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.0,False
+316,2018-11-12,0.0,0.0,0.0,0.0,0.0,2018,11,12,Monday,False,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+317,2018-11-13,0.0,0.0,0.0,0.0,0.0,2018,11,13,Tuesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+318,2018-11-14,0.0,0.0,0.0,0.0,0.0,2018,11,14,Wednesday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+319,2018-11-15,0.0,0.0,0.0,0.0,0.0,2018,11,15,Thursday,False,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+320,2018-11-16,0.0,0.0,0.0,0.0,0.0,2018,11,16,Friday,True,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+321,2018-11-17,0.0,0.0,0.0,0.0,0.0,2018,11,17,Saturday,True,Normal,Veterans Day (Observed),Veterans Day (Observed),Veterans Day (Observed),0.0,False
+322,2018-11-18,0.0,0.0,0.0,0.0,0.0,2018,11,18,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+323,2018-11-19,0.0,0.0,0.0,0.0,0.0,2018,11,19,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+324,2018-11-20,0.0,0.0,0.0,0.0,0.0,2018,11,20,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+325,2018-11-21,0.0,0.0,0.0,0.0,0.0,2018,11,21,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+326,2018-11-22,Kiehl's,4 Deluxe Samples+Free Ground Shipping,14.0,51.0,12.0,2018,11,22,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,True
+327,2018-11-23,0.0,0.0,0.0,0.0,0.0,2018,11,23,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+328,2018-11-24,Kiehl's,4 deluxe samples and free ground shipping,22.0,64.0,15.0,2018,11,24,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+329,2018-11-25,0.0,0.0,0.0,0.0,0.0,2018,11,25,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+330,2018-11-26,0.0,0.0,0.0,0.0,0.0,2018,11,26,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+331,2018-11-27,Kiehl's,Receive a 13-piece gift,14.0,27.0,14.0,2018,11,27,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+332,2018-11-28,0.0,0.0,0.0,0.0,0.0,2018,11,28,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+333,2018-11-29,0.0,0.0,0.0,0.0,0.0,2018,11,29,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+334,2018-11-30,0.0,0.0,0.0,0.0,0.0,2018,11,30,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+335,2018-12-01,0.0,0.0,0.0,0.0,0.0,2018,12,1,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+336,2018-12-02,0.0,0.0,0.0,0.0,0.0,2018,12,2,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+337,2018-12-03,0.0,0.0,0.0,0.0,0.0,2018,12,3,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+338,2018-12-04,0.0,0.0,0.0,0.0,0.0,2018,12,4,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+339,2018-12-05,0.0,0.0,0.0,0.0,0.0,2018,12,5,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+340,2018-12-06,0.0,0.0,0.0,0.0,0.0,2018,12,6,Thursday,False,Normal,Normal,Normal,Thanksgiving,0.0,False
+341,2018-12-07,0.0,0.0,0.0,0.0,0.0,2018,12,7,Friday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+342,2018-12-08,0.0,0.0,0.0,0.0,0.0,2018,12,8,Saturday,True,Normal,Normal,Normal,Thanksgiving,0.0,False
+343,2018-12-09,0.0,0.0,0.0,0.0,0.0,2018,12,9,Sunday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+344,2018-12-10,0.0,0.0,0.0,0.0,0.0,2018,12,10,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+345,2018-12-11,0.0,0.0,0.0,0.0,0.0,2018,12,11,Tuesday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+346,2018-12-12,0.0,0.0,0.0,0.0,0.0,2018,12,12,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+347,2018-12-13,0.0,0.0,0.0,0.0,0.0,2018,12,13,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+348,2018-12-14,0.0,0.0,0.0,0.0,0.0,2018,12,14,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+349,2018-12-15,0.0,0.0,0.0,0.0,0.0,2018,12,15,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+350,2018-12-16,0.0,0.0,0.0,0.0,0.0,2018,12,16,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+351,2018-12-17,0.0,0.0,0.0,0.0,0.0,2018,12,17,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+352,2018-12-18,0.0,0.0,0.0,0.0,0.0,2018,12,18,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+353,2018-12-19,Kiehl's,Get $20 off,4.0,12.0,1.0,2018,12,19,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+354,2018-12-20,Kiehl's,Get $20 off,4.0,16.0,5.0,2018,12,20,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+355,2018-12-21,0.0,0.0,0.0,0.0,0.0,2018,12,21,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+356,2018-12-22,0.0,0.0,0.0,0.0,0.0,2018,12,22,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+357,2018-12-23,0.0,0.0,0.0,0.0,0.0,2018,12,23,Sunday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+358,2018-12-24,0.0,0.0,0.0,0.0,0.0,2018,12,24,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+359,2018-12-25,0.0,0.0,0.0,0.0,0.0,2018,12,25,Tuesday,False,Christmas Day,Christmas Day,Christmas Day,Christmas Day,0.0,False
+360,2018-12-26,0.0,0.0,0.0,0.0,0.0,2018,12,26,Wednesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+361,2018-12-27,0.0,0.0,0.0,0.0,0.0,2018,12,27,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+362,2018-12-28,0.0,0.0,0.0,0.0,0.0,2018,12,28,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+363,2018-12-29,0.0,0.0,0.0,0.0,0.0,2018,12,29,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+364,2018-12-30,Kiehl's,Get $20 off,535.0,1988.0,1059.0,2018,12,30,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+365,2018-12-31,Kiehl's,Get $20 off,563.0,2480.0,1157.0,2018,12,31,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+366,2019-01-01,Kiehl's,Get $20 off,6022.0,10776.0,6894.0,2019,1,1,Tuesday,False,New Year's Day,New Year's Day,New Year's Day,New Year's Day,0.0,False
+367,2019-01-02,0.0,0.0,0.0,0.0,0.0,2019,1,2,Wednesday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+368,2019-01-03,0.0,0.0,0.0,0.0,0.0,2019,1,3,Thursday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+369,2019-01-04,Kiehl's,4 deluxe samples,23.0,32.0,21.0,2019,1,4,Friday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+370,2019-01-05,0.0,0.0,0.0,0.0,0.0,2019,1,5,Saturday,True,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+371,2019-01-06,0.0,0.0,0.0,0.0,0.0,2019,1,6,Sunday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+372,2019-01-07,0.0,0.0,0.0,0.0,0.0,2019,1,7,Monday,False,Normal,New Year's Day,New Year's Day,New Year's Day,0.0,False
+373,2019-01-08,0.0,0.0,0.0,0.0,0.0,2019,1,8,Tuesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+374,2019-01-09,0.0,0.0,0.0,0.0,0.0,2019,1,9,Wednesday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+375,2019-01-10,0.0,0.0,0.0,0.0,0.0,2019,1,10,Thursday,False,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+376,2019-01-11,0.0,0.0,0.0,0.0,0.0,2019,1,11,Friday,True,Normal,Normal,New Year's Day,New Year's Day,0.0,False
+377,2019-01-12,0.0,0.0,0.0,0.0,0.0,2019,1,12,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+378,2019-01-13,0.0,0.0,0.0,0.0,0.0,2019,1,13,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+379,2019-01-14,0.0,0.0,0.0,0.0,0.0,2019,1,14,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+380,2019-01-15,0.0,0.0,0.0,0.0,0.0,2019,1,15,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+381,2019-01-16,Kiehl's,Free Gift,67.0,24.0,20.0,2019,1,16,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+382,2019-01-17,0.0,0.0,0.0,0.0,0.0,2019,1,17,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+383,2019-01-18,0.0,0.0,0.0,0.0,0.0,2019,1,18,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+384,2019-01-19,0.0,0.0,0.0,0.0,0.0,2019,1,19,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+385,2019-01-20,0.0,0.0,0.0,0.0,0.0,2019,1,20,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+386,2019-01-21,0.0,0.0,0.0,0.0,0.0,2019,1,21,Monday,False,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+387,2019-01-22,0.0,0.0,0.0,0.0,0.0,2019,1,22,Tuesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+388,2019-01-23,0.0,0.0,0.0,0.0,0.0,2019,1,23,Wednesday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+389,2019-01-24,0.0,0.0,0.0,0.0,0.0,2019,1,24,Thursday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+390,2019-01-25,0.0,0.0,0.0,0.0,0.0,2019,1,25,Friday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+391,2019-01-26,0.0,0.0,0.0,0.0,0.0,2019,1,26,Saturday,True,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+392,2019-01-27,0.0,0.0,0.0,0.0,0.0,2019,1,27,Sunday,False,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+393,2019-01-28,0.0,0.0,0.0,0.0,0.0,2019,1,28,Monday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+394,2019-01-29,Kiehl's,Dealmoon EXCLUSIVE: 5-piece gift on $55 + a Free Travel-size Crème De Corps,26.0,167.0,55.0,2019,1,29,Tuesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,True
+395,2019-01-30,0.0,0.0,0.0,0.0,0.0,2019,1,30,Wednesday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+396,2019-01-31,0.0,0.0,0.0,0.0,0.0,2019,1,31,Thursday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+397,2019-02-01,0.0,0.0,0.0,0.0,0.0,2019,2,1,Friday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+398,2019-02-02,0.0,0.0,0.0,0.0,0.0,2019,2,2,Saturday,True,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+399,2019-02-03,0.0,0.0,0.0,0.0,0.0,2019,2,3,Sunday,False,Normal,Normal,Martin Luther King Jr. Day,Martin Luther King Jr. Day,0.0,False
+400,2019-02-04,0.0,0.0,0.0,0.0,0.0,2019,2,4,Monday,False,Normal,Normal,Normal,Martin Luther King Jr. Day,0.0,False
+401,2019-02-05,Kiehl's,Receive two deluxe samples,13.0,10.0,5.0,2019,2,5,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+402,2019-02-06,0.0,0.0,0.0,0.0,0.0,2019,2,6,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+403,2019-02-07,0.0,0.0,0.0,0.0,0.0,2019,2,7,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+404,2019-02-08,0.0,0.0,0.0,0.0,0.0,2019,2,8,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+405,2019-02-09,0.0,0.0,0.0,0.0,0.0,2019,2,9,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+406,2019-02-10,0.0,0.0,0.0,0.0,0.0,2019,2,10,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+407,2019-02-11,0.0,0.0,0.0,0.0,0.0,2019,2,11,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+408,2019-02-12,0.0,0.0,0.0,0.0,0.0,2019,2,12,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+409,2019-02-13,0.0,0.0,0.0,0.0,0.0,2019,2,13,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+410,2019-02-14,0.0,0.0,0.0,0.0,0.0,2019,2,14,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+411,2019-02-15,Kiehl's,Receive a limited edition tote bag,1.0,7.0,6.0,2019,2,15,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+412,2019-02-16,0.0,0.0,0.0,0.0,0.0,2019,2,16,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+413,2019-02-17,0.0,0.0,0.0,0.0,0.0,2019,2,17,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+414,2019-02-18,0.0,0.0,0.0,0.0,0.0,2019,2,18,Monday,False,Washington's Birthday,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+415,2019-02-19,0.0,0.0,0.0,0.0,0.0,2019,2,19,Tuesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+416,2019-02-20,0.0,0.0,0.0,0.0,0.0,2019,2,20,Wednesday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+417,2019-02-21,0.0,0.0,0.0,0.0,0.0,2019,2,21,Thursday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+418,2019-02-22,0.0,0.0,0.0,0.0,0.0,2019,2,22,Friday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+419,2019-02-23,Kiehl's,Deluxe Samples,37.0,105.0,58.0,2019,2,23,Saturday,True,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,True
+420,2019-02-24,0.0,0.0,0.0,0.0,0.0,2019,2,24,Sunday,False,Normal,Washington's Birthday,Washington's Birthday,Washington's Birthday,0.0,False
+421,2019-02-25,0.0,0.0,0.0,0.0,0.0,2019,2,25,Monday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+422,2019-02-26,0.0,0.0,0.0,0.0,0.0,2019,2,26,Tuesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+423,2019-02-27,Kiehl's,Dealmoon Exclusive! receive 15% off,28.0,104.0,54.0,2019,2,27,Wednesday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.15,False
+424,2019-02-28,0.0,0.0,0.0,0.0,0.0,2019,2,28,Thursday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+425,2019-03-01,Kiehl's,Deluxe sample duos,3.0,28.0,34.0,2019,3,1,Friday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+426,2019-03-02,0.0,0.0,0.0,0.0,0.0,2019,3,2,Saturday,True,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+427,2019-03-03,0.0,0.0,0.0,0.0,0.0,2019,3,3,Sunday,False,Normal,Normal,Washington's Birthday,Washington's Birthday,0.0,False
+428,2019-03-04,0.0,0.0,0.0,0.0,0.0,2019,3,4,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+429,2019-03-05,0.0,0.0,0.0,0.0,0.0,2019,3,5,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+430,2019-03-06,0.0,0.0,0.0,0.0,0.0,2019,3,6,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+431,2019-03-07,0.0,0.0,0.0,0.0,0.0,2019,3,7,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+432,2019-03-08,0.0,0.0,0.0,0.0,0.0,2019,3,8,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+433,2019-03-09,0.0,0.0,0.0,0.0,0.0,2019,3,9,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+434,2019-03-10,Kiehl's,3 deluxe samples,9.0,39.0,20.0,2019,3,10,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+435,2019-03-11,Kiehl's,['Free samples' 'Dealmoon Exclusive: receive 15% off + GWP'],283.0,510.0,421.0,2019,3,11,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+436,2019-03-12,0.0,0.0,0.0,0.0,0.0,2019,3,12,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+437,2019-03-13,0.0,0.0,0.0,0.0,0.0,2019,3,13,Wednesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+438,2019-03-14,Kiehl's,2 deluxe samples,17.0,27.0,18.0,2019,3,14,Thursday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+439,2019-03-15,0.0,0.0,0.0,0.0,0.0,2019,3,15,Friday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+440,2019-03-16,0.0,0.0,0.0,0.0,0.0,2019,3,16,Saturday,True,Normal,Normal,Normal,Washington's Birthday,0.0,False
+441,2019-03-17,0.0,0.0,0.0,0.0,0.0,2019,3,17,Sunday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+442,2019-03-18,0.0,0.0,0.0,0.0,0.0,2019,3,18,Monday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+443,2019-03-19,0.0,0.0,0.0,0.0,0.0,2019,3,19,Tuesday,False,Normal,Normal,Normal,Washington's Birthday,0.0,False
+444,2019-03-20,0.0,0.0,0.0,0.0,0.0,2019,3,20,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+445,2019-03-21,0.0,0.0,0.0,0.0,0.0,2019,3,21,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+446,2019-03-22,0.0,0.0,0.0,0.0,0.0,2019,3,22,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+447,2019-03-23,0.0,0.0,0.0,0.0,0.0,2019,3,23,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+448,2019-03-24,0.0,0.0,0.0,0.0,0.0,2019,3,24,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+449,2019-03-25,0.0,0.0,0.0,0.0,0.0,2019,3,25,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+450,2019-03-26,0.0,0.0,0.0,0.0,0.0,2019,3,26,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+451,2019-03-27,Kiehl's,Choose 6 Piece Gift on a $65+ order,94.0,254.0,173.0,2019,3,27,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+452,2019-03-28,Kiehl's,Free samples,17.0,26.0,20.0,2019,3,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+453,2019-03-29,0.0,0.0,0.0,0.0,0.0,2019,3,29,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+454,2019-03-30,0.0,0.0,0.0,0.0,0.0,2019,3,30,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+455,2019-03-31,0.0,0.0,0.0,0.0,0.0,2019,3,31,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+456,2019-04-01,Kiehl's,15% Off + Free Gift,74.0,149.0,107.0,2019,4,1,Monday,False,Normal,Normal,Normal,Normal,0.15,True
+457,2019-04-02,0.0,0.0,0.0,0.0,0.0,2019,4,2,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+458,2019-04-03,0.0,0.0,0.0,0.0,0.0,2019,4,3,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+459,2019-04-04,Kiehl's,3-pc Gift,1.0,17.0,7.0,2019,4,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+460,2019-04-05,0.0,0.0,0.0,0.0,0.0,2019,4,5,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+461,2019-04-06,0.0,0.0,0.0,0.0,0.0,2019,4,6,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+462,2019-04-07,0.0,0.0,0.0,0.0,0.0,2019,4,7,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+463,2019-04-08,0.0,0.0,0.0,0.0,0.0,2019,4,8,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+464,2019-04-09,0.0,0.0,0.0,0.0,0.0,2019,4,9,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+465,2019-04-10,Kiehl's,10 packette samples,8.0,5.0,3.0,2019,4,10,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+466,2019-04-11,0.0,0.0,0.0,0.0,0.0,2019,4,11,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+467,2019-04-12,0.0,0.0,0.0,0.0,0.0,2019,4,12,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+468,2019-04-13,0.0,0.0,0.0,0.0,0.0,2019,4,13,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+469,2019-04-14,0.0,0.0,0.0,0.0,0.0,2019,4,14,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+470,2019-04-15,0.0,0.0,0.0,0.0,0.0,2019,4,15,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+471,2019-04-16,0.0,0.0,0.0,0.0,0.0,2019,4,16,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+472,2019-04-17,0.0,0.0,0.0,0.0,0.0,2019,4,17,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+473,2019-04-18,0.0,0.0,0.0,0.0,0.0,2019,4,18,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+474,2019-04-19,Kiehl's,"Receive 2 deluxe samples on $50+, Receive 4 deluxe samples on $65+, Receive a 5 piece gift on $100+",24.0,49.0,46.0,2019,4,19,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+475,2019-04-20,0.0,0.0,0.0,0.0,0.0,2019,4,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+476,2019-04-21,0.0,0.0,0.0,0.0,0.0,2019,4,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+477,2019-04-22,0.0,0.0,0.0,0.0,0.0,2019,4,22,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+478,2019-04-23,0.0,0.0,0.0,0.0,0.0,2019,4,23,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+479,2019-04-24,Kiehl's,20% off + GWP,3.0,6.0,12.0,2019,4,24,Wednesday,False,Normal,Normal,Normal,Normal,0.2,True
+480,2019-04-25,0.0,0.0,0.0,0.0,0.0,2019,4,25,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+481,2019-04-26,0.0,0.0,0.0,0.0,0.0,2019,4,26,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+482,2019-04-27,0.0,0.0,0.0,0.0,0.0,2019,4,27,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+483,2019-04-28,0.0,0.0,0.0,0.0,0.0,2019,4,28,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+484,2019-04-29,Kiehl's,['$24 (Original $30)' '20% off + GWP' '20%off'],21.0,89.0,66.0,2019,4,29,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+485,2019-04-30,Kiehl's,['20% off' '20% Off' 'DEALMOON EXCLUSIVE: 20% Off'],893.0,1421.0,1220.0,2019,4,30,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+486,2019-05-01,0.0,0.0,0.0,0.0,0.0,2019,5,1,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+487,2019-05-02,0.0,0.0,0.0,0.0,0.0,2019,5,2,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+488,2019-05-03,0.0,0.0,0.0,0.0,0.0,2019,5,3,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+489,2019-05-04,0.0,0.0,0.0,0.0,0.0,2019,5,4,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+490,2019-05-05,Kiehl's,Deluxe Samples,10.0,23.0,25.0,2019,5,5,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+491,2019-05-06,0.0,0.0,0.0,0.0,0.0,2019,5,6,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+492,2019-05-07,0.0,0.0,0.0,0.0,0.0,2019,5,7,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+493,2019-05-08,0.0,0.0,0.0,0.0,0.0,2019,5,8,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+494,2019-05-09,0.0,0.0,0.0,0.0,0.0,2019,5,9,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+495,2019-05-10,0.0,0.0,0.0,0.0,0.0,2019,5,10,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+496,2019-05-11,0.0,0.0,0.0,0.0,0.0,2019,5,11,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+497,2019-05-12,0.0,0.0,0.0,0.0,0.0,2019,5,12,Sunday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+498,2019-05-13,0.0,0.0,0.0,0.0,0.0,2019,5,13,Monday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+499,2019-05-14,0.0,0.0,0.0,0.0,0.0,2019,5,14,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+500,2019-05-15,Kiehl's,['Deluxe Samples' 'Choose 2 deluxe sample (Up to 8)'],6.0,47.0,26.0,2019,5,15,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+501,2019-05-16,Kiehl's,Free sample!,11.0,11.0,14.0,2019,5,16,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+502,2019-05-17,0.0,0.0,0.0,0.0,0.0,2019,5,17,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+503,2019-05-18,0.0,0.0,0.0,0.0,0.0,2019,5,18,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+504,2019-05-19,0.0,0.0,0.0,0.0,0.0,2019,5,19,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+505,2019-05-20,0.0,0.0,0.0,0.0,0.0,2019,5,20,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+506,2019-05-21,0.0,0.0,0.0,0.0,0.0,2019,5,21,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+507,2019-05-22,0.0,0.0,0.0,0.0,0.0,2019,5,22,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+508,2019-05-23,0.0,0.0,0.0,0.0,0.0,2019,5,23,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+509,2019-05-24,0.0,0.0,0.0,0.0,0.0,2019,5,24,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+510,2019-05-25,0.0,0.0,0.0,0.0,0.0,2019,5,25,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+511,2019-05-26,0.0,0.0,0.0,0.0,0.0,2019,5,26,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+512,2019-05-27,0.0,0.0,0.0,0.0,0.0,2019,5,27,Monday,False,Memorial Day,Memorial Day,Memorial Day,Memorial Day,0.0,False
+513,2019-05-28,Kiehl's,Deluxe Samples,3.0,13.0,3.0,2019,5,28,Tuesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+514,2019-05-29,0.0,0.0,0.0,0.0,0.0,2019,5,29,Wednesday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+515,2019-05-30,0.0,0.0,0.0,0.0,0.0,2019,5,30,Thursday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+516,2019-05-31,Kiehl's,3 Deluxe Samples,22.0,57.0,43.0,2019,5,31,Friday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,True
+517,2019-06-01,0.0,0.0,0.0,0.0,0.0,2019,6,1,Saturday,True,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+518,2019-06-02,0.0,0.0,0.0,0.0,0.0,2019,6,2,Sunday,False,Normal,Memorial Day,Memorial Day,Memorial Day,0.0,False
+519,2019-06-03,Kiehl's,10 packette samples,13.0,11.0,14.0,2019,6,3,Monday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+520,2019-06-04,Kiehl's,5 deluxe samples,1.0,8.0,8.0,2019,6,4,Tuesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+521,2019-06-05,0.0,0.0,0.0,0.0,0.0,2019,6,5,Wednesday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+522,2019-06-06,0.0,0.0,0.0,0.0,0.0,2019,6,6,Thursday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+523,2019-06-07,0.0,0.0,0.0,0.0,0.0,2019,6,7,Friday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+524,2019-06-08,0.0,0.0,0.0,0.0,0.0,2019,6,8,Saturday,True,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+525,2019-06-09,0.0,0.0,0.0,0.0,0.0,2019,6,9,Sunday,False,Normal,Normal,Memorial Day,Memorial Day,0.0,False
+526,2019-06-10,Kiehl's,20% off + GWP,15.0,33.0,24.0,2019,6,10,Monday,False,Normal,Normal,Normal,Memorial Day,0.2,True
+527,2019-06-11,Kiehl's,['20% Off' '20% Off + GWP' '20% off' '20% off + GWP'],367.0,678.0,461.0,2019,6,11,Tuesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+528,2019-06-12,0.0,0.0,0.0,0.0,0.0,2019,6,12,Wednesday,False,Normal,Normal,Normal,Memorial Day,0.0,False
+529,2019-06-13,Kiehl's,Deluxe Samples,5.0,11.0,31.0,2019,6,13,Thursday,False,Normal,Normal,Normal,Memorial Day,0.0,True
+530,2019-06-14,0.0,0.0,0.0,0.0,0.0,2019,6,14,Friday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+531,2019-06-15,0.0,0.0,0.0,0.0,0.0,2019,6,15,Saturday,True,Normal,Normal,Normal,Memorial Day,0.0,False
+532,2019-06-16,0.0,0.0,0.0,0.0,0.0,2019,6,16,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+533,2019-06-17,0.0,0.0,0.0,0.0,0.0,2019,6,17,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+534,2019-06-18,0.0,0.0,0.0,0.0,0.0,2019,6,18,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+535,2019-06-19,Kiehl's,['2 Deluxe Samples+Free Shipping' '3 Deluxe Samples'],28.0,27.0,26.0,2019,6,19,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+536,2019-06-20,0.0,0.0,0.0,0.0,0.0,2019,6,20,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+537,2019-06-21,Kiehl's,2 Deluxe Samples+Free Shipping,0.0,0.0,0.0,2019,6,21,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+538,2019-06-22,0.0,0.0,0.0,0.0,0.0,2019,6,22,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+539,2019-06-23,0.0,0.0,0.0,0.0,0.0,2019,6,23,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+540,2019-06-24,0.0,0.0,0.0,0.0,0.0,2019,6,24,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+541,2019-06-25,0.0,0.0,0.0,0.0,0.0,2019,6,25,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+542,2019-06-26,0.0,0.0,0.0,0.0,0.0,2019,6,26,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+543,2019-06-27,Kiehl's,3 Deluxe Samples With $65+ Order,10.0,18.0,14.0,2019,6,27,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+544,2019-06-28,0.0,0.0,0.0,0.0,0.0,2019,6,28,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+545,2019-06-29,0.0,0.0,0.0,0.0,0.0,2019,6,29,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+546,2019-06-30,0.0,0.0,0.0,0.0,0.0,2019,6,30,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+547,2019-07-01,Kiehl's,Free 3 Deluxe Calendula Samples & Headband,8.0,25.0,19.0,2019,7,1,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+548,2019-07-02,0.0,0.0,0.0,0.0,0.0,2019,7,2,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+549,2019-07-03,0.0,0.0,0.0,0.0,0.0,2019,7,3,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+550,2019-07-04,0.0,0.0,0.0,0.0,0.0,2019,7,4,Thursday,False,Independence Day,Independence Day,Independence Day,Independence Day,0.0,False
+551,2019-07-05,Kiehl's,Free 5 Deluxe Samples with $75+,15.0,41.0,26.0,2019,7,5,Friday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,True
+552,2019-07-06,0.0,0.0,0.0,0.0,0.0,2019,7,6,Saturday,True,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+553,2019-07-07,0.0,0.0,0.0,0.0,0.0,2019,7,7,Sunday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+554,2019-07-08,0.0,0.0,0.0,0.0,0.0,2019,7,8,Monday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+555,2019-07-09,0.0,0.0,0.0,0.0,0.0,2019,7,9,Tuesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+556,2019-07-10,0.0,0.0,0.0,0.0,0.0,2019,7,10,Wednesday,False,Normal,Independence Day,Independence Day,Independence Day,0.0,False
+557,2019-07-11,0.0,0.0,0.0,0.0,0.0,2019,7,11,Thursday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+558,2019-07-12,Kiehl's,Free 3-Piece Gift $65+,8.0,22.0,13.0,2019,7,12,Friday,True,Normal,Normal,Independence Day,Independence Day,0.0,True
+559,2019-07-13,0.0,0.0,0.0,0.0,0.0,2019,7,13,Saturday,True,Normal,Normal,Independence Day,Independence Day,0.0,False
+560,2019-07-14,0.0,0.0,0.0,0.0,0.0,2019,7,14,Sunday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+561,2019-07-15,Kiehl's,Free 7-Piece Gift $70+,1.0,13.0,7.0,2019,7,15,Monday,False,Normal,Normal,Independence Day,Independence Day,0.0,True
+562,2019-07-16,0.0,0.0,0.0,0.0,0.0,2019,7,16,Tuesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+563,2019-07-17,0.0,0.0,0.0,0.0,0.0,2019,7,17,Wednesday,False,Normal,Normal,Independence Day,Independence Day,0.0,False
+564,2019-07-18,0.0,0.0,0.0,0.0,0.0,2019,7,18,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+565,2019-07-19,0.0,0.0,0.0,0.0,0.0,2019,7,19,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+566,2019-07-20,0.0,0.0,0.0,0.0,0.0,2019,7,20,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+567,2019-07-21,0.0,0.0,0.0,0.0,0.0,2019,7,21,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+568,2019-07-22,0.0,0.0,0.0,0.0,0.0,2019,7,22,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+569,2019-07-23,0.0,0.0,0.0,0.0,0.0,2019,7,23,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+570,2019-07-24,0.0,0.0,0.0,0.0,0.0,2019,7,24,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+571,2019-07-25,0.0,0.0,0.0,0.0,0.0,2019,7,25,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+572,2019-07-26,0.0,0.0,0.0,0.0,0.0,2019,7,26,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+573,2019-07-27,0.0,0.0,0.0,0.0,0.0,2019,7,27,Saturday,True,Normal,Normal,Normal,Independence Day,0.0,False
+574,2019-07-28,0.0,0.0,0.0,0.0,0.0,2019,7,28,Sunday,False,Normal,Normal,Normal,Independence Day,0.0,False
+575,2019-07-29,0.0,0.0,0.0,0.0,0.0,2019,7,29,Monday,False,Normal,Normal,Normal,Independence Day,0.0,False
+576,2019-07-30,Kiehl's,"['20% off + 8-piece Free Gift' '20% Off + 8-piece Free with Purchase'
+ '20% Off+8-piece Free Gift' '20% off + 10-piece Free Gift']",401.0,771.0,609.0,2019,7,30,Tuesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+577,2019-07-31,0.0,0.0,0.0,0.0,0.0,2019,7,31,Wednesday,False,Normal,Normal,Normal,Independence Day,0.0,False
+578,2019-08-01,0.0,0.0,0.0,0.0,0.0,2019,8,1,Thursday,False,Normal,Normal,Normal,Independence Day,0.0,False
+579,2019-08-02,0.0,0.0,0.0,0.0,0.0,2019,8,2,Friday,True,Normal,Normal,Normal,Independence Day,0.0,False
+580,2019-08-03,0.0,0.0,0.0,0.0,0.0,2019,8,3,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+581,2019-08-04,0.0,0.0,0.0,0.0,0.0,2019,8,4,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+582,2019-08-05,0.0,0.0,0.0,0.0,0.0,2019,8,5,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+583,2019-08-06,0.0,0.0,0.0,0.0,0.0,2019,8,6,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+584,2019-08-07,0.0,0.0,0.0,0.0,0.0,2019,8,7,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+585,2019-08-08,0.0,0.0,0.0,0.0,0.0,2019,8,8,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+586,2019-08-09,0.0,0.0,0.0,0.0,0.0,2019,8,9,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+587,2019-08-10,0.0,0.0,0.0,0.0,0.0,2019,8,10,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+588,2019-08-11,0.0,0.0,0.0,0.0,0.0,2019,8,11,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+589,2019-08-12,0.0,0.0,0.0,0.0,0.0,2019,8,12,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+590,2019-08-13,Kiehl's,['Receive 10 Sample Packettes of PSLRC' '3-piece Free Gift'],15.0,27.0,16.0,2019,8,13,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+591,2019-08-14,0.0,0.0,0.0,0.0,0.0,2019,8,14,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+592,2019-08-15,0.0,0.0,0.0,0.0,0.0,2019,8,15,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+593,2019-08-16,Kiehl's,Free 2Pc Gifts,3.0,23.0,13.0,2019,8,16,Friday,True,Normal,Normal,Normal,Labor Day,0.0,True
+594,2019-08-17,0.0,0.0,0.0,0.0,0.0,2019,8,17,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+595,2019-08-18,0.0,0.0,0.0,0.0,0.0,2019,8,18,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+596,2019-08-19,Kiehl's,Receive Up to 5 Piece Gifts,0.0,5.0,7.0,2019,8,19,Monday,False,Normal,Normal,Normal,Labor Day,0.0,True
+597,2019-08-20,0.0,0.0,0.0,0.0,0.0,2019,8,20,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+598,2019-08-21,0.0,0.0,0.0,0.0,0.0,2019,8,21,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+599,2019-08-22,0.0,0.0,0.0,0.0,0.0,2019,8,22,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+600,2019-08-23,0.0,0.0,0.0,0.0,0.0,2019,8,23,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+601,2019-08-24,0.0,0.0,0.0,0.0,0.0,2019,8,24,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+602,2019-08-25,0.0,0.0,0.0,0.0,0.0,2019,8,25,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+603,2019-08-26,Kiehl's,Receive Up to 9 Piece Gifts,4.0,2.0,6.0,2019,8,26,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,True
+604,2019-08-27,0.0,0.0,0.0,0.0,0.0,2019,8,27,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+605,2019-08-28,0.0,0.0,0.0,0.0,0.0,2019,8,28,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+606,2019-08-29,0.0,0.0,0.0,0.0,0.0,2019,8,29,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+607,2019-08-30,0.0,0.0,0.0,0.0,0.0,2019,8,30,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+608,2019-08-31,0.0,0.0,0.0,0.0,0.0,2019,8,31,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+609,2019-09-01,0.0,0.0,0.0,0.0,0.0,2019,9,1,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+610,2019-09-02,0.0,0.0,0.0,0.0,0.0,2019,9,2,Monday,False,Labor Day,Labor Day,Labor Day,Labor Day,0.0,False
+611,2019-09-03,0.0,0.0,0.0,0.0,0.0,2019,9,3,Tuesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+612,2019-09-04,Kiehl's,Receive Up to 5 Piece Gifts,5.0,6.0,5.0,2019,9,4,Wednesday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,True
+613,2019-09-05,0.0,0.0,0.0,0.0,0.0,2019,9,5,Thursday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+614,2019-09-06,0.0,0.0,0.0,0.0,0.0,2019,9,6,Friday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+615,2019-09-07,0.0,0.0,0.0,0.0,0.0,2019,9,7,Saturday,True,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+616,2019-09-08,0.0,0.0,0.0,0.0,0.0,2019,9,8,Sunday,False,Normal,Labor Day,Labor Day,Labor Day,0.0,False
+617,2019-09-09,0.0,0.0,0.0,0.0,0.0,2019,9,9,Monday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+618,2019-09-10,0.0,0.0,0.0,0.0,0.0,2019,9,10,Tuesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+619,2019-09-11,0.0,0.0,0.0,0.0,0.0,2019,9,11,Wednesday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+620,2019-09-12,0.0,0.0,0.0,0.0,0.0,2019,9,12,Thursday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+621,2019-09-13,0.0,0.0,0.0,0.0,0.0,2019,9,13,Friday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+622,2019-09-14,0.0,0.0,0.0,0.0,0.0,2019,9,14,Saturday,True,Normal,Normal,Labor Day,Labor Day,0.0,False
+623,2019-09-15,0.0,0.0,0.0,0.0,0.0,2019,9,15,Sunday,False,Normal,Normal,Labor Day,Labor Day,0.0,False
+624,2019-09-16,0.0,0.0,0.0,0.0,0.0,2019,9,16,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+625,2019-09-17,0.0,0.0,0.0,0.0,0.0,2019,9,17,Tuesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+626,2019-09-18,0.0,0.0,0.0,0.0,0.0,2019,9,18,Wednesday,False,Normal,Normal,Normal,Labor Day,0.0,False
+627,2019-09-19,0.0,0.0,0.0,0.0,0.0,2019,9,19,Thursday,False,Normal,Normal,Normal,Labor Day,0.0,False
+628,2019-09-20,0.0,0.0,0.0,0.0,0.0,2019,9,20,Friday,True,Normal,Normal,Normal,Labor Day,0.0,False
+629,2019-09-21,0.0,0.0,0.0,0.0,0.0,2019,9,21,Saturday,True,Normal,Normal,Normal,Labor Day,0.0,False
+630,2019-09-22,0.0,0.0,0.0,0.0,0.0,2019,9,22,Sunday,False,Normal,Normal,Normal,Labor Day,0.0,False
+631,2019-09-23,0.0,0.0,0.0,0.0,0.0,2019,9,23,Monday,False,Normal,Normal,Normal,Labor Day,0.0,False
+632,2019-09-24,0.0,0.0,0.0,0.0,0.0,2019,9,24,Tuesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+633,2019-09-25,0.0,0.0,0.0,0.0,0.0,2019,9,25,Wednesday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+634,2019-09-26,0.0,0.0,0.0,0.0,0.0,2019,9,26,Thursday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+635,2019-09-27,0.0,0.0,0.0,0.0,0.0,2019,9,27,Friday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+636,2019-09-28,0.0,0.0,0.0,0.0,0.0,2019,9,28,Saturday,True,Normal,Normal,Normal,Columbus Day,0.0,False
+637,2019-09-29,0.0,0.0,0.0,0.0,0.0,2019,9,29,Sunday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+638,2019-09-30,0.0,0.0,0.0,0.0,0.0,2019,9,30,Monday,False,Normal,Normal,Normal,Columbus Day,0.0,False
+639,2019-10-01,Kiehl's,Receive 5 Deluxe Samples + Full Size Cleanser,27.0,82.0,43.0,2019,10,1,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,True
+640,2019-10-02,0.0,0.0,0.0,0.0,0.0,2019,10,2,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+641,2019-10-03,0.0,0.0,0.0,0.0,0.0,2019,10,3,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+642,2019-10-04,0.0,0.0,0.0,0.0,0.0,2019,10,4,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+643,2019-10-05,0.0,0.0,0.0,0.0,0.0,2019,10,5,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+644,2019-10-06,0.0,0.0,0.0,0.0,0.0,2019,10,6,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+645,2019-10-07,0.0,0.0,0.0,0.0,0.0,2019,10,7,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+646,2019-10-08,0.0,0.0,0.0,0.0,0.0,2019,10,8,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+647,2019-10-09,Kiehl's,['$90($160 Value)' '4 Deluxe Samples + Travel Bag'],18.0,51.0,57.0,2019,10,9,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+648,2019-10-10,0.0,0.0,0.0,0.0,0.0,2019,10,10,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+649,2019-10-11,Kiehl's,Sleep Mask + 3 nighttime deluxe samples,9.0,14.0,7.0,2019,10,11,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+650,2019-10-12,0.0,0.0,0.0,0.0,0.0,2019,10,12,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+651,2019-10-13,0.0,0.0,0.0,0.0,0.0,2019,10,13,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+652,2019-10-14,0.0,0.0,0.0,0.0,0.0,2019,10,14,Monday,False,Columbus Day,Columbus Day,Columbus Day,Columbus Day,0.0,False
+653,2019-10-15,0.0,0.0,0.0,0.0,0.0,2019,10,15,Tuesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+654,2019-10-16,0.0,0.0,0.0,0.0,0.0,2019,10,16,Wednesday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+655,2019-10-17,0.0,0.0,0.0,0.0,0.0,2019,10,17,Thursday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+656,2019-10-18,0.0,0.0,0.0,0.0,0.0,2019,10,18,Friday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+657,2019-10-19,0.0,0.0,0.0,0.0,0.0,2019,10,19,Saturday,True,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,False
+658,2019-10-20,Kiehl's,Receive Up to 8 Piece Gifts,18.0,46.0,100.0,2019,10,20,Sunday,False,Normal,Columbus Day,Columbus Day,Columbus Day,0.0,True
+659,2019-10-21,0.0,0.0,0.0,0.0,0.0,2019,10,21,Monday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+660,2019-10-22,0.0,0.0,0.0,0.0,0.0,2019,10,22,Tuesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+661,2019-10-23,Kiehl's,$15 Off,5.0,19.0,8.0,2019,10,23,Wednesday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+662,2019-10-24,0.0,0.0,0.0,0.0,0.0,2019,10,24,Thursday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+663,2019-10-25,0.0,0.0,0.0,0.0,0.0,2019,10,25,Friday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+664,2019-10-26,0.0,0.0,0.0,0.0,0.0,2019,10,26,Saturday,True,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+665,2019-10-27,0.0,0.0,0.0,0.0,0.0,2019,10,27,Sunday,False,Normal,Normal,Columbus Day,Columbus Day,0.0,False
+666,2019-10-28,Kiehl's,20% off,22.0,46.0,93.0,2019,10,28,Monday,False,Normal,Normal,Normal,Columbus Day,0.2,False
+667,2019-10-29,Kiehl's,['20% Off' '20% off'],306.0,944.0,721.0,2019,10,29,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+668,2019-10-30,0.0,0.0,0.0,0.0,0.0,2019,10,30,Wednesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+669,2019-10-31,0.0,0.0,0.0,0.0,0.0,2019,10,31,Thursday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+670,2019-11-01,0.0,0.0,0.0,0.0,0.0,2019,11,1,Friday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+671,2019-11-02,0.0,0.0,0.0,0.0,0.0,2019,11,2,Saturday,True,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+672,2019-11-03,0.0,0.0,0.0,0.0,0.0,2019,11,3,Sunday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+673,2019-11-04,0.0,0.0,0.0,0.0,0.0,2019,11,4,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+674,2019-11-05,0.0,0.0,0.0,0.0,0.0,2019,11,5,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+675,2019-11-06,0.0,0.0,0.0,0.0,0.0,2019,11,6,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+676,2019-11-07,0.0,0.0,0.0,0.0,0.0,2019,11,7,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+677,2019-11-08,0.0,0.0,0.0,0.0,0.0,2019,11,8,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+678,2019-11-09,Kiehl's,$41.60 + 11-piece Free Gift,1.0,17.0,74.0,2019,11,9,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+679,2019-11-10,Kiehl's,20% Off + 11-piece Free Gift,0.0,12.0,81.0,2019,11,10,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
+680,2019-11-11,Kiehl's,20% Off + + 11-piece Free Gift,4.0,23.0,94.0,2019,11,11,Monday,False,Veterans Day,Veterans Day,Veterans Day,Veterans Day,0.2,True
+681,2019-11-12,Kiehl's,20% Off + 11-piece Free Gift,153.0,573.0,563.0,2019,11,12,Tuesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.2,True
+682,2019-11-13,Kiehl's,Up to 8-piece Free Gift,2.0,9.0,7.0,2019,11,13,Wednesday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,True
+683,2019-11-14,0.0,0.0,0.0,0.0,0.0,2019,11,14,Thursday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+684,2019-11-15,0.0,0.0,0.0,0.0,0.0,2019,11,15,Friday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+685,2019-11-16,0.0,0.0,0.0,0.0,0.0,2019,11,16,Saturday,True,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+686,2019-11-17,0.0,0.0,0.0,0.0,0.0,2019,11,17,Sunday,False,Normal,Veterans Day,Veterans Day,Veterans Day,0.0,False
+687,2019-11-18,0.0,0.0,0.0,0.0,0.0,2019,11,18,Monday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+688,2019-11-19,0.0,0.0,0.0,0.0,0.0,2019,11,19,Tuesday,False,Normal,Normal,Veterans Day,Veterans Day,0.0,False
+689,2019-11-20,0.0,0.0,0.0,0.0,0.0,2019,11,20,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+690,2019-11-21,Kiehl's,Up to $35 Off,7.0,29.0,99.0,2019,11,21,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+691,2019-11-22,0.0,0.0,0.0,0.0,0.0,2019,11,22,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+692,2019-11-23,0.0,0.0,0.0,0.0,0.0,2019,11,23,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+693,2019-11-24,0.0,0.0,0.0,0.0,0.0,2019,11,24,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+694,2019-11-25,0.0,0.0,0.0,0.0,0.0,2019,11,25,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+695,2019-11-26,0.0,0.0,0.0,0.0,0.0,2019,11,26,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+696,2019-11-27,0.0,0.0,0.0,0.0,0.0,2019,11,27,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+697,2019-11-28,0.0,0.0,0.0,0.0,0.0,2019,11,28,Thursday,False,Thanksgiving,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+698,2019-11-29,0.0,0.0,0.0,0.0,0.0,2019,11,29,Friday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+699,2019-11-30,0.0,0.0,0.0,0.0,0.0,2019,11,30,Saturday,True,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+700,2019-12-01,0.0,0.0,0.0,0.0,0.0,2019,12,1,Sunday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+701,2019-12-02,Kiehl's,Up to $35 Off,2619.0,3801.0,2783.0,2019,12,2,Monday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+702,2019-12-03,0.0,0.0,0.0,0.0,0.0,2019,12,3,Tuesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+703,2019-12-04,0.0,0.0,0.0,0.0,0.0,2019,12,4,Wednesday,False,Normal,Thanksgiving,Thanksgiving,Thanksgiving,0.0,False
+704,2019-12-05,0.0,0.0,0.0,0.0,0.0,2019,12,5,Thursday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+705,2019-12-06,0.0,0.0,0.0,0.0,0.0,2019,12,6,Friday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+706,2019-12-07,0.0,0.0,0.0,0.0,0.0,2019,12,7,Saturday,True,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+707,2019-12-08,0.0,0.0,0.0,0.0,0.0,2019,12,8,Sunday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+708,2019-12-09,0.0,0.0,0.0,0.0,0.0,2019,12,9,Monday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+709,2019-12-10,0.0,0.0,0.0,0.0,0.0,2019,12,10,Tuesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+710,2019-12-11,0.0,0.0,0.0,0.0,0.0,2019,12,11,Wednesday,False,Normal,Normal,Thanksgiving,Thanksgiving,0.0,False
+711,2019-12-12,0.0,0.0,0.0,0.0,0.0,2019,12,12,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+712,2019-12-13,0.0,0.0,0.0,0.0,0.0,2019,12,13,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+713,2019-12-14,0.0,0.0,0.0,0.0,0.0,2019,12,14,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+714,2019-12-15,0.0,0.0,0.0,0.0,0.0,2019,12,15,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+715,2019-12-16,0.0,0.0,0.0,0.0,0.0,2019,12,16,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+716,2019-12-17,0.0,0.0,0.0,0.0,0.0,2019,12,17,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+717,2019-12-18,0.0,0.0,0.0,0.0,0.0,2019,12,18,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+718,2019-12-19,0.0,0.0,0.0,0.0,0.0,2019,12,19,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+719,2019-12-20,0.0,0.0,0.0,0.0,0.0,2019,12,20,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+720,2019-12-21,0.0,0.0,0.0,0.0,0.0,2019,12,21,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+721,2019-12-22,0.0,0.0,0.0,0.0,0.0,2019,12,22,Sunday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+722,2019-12-23,0.0,0.0,0.0,0.0,0.0,2019,12,23,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+723,2019-12-24,0.0,0.0,0.0,0.0,0.0,2019,12,24,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+724,2019-12-25,0.0,0.0,0.0,0.0,0.0,2019,12,25,Wednesday,False,Christmas Day,Christmas Day,Christmas Day,Christmas Day,0.0,False
+725,2019-12-26,0.0,0.0,0.0,0.0,0.0,2019,12,26,Thursday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+726,2019-12-27,0.0,0.0,0.0,0.0,0.0,2019,12,27,Friday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+727,2019-12-28,0.0,0.0,0.0,0.0,0.0,2019,12,28,Saturday,True,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+728,2019-12-29,0.0,0.0,0.0,0.0,0.0,2019,12,29,Sunday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+729,2019-12-30,0.0,0.0,0.0,0.0,0.0,2019,12,30,Monday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+730,2019-12-31,0.0,0.0,0.0,0.0,0.0,2019,12,31,Tuesday,False,Normal,Christmas Day,Christmas Day,Christmas Day,0.0,False
+731,2020-01-01,Kiehl's,"['$20 Off $65' 'Up to $35 Off' 'Get $20 Off on $65 Purchase+ Free Gift'
+ 'Take 50% Off' '$20 Off $65 + Free Gift']",5116.0,5107.0,4774.0,2020,1,1,Wednesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+732,2020-01-02,0.0,0.0,0.0,0.0,0.0,2020,1,2,Thursday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+733,2020-01-03,0.0,0.0,0.0,0.0,0.0,2020,1,3,Friday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+734,2020-01-04,0.0,0.0,0.0,0.0,0.0,2020,1,4,Saturday,True,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+735,2020-01-05,0.0,0.0,0.0,0.0,0.0,2020,1,5,Sunday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+736,2020-01-06,0.0,0.0,0.0,0.0,0.0,2020,1,6,Monday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+737,2020-01-07,0.0,0.0,0.0,0.0,0.0,2020,1,7,Tuesday,False,Normal,Normal,Christmas Day,Christmas Day,0.0,False
+738,2020-01-08,Kiehl's,Up to 3-piece Free Gift,13.0,11.0,8.0,2020,1,8,Wednesday,False,Normal,Normal,Normal,Christmas Day,0.0,True
+739,2020-01-09,0.0,0.0,0.0,0.0,0.0,2020,1,9,Thursday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+740,2020-01-10,0.0,0.0,0.0,0.0,0.0,2020,1,10,Friday,True,Normal,Normal,Normal,Christmas Day,0.0,False
+741,2020-01-11,0.0,0.0,0.0,0.0,0.0,2020,1,11,Saturday,True,Normal,Normal,Normal,Christmas Day,0.0,False
+742,2020-01-12,0.0,0.0,0.0,0.0,0.0,2020,1,12,Sunday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+743,2020-01-13,0.0,0.0,0.0,0.0,0.0,2020,1,13,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+744,2020-01-14,0.0,0.0,0.0,0.0,0.0,2020,1,14,Tuesday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+745,2020-01-15,0.0,0.0,0.0,0.0,0.0,2020,1,15,Wednesday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+746,2020-01-16,0.0,0.0,0.0,0.0,0.0,2020,1,16,Thursday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+747,2020-01-17,0.0,0.0,0.0,0.0,0.0,2020,1,17,Friday,True,Normal,Normal,Normal,Christmas Day,0.0,False
+748,2020-01-18,0.0,0.0,0.0,0.0,0.0,2020,1,18,Saturday,True,Normal,Normal,Normal,Christmas Day,0.0,False
+749,2020-01-19,0.0,0.0,0.0,0.0,0.0,2020,1,19,Sunday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+750,2020-01-20,0.0,0.0,0.0,0.0,0.0,2020,1,20,Monday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+751,2020-01-21,0.0,0.0,0.0,0.0,0.0,2020,1,21,Tuesday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+752,2020-01-22,0.0,0.0,0.0,0.0,0.0,2020,1,22,Wednesday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+753,2020-01-23,0.0,0.0,0.0,0.0,0.0,2020,1,23,Thursday,False,Normal,Normal,Normal,Christmas Day,0.0,False
+754,2020-01-24,Kiehl's,15% Off,63.0,132.0,82.0,2020,1,24,Friday,True,Normal,Normal,Normal,Normal,0.15,False
+755,2020-01-25,0.0,0.0,0.0,0.0,0.0,2020,1,25,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+756,2020-01-26,0.0,0.0,0.0,0.0,0.0,2020,1,26,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+757,2020-01-27,0.0,0.0,0.0,0.0,0.0,2020,1,27,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+758,2020-01-28,Kiehl's,Free Shipping Any Purchase,8.0,11.0,7.0,2020,1,28,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+759,2020-01-29,0.0,0.0,0.0,0.0,0.0,2020,1,29,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+760,2020-01-30,0.0,0.0,0.0,0.0,0.0,2020,1,30,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+761,2020-01-31,0.0,0.0,0.0,0.0,0.0,2020,1,31,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+762,2020-02-01,Kiehl's,Enjoy 3 Deluxe Mask Samples,1.0,3.0,7.0,2020,2,1,Saturday,True,Normal,Normal,Normal,Normal,0.0,True
+763,2020-02-02,0.0,0.0,0.0,0.0,0.0,2020,2,2,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+764,2020-02-03,0.0,0.0,0.0,0.0,0.0,2020,2,3,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+765,2020-02-04,Kiehl's,Up to 2 Sample Bundles,0.0,7.0,6.0,2020,2,4,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+766,2020-02-05,0.0,0.0,0.0,0.0,0.0,2020,2,5,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+767,2020-02-06,0.0,0.0,0.0,0.0,0.0,2020,2,6,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+768,2020-02-07,0.0,0.0,0.0,0.0,0.0,2020,2,7,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+769,2020-02-08,0.0,0.0,0.0,0.0,0.0,2020,2,8,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+770,2020-02-09,0.0,0.0,0.0,0.0,0.0,2020,2,9,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+771,2020-02-10,0.0,0.0,0.0,0.0,0.0,2020,2,10,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+772,2020-02-11,0.0,0.0,0.0,0.0,0.0,2020,2,11,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+773,2020-02-12,0.0,0.0,0.0,0.0,0.0,2020,2,12,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+774,2020-02-13,0.0,0.0,0.0,0.0,0.0,2020,2,13,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+775,2020-02-14,0.0,0.0,0.0,0.0,0.0,2020,2,14,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+776,2020-02-15,0.0,0.0,0.0,0.0,0.0,2020,2,15,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+777,2020-02-16,0.0,0.0,0.0,0.0,0.0,2020,2,16,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+778,2020-02-17,0.0,0.0,0.0,0.0,0.0,2020,2,17,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+779,2020-02-18,0.0,0.0,0.0,0.0,0.0,2020,2,18,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+780,2020-02-19,0.0,0.0,0.0,0.0,0.0,2020,2,19,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+781,2020-02-20,0.0,0.0,0.0,0.0,0.0,2020,2,20,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+782,2020-02-21,0.0,0.0,0.0,0.0,0.0,2020,2,21,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+783,2020-02-22,0.0,0.0,0.0,0.0,0.0,2020,2,22,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+784,2020-02-23,0.0,0.0,0.0,0.0,0.0,2020,2,23,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+785,2020-02-24,0.0,0.0,0.0,0.0,0.0,2020,2,24,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+786,2020-02-25,Kiehl's,Up to 9 Sample Bundles,46.0,111.0,81.0,2020,2,25,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+787,2020-02-26,0.0,0.0,0.0,0.0,0.0,2020,2,26,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+788,2020-02-27,0.0,0.0,0.0,0.0,0.0,2020,2,27,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+789,2020-02-28,Kiehl's,Up to 5 free Gifts,3.0,6.0,5.0,2020,2,28,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+790,2020-02-29,0.0,0.0,0.0,0.0,0.0,2020,2,29,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+791,2020-03-01,0.0,0.0,0.0,0.0,0.0,2020,3,1,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+792,2020-03-02,0.0,0.0,0.0,0.0,0.0,2020,3,2,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+793,2020-03-03,0.0,0.0,0.0,0.0,0.0,2020,3,3,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+794,2020-03-04,0.0,0.0,0.0,0.0,0.0,2020,3,4,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+795,2020-03-05,0.0,0.0,0.0,0.0,0.0,2020,3,5,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+796,2020-03-06,0.0,0.0,0.0,0.0,0.0,2020,3,6,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+797,2020-03-07,0.0,0.0,0.0,0.0,0.0,2020,3,7,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+798,2020-03-08,0.0,0.0,0.0,0.0,0.0,2020,3,8,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+799,2020-03-09,0.0,0.0,0.0,0.0,0.0,2020,3,9,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+800,2020-03-10,0.0,0.0,0.0,0.0,0.0,2020,3,10,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+801,2020-03-11,Kiehl's,Free 8-piece Gift,26.0,60.0,57.0,2020,3,11,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+802,2020-03-12,0.0,0.0,0.0,0.0,0.0,2020,3,12,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+803,2020-03-13,0.0,0.0,0.0,0.0,0.0,2020,3,13,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+804,2020-03-14,0.0,0.0,0.0,0.0,0.0,2020,3,14,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+805,2020-03-15,0.0,0.0,0.0,0.0,0.0,2020,3,15,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+806,2020-03-16,Kiehl's,Up to 7 free Gifts,6.0,16.0,15.0,2020,3,16,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+807,2020-03-17,0.0,0.0,0.0,0.0,0.0,2020,3,17,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+808,2020-03-18,0.0,0.0,0.0,0.0,0.0,2020,3,18,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+809,2020-03-19,0.0,0.0,0.0,0.0,0.0,2020,3,19,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+810,2020-03-20,0.0,0.0,0.0,0.0,0.0,2020,3,20,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+811,2020-03-21,0.0,0.0,0.0,0.0,0.0,2020,3,21,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+812,2020-03-22,0.0,0.0,0.0,0.0,0.0,2020,3,22,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+813,2020-03-23,Kiehl's,Free Full Size Gifts,12.0,8.0,6.0,2020,3,23,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+814,2020-03-24,0.0,0.0,0.0,0.0,0.0,2020,3,24,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+815,2020-03-25,0.0,0.0,0.0,0.0,0.0,2020,3,25,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+816,2020-03-26,0.0,0.0,0.0,0.0,0.0,2020,3,26,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+817,2020-03-27,0.0,0.0,0.0,0.0,0.0,2020,3,27,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+818,2020-03-28,0.0,0.0,0.0,0.0,0.0,2020,3,28,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+819,2020-03-29,0.0,0.0,0.0,0.0,0.0,2020,3,29,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+820,2020-03-30,0.0,0.0,0.0,0.0,0.0,2020,3,30,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+821,2020-03-31,0.0,0.0,0.0,0.0,0.0,2020,3,31,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+822,2020-04-01,0.0,0.0,0.0,0.0,0.0,2020,4,1,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+823,2020-04-02,0.0,0.0,0.0,0.0,0.0,2020,4,2,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+824,2020-04-03,Kiehl's,"['20% Off + Free Shipping' '20% Off + Free Shipping + Free Gifts'
+ '20% Off + Free Shipping + GWP' '20% Off Sitewide + Free Shipping']",56.0,201.0,153.0,2020,4,3,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+825,2020-04-04,Kiehl's,20% Off Sitewide + Free Shipping,809.0,748.0,681.0,2020,4,4,Saturday,True,Normal,Normal,Normal,Normal,0.2,False
+826,2020-04-05,0.0,0.0,0.0,0.0,0.0,2020,4,5,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+827,2020-04-06,0.0,0.0,0.0,0.0,0.0,2020,4,6,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+828,2020-04-07,0.0,0.0,0.0,0.0,0.0,2020,4,7,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+829,2020-04-08,0.0,0.0,0.0,0.0,0.0,2020,4,8,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+830,2020-04-09,0.0,0.0,0.0,0.0,0.0,2020,4,9,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+831,2020-04-10,0.0,0.0,0.0,0.0,0.0,2020,4,10,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+832,2020-04-11,0.0,0.0,0.0,0.0,0.0,2020,4,11,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+833,2020-04-12,0.0,0.0,0.0,0.0,0.0,2020,4,12,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+834,2020-04-13,Kiehl's,40% Off,278.0,209.0,210.0,2020,4,13,Monday,False,Normal,Normal,Normal,Normal,0.4,False
+835,2020-04-14,Kiehl's,Free Gifts,4.0,1.0,5.0,2020,4,14,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+836,2020-04-15,Kiehl's,Free Gifts,5.0,17.0,9.0,2020,4,15,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+837,2020-04-16,0.0,0.0,0.0,0.0,0.0,2020,4,16,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+838,2020-04-17,Kiehl's,Free Gifts,5.0,4.0,4.0,2020,4,17,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+839,2020-04-18,0.0,0.0,0.0,0.0,0.0,2020,4,18,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+840,2020-04-19,0.0,0.0,0.0,0.0,0.0,2020,4,19,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+841,2020-04-20,0.0,0.0,0.0,0.0,0.0,2020,4,20,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+842,2020-04-21,0.0,0.0,0.0,0.0,0.0,2020,4,21,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+843,2020-04-22,0.0,0.0,0.0,0.0,0.0,2020,4,22,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+844,2020-04-23,0.0,0.0,0.0,0.0,0.0,2020,4,23,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+845,2020-04-24,0.0,0.0,0.0,0.0,0.0,2020,4,24,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+846,2020-04-25,0.0,0.0,0.0,0.0,0.0,2020,4,25,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+847,2020-04-26,0.0,0.0,0.0,0.0,0.0,2020,4,26,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+848,2020-04-27,0.0,0.0,0.0,0.0,0.0,2020,4,27,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+849,2020-04-28,0.0,0.0,0.0,0.0,0.0,2020,4,28,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+850,2020-04-29,0.0,0.0,0.0,0.0,0.0,2020,4,29,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+851,2020-04-30,0.0,0.0,0.0,0.0,0.0,2020,4,30,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+852,2020-05-01,0.0,0.0,0.0,0.0,0.0,2020,5,1,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+853,2020-05-02,0.0,0.0,0.0,0.0,0.0,2020,5,2,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+854,2020-05-03,0.0,0.0,0.0,0.0,0.0,2020,5,3,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+855,2020-05-04,Kiehl's,40% Off,758.0,475.0,418.0,2020,5,4,Monday,False,Normal,Normal,Normal,Normal,0.4,False
+856,2020-05-05,0.0,0.0,0.0,0.0,0.0,2020,5,5,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+857,2020-05-06,0.0,0.0,0.0,0.0,0.0,2020,5,6,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+858,2020-05-07,Kiehl's,Free Gifts,140.0,29.0,70.0,2020,5,7,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+859,2020-05-08,0.0,0.0,0.0,0.0,0.0,2020,5,8,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+860,2020-05-09,0.0,0.0,0.0,0.0,0.0,2020,5,9,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+861,2020-05-10,0.0,0.0,0.0,0.0,0.0,2020,5,10,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+862,2020-05-11,0.0,0.0,0.0,0.0,0.0,2020,5,11,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+863,2020-05-12,Kiehl's,Free Gifts,59.0,11.0,6.0,2020,5,12,Tuesday,False,Normal,Normal,Normal,Normal,0.0,True
+864,2020-05-13,0.0,0.0,0.0,0.0,0.0,2020,5,13,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+865,2020-05-14,Kiehl's,Free Mask,100.0,5.0,4.0,2020,5,14,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+866,2020-05-15,Kiehl's,Free Gifts,25.0,11.0,7.0,2020,5,15,Friday,True,Normal,Normal,Normal,Normal,0.0,True
+867,2020-05-16,0.0,0.0,0.0,0.0,0.0,2020,5,16,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+868,2020-05-17,0.0,0.0,0.0,0.0,0.0,2020,5,17,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+869,2020-05-18,0.0,0.0,0.0,0.0,0.0,2020,5,18,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+870,2020-05-19,0.0,0.0,0.0,0.0,0.0,2020,5,19,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+871,2020-05-20,0.0,0.0,0.0,0.0,0.0,2020,5,20,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+872,2020-05-21,0.0,0.0,0.0,0.0,0.0,2020,5,21,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+873,2020-05-22,Kiehl's,15% Off,40.0,19.0,11.0,2020,5,22,Friday,True,Normal,Normal,Normal,Normal,0.15,False
+874,2020-05-23,0.0,0.0,0.0,0.0,0.0,2020,5,23,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+875,2020-05-24,0.0,0.0,0.0,0.0,0.0,2020,5,24,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+876,2020-05-25,0.0,0.0,0.0,0.0,0.0,2020,5,25,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+877,2020-05-26,Kiehl's,Starting From$52,0.0,9.0,3.0,2020,5,26,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+878,2020-05-27,0.0,0.0,0.0,0.0,0.0,2020,5,27,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+879,2020-05-28,0.0,0.0,0.0,0.0,0.0,2020,5,28,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+880,2020-05-29,0.0,0.0,0.0,0.0,0.0,2020,5,29,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+881,2020-05-30,0.0,0.0,0.0,0.0,0.0,2020,5,30,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+882,2020-05-31,0.0,0.0,0.0,0.0,0.0,2020,5,31,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+883,2020-06-01,0.0,0.0,0.0,0.0,0.0,2020,6,1,Monday,False,Normal,Normal,Normal,Normal,0.0,False
+884,2020-06-02,0.0,0.0,0.0,0.0,0.0,2020,6,2,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+885,2020-06-03,0.0,0.0,0.0,0.0,0.0,2020,6,3,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+886,2020-06-04,Kiehl's,Free Gift,30.0,30.0,19.0,2020,6,4,Thursday,False,Normal,Normal,Normal,Normal,0.0,True
+887,2020-06-05,0.0,0.0,0.0,0.0,0.0,2020,6,5,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+888,2020-06-06,0.0,0.0,0.0,0.0,0.0,2020,6,6,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+889,2020-06-07,0.0,0.0,0.0,0.0,0.0,2020,6,7,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+890,2020-06-08,Kiehl's,Free Gifts,256.0,71.0,49.0,2020,6,8,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+891,2020-06-09,0.0,0.0,0.0,0.0,0.0,2020,6,9,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+892,2020-06-10,Kiehl's,Free Gift,7.0,20.0,9.0,2020,6,10,Wednesday,False,Normal,Normal,Normal,Normal,0.0,True
+893,2020-06-11,0.0,0.0,0.0,0.0,0.0,2020,6,11,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+894,2020-06-12,0.0,0.0,0.0,0.0,0.0,2020,6,12,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+895,2020-06-13,0.0,0.0,0.0,0.0,0.0,2020,6,13,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+896,2020-06-14,0.0,0.0,0.0,0.0,0.0,2020,6,14,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
+897,2020-06-15,Kiehl's,Free Gifts,4.0,4.0,6.0,2020,6,15,Monday,False,Normal,Normal,Normal,Normal,0.0,True
+898,2020-06-16,0.0,0.0,0.0,0.0,0.0,2020,6,16,Tuesday,False,Normal,Normal,Normal,Normal,0.0,False
+899,2020-06-17,0.0,0.0,0.0,0.0,0.0,2020,6,17,Wednesday,False,Normal,Normal,Normal,Normal,0.0,False
+900,2020-06-18,0.0,0.0,0.0,0.0,0.0,2020,6,18,Thursday,False,Normal,Normal,Normal,Normal,0.0,False
+901,2020-06-19,0.0,0.0,0.0,0.0,0.0,2020,6,19,Friday,True,Normal,Normal,Normal,Normal,0.0,False
+902,2020-06-20,Kiehl's,['20% Off + Free Gift' '20% Off'],209.0,281.0,130.0,2020,6,20,Saturday,True,Normal,Normal,Normal,Normal,0.0,False
+903,2020-06-21,Kiehl's,['20% Off + Free Gift' '20% Off'],18.0,54.0,25.0,2020,6,21,Sunday,False,Normal,Normal,Normal,Normal,0.0,False
