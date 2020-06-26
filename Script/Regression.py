@@ -43,7 +43,7 @@ all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'cl
 for brand in all_categories:
     plt.close('all') 
     # Import cleaned dataset
-    df = pd.read_csv("Data/" + brand + "_clean.csv")
+    df = pd.read_csv("../Data/" + brand + "_clean.csv")
     
     def add_features(df):
             
@@ -232,7 +232,7 @@ for brand in all_categories:
     rmse = abs((Y_pred-y_test.values).mean())
     
     #%% Save data for regression
-    PIK = "Frontend/datasets/"+ brand + "_Regression.dat"
+    PIK = "../Frontend/datasets/"+ brand + "_Regression.dat"
     
     data = [X_train, X_test, y_train, y_test, Y_pred, model]
     with open(PIK, "wb") as f:

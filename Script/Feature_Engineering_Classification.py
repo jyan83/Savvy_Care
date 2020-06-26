@@ -7,17 +7,17 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 from collections import Counter
 
-from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OrdinalEncoder
 from sklearn.feature_selection import SelectKBest, f_regression, mutual_info_regression
 
-from sklearn.datasets import make_regression
-from sklearn.model_selection import RepeatedKFold
-from sklearn.feature_selection import SelectKBest
-from sklearn.feature_selection import mutual_info_regression
+from sklearn.model_selection import RandomizedSearchCV, train_test_split, KFold, StratifiedKFold, cross_val_score 
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
+import xgboost as xgb
+from sklearn.metrics import roc_auc_score, average_precision_score, f1_score, accuracy_score, classification_report 
+
+from scipy import stats
 
 import pickle
 
@@ -27,7 +27,7 @@ all_categories = ['lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'cl
 for brand in all_categories:
     plt.close('all') 
     # Import cleaned dataset
-    df = pd.read_csv("Data/" + brand + "_clean.csv")
+    df = pd.read_csv("../Data/" + brand + "_clean.csv")
 
     def add_features(df):
         
@@ -195,60 +195,65 @@ for brand in all_categories:
     rmse = np.sqrt(mean_squared_error(y_test, yhat))
     print('Linear regression with mutual information features, RMSE: %.3f' % rmse)
     
+    #%% Classification Modeling
     
-    ##%% Tune the Number of Selected Features
-    ## define the evaluation method
-    #cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
-    #
-    ## define the pipeline to evaluate
-    #model = LinearRegression()
-    #fs = SelectKBest(score_func=mutual_info_regression)
-    #pipeline = Pipeline(steps=[('sel',fs), ('lr', model)])
-    #
-    ## define the grid
-    #grid = dict()
-    #grid['sel__k'] = [i for i in range(X.shape[1]-20, X.shape[1]+1)]
-    #
-    ## define the grid search
-    #search = GridSearchCV(pipeline, grid, scoring='average_precision', n_jobs=-1, cv=cv)
-    ## perform the search
-    #results = search.fit(X_train, y_train)
-    #
-    ## summarize best
-    #print('Best MAE: %.3f' % results.best_score_)
-    #print('Best Config: %s' % results.best_params_)
-    ## summarize all
-    #means = results.cv_results_['mean_test_score']
-    #params = results.cv_results_['params']
-    #for mean, param in zip(means, params):
-    #    print(">%.3f with: %r" % (mean, param))
-    #    
-    ## define number of features to evaluate
-    #num_features = [i for i in range(X.shape[1]-19, X.shape[1]+1)]
-    ## enumerate each number of features
-    #results = list()
-    #for k in num_features:
-    #	# create pipeline
-    #	model = LinearRegression()
-    #	fs = SelectKBest(score_func=mutual_info_regression, k=k)
-    #	pipeline = Pipeline(steps=[('sel',fs), ('lr', model)])
-    #	# evaluate the model
-    #	cv = RepeatedKFold(n_splits=10, n_repeats=3, random_state=1)
-    #	scores = cross_val_score(pipeline, X, y, scoring='neg_mean_absolute_error', cv=cv, n_jobs=-1)
-    #	results.append(scores)
-    #	# summarize the results
-    #	print('>%d %.3f (%.3f)' % (k, mean(scores), std(scores)))
-    ## plot model performance for comparison
-    #pyplot.boxplot(results, labels=num_features, showmeans=True)
-    #pyplot.show()
-    
-    #%% Save data for classification
-    # split into train and test sets
-    _, _, y_train, y_test = train_test_split(X, Y, train_size = 0.7, random_state=42)
-    PIK = "Data/" + brand + "_Classification.dat"
-    
-    data = [X_train, X_test, y_train, y_test]
-    with open(PIK, "wb") as f:
-        pickle.dump(data, f)
+    RNG = 42
 
+    # Select extreme gradient boosting machine to do the hyperparameter tunning
+    gb =xgb.XGBClassifier(random_state=0)
+    gb_param = {'n_estimators': stats.randint(150, 1000),
+                  'learning_rate': stats.uniform(0.01, 0.6),
+                  'subsample': stats.uniform(0.3, 0.9),
+                  'max_depth': [3, 4, 5, 6, 7, 8, 9],
+                  'colsample_bytree': stats.uniform(0.5, 0.9),
+                  'min_child_weight': [1, 2, 3, 4]
+                 }
+    gs_GBC = RandomizedSearchCV(gb, 
+                             param_distributions = gb_param,
+                             cv = cv,  
+                             scoring = 'roc_auc', 
+                             error_score = 0, 
+                             verbose = 3, 
+                             n_jobs = -1)
+    grid_result=gs_GBC.fit(X_train,y_train)
+    # summarize results
+    print("Best: %f using %s" % (grid_result.best_score_, grid_result.best_params_))
+    means = grid_result.cv_results_['mean_test_score']
+    stds = grid_result.cv_results_['std_test_score']
+    params = grid_result.cv_results_['params']
+    gb_best_parameters = gs_GBC.best_params_
+    gb_best_accuracy = gs_GBC.best_score_
+    print("Best: %r" % gb_best_parameters)
+    
+    gb = GradientBoostingClassifier(random_state=0,n_estimators=gb_best_parameters['n_estimators'],
+                       learning_rate=gb_best_parameters['learning_rate'],
+                       max_depth=gb_best_parameters['max_depth'])
+    gb.fit(X_train, y_train)
+    y_score = gb.fit(X_train, y_train).decision_function(X_test)
+    
+    y_pred = gb.predict(X_test)
+        
+    #Print Precision, Recall and F1 scores
+    print(classification_report(y_test, y_pred))
+    
+    # Compute FPR, TPR, Precision by iterating classification thresholds
+    fpr, tpr, thresholds = roc_curve(y_test, y_score)
+    roc_auc = auc(fpr, tpr)
+    precision, recall, thresholds = precision_recall_curve(y_test, y_score)
+    
+    # Plot
+    plt.figure()
+    lw = 2
+    plt.plot(fpr, tpr, color='darkorange',
+             lw=lw, label='XGBoost ROC curve (area = %0.2f)' % roc_auc)
+    plt.plot(fpr_baseline, tpr_baseline, color='darkblue',
+             lw=lw, label='Baseline ROC curve (area = %0.2f)' % roc_auc_score(y_test, y_test_probas[:, 1]))
+    plt.plot([0, 1], [0, 1], 'k--', lw=lw)
+    plt.xlim([0.0, 1.0])
+    plt.ylim([0.0, 1.05])
+    plt.xlabel('False Positive Rate')
+    plt.ylabel('True Positive Rate')
+    plt.title('Receiver operating characteristic')
+    plt.legend(loc="lower right")
+    plt.show()
     
