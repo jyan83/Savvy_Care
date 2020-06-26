@@ -45,10 +45,10 @@ for brand in all_categories:
     plt.close('all') 
     # Import cleaned dataset
     df = pd.read_csv("Data/" + brand + "_clean.csv")
-    #
-    ## Add missing date to dataframe
-    #idx = pd.date_range(df['Posted_date'].min(), df['Posted_date'].max())
-    #df = df.set_index('Posted_date').reindex(idx).fillna(0.0).rename_axis('Posted_date').reset_index()    
+    
+    # Add missing date to dataframe
+    idx = pd.date_range(df['Posted_date'].min(), df['Posted_date'].max())
+    df = df.set_index('Posted_date').reindex(idx).fillna(0.0).rename_axis('Posted_date').reset_index()    
     
     def add_features(df):
             
