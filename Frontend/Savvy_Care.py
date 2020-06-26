@@ -1,20 +1,10 @@
-from flask import Flask, render_template, request, jsonify
 import numpy as np
 import datetime
 import pandas as pd
 import streamlit as st
-from typing import List, Optional
 
-import pandas as pd
-import streamlit as st
-import numpy as np
-import pandas as pd
-import seaborn as sns
 from matplotlib import pyplot as plt
 import pickle
-from datetime import datetime, timedelta
-from PIL import Image
-import random
 
 global brands_dict, brands_name_dict
 brands_dict = ['', 'lancome', 'estee-lauder', 'la-mer', 'clinique', 'kiehls', 'clarins', 
