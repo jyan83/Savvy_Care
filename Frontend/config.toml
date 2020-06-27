@@ -1,0 +1,5 @@
+[server]
+headless = true
+
+[browser]
+serverAddress = “https://yanjin.space/applets/Savvy_Care/”
