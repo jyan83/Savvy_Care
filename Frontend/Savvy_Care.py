@@ -56,7 +56,7 @@ def discount(brand=None, p_days=30):
    
     if Y_pred.any() != 0.0:
         plt.figure(num=None, figsize=(6, 4), dpi=80, facecolor='w', edgecolor='k')
-        plt.bar(np.arange(len(Y_pred[:p_days]))+1, Y_pred[:p_days], color='k', label="% OFF")
+        plt.bar(np.arange(len(Y_pred[:p_days]))+1, Y_pred[:p_days]*100, color='k', label="% OFF")
     #    plt.bar(np.arange(len(Y_pred_c))+1, Y_pred_c, color='orangered', label="GWP", width=0.25)
         plt.xlim(0.01, p_days)
         plt.ylim(0.01, 1)

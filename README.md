@@ -1,6 +1,9 @@
 # Savvy Care
 This is a 3 weeks Insight Data Science Project.
 
+..* [Website](http://54.71.21.143:8501/)
+..* [Slides](https://docs.google.com/presentation/d/1_L-biV61phWIYEAmGHKrFOphEgSnvbBD6metNbkgmO0/edit?usp=sharing)
+
 ## Table of Contents
 
 - [Project Description](#Description)
@@ -114,7 +117,7 @@ _Regression using RMSE:_
 - Naive forecast: _**0.0012**_
 
 _Classification using area under ROC curve:_
-- XGboost with hyperparameter tuning: _**0.73**_
+- Random Forest with hyperparameter tuning: _**0.72**_
 - Logistic regression: _**0.65**_
 
 ### Interesting observations
